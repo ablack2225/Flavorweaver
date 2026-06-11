@@ -2,23 +2,25 @@
 
 Family Recipes is the heritage and memory archive inside Flavorweaver.
 
-This section preserves recipes from Amy and Don's family kitchens, including recipes from Amy's mother, sister, daughter, and other family cooks.
+This section preserves recipes from family cooks outside the main Amy & Don recipe system. These recipes are organized by family source, memory, inheritance, and shared kitchen history.
 
-These recipes are not organized primarily by cuisine or experimentation. They are organized by family source, memory, inheritance, and shared kitchen history.
+Amy and Don's active recipes belong in the main `recipes/` folder, organized by culture, flavor identity, and kitchen exploration.
 
 ## Guiding Principle
 
 Preserve the original first.
 
-Amyfied versions, adaptations, substitutions, and modernized versions should be documented separately so the inherited recipe is not overwritten.
+Adapted, modernized, or Amyfied versions should be documented separately so the inherited recipe is not overwritten.
 
-## Initial Collections
+## Current Collections
 
-- `from-the-kitchen-of-sue-wallesch/` — Recipes and notes from Sue Wallesch's family cookbook collection.
-- `amy/` — Amy's family recipes, originals, and signature kitchen contributions.
-- `don/` — Don's recipes, favorites, and family kitchen contributions.
-- `sisters/` — Recipes from Amy's sister and sister-connected family kitchens.
-- `daughters/` — Recipes from Amy's daughter and daughter-connected kitchen memories.
+- `goga/` — Recipes and notes from Goga's family cookbook collection, including *From the Kitchen of Sue Wallesch*.
+- `stacie/` — Recipes from Stacie's kitchen and family food contributions.
+- `heather/` — Recipes from Heather's kitchen and family food contributions.
+
+## Future Expansion
+
+Additional family recipe collections can be added later as others earn their culinary badge.
 
 ## Downstream Goal
 

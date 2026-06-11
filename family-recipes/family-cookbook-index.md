@@ -1,11 +1,20 @@
-# Family Cookbook Index
+# Family Recipe Index
 
-This index tracks family recipe collections and their build-out status inside Flavorweaver.
+This index tracks family recipes as they are added to Flavorweaver.
 
-| Collection | Source | Status | Notes |
-|---|---|---|---|
-| From the Kitchen of Sue Wallesch | Sue Wallesch | Planned | Family cookbook collection to transcribe and preserve. |
-| Amy | Amy | Planned | Amy's family recipes and signature kitchen contributions. |
-| Don | Don | Planned | Don's recipes, favorites, and food memories. |
-| Sisters | Sister-connected family kitchens | Planned | Recipes from Amy's sister and related family kitchens. |
-| Daughters | Daughter-connected family kitchens | Planned | Recipes from Amy's daughter and future family contributions. |
+Family recipes are organized by recipe type under `family-recipes/recipes/`.
+
+The family source, creator, contributor, and original collection should be recorded inside each recipe file.
+
+| Recipe Title | Category | Creator / Source | Contributor | Status | File |
+|---|---|---|---|---|---|
+|  |  |  |  | Not started |  |
+
+## Known Family Sources
+
+- Goga
+- Sue Wallesch / *From the Kitchen of Sue Wallesch*
+- Stacie
+- Heather
+
+Additional family sources can be added as recipes are preserved.

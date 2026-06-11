@@ -1,0 +1,6 @@
+test_name: Flavorweaver YAML capability test
+status: created
+purpose: Confirm Echo can create and read YAML files in GitHub.
+notes:
+  - This is a temporary test file.
+  - It should be deleted after read/write verification.

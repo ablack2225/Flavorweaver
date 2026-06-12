@@ -5,17 +5,17 @@ status: Preserved
 family_source: Jimmie Hatton
 handwritten_by: Sue Wallesch
 prep_time: 10m
-bake_temperature: 400°F
-bake_time: not specified
-total_time: not specified
-servings: not specified
-measurement_status: partially documented
-estimate_status: prep time estimated; bake temperature, water-bath note, and stirring note from handwritten recipe; rice amount, bake time, and servings not specified on visible sticky note
+bake_time: 1h 30m
+total_time: 1h 40m
+servings: 8-10 servings
+measurement_status: documented with family-practice clarification
+estimate_status: prep time, total time, and servings estimated; visible handwritten ingredients preserved, rice amount and lower water-bath baking method clarified from comparable family-practice method
 
 tags:
   - family recipe
   - desserts
   - rice pudding
+  - baked rice pudding
   - pudding
   - milk
   - eggs
@@ -31,25 +31,25 @@ last_updated: 2026-06-12
 
 # Rice Pudding
 
-> A preserved family rice pudding recipe from Jimmie Hatton, written by Sue Wallesch on a sticky note.
+> A preserved family rice pudding recipe from Jimmie Hatton, written by Sue Wallesch on a sticky note, with missing method details clarified for baking in a water bath.
 
 ## Recipe Dashboard
 
-| Status | Bake Temperature | Servings |
+| Status | Total Time | Servings |
 |---|---:|---:|
-| Preserved | 400°F | Not specified |
+| Preserved | 1 hr 40 min | 8-10 servings |
 
 | Prep Time | Bake Time | Measurement Status |
 |---:|---:|---|
-| 10 min | Not specified | Partially documented |
+| 10 min | 1 hr 30 min | Documented with family-practice clarification |
 
 ## Ingredient List
 
 | Component | Ingredients |
 |---|---|
-| Custard Base | Scalded milk, eggs, sugar, butter, vanilla, cinnamon |
-| Fruit | Raisins |
-| Rice | Rice amount not shown on visible sticky note |
+| Custard Base | Milk, eggs, sugar, butter, vanilla, cinnamon, salt |
+| Rice and Fruit | Cooked rice, raisins |
+| Baking Method | Greased casserole dish set in a hot-water bath |
 
 ## Measured Ingredients
 
@@ -57,24 +57,31 @@ last_updated: 2026-06-12
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 3 cups | Milk | Scalded |
-| 3 | Eggs |  |
-| 1 cup | Sugar |  |
-| 3 Tbsp | Butter |  |
-| 2 tsp | Vanilla | Handwritten amount appears as 2 tsp |
-| 1 tsp | Cinnamon |  |
-| To taste | Raisins | Amount not specified |
-| Not specified | Rice | The visible sticky note does not show a rice amount |
+| 3 cups | Milk | Scalded, per sticky note |
+| 3 | Eggs | From sticky note |
+| 1 cup | Sugar | From sticky note |
+| 3 Tbsp | Butter | From sticky note |
+| 2 tsp | Vanilla | From sticky note |
+| 1 tsp | Cinnamon | From sticky note |
+| 1/2 tsp | Salt | Added as family-practice clarification |
+| 2 cups | Cooked rice | Added as family-practice clarification |
+| 1/2 cup | Raisins | Clarified amount; sticky note listed raisins without amount |
 
 ## Instructions
 
 | Step | Action |
 |---:|---|
-| 1 | Scald milk. |
-| 2 | Combine milk, eggs, sugar, butter, vanilla, cinnamon, raisins, and rice. |
-| 3 | Place baking pan in water to create a water bath. |
-| 4 | Bake at 400°F. |
-| 5 | Stir one time during cooking. |
+| 1 | Cook rice, if not already prepared. |
+| 2 | Preheat oven to 300°F for gentle water-bath baking. |
+| 3 | Grease an ovenproof casserole dish. |
+| 4 | Scald milk and let it cool slightly so it does not scramble the eggs. |
+| 5 | In a large bowl, beat eggs with sugar. |
+| 6 | Add milk, butter, vanilla, cinnamon, salt, cooked rice, and raisins. Stir until combined. |
+| 7 | Pour rice mixture into the prepared casserole dish. |
+| 8 | Set the casserole dish in a water bath, using a larger baking pan filled with hot water. |
+| 9 | Bake for 1 hour 30 minutes. |
+| 10 | After about 30 minutes of baking, stir once from the bottom to distribute the rice and raisins. |
+| 11 | Continue baking until the custard is set. |
 
 <!-- recipe-card:end -->
 
@@ -84,6 +91,6 @@ This recipe belongs to Jimmie Hatton and was written by Sue Wallesch on a sticky
 
 The sticky note preserves the scalded milk note, water-bath baking method, 400°F oven temperature, and instruction to stir one time during cooking.
 
-The visible sticky note does not specify the rice amount, bake time, or serving yield. Those details are intentionally left open rather than guessed.
+Amy provided a clarified family-practice method to complete the missing rice amount, raisin amount, and baking time. The active recipe uses the gentler 300°F water-bath bake so the custard sets evenly.
 
-Prep time is estimated.
+Visible handwritten ingredient amounts from the sticky note were preserved where possible. Salt, cooked rice amount, raisin amount, bake time, and serving yield were clarified for usability.

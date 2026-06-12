@@ -1,33 +1,33 @@
 [
   {
     "title": "Bold Bulgogi Bowls",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/recipes/korean/bold-bulgogi-bowls.md",
+    "path": "recipes/korean/bold-bulgogi-bowls.html",
     "sourcePath": "recipes/korean/bold-bulgogi-bowls.md",
     "cuisine": "Korean Inspired",
     "category": "Main Dish",
     "status": "Hall of Fame Candidate",
     "ingredients": ["ground beef", "gochujang", "soy sauce", "dark soy sauce", "brown sugar", "honey", "sesame oil", "canned pear", "ginger", "garlic", "rice vinegar", "basmati rice", "napa cabbage", "carrots", "cucumber", "sour cream", "lime"],
-    "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "ginger", "garlic", "pickled cucumbers", "sauce-driven", "weeknight favorite", "multi-component", "top 10 meal"]
+    "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "ginger", "garlic", "pickled cucumbers", "sauce-driven", "weeknight favorite", "multi-component", "top 10 meal", "html page"]
   },
   {
     "title": "Gochujang Crema",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/gochujang-crema.md",
+    "path": "recipes/condiments/gochujang-crema.html",
     "sourcePath": "condiments/gochujang-crema.md",
     "cuisine": "Korean Inspired",
     "category": "Condiment",
     "status": "House Staple",
     "ingredients": ["sour cream", "gochujang", "lime juice", "sugar", "water", "rice vinegar", "honey", "garlic powder", "sesame oil"],
-    "tags": ["condiment", "sauce", "gochujang", "crema", "rice bowls", "korean-inspired", "house staple", "creamy", "tangy", "spicy", "drizzle sauce"]
+    "tags": ["condiment", "sauce", "gochujang", "crema", "rice bowls", "korean-inspired", "house staple", "creamy", "tangy", "spicy", "drizzle sauce", "html page"]
   },
   {
     "title": "Asian Pickled Garden Vegetables",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/asian-pickled-garden-vegetables.md",
+    "path": "recipes/condiments/asian-pickled-garden-vegetables.html",
     "sourcePath": "condiments/asian-pickled-garden-vegetables.md",
     "cuisine": "Asian Inspired",
     "category": "Condiment",
     "status": "Working Recipe",
     "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "kosher salt", "water", "red pepper flakes", "sesame oil", "sesame seeds"],
-    "tags": ["asian-inspired", "quick pickles", "refrigerator pickles", "garden vegetables", "zucchini", "yellow squash", "cucumber alternative", "rice vinegar", "fresh", "acidic", "crunchy"]
+    "tags": ["asian-inspired", "quick pickles", "refrigerator pickles", "garden vegetables", "zucchini", "yellow squash", "cucumber alternative", "rice vinegar", "fresh", "acidic", "crunchy", "html page"]
   },
   {
     "title": "Restaurant-Style Ginger Nuoc Cham",
@@ -41,13 +41,13 @@
   },
   {
     "title": "Lemongrass Chicken Bowls",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
+    "path": "recipes/vietnamese/lemongrass-chicken-bowls.html",
     "sourcePath": "recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
     "cuisine": "Vietnamese Inspired",
     "category": "Main Dish",
     "status": "Working Recipe",
     "ingredients": ["chicken thighs", "ginger nuoc cham", "lemongrass paste", "garlic", "neutral oil", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "cashews"],
-    "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "ginger nuoc cham", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "sauce-driven", "multi-component"]
+    "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "ginger nuoc cham", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "sauce-driven", "multi-component", "html page"]
   },
   {
     "title": "Peanut Sauce",
@@ -61,13 +61,13 @@
   },
   {
     "title": "Apple Pie",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/pies/apple-pie.md",
+    "path": "recipes/family/pies/apple-pie.html",
     "sourcePath": "family-recipes/recipes/pies/apple-pie.md",
     "cuisine": "Family Cookbook",
     "category": "Pie",
     "status": "Family Recipe",
     "ingredients": ["apples", "sugar", "flour", "cinnamon", "butter", "pie crust"],
-    "tags": ["family recipe", "pie", "apple", "dessert", "family cookbook"]
+    "tags": ["family recipe", "pie", "apple", "dessert", "family cookbook", "html page"]
   },
   {
     "title": "Cornbread",

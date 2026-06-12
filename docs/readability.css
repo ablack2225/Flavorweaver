@@ -69,12 +69,43 @@ body::after {
 }
 
 .inline-filter:hover,
-.tag:hover {
-  text-decoration: underline;
+.tag:hover,
+.tag:focus,
+.tag:active {
+  text-decoration: none;
+}
+
+.tag:hover,
+.tag:focus {
+  filter: brightness(1.12);
+  transform: translateY(-1px);
 }
 
 .result-card .tag {
   display: inline-flex;
+  text-decoration: none;
+}
+
+.home-layout > section:not(.hero-card) .section-heading {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.home-layout > section:not(.hero-card) .section-heading p {
+  max-width: 780px;
+}
+
+.home-layout > section:not(.hero-card) > .tag-row {
+  margin: 0;
+  gap: 10px;
+}
+
+.home-layout > section:not(.hero-card) > .tag-row .tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
   text-decoration: none;
 }
 

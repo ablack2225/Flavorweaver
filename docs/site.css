@@ -3,8 +3,10 @@
   top: 0;
   z-index: 20;
   margin: 0 calc(50% - 50vw);
-  background: rgba(5, 11, 18, 0.88);
+  background:
+    linear-gradient(90deg, rgba(5, 11, 18, 0.9), rgba(18, 18, 26, 0.9), rgba(5, 11, 18, 0.9));
   border-bottom: 1px solid rgba(255, 196, 93, 0.2);
+  box-shadow: 0 10px 32px rgba(0, 0, 0, 0.22);
   backdrop-filter: blur(14px);
 }
 
@@ -14,8 +16,12 @@
   min-height: 64px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 20px;
+}
+
+.nav-spacer {
+  display: none;
 }
 
 .brand-mark {
@@ -37,6 +43,7 @@
 .nav-links {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 10px;
 }
 
@@ -44,19 +51,61 @@
   color: var(--muted);
   text-decoration: none;
   font-weight: 800;
-  padding: 8px 10px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 196, 93, 0.08);
   border-radius: 999px;
+  background: rgba(255, 241, 220, 0.025);
 }
 
 .nav-links a:hover,
 .nav-links a[aria-current="page"] {
   color: var(--bottle-blue);
   background: var(--bottle-glow);
+  border-color: rgba(76, 204, 232, 0.28);
+  box-shadow: 0 0 18px rgba(76, 204, 232, 0.08);
 }
 
 .home-layout {
   display: grid;
   gap: 28px;
+}
+
+.hero-card--home {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-card--home::before {
+  content: "";
+  position: absolute;
+  inset: 18px;
+  pointer-events: none;
+  border: 1px solid rgba(255, 196, 93, 0.22);
+  border-radius: calc(var(--radius) - 6px);
+  box-shadow: inset 0 0 34px rgba(76, 204, 232, 0.08);
+}
+
+.hero-card--home::after {
+  content: "✦";
+  position: absolute;
+  right: clamp(22px, 5vw, 58px);
+  top: clamp(18px, 4vw, 44px);
+  color: rgba(255, 196, 93, 0.52);
+  font-size: clamp(1.6rem, 5vw, 3.8rem);
+  text-shadow: 0 0 24px rgba(255, 196, 93, 0.24);
+}
+
+.hero-flourish {
+  width: fit-content;
+  margin: 22px 0 0;
+  padding: 10px 14px;
+  border: 1px solid rgba(76, 204, 232, 0.22);
+  border-radius: 999px;
+  color: #fff7ea;
+  background: rgba(76, 204, 232, 0.08);
+  box-shadow: var(--glow-bottle);
+  font-weight: 800;
+  letter-spacing: 0.01em;
 }
 
 .section-heading {
@@ -278,8 +327,15 @@
 
 @media (max-width: 720px) {
   .site-nav {
-    align-items: flex-start;
-    flex-direction: column;
     padding: 12px 0;
+  }
+
+  .hero-card--home::before,
+  .hero-card--home::after {
+    display: none;
+  }
+
+  .hero-flourish {
+    border-radius: 16px;
   }
 }

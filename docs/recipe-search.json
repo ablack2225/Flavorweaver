@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Bold Bulgogi Bowls",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/recipes/korean/bold-bulgogi-bowls.md",
+    "sourcePath": "recipes/korean/bold-bulgogi-bowls.md",
+    "cuisine": "Korean Inspired",
+    "category": "Main Dish",
+    "status": "Hall of Fame Candidate",
+    "ingredients": ["ground beef", "gochujang", "soy sauce", "dark soy sauce", "brown sugar", "honey", "sesame oil", "canned pear", "ginger", "garlic", "rice vinegar", "basmati rice", "napa cabbage", "carrots", "cucumber", "sour cream", "lime"],
+    "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "ginger", "garlic", "pickled cucumbers", "sauce-driven", "weeknight favorite", "multi-component", "top 10 meal"]
+  },
+  {
+    "title": "Gochujang Crema",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/gochujang-crema.md",
+    "sourcePath": "condiments/gochujang-crema.md",
+    "cuisine": "Korean Inspired",
+    "category": "Condiment",
+    "status": "House Staple",
+    "ingredients": ["sour cream", "gochujang", "lime juice", "sugar", "water", "rice vinegar", "honey", "garlic powder", "sesame oil"],
+    "tags": ["condiment", "sauce", "gochujang", "crema", "rice bowls", "korean-inspired", "house staple", "creamy", "tangy", "spicy", "drizzle sauce"]
+  },
+  {
+    "title": "Asian Pickled Garden Vegetables",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/asian-pickled-garden-vegetables.md",
+    "sourcePath": "condiments/asian-pickled-garden-vegetables.md",
+    "cuisine": "Asian Inspired",
+    "category": "Condiment",
+    "status": "Working Recipe",
+    "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "kosher salt", "water", "red pepper flakes", "sesame oil", "sesame seeds"],
+    "tags": ["asian-inspired", "quick pickles", "refrigerator pickles", "garden vegetables", "zucchini", "yellow squash", "cucumber alternative", "rice vinegar", "fresh", "acidic", "crunchy"]
+  },
+  {
+    "title": "Restaurant-Style Ginger Nuoc Cham",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/ginger-nuoc-cham.md",
+    "sourcePath": "condiments/ginger-nuoc-cham.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Condiment",
+    "status": "Working Recipe",
+    "ingredients": ["water", "sugar", "ginger paste", "garlic", "lemongrass paste", "fish sauce", "lime juice", "serrano"],
+    "tags": ["vietnamese-inspired", "dipping sauce", "fish sauce", "ginger", "lime", "bright", "sweet-salty", "sauce"]
+  },
+  {
+    "title": "Lemongrass Chicken Bowls",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
+    "sourcePath": "recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Main Dish",
+    "status": "Working Recipe",
+    "ingredients": ["chicken thighs", "ginger nuoc cham", "lemongrass paste", "garlic", "neutral oil", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "cashews"],
+    "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "ginger nuoc cham", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "sauce-driven", "multi-component"]
+  },
+  {
+    "title": "Peanut Sauce",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/peanut-sauce.md",
+    "sourcePath": "condiments/peanut-sauce.md",
+    "cuisine": "Asian Inspired",
+    "category": "Condiment",
+    "status": "Working Recipe",
+    "ingredients": ["peanut butter", "soy sauce", "lime", "garlic", "ginger", "sugar", "water"],
+    "tags": ["peanut sauce", "dipping sauce", "condiment", "sauce", "rice bowls", "spring rolls"]
+  },
+  {
+    "title": "Apple Pie",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/pies/apple-pie.md",
+    "sourcePath": "family-recipes/recipes/pies/apple-pie.md",
+    "cuisine": "Family Cookbook",
+    "category": "Pie",
+    "status": "Family Recipe",
+    "ingredients": ["apples", "sugar", "flour", "cinnamon", "butter", "pie crust"],
+    "tags": ["family recipe", "pie", "apple", "dessert", "family cookbook"]
+  },
+  {
+    "title": "Cornbread",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/breads/cornbread.md",
+    "sourcePath": "family-recipes/recipes/breads/cornbread.md",
+    "cuisine": "Family Cookbook",
+    "category": "Bread",
+    "status": "Family Recipe",
+    "ingredients": ["cornmeal", "flour", "milk", "egg", "shortening"],
+    "tags": ["family recipe", "bread", "cornbread", "family cookbook"]
+  },
+  {
+    "title": "Homemade Vanilla Ice Cream",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/desserts/homemade-vanilla-ice-cream.md",
+    "sourcePath": "family-recipes/recipes/desserts/homemade-vanilla-ice-cream.md",
+    "cuisine": "Family Cookbook",
+    "category": "Dessert",
+    "status": "Family Recipe",
+    "ingredients": ["milk", "cream", "sugar", "vanilla", "eggs"],
+    "tags": ["family recipe", "dessert", "ice cream", "vanilla", "family cookbook"]
+  },
+  {
+    "title": "Pecan Pie",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/pies/pecan-pie.md",
+    "sourcePath": "family-recipes/recipes/pies/pecan-pie.md",
+    "cuisine": "Family Cookbook",
+    "category": "Pie",
+    "status": "Family Recipe",
+    "ingredients": ["pecans", "sugar", "eggs", "butter", "corn syrup", "pie crust"],
+    "tags": ["family recipe", "pie", "pecan", "dessert", "family cookbook"]
+  },
+  {
+    "title": "Taco Mac and Cheese",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/main-dishes/taco-mac-and-cheese.md",
+    "sourcePath": "family-recipes/recipes/main-dishes/taco-mac-and-cheese.md",
+    "cuisine": "Family Cookbook",
+    "category": "Main Dish",
+    "status": "Family Recipe",
+    "ingredients": ["ground beef", "macaroni", "cheese", "taco seasoning"],
+    "tags": ["family recipe", "main dish", "taco", "mac and cheese", "family cookbook"]
+  },
+  {
+    "title": "Pickled Beets",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/sides/pickled-beets.md",
+    "sourcePath": "family-recipes/recipes/sides/pickled-beets.md",
+    "cuisine": "Family Cookbook",
+    "category": "Side",
+    "status": "Family Recipe",
+    "ingredients": ["beets", "vinegar", "sugar", "spices"],
+    "tags": ["family recipe", "side", "pickled", "beets", "family cookbook"]
+  },
+  {
+    "title": "Mop for Barbecue",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/gravies-and-sauces/mop-for-barbecue.md",
+    "sourcePath": "family-recipes/recipes/gravies-and-sauces/mop-for-barbecue.md",
+    "cuisine": "Family Cookbook",
+    "category": "Gravy or Sauce",
+    "status": "Family Recipe",
+    "ingredients": ["barbecue sauce", "vinegar", "seasoning"],
+    "tags": ["family recipe", "barbecue", "sauce", "mop", "family cookbook"]
+  },
+  {
+    "title": "10 Minute Spaghetti Sauce",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/main-dishes/10-minute-spaghetti-sauce.md",
+    "sourcePath": "family-recipes/recipes/main-dishes/10-minute-spaghetti-sauce.md",
+    "cuisine": "Family Cookbook",
+    "category": "Main Dish",
+    "status": "Family Recipe",
+    "ingredients": ["tomato sauce", "spaghetti", "Italian seasoning", "garlic"],
+    "tags": ["family recipe", "main dish", "spaghetti", "sauce", "family cookbook"]
+  },
+  {
+    "title": "Hushpuppies",
+    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/breads/hushpuppies.md",
+    "sourcePath": "family-recipes/recipes/breads/hushpuppies.md",
+    "cuisine": "Family Cookbook",
+    "category": "Bread",
+    "status": "Family Recipe",
+    "ingredients": ["cornmeal", "flour", "onion", "egg", "milk"],
+    "tags": ["family recipe", "bread", "hushpuppies", "fried", "family cookbook"]
+  }
+]

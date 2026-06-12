@@ -51,14 +51,14 @@
 
 .flavor-sigil--spiral {
   position: relative;
-  width: clamp(170px, 24vw, 260px);
+  width: clamp(180px, 25vw, 270px);
   aspect-ratio: 1;
   justify-self: end;
   border-radius: 50%;
   background:
-    radial-gradient(circle at center, rgba(76, 204, 232, 0.2), transparent 38%),
-    radial-gradient(circle at 58% 42%, rgba(255, 196, 93, 0.13), transparent 42%);
-  filter: drop-shadow(0 0 28px rgba(76, 204, 232, 0.2));
+    radial-gradient(circle at center, rgba(126, 230, 255, 0.26), transparent 40%),
+    radial-gradient(circle at 58% 42%, rgba(255, 216, 138, 0.22), transparent 46%);
+  filter: drop-shadow(0 0 30px rgba(76, 204, 232, 0.34));
   animation: flavorweaver-sigil-breathe 8s ease-in-out infinite;
 }
 
@@ -70,48 +70,53 @@
 }
 
 .spiral-ring {
-  border: 2px solid transparent;
-  border-top-color: rgba(126, 230, 255, 0.88);
-  border-right-color: rgba(126, 230, 255, 0.52);
-  border-bottom-color: rgba(255, 196, 93, 0.28);
+  border: 3px solid transparent;
+  border-top-color: rgba(180, 243, 255, 0.98);
+  border-right-color: rgba(126, 230, 255, 0.78);
+  border-bottom-color: rgba(255, 220, 150, 0.62);
+  border-left-color: rgba(76, 204, 232, 0.24);
   border-radius: 50%;
-  box-shadow: 0 0 18px rgba(76, 204, 232, 0.2);
+  box-shadow:
+    0 0 18px rgba(76, 204, 232, 0.38),
+    inset 0 0 12px rgba(126, 230, 255, 0.18);
 }
 
 .spiral-ring--outer {
-  inset: 14%;
+  inset: 12%;
   transform: rotate(24deg);
 }
 
 .spiral-ring--middle {
-  inset: 28%;
+  inset: 27%;
   transform: rotate(112deg);
-  opacity: 0.82;
+  opacity: 0.94;
 }
 
 .spiral-ring--inner {
   inset: 41%;
   transform: rotate(206deg);
-  opacity: 0.72;
+  opacity: 0.9;
 }
 
 .spiral-core {
-  inset: 46%;
+  inset: 45%;
   border-radius: 50%;
-  background: #b4f3ff;
+  background: #d8fbff;
   box-shadow:
-    0 0 20px rgba(76, 204, 232, 0.8),
-    0 0 38px rgba(255, 196, 93, 0.2);
+    0 0 22px rgba(126, 230, 255, 0.95),
+    0 0 42px rgba(76, 204, 232, 0.48),
+    0 0 26px rgba(255, 216, 138, 0.3);
 }
 
 .spiral-spark {
-  right: 20%;
-  top: 18%;
-  color: #ffd98a;
-  font-size: clamp(1.2rem, 3vw, 2rem);
+  right: 18%;
+  top: 15%;
+  color: #ffe39a;
+  font-size: clamp(1.5rem, 3.4vw, 2.35rem);
   text-shadow:
-    0 0 14px rgba(255, 196, 93, 0.5),
-    0 0 18px rgba(76, 204, 232, 0.18);
+    0 0 10px rgba(255, 227, 154, 0.88),
+    0 0 24px rgba(255, 196, 93, 0.54),
+    0 0 18px rgba(76, 204, 232, 0.28);
   animation: flavorweaver-spark-breathe 7.5s ease-in-out infinite;
 }
 
@@ -152,21 +157,23 @@
 
 @keyframes flavorweaver-sigil-breathe {
   0%, 100% {
-    opacity: 0.72;
-    transform: scale(0.985) rotate(-2deg);
-    filter: drop-shadow(0 0 18px rgba(76, 204, 232, 0.18));
+    opacity: 0.88;
+    transform: scale(0.99) rotate(-2deg);
+    filter: drop-shadow(0 0 24px rgba(76, 204, 232, 0.28));
   }
 
   50% {
     opacity: 1;
-    transform: scale(1.015) rotate(2deg);
-    filter: drop-shadow(0 0 34px rgba(76, 204, 232, 0.34));
+    transform: scale(1.018) rotate(2deg);
+    filter:
+      drop-shadow(0 0 36px rgba(76, 204, 232, 0.52))
+      drop-shadow(0 0 20px rgba(255, 216, 138, 0.2));
   }
 }
 
 @keyframes flavorweaver-spark-breathe {
-  0%, 100% { opacity: 0.62; transform: scale(0.94); }
-  50% { opacity: 1; transform: scale(1.08); }
+  0%, 100% { opacity: 0.78; transform: scale(0.96); }
+  50% { opacity: 1; transform: scale(1.12); }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -186,6 +193,6 @@
 
   .flavor-sigil--spiral {
     justify-self: start;
-    width: min(180px, 54vw);
+    width: min(190px, 56vw);
   }
 }

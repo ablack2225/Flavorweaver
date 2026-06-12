@@ -121,12 +121,12 @@
 .spiral-spark {
   right: 13%;
   top: 11%;
-  color: #fff1dc;
-  font-size: clamp(1.35rem, 3.1vw, 2.05rem);
+  color: var(--candle);
+  font-size: clamp(1.15rem, 2.7vw, 1.75rem);
   text-shadow:
-    0 0 12px rgba(255, 241, 220, 0.55),
+    0 0 12px rgba(255, 196, 93, 0.55),
     0 0 18px rgba(255, 196, 93, 0.34),
-    0 0 18px rgba(76, 204, 232, 0.22);
+    0 0 16px rgba(76, 204, 232, 0.18);
   animation: flavorweaver-star-breathe 7.5s ease-in-out infinite;
 }
 
@@ -181,8 +181,8 @@
 }
 
 @keyframes flavorweaver-star-breathe {
-  0%, 100% { opacity: 0.74; transform: scale(0.96) rotate(-2deg); }
-  50% { opacity: 1; transform: scale(1.1) rotate(2deg); }
+  0%, 100% { opacity: 0.78; transform: scale(0.96) rotate(-4deg); }
+  50% { opacity: 1; transform: scale(1.08) rotate(4deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {

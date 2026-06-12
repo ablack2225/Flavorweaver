@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flavorweaver Recipe Search</title>
-  <link rel="stylesheet" href="styles.css" />
-  <link rel="stylesheet" href="site.css" />
+  <link rel="stylesheet" href="styles.css?v=20260612-02" />
+  <link rel="stylesheet" href="site.css?v=20260612-02" />
 </head>
 <body>
   <header class="site-topbar">
@@ -93,6 +93,9 @@
       resultsEl.innerHTML = items.map((recipe) => {
         const tags = (recipe.tags || []).map((tag) => `<span class="tag">${tag}</span>`).join('');
         const ingredients = (recipe.ingredients || []).slice(0, 8).join(', ');
+        const isHtmlPage = !String(recipe.path || '').startsWith('http');
+        const actionLabel = isHtmlPage ? 'Open recipe' : 'Open source Markdown';
+        const targetAttrs = isHtmlPage ? '' : ' target="_blank" rel="noopener noreferrer"';
         return `
           <article class="result-card">
             <h3>${recipe.title}</h3>
@@ -104,7 +107,7 @@
             </div>
             ${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}
             <div class="tag-row">${tags}</div>
-            <a class="result-link" href="${recipe.path}">Open recipe</a>
+            <a class="result-link" href="${recipe.path}"${targetAttrs}>${actionLabel}</a>
           </article>
         `;
       }).join('');
@@ -129,7 +132,7 @@
 
     searchInput.addEventListener('input', runSearch);
 
-    fetch('recipe-search.json')
+    fetch('recipe-search.json?v=20260612-02', { cache: 'no-store' })
       .then((response) => {
         if (!response.ok) throw new Error('Unable to load recipe-search.json');
         return response.json();

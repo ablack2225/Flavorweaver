@@ -1,3 +1,11 @@
+body {
+  background:
+    radial-gradient(circle at 18% 13%, rgba(255, 196, 93, 0.12), transparent 12rem),
+    radial-gradient(circle at 86% 12%, rgba(76, 204, 232, 0.14), transparent 24rem),
+    radial-gradient(circle at 20% 7%, rgba(159, 127, 232, 0.11), transparent 26rem),
+    linear-gradient(180deg, #081827 0%, #0a1018 45%, #07090d 100%);
+}
+
 .site-topbar {
   background: rgba(8, 24, 39, 0.72);
   border-bottom-color: rgba(76, 204, 232, 0.12);

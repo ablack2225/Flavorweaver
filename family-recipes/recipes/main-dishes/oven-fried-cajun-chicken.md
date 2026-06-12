@@ -8,7 +8,7 @@ second_bake_time: 35-45m
 total_time: 1h 20m-1h 30m
 servings: 6 servings
 measurement_status: documented
-estimate_status: prep time and total time estimated; bake times and servings from recipe clipping; nutrition panel preserved from clipping
+estimate_status: prep time and total time estimated; bake times and servings from recipe clipping
 
 tags:
   - family recipe
@@ -82,18 +82,6 @@ last_updated: 2026-06-12
 
 <!-- recipe-card:end -->
 
-## Nutrition From Clipping
-
-| Per Serving | Amount |
-|---|---:|
-| Calories | 352 |
-| Fat | 24 g |
-| Saturated Fat | 6 g |
-| Cholesterol | 110 mg |
-| Sodium | 160 mg |
-| Carbohydrates | 1 g |
-| Fiber | 0 g |
-
 ## Notes
 
 This recipe was preserved from a recipe clipping found in Sue's recipe collection.
@@ -102,4 +90,4 @@ No author credit is listed because no family attribution was provided for this c
 
 Original note: final baking time depends upon the weight of the chicken.
 
-Servings, bake times, and nutrition information are from the clipping. Prep time and total time are estimated.
+Servings and bake times are from the clipping. Prep time and total time are estimated.

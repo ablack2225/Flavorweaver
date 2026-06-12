@@ -11,6 +11,14 @@ last_updated: 2026-06-12
 
 > Sue has passed, and her recipes live on with our family.
 
+## How This Cookbook Grew
+
+This family cookbook was first created in the year 2000 as a birthday gift to Sue Wallesch.
+
+In 2026, Amy chose to update and expand the cookbook in honor of Sue's memory after discovering a treasure trove of recipes Sue had saved over the years. Some were handwritten on sticky notes. Some were clipped from magazines, cut from boxes, or collected from church friends. Some still carried the marks of years in the kitchen, covered in old food stains and family use.
+
+Together, these recipes tell a larger story than the original cookbook could hold. They preserve not only what Sue cooked, but what she kept, shared, remembered, and hoped would continue in our family.
+
 ## A Collection of Recipes From the Kitchen of Sue Wallesch
 
 This cookbook was created from the kitchen, memory, and love of Sue Wallesch.

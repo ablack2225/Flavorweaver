@@ -72,6 +72,8 @@ This non-edible craft recipe was preserved from Sue's recipe collection.
 
 Amy noted that Sue used this baker's clay to make Christmas ornaments.
 
+Sue (Mom/Goga) would make Christmas ornaments from this dough while everyone sat around the bar together. The family had so much fun helping paint them, and many of those ornaments still survive more than 50 years later.
+
 This file is stored in `family-recipes/crafts/` rather than the edible recipe folders because it is a craft dough and is not edible.
 
 The original clipping identifies this as Basic Baker's Clay, also known as Bread Dough or Clay Dough, and clearly marks it as non-edible.

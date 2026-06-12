@@ -6,6 +6,14 @@ This section preserves recipes from family cooks, family cookbooks, holidays, ga
 
 Amy and Don's active recipes belong in the main `recipes/` folder, organized by culture, flavor identity, and kitchen exploration. Family recipes live here because they are organized by memory, source, and preservation.
 
+## Dedication and Legacy
+
+Start here:
+
+- [`dedication-and-legacy.md`](dedication-and-legacy.md)
+
+This archive honors Jimmie Hatton, Sue Wallesch, and the family kitchens that shaped these recipes. Sue has passed, and her recipes live on with our family.
+
 ## Guiding Principle
 
 Preserve the original first.
@@ -33,10 +41,9 @@ The creator, family source, contributor, and original collection should be track
 - `homemade-pickles/`
 - `main-dishes/`
 - `pies/`
-- `salads/`
+- `salads-slaws-and-dips/`
 - `sides/`
 - `soups-and-stews/`
-- `vegetables/`
 - `miscellaneous/`
 
 ## Downstream Goal

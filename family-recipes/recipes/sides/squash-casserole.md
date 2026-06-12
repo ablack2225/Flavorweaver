@@ -9,8 +9,8 @@ cook_time: 10m
 bake_time: 30m
 total_time: 55m
 servings: 6-8 servings
-measurement_status: partially documented
-estimate_status: prep time, total time, and servings estimated; stovetop cook time and bake time from recipe text; squash count is preserved as written
+measurement_status: partially documented with family variation
+estimate_status: prep time, total time, and servings estimated; stovetop cook time and bake time from recipe text; squash count is preserved as written; family variation adds optional sugar increase and cracker crumbs
 
 tags:
   - family recipe
@@ -21,6 +21,7 @@ tags:
   - cream of mushroom soup
   - onion
   - margarine
+  - cracker crumbs
   - vegetables
   - Sue Wallesch
 
@@ -41,7 +42,7 @@ last_updated: 2026-06-12
 
 | Prep Time | Cook Time | Bake Time | Measurement Status |
 |---:|---:|---:|---|
-| 15 min | 10 min | 30 min | Partially documented |
+| 15 min | 10 min | 30 min | Partially documented with family variation |
 
 ## Ingredient List
 
@@ -49,6 +50,7 @@ last_updated: 2026-06-12
 |---|---|
 | Squash Base | Squash, margarine, sugar, salt, pepper, onion, cream of mushroom soup |
 | Topping | Grated cheddar cheese |
+| Family Variation | Increase sugar, add cracker crumbs |
 
 ## Measured Ingredients
 
@@ -58,11 +60,12 @@ last_updated: 2026-06-12
 |---:|---|---|
 | 7-8 | Squash | Cut in slices |
 | 1/4 cup | Margarine | Melted |
-| 1 Tbsp | Sugar |  |
+| 1 Tbsp | Sugar | Family variation may increase to 1/8 cup |
 | To taste | Salt and pepper |  |
 | 1 small | Onion | Chopped |
 | 1 cup | Cheddar cheese | Grated, for topping |
 | 1 can | Cream of mushroom soup |  |
+| 1 cup | Cracker crumbs | Optional family variation |
 
 ## Instructions
 
@@ -74,13 +77,16 @@ last_updated: 2026-06-12
 | 4 | Melt margarine. |
 | 5 | Add melted margarine to the squash along with sugar, salt, pepper, chopped onion, and cream of mushroom soup. |
 | 6 | Stir gently to blend the mixture. |
-| 7 | Pour into a large greased casserole dish. |
-| 8 | Top with grated cheddar cheese. |
-| 9 | Bake in a preheated 350°F oven for 30 minutes. |
+| 7 | For the family variation, increase sugar to 1/8 cup and add 1 cup cracker crumbs before baking. |
+| 8 | Pour into a large greased casserole dish. |
+| 9 | Top with grated cheddar cheese. |
+| 10 | Bake in a preheated 350°F oven for 30 minutes. |
 
 <!-- recipe-card:end -->
 
 ## Notes
+
+Family variation: increase sugar to 1/8 cup and add 1 cup cracker crumbs before baking.
 
 This recipe is filed under Sides while preserving the original printed category of Vegetables.
 

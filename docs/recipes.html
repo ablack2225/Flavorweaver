@@ -4,19 +4,16 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flavorweaver Recipe Search</title>
-  <link rel="stylesheet" href="styles.css?v=20260612-02" />
-  <link rel="stylesheet" href="site.css?v=20260612-02" />
+  <link rel="stylesheet" href="styles.css?v=20260612-03" />
+  <link rel="stylesheet" href="site.css?v=20260612-03" />
 </head>
 <body>
   <header class="site-topbar">
     <nav class="site-nav" aria-label="Flavorweaver navigation">
-      <a class="brand-mark" href="index.html">
-        Flavorweaver
-        <small>Amy & Don Kitchen Archive</small>
-      </a>
+      <a class="brand-mark" href="index.html">Flavorweaver<small>Amy & Don Kitchen Archive</small></a>
       <div class="nav-links">
         <a href="index.html">Home</a>
-        <a aria-current="page" href="recipes.html">Search</a>
+        <a aria-current="page" href="recipes.html?v=20260612-03">Search</a>
         <a href="index.html#featured">Featured</a>
         <a href="index.html#categories">Categories</a>
       </div>
@@ -26,125 +23,83 @@
   <main class="page-shell">
     <section class="hero-card">
       <p class="eyebrow">Recipe Archive</p>
-      <h1>Search Recipes</h1>
-      <p class="lead">
-        Search the starter Flavorweaver index by title, cuisine, category, status, ingredient,
-        tag, or source path. Converted samples now open as themed recipe pages.
-      </p>
+      <h1>Recipe Pages</h1>
+      <p class="lead">These converted sample recipes open as themed Flavorweaver HTML pages, not repository Markdown. Full dynamic search will be reconnected after the generator workflow is built.</p>
       <div class="button-row">
         <a class="button secondary" href="index.html">Back to home</a>
         <a class="button secondary" href="flavorweaver-site-architecture.md">Architecture note</a>
       </div>
     </section>
 
-    <section class="search-panel" aria-label="Recipe search controls">
-      <label class="search-label" for="recipe-search">Search recipes</label>
-      <input
-        class="search-input"
-        id="recipe-search"
-        type="search"
-        placeholder="Try gochujang, house staple, Korean, sauce, Bulgogi, Vietnamese, chicken..."
-        autocomplete="off"
-      />
-      <div class="quick-searches" aria-label="Quick searches">
-        <button type="button" data-search="gochujang">gochujang</button>
-        <button type="button" data-search="house staple">house staple</button>
-        <button type="button" data-search="sauce">sauce</button>
-        <button type="button" data-search="Korean">Korean</button>
-        <button type="button" data-search="Bulgogi">Bulgogi</button>
-        <button type="button" data-search="Vietnamese">Vietnamese</button>
-        <button type="button" data-search="chicken">chicken</button>
+    <section class="results-panel" aria-live="polite">
+      <div class="result-count">Showing converted HTML recipe pages.</div>
+      <div class="results-grid">
+        <article class="result-card">
+          <h3>Bold Bulgogi Bowls</h3>
+          <div class="meta">
+            <span><strong>Cuisine:</strong> Korean Inspired</span>
+            <span><strong>Category:</strong> Main Dish</span>
+            <span><strong>Status:</strong> Hall of Fame Candidate</span>
+            <span><strong>Source:</strong> recipes/korean/bold-bulgogi-bowls.md</span>
+          </div>
+          <p><strong>Key ingredients:</strong> ground beef, gochujang, soy sauce, rice vinegar, basmati rice, napa cabbage, sour cream, lime</p>
+          <div class="tag-row"><span class="tag">rice bowl</span><span class="tag">bulgogi</span><span class="tag">html page</span></div>
+          <a class="result-link" href="recipes/korean/bold-bulgogi-bowls.html">Open recipe</a>
+        </article>
+
+        <article class="result-card">
+          <h3>Gochujang Crema</h3>
+          <div class="meta">
+            <span><strong>Cuisine:</strong> Korean Inspired</span>
+            <span><strong>Category:</strong> Condiment</span>
+            <span><strong>Status:</strong> House Staple</span>
+            <span><strong>Source:</strong> condiments/gochujang-crema.md</span>
+          </div>
+          <p><strong>Key ingredients:</strong> sour cream, gochujang, lime juice, sugar, water</p>
+          <div class="tag-row"><span class="tag">sauce</span><span class="tag">house staple</span><span class="tag">html page</span></div>
+          <a class="result-link" href="recipes/condiments/gochujang-crema.html">Open recipe</a>
+        </article>
+
+        <article class="result-card">
+          <h3>Asian Pickled Garden Vegetables</h3>
+          <div class="meta">
+            <span><strong>Cuisine:</strong> Asian Inspired</span>
+            <span><strong>Category:</strong> Condiment</span>
+            <span><strong>Status:</strong> Working Recipe</span>
+            <span><strong>Source:</strong> condiments/asian-pickled-garden-vegetables.md</span>
+          </div>
+          <p><strong>Key ingredients:</strong> zucchini, yellow squash, carrot, green onions, rice vinegar, sugar, salt</p>
+          <div class="tag-row"><span class="tag">quick pickles</span><span class="tag">garden vegetables</span><span class="tag">html page</span></div>
+          <a class="result-link" href="recipes/condiments/asian-pickled-garden-vegetables.html">Open recipe</a>
+        </article>
+
+        <article class="result-card">
+          <h3>Lemongrass Chicken Bowls</h3>
+          <div class="meta">
+            <span><strong>Cuisine:</strong> Vietnamese Inspired</span>
+            <span><strong>Category:</strong> Main Dish</span>
+            <span><strong>Status:</strong> Working Recipe</span>
+            <span><strong>Source:</strong> recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md</span>
+          </div>
+          <p><strong>Key ingredients:</strong> chicken thighs, lemongrass paste, garlic, angel hair pasta, napa cabbage, cucumber, cashews</p>
+          <div class="tag-row"><span class="tag">chicken bowl</span><span class="tag">Vietnamese Inspired</span><span class="tag">html page</span></div>
+          <a class="result-link" href="recipes/vietnamese/lemongrass-chicken-bowls.html">Open recipe</a>
+        </article>
+
+        <article class="result-card">
+          <h3>Apple Pie</h3>
+          <div class="meta">
+            <span><strong>Cuisine:</strong> Family Cookbook</span>
+            <span><strong>Category:</strong> Pie</span>
+            <span><strong>Status:</strong> Family Recipe</span>
+            <span><strong>Source:</strong> family-recipes/recipes/pies/apple-pie.md</span>
+          </div>
+          <p><strong>Key ingredients:</strong> apples, sugar, flour, cinnamon, butter, pie crust</p>
+          <div class="tag-row"><span class="tag">family recipe</span><span class="tag">pie</span><span class="tag">html page</span></div>
+          <a class="result-link" href="recipes/family/pies/apple-pie.html">Open recipe</a>
+        </article>
       </div>
     </section>
-
-    <section class="results-panel" aria-live="polite">
-      <div class="result-count" id="result-count">Loading recipes...</div>
-      <div class="results-grid" id="results"></div>
-    </section>
   </main>
-
-  <script>
-    const searchInput = document.getElementById('recipe-search');
-    const resultsEl = document.getElementById('results');
-    const countEl = document.getElementById('result-count');
-    let recipes = [];
-
-    const normalize = (value) => String(value || '').toLowerCase();
-
-    const searchableText = (recipe) => [
-      recipe.title,
-      recipe.cuisine,
-      recipe.category,
-      recipe.status,
-      recipe.sourcePath,
-      ...(recipe.ingredients || []),
-      ...(recipe.tags || [])
-    ].map(normalize).join(' ');
-
-    const renderRecipes = (items, query = '') => {
-      const label = query ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${query}”.` : `Showing ${items.length} indexed recipes.`;
-      countEl.textContent = label;
-
-      if (!items.length) {
-        resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like sauce, chicken, Korean, family, or gochujang.</div>';
-        return;
-      }
-
-      resultsEl.innerHTML = items.map((recipe) => {
-        const tags = (recipe.tags || []).map((tag) => `<span class="tag">${tag}</span>`).join('');
-        const ingredients = (recipe.ingredients || []).slice(0, 8).join(', ');
-        const isHtmlPage = !String(recipe.path || '').startsWith('http');
-        const actionLabel = isHtmlPage ? 'Open recipe' : 'Open source Markdown';
-        const targetAttrs = isHtmlPage ? '' : ' target="_blank" rel="noopener noreferrer"';
-        return `
-          <article class="result-card">
-            <h3>${recipe.title}</h3>
-            <div class="meta">
-              <span><strong>Cuisine:</strong> ${recipe.cuisine || 'Not specified'}</span>
-              <span><strong>Category:</strong> ${recipe.category || 'Not specified'}</span>
-              <span><strong>Status:</strong> ${recipe.status || 'Not specified'}</span>
-              <span><strong>Path:</strong> ${recipe.sourcePath || ''}</span>
-            </div>
-            ${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}
-            <div class="tag-row">${tags}</div>
-            <a class="result-link" href="${recipe.path}"${targetAttrs}>${actionLabel}</a>
-          </article>
-        `;
-      }).join('');
-    };
-
-    const runSearch = () => {
-      const query = searchInput.value.trim();
-      const terms = normalize(query).split(/\s+/).filter(Boolean);
-      const filtered = terms.length
-        ? recipes.filter((recipe) => terms.every((term) => searchableText(recipe).includes(term)))
-        : recipes;
-      renderRecipes(filtered, query);
-    };
-
-    document.querySelectorAll('[data-search]').forEach((button) => {
-      button.addEventListener('click', () => {
-        searchInput.value = button.dataset.search;
-        runSearch();
-        searchInput.focus();
-      });
-    });
-
-    searchInput.addEventListener('input', runSearch);
-
-    fetch('recipe-search.json?v=20260612-02', { cache: 'no-store' })
-      .then((response) => {
-        if (!response.ok) throw new Error('Unable to load recipe-search.json');
-        return response.json();
-      })
-      .then((data) => {
-        recipes = data;
-        renderRecipes(recipes);
-      })
-      .catch((error) => {
-        countEl.textContent = 'Recipe index could not be loaded.';
-        resultsEl.innerHTML = `<div class="empty-state">${error.message}</div>`;
-      });
-  </script>
 </body>
 </html>

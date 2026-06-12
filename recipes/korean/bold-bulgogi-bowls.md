@@ -8,13 +8,10 @@ time: 45m
 servings: 4
 measurement_status: documented
 
-amy_rating:
-don_rating: Top 10 Meal
+rating_note: Top 10 Meal
 repeat_worthy: true
-hall_of_fame: true
-
-source_type: Flavorweaver Original
-source_notes: Developed for the Amy and Don kitchen; original working title included Amy and Don naming, but recipe files use clean dish names.
+hall_of_fame_candidate: true
+hall_of_fame: false
 
 tags:
   - rice bowl
@@ -38,6 +35,8 @@ pairs_well_with:
 last_updated: 2026-06-11
 ---
 
+<!-- recipe-card:start -->
+
 # Bold Bulgogi Bowls
 
 > Sweet, savory, tangy, spicy, and fresh Korean-inspired beef bowls with toasted rice, pickled cucumbers, glossy bulgogi beef, stir-fried vegetables, and gochujang crema.
@@ -48,9 +47,9 @@ last_updated: 2026-06-11
 |---|---:|---:|---|
 | Hall of Fame Candidate | 45 min | 4 | Easy |
 
-| Amy Rating | Don Rating | Repeat Worthy | Hall of Fame |
-|---|---|---|---|
-|  | Top 10 Meal | Yes | Candidate |
+| Rating Note | Repeat Worthy | Hall of Fame Status |
+|---|---|---|
+| Top 10 Meal | Yes | Candidate |
 
 ## Ingredient List
 
@@ -149,6 +148,8 @@ last_updated: 2026-06-11
 | 7 | Assemble bowls with rice, vegetables, bulgogi beef, pickled cucumbers, green onion tops, gochujang crema, and sesame seeds. |
 | 8 | Optional: top with halved jammy egg and a light drizzle of sesame oil. |
 
+<!-- recipe-card:end -->
+
 ## Pairs Well With
 
 | Type | Pairing | Link | Notes |
@@ -170,7 +171,7 @@ The ideal finished bowl is sweet, savory, tangy, spicy, and fresh.
 
 ## Final Verdict
 
-**Would Amy and Don be excited to make this again?**
+**Worth making again?**
 
 Yes.
 
@@ -201,7 +202,7 @@ Yes.
 </details>
 
 <details>
-<summary>Amyfied Direction</summary>
+<summary>Flavorweaver Direction</summary>
 
 This recipe succeeds because it is not just beef over rice. It is built from components: toasted rice, glossy beef, pickled cucumber, fresh vegetables, crema, and optional egg.
 
@@ -232,16 +233,16 @@ The Flavorweaver direction favors bold gochujang presence, strong garlic and gin
 </details>
 
 <details>
-<summary>Amy Notes</summary>
+<summary>Kitchen Notes</summary>
 
-Add Amy's observations here.
+Add kitchen observations, practical tips, and future refinements here.
 
 </details>
 
 <details>
-<summary>Don Notes</summary>
+<summary>Tasting Notes</summary>
 
-Don rated this as a Top 10 meal.
+Rated as a Top 10 meal.
 
 </details>
 
@@ -251,5 +252,6 @@ Don rated this as a Top 10 meal.
 | Date | Change |
 |---|---|
 | 2026-06-11 | Created first full Flavorweaver recipe file from measured Bold Bulgogi Bowls recipe. |
+| 2026-06-11 | Simplified metadata and notes to remove recipe-page-specific author labels. |
 
 </details>

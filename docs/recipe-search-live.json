@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Bold Bulgogi Bowls",
+    "path": "recipes/korean/bold-bulgogi-bowls.html",
+    "sourcePath": "recipes/korean/bold-bulgogi-bowls.md",
+    "cuisine": "Korean Inspired",
+    "category": "Main Dish",
+    "status": "Hall of Fame Candidate",
+    "ingredients": ["ground beef", "gochujang", "soy sauce", "rice vinegar", "basmati rice", "napa cabbage", "carrots", "cucumber", "sour cream", "lime"],
+    "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "sauce-driven", "html page"]
+  },
+  {
+    "title": "Gochujang Crema",
+    "path": "recipes/condiments/gochujang-crema.html",
+    "sourcePath": "condiments/gochujang-crema.md",
+    "cuisine": "Korean Inspired",
+    "category": "Condiment",
+    "status": "House Staple",
+    "ingredients": ["sour cream", "gochujang", "lime juice", "sugar", "water"],
+    "tags": ["condiment", "sauce", "gochujang", "crema", "house staple", "html page"]
+  },
+  {
+    "title": "Asian Pickled Garden Vegetables",
+    "path": "recipes/condiments/asian-pickled-garden-vegetables.html",
+    "sourcePath": "condiments/asian-pickled-garden-vegetables.md",
+    "cuisine": "Asian Inspired",
+    "category": "Condiment",
+    "status": "Working Recipe",
+    "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "salt"],
+    "tags": ["quick pickles", "garden vegetables", "rice vinegar", "html page"]
+  },
+  {
+    "title": "Lemongrass Chicken Bowls",
+    "path": "recipes/vietnamese/lemongrass-chicken-bowls.html",
+    "sourcePath": "recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Main Dish",
+    "status": "Working Recipe",
+    "ingredients": ["chicken thighs", "lemongrass paste", "garlic", "angel hair pasta", "napa cabbage", "cucumber", "cashews"],
+    "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "html page"]
+  },
+  {
+    "title": "Apple Pie",
+    "path": "recipes/family/pies/apple-pie.html",
+    "sourcePath": "family-recipes/recipes/pies/apple-pie.md",
+    "cuisine": "Family Cookbook",
+    "category": "Pie",
+    "status": "Family Recipe",
+    "ingredients": ["apples", "sugar", "flour", "cinnamon", "butter", "pie crust"],
+    "tags": ["family recipe", "pie", "apple", "dessert", "html page"]
+  }
+]

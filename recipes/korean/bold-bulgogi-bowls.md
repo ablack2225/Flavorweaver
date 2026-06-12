@@ -3,8 +3,10 @@ name: Bold Bulgogi Bowls
 culture: Korean Inspired
 category: Main Dish
 status: Hall of Fame Candidate
-difficulty: Easy
-time: 45m
+difficulty: Moderate
+prep_time: 35m
+cook_time: 40m
+total_time: 1h 15m
 servings: 4
 measurement_status: documented
 
@@ -23,6 +25,7 @@ tags:
   - pickled cucumbers
   - sauce-driven
   - weeknight favorite
+  - multi-component
 
 pairs_well_with:
   - asian-pickled-garden-vegetables
@@ -43,13 +46,13 @@ last_updated: 2026-06-11
 
 ## Recipe Dashboard
 
-| Status | Time | Servings | Difficulty |
+| Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Hall of Fame Candidate | 45 min | 4 | Easy |
+| Hall of Fame Candidate | 1 hr 15 min | 4 | Moderate |
 
-| Rating Note | Repeat Worthy | Hall of Fame Status |
-|---|---|---|
-| Top 10 Meal | Yes | Candidate |
+| Prep Time | Cook Time | Rating Note | Repeat Worthy |
+|---:|---:|---|---|
+| 35 min | 40 min | Top 10 Meal | Yes |
 
 ## Ingredient List
 
@@ -211,6 +214,15 @@ The Flavorweaver direction favors bold gochujang presence, strong garlic and gin
 </details>
 
 <details>
+<summary>Timing Notes</summary>
+
+This is a multi-component bowl. The total time should account for slicing cucumbers, rinsing and toasting rice, mixing the sauce, prepping vegetables, making crema, browning beef, and assembling bowls.
+
+The recipe may feel faster once the sauce, pickles, or vegetables are prepped ahead.
+
+</details>
+
+<details>
 <summary>Testing Notes</summary>
 
 ## First Test
@@ -253,5 +265,6 @@ Rated as a Top 10 meal.
 |---|---|
 | 2026-06-11 | Created first full Flavorweaver recipe file from measured Bold Bulgogi Bowls recipe. |
 | 2026-06-11 | Simplified metadata and notes to remove recipe-page-specific author labels. |
+| 2026-06-11 | Updated difficulty and timing to account for multi-component prep work. |
 
 </details>

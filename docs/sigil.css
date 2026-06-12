@@ -6,7 +6,10 @@
   display: grid;
   place-items: center;
   border-radius: 50%;
-  background: radial-gradient(circle at 50% 50%, rgba(76, 204, 232, 0.2), transparent 52%);
+  background:
+    radial-gradient(circle at 50% 50%, var(--bottle-glow), transparent 52%),
+    radial-gradient(circle at 62% 38%, var(--violet-soft), transparent 48%),
+    radial-gradient(circle at 38% 64%, var(--candle-soft), transparent 52%);
   animation: flavorweaver-mark-breathe 8s ease-in-out infinite;
 }
 
@@ -20,8 +23,11 @@
 .sigil-halo {
   inset: 18%;
   border-radius: 50%;
-  border: 1px solid rgba(126, 230, 255, 0.5);
-  box-shadow: 0 0 22px rgba(76, 204, 232, 0.34), inset 0 0 22px rgba(76, 204, 232, 0.12);
+  border: 1px solid var(--line-blue);
+  box-shadow:
+    0 0 22px var(--bottle-glow),
+    inset 0 0 22px rgba(76, 204, 232, 0.12),
+    0 0 34px var(--violet-soft);
 }
 
 .sigil-thread {
@@ -29,17 +35,23 @@
   height: 62%;
   border-radius: 50%;
   border: 2px solid transparent;
-  border-top-color: rgba(126, 230, 255, 0.72);
-  border-right-color: rgba(76, 204, 232, 0.34);
+  border-top-color: var(--bottle-blue);
+  border-right-color: rgba(159, 127, 232, 0.5);
+  border-bottom-color: rgba(255, 196, 93, 0.26);
   transform: rotate(28deg);
-  box-shadow: 0 0 16px rgba(76, 204, 232, 0.18);
+  box-shadow:
+    0 0 16px var(--bottle-glow),
+    0 0 22px var(--violet-soft);
 }
 
 .sigil-mark {
-  color: #ffe39a;
+  color: var(--candle);
   font-size: clamp(3.5rem, 8vw, 5.8rem);
   line-height: 1;
-  text-shadow: 0 0 14px rgba(255, 227, 154, 0.82), 0 0 26px rgba(255, 196, 93, 0.42), 0 0 30px rgba(76, 204, 232, 0.24);
+  text-shadow:
+    0 0 14px var(--candle-soft),
+    0 0 26px rgba(255, 196, 93, 0.42),
+    0 0 30px var(--bottle-glow);
   animation: flavorweaver-star-breathe 7.5s ease-in-out infinite;
 }
 
@@ -47,12 +59,16 @@
   0%, 100% {
     opacity: 0.88;
     transform: scale(0.99);
-    filter: drop-shadow(0 0 20px rgba(76, 204, 232, 0.22));
+    filter: drop-shadow(0 0 20px var(--bottle-glow));
   }
+
   50% {
     opacity: 1;
     transform: scale(1.012);
-    filter: drop-shadow(0 0 34px rgba(76, 204, 232, 0.42));
+    filter:
+      drop-shadow(0 0 34px rgba(76, 204, 232, 0.42))
+      drop-shadow(0 0 18px var(--violet-soft))
+      drop-shadow(0 0 14px rgba(255, 196, 93, 0.16));
   }
 }
 

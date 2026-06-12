@@ -2,7 +2,7 @@
 
 Status: Canon Structure  
 Applies to: Main Flavorweaver recipe repository  
-Does not fully apply to: `family-recipes/`, which uses a lighter preservation structure
+Family recipe exception: `family-recipes/` uses the same clean recipe-card foundation, but a lighter ending structure
 
 ---
 
@@ -351,11 +351,36 @@ Some components may eventually exist both ways: included in a signature recipe f
 
 ## Family Recipes Exception
 
-The `family-recipes/` section uses a simpler structure.
+The `family-recipes/` section uses a simpler preservation structure.
+
+Family recipes should keep the same useful cooking layout:
+
+1. YAML frontmatter
+2. `<!-- recipe-card:start -->`
+3. Recipe title
+4. Short description, if helpful
+5. Recipe Dashboard
+6. Ingredient List
+7. Measured Ingredients
+8. Instructions
+9. `<!-- recipe-card:end -->`
+10. Notes, only if useful
+
+Family recipes should not use the heavier main-repo ending by default.
+
+Remove or avoid these sections for normal family recipes:
+
+- Final Verdict
+- Flavorweaver Decision
+- Flavor Architecture
+- Flavorweaver Direction
+- Testing Notes
+- Kitchen Notes
+- Change Log
 
 Family recipes do not need creator or contributor metadata by default. They are family recipes; the folder context is enough.
 
-Family recipe files should stay warmer, lighter, and less database-like unless preservation context is genuinely useful.
+Family recipe files should stay warm, simple, and easy to print. Add preservation/source context only when it genuinely matters.
 
 A separate family recipe template should be maintained for that branch.
 

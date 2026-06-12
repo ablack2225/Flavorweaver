@@ -107,11 +107,11 @@ last_updated: 2026-06-11
 
 ## Pairs Well With
 
-| Type | Pairing | Link | Notes |
-|---|---|---|---|
-| Condiment | Peanut Dipping Sauce | `../../../condiments/peanut-sauce.md` | Primary dipping sauce |
-| Condiment | Restaurant-Style Ginger Nuoc Cham | `../../../condiments/ginger-nuoc-cham.md` | Bright dipping sauce and marinade component |
-| Main Dish | Lemongrass Chicken Bowls | `../main-dishes/lemongrass-chicken-bowls.md` | Uses the same chicken and sauce set |
+| Type | Pairing | Notes |
+|---|---|---|
+| Condiment | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) | Primary dipping sauce |
+| Condiment | [Restaurant-Style Ginger Nuoc Cham](../../../condiments/ginger-nuoc-cham.md) | Bright dipping sauce and marinade component |
+| Main Dish | [Lemongrass Chicken Bowls](../main-dishes/lemongrass-chicken-bowls.md) | Uses the same chicken and sauce set |
 
 ## Chef's Notes
 
@@ -192,5 +192,6 @@ Add rolling tips, prep notes, and future refinements here.
 |---|---|
 | 2026-06-11 | Created appetizer recipe file from Lemongrass Chicken Bowls and Fresh Spring Rolls source recipe. |
 | 2026-06-11 | Added dual-category metadata so the recipe can appear as both appetizer and side in the future site. |
+| 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 
 </details>

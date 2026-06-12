@@ -102,12 +102,12 @@ last_updated: 2026-06-11
 
 ## Pairs Well With
 
-| Type | Pairing | Link | Notes |
-|---|---|---|---|
-| Condiment | Restaurant-Style Ginger Nuoc Cham | `../../../condiments/ginger-nuoc-cham.md` | Primary bowl sauce and marinade component |
-| Condiment | Peanut Dipping Sauce | `../../../condiments/peanut-sauce.md` | Optional creamy drizzle or side sauce |
-| Condiment | Asian Pickled Garden Vegetables | `../../../condiments/asian-pickled-garden-vegetables.md` | Adds acid, crunch, and garden freshness |
-| Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../appetizers/fresh-lemongrass-chicken-spring-rolls.md` | Uses the same chicken and sauce set |
+| Type | Pairing | Notes |
+|---|---|---|
+| Condiment | [Restaurant-Style Ginger Nuoc Cham](../../../condiments/ginger-nuoc-cham.md) | Primary bowl sauce and marinade component |
+| Condiment | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) | Optional creamy drizzle or side sauce |
+| Condiment | [Asian Pickled Garden Vegetables](../../../condiments/asian-pickled-garden-vegetables.md) | Adds acid, crunch, and garden freshness |
+| Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Uses the same chicken and sauce set |
 
 ## Chef's Notes
 
@@ -186,5 +186,6 @@ Add kitchen observations, practical tips, and future refinements here.
 | Date | Change |
 |---|---|
 | 2026-06-11 | Created recipe file from Lemongrass Chicken Bowls and Fresh Spring Rolls source recipe. |
+| 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 
 </details>

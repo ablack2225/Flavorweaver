@@ -105,7 +105,8 @@ body::after {
   font-weight: 700;
   letter-spacing: 0.025em;
   text-align: center;
-  text-shadow: 0 0 18px rgba(255, 196, 93, 0.24), 0 1px 2px rgba(0, 0, 0, 0.72);
+  text-shadow: 0 0 16px rgba(255, 196, 93, 0.22), 0 1px 2px rgba(0, 0, 0, 0.72);
+  animation: flavorweaver-breathe 7.5s ease-in-out infinite;
 }
 
 .hero-flourish::before,
@@ -113,6 +114,43 @@ body::after {
   content: "";
   height: 1px;
   background: linear-gradient(90deg, transparent, rgba(255, 196, 93, 0.52), rgba(76, 204, 232, 0.26), transparent);
+  animation: flavorweaver-line-breathe 7.5s ease-in-out infinite;
+}
+
+@keyframes flavorweaver-breathe {
+  0%, 100% {
+    opacity: 0.82;
+    color: #f8c96f;
+    text-shadow: 0 0 12px rgba(255, 196, 93, 0.18), 0 1px 2px rgba(0, 0, 0, 0.72);
+    transform: scale(0.992);
+  }
+
+  50% {
+    opacity: 1;
+    color: #ffe3a6;
+    text-shadow: 0 0 24px rgba(255, 196, 93, 0.36), 0 0 18px rgba(76, 204, 232, 0.14), 0 1px 2px rgba(0, 0, 0, 0.72);
+    transform: scale(1.006);
+  }
+}
+
+@keyframes flavorweaver-line-breathe {
+  0%, 100% {
+    opacity: 0.42;
+    filter: blur(0);
+  }
+
+  50% {
+    opacity: 0.9;
+    filter: blur(0.2px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-flourish,
+  .hero-flourish::before,
+  .hero-flourish::after {
+    animation: none;
+  }
 }
 
 @media (max-width: 720px) {

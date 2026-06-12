@@ -9,14 +9,15 @@ cook_time: 10m
 chill_time: several hours
 total_time: 30m active, plus several hours chilling
 servings: 8 slices
-measurement_status: partially documented
-estimate_status: prep time, cook time, active time, and servings estimated; chill time from recipe text; pie crust type needs family review because printed instructions say unbaked crust but no baking step is given
+measurement_status: documented with family-practice clarification
+estimate_status: prep time, cook time, active time, and servings estimated; chill time from recipe text; pre-baked pie crust clarified from handwritten/family practice because the filling is not baked after assembly
 
 tags:
   - family recipe
   - pies
   - fresh strawberry pie
   - strawberry pie
+  - pre-baked pie crust
   - 7-up
   - strawberry gelatin
   - fresh strawberries
@@ -33,7 +34,7 @@ last_updated: 2026-06-12
 
 # Fresh Strawberry Pie
 
-> A preserved family fresh strawberry pie recipe made with a 7-Up strawberry gelatin filling, lightly sweetened sliced strawberries, and Cool-Whip on top.
+> A preserved family fresh strawberry pie recipe made with a pre-baked pie crust, 7-Up strawberry gelatin filling, lightly sweetened sliced strawberries, and Cool-Whip on top.
 
 ## Recipe Dashboard
 
@@ -43,7 +44,7 @@ last_updated: 2026-06-12
 
 | Prep Time | Cook Time | Chill Time | Measurement Status |
 |---:|---:|---:|---|
-| 20 min | 10 min | Several hours | Partially documented |
+| 20 min | 10 min | Several hours | Documented with family-practice clarification |
 
 ## Ingredient List
 
@@ -51,7 +52,7 @@ last_updated: 2026-06-12
 |---|---|
 | Strawberry Gelatin Filling | 7-Up, sugar, cornstarch, salt, strawberry gelatin |
 | Fruit | Lightly sweetened strawberries |
-| Pie Shell & Topping | Pie crust, Cool-Whip |
+| Pie Shell & Topping | Pre-baked pie crust, Cool-Whip |
 
 ## Measured Ingredients
 
@@ -65,23 +66,24 @@ last_updated: 2026-06-12
 | Dash | Salt |  |
 | 1 small box | Strawberry gelatin |  |
 | 2 cups | Strawberries | Lightly sweetened; washed, trimmed, and thinly sliced |
-| 1 | Pie crust | See note about printed crust wording |
+| 1 | Pre-baked pie crust | Fully baked and cooled before filling |
 | As desired | Cool-Whip | For topping before serving |
 
 ## Instructions
 
 | Step | Action |
 |---:|---|
-| 1 | In a medium saucepan, mix 7-Up, sugar, cornstarch, and salt together. |
-| 2 | Cook over medium heat until mixture begins to thicken and turns clear. |
-| 3 | Remove from heat and add strawberry gelatin. |
-| 4 | Allow gelatin mixture to cool for a while before adding strawberries. |
-| 5 | Wash and trim strawberries, then slice into thin slices. |
-| 6 | Pour a small amount of sugar over the strawberries and let stand for a few minutes. |
-| 7 | Add strawberries to the gelatin mixture. |
-| 8 | Pour filling into pie crust. |
-| 9 | Refrigerate several hours before slicing. |
-| 10 | Cover the top with Cool-Whip before serving. |
+| 1 | Prepare a pie crust, bake it fully, and allow it to cool completely before adding the strawberry filling. |
+| 2 | In a medium saucepan, mix 7-Up, sugar, cornstarch, and salt together. |
+| 3 | Cook over medium heat until mixture begins to thicken and turns clear. |
+| 4 | Remove from heat and add strawberry gelatin. |
+| 5 | Allow gelatin mixture to cool for a while before adding strawberries. |
+| 6 | Wash and trim strawberries, then slice into thin slices. |
+| 7 | Pour a small amount of sugar over the strawberries and let stand for a few minutes. |
+| 8 | Add strawberries to the gelatin mixture. |
+| 9 | Pour filling into the pre-baked and cooled pie crust. |
+| 10 | Refrigerate several hours before slicing. |
+| 11 | Cover the top with Cool-Whip before serving. |
 
 <!-- recipe-card:end -->
 
@@ -89,6 +91,6 @@ last_updated: 2026-06-12
 
 Sue made this pie for Amy every year on her birthday. It became Amy's favorite pie — a birthday tradition wrapped in fresh strawberries, Cool-Whip, and love.
 
-The printed instructions say to pour the filling into an unbaked pie crust, but no baking step is given. The crust wording is preserved as a review note so family practice can confirm whether the shell should be baked before filling.
+Family-practice clarification: the filling is not baked after it goes into the crust, so the pie shell should be pre-baked and fully cooled before filling.
 
 Servings, prep time, cook time, and active time are estimated. Chill time is from the recipe text.

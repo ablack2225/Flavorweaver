@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flavorweaver Recipe Search</title>
-  <link rel="stylesheet" href="styles.css?v=20260612-08" />
-  <link rel="stylesheet" href="site.css?v=20260612-08" />
-  <link rel="stylesheet" href="readability.css?v=20260612-08" />
+  <link rel="stylesheet" href="styles.css?v=20260612-09" />
+  <link rel="stylesheet" href="site.css?v=20260612-09" />
+  <link rel="stylesheet" href="readability.css?v=20260612-09" />
 </head>
 <body>
   <header class="site-topbar">
@@ -14,7 +14,7 @@
       <div class="nav-spacer" aria-hidden="true"></div>
       <div class="nav-links">
         <a href="index.html">Home</a>
-        <a aria-current="page" href="recipes.html?v=20260612-08">Search</a>
+        <a aria-current="page" href="recipes.html?v=20260612-09">Search</a>
         <a href="index.html#featured">Featured</a>
         <a href="index.html#categories">Categories</a>
         <a href="dedication.html">Dedication</a>
@@ -26,7 +26,7 @@
     <section class="hero-card">
       <p class="eyebrow">Recipe Archive</p>
       <h1>Search Recipes</h1>
-      <p class="lead">Search Flavorweaver by title, cuisine, category, status, ingredient, or tag. Archive paths and recipe tags can open filtered searches directly.</p>
+      <p class="lead">Search Flavorweaver by title, collection, culture, category, status, ingredient, or tag. Archive paths and recipe tags can open filtered searches directly.</p>
       <div class="button-row">
         <a class="button secondary" href="index.html">Back to home</a>
         <a class="button secondary" href="family-cookbook.html">Family cookbook</a>
@@ -55,11 +55,11 @@
 
   <script>
     const recipes = [
-      { title: 'Bold Bulgogi Bowls', path: 'recipes/korean/bold-bulgogi-bowls.html', cuisine: 'Korean Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['ground beef', 'gochujang', 'soy sauce', 'rice vinegar', 'basmati rice', 'napa cabbage', 'sour cream', 'lime'], tags: ['rice bowl', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal'] },
-      { title: 'Gochujang Crema', path: 'recipes/condiments/gochujang-crema.html', cuisine: 'Korean Inspired', category: 'Condiment', status: 'House Staple', ingredients: ['sour cream', 'gochujang', 'lime juice', 'sugar', 'water'], tags: ['sauce', 'crema', 'house staple', 'drizzle sauce'] },
-      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', cuisine: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'crunchy'] },
-      { title: 'Lemongrass Chicken Bowls', path: 'recipes/vietnamese/lemongrass-chicken-bowls.html', cuisine: 'Vietnamese Inspired', category: 'Main Dish', status: 'Working Recipe', ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews'], tags: ['chicken bowl', 'lemongrass chicken', 'vietnamese-inspired', 'sauce-driven'] },
-      { title: 'Apple Pie', path: 'recipes/family/pies/apple-pie.html', cuisine: 'Family Cookbook', category: 'Pie', status: 'Family Recipe', ingredients: ['apples', 'sugar', 'flour', 'cinnamon', 'butter', 'pie crust'], tags: ['family recipe', 'pie', 'apple', 'dessert'] }
+      { title: 'Bold Bulgogi Bowls', path: 'recipes/korean/bold-bulgogi-bowls.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['ground beef', 'gochujang', 'soy sauce', 'rice vinegar', 'basmati rice', 'napa cabbage', 'sour cream', 'lime'], tags: ['rice bowl', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal'] },
+      { title: 'Gochujang Crema', path: 'recipes/condiments/gochujang-crema.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Condiment', status: 'House Staple', ingredients: ['sour cream', 'gochujang', 'lime juice', 'sugar', 'water'], tags: ['sauce', 'crema', 'house staple', 'drizzle sauce'] },
+      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', collection: 'House Recipes', culture: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'crunchy'] },
+      { title: 'Lemongrass Chicken Bowls', path: 'recipes/vietnamese/lemongrass-chicken-bowls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Main Dish', status: 'Working Recipe', ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews'], tags: ['chicken bowl', 'lemongrass chicken', 'sauce-driven'] },
+      { title: 'Apple Pie', path: 'recipes/family/pies/apple-pie.html', collection: 'Family Cookbook', culture: '', category: 'Pie', status: 'Family Recipe', ingredients: ['apples', 'sugar', 'flour', 'cinnamon', 'butter', 'pie crust'], tags: ['family recipe', 'pie', 'apple', 'dessert'] }
     ];
 
     const searchInput = document.getElementById('recipe-search');
@@ -70,7 +70,8 @@
 
     const searchableText = (recipe) => [
       recipe.title,
-      recipe.cuisine,
+      recipe.collection,
+      recipe.culture,
       recipe.category,
       recipe.status,
       ...(recipe.ingredients || []),
@@ -87,11 +88,13 @@
       resultsEl.innerHTML = items.map((recipe) => {
         const tags = (recipe.tags || []).map((tag) => `<a class="tag" href="recipes.html?q=${encodeQuery(tag)}" data-filter="${tag}">${tag}</a>`).join('');
         const ingredients = (recipe.ingredients || []).slice(0, 8).join(', ');
+        const cultureRow = recipe.culture ? `<span><strong>Culture:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.culture)}" data-filter="${recipe.culture}">${recipe.culture}</a></span>` : '';
         return `
           <article class="result-card">
             <h3>${recipe.title}</h3>
             <div class="meta">
-              <span><strong>Cuisine:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.cuisine)}" data-filter="${recipe.cuisine}">${recipe.cuisine}</a></span>
+              <span><strong>Collection:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.collection)}" data-filter="${recipe.collection}">${recipe.collection}</a></span>
+              ${cultureRow}
               <span><strong>Category:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.category)}" data-filter="${recipe.category}">${recipe.category}</a></span>
               <span><strong>Status:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.status)}" data-filter="${recipe.status}">${recipe.status}</a></span>
             </div>

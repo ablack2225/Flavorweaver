@@ -22,9 +22,7 @@
 }
 
 .hero-card--home h1 {
-  text-shadow:
-    0 0 20px rgba(255, 196, 93, 0.12),
-    0 0 18px rgba(76, 204, 232, 0.08);
+  text-shadow: none;
 }
 
 .hero-card--home .hero-content {
@@ -53,9 +51,9 @@
 
 .flavor-sigil--spiral {
   position: absolute;
-  z-index: 1;
-  top: 58%;
-  right: max(20px, calc((100vw - 1180px) / 2 + 18px));
+  z-index: 0;
+  top: 68%;
+  right: max(8px, calc((100vw - 1180px) / 2 + 4px));
   width: clamp(120px, 15vw, 178px);
   aspect-ratio: 1;
   display: grid;

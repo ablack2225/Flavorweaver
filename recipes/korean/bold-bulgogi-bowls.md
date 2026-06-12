@@ -155,14 +155,14 @@ last_updated: 2026-06-11
 
 ## Pairs Well With
 
-| Type | Pairing | Link | Notes |
-|---|---|---|---|
-| Condiment | Asian Pickled Garden Vegetables | `../../condiments/asian-pickled-garden-vegetables.md` | Acid, crunch, freshness |
-| Condiment | Gochujang Crema | `../../condiments/gochujang-crema.md` | Creamy heat |
-| Side | Cucumber Salad |  | Fresh cooling contrast |
-| Side | Kimchi |  | Fermented heat and acid |
-| Bread | Scallion Pancakes |  | Future pairing idea |
-| Beverage | Iced Tea or Citrus Drink |  | Cuts richness |
+| Type | Pairing | Notes |
+|---|---|---|
+| Condiment | [Asian Pickled Garden Vegetables](../../condiments/asian-pickled-garden-vegetables.md) | Acid, crunch, freshness |
+| Condiment | [Gochujang Crema](../../condiments/gochujang-crema.md) | Creamy heat |
+| Side | Cucumber Salad | Fresh cooling contrast |
+| Side | Kimchi | Fermented heat and acid |
+| Bread | Scallion Pancakes | Future pairing idea |
+| Beverage | Iced Tea or Citrus Drink | Cuts richness |
 
 ## Chef's Notes
 
@@ -266,5 +266,6 @@ Rated as a Top 10 meal.
 | 2026-06-11 | Created first full Flavorweaver recipe file from measured Bold Bulgogi Bowls recipe. |
 | 2026-06-11 | Simplified metadata and notes to remove recipe-page-specific author labels. |
 | 2026-06-11 | Updated difficulty and timing to account for multi-component prep work. |
+| 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 
 </details>

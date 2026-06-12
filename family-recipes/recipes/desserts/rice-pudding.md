@@ -9,7 +9,7 @@ bake_time: 1h 30m
 total_time: 1h 40m
 servings: 8-10 servings
 measurement_status: documented with family-practice clarification
-estimate_status: prep time, total time, and servings estimated; visible handwritten ingredients preserved, rice amount and lower water-bath baking method clarified from comparable family-practice method
+estimate_status: prep time, total time, and servings estimated; active recipe updated from Amy's clarified family-practice version
 
 tags:
   - family recipe
@@ -17,7 +17,7 @@ tags:
   - rice pudding
   - baked rice pudding
   - pudding
-  - milk
+  - whole milk
   - eggs
   - cinnamon
   - raisins
@@ -31,7 +31,7 @@ last_updated: 2026-06-12
 
 # Rice Pudding
 
-> A preserved family rice pudding recipe from Jimmie Hatton, written by Sue Wallesch on a sticky note, with missing method details clarified for baking in a water bath.
+> A preserved family rice pudding recipe from Jimmie Hatton, written by Sue Wallesch on a sticky note, updated with Amy's clarified family-practice version for a complete baked rice pudding.
 
 ## Recipe Dashboard
 
@@ -47,9 +47,9 @@ last_updated: 2026-06-12
 
 | Component | Ingredients |
 |---|---|
-| Custard Base | Milk, eggs, sugar, butter, vanilla, cinnamon, salt |
+| Custard Base | Eggs, whole milk, sugar, salt, vanilla, cinnamon |
 | Rice and Fruit | Cooked rice, raisins |
-| Baking Method | Greased casserole dish set in a hot-water bath |
+| Baking Method | Greased ovenproof casserole dish set in a hot-water bath |
 
 ## Measured Ingredients
 
@@ -57,30 +57,29 @@ last_updated: 2026-06-12
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 3 cups | Milk | Scalded, per sticky note |
-| 3 | Eggs | From sticky note |
-| 1 cup | Sugar | From sticky note |
-| 3 Tbsp | Butter | From sticky note |
-| 2 tsp | Vanilla | From sticky note |
-| 1 tsp | Cinnamon | From sticky note |
-| 1/2 tsp | Salt | Added as family-practice clarification |
-| 2 cups | Cooked rice | Added as family-practice clarification |
-| 1/2 cup | Raisins | Clarified amount; sticky note listed raisins without amount |
+| 4 | Eggs |  |
+| 3 cups | Whole milk |  |
+| 1 cup | Granulated sugar |  |
+| 1/2 tsp | Salt |  |
+| 2 tsp | Vanilla extract |  |
+| 2 cups | Cooked rice |  |
+| 1/2 tsp | Ground cinnamon |  |
+| 1/2 cup | Raisins |  |
 
 ## Instructions
 
 | Step | Action |
 |---:|---|
 | 1 | Cook rice, if not already prepared. |
-| 2 | Preheat oven to 300°F for gentle water-bath baking. |
-| 3 | Grease an ovenproof casserole dish. |
-| 4 | Scald milk and let it cool slightly so it does not scramble the eggs. |
-| 5 | In a large bowl, beat eggs with sugar. |
-| 6 | Add milk, butter, vanilla, cinnamon, salt, cooked rice, and raisins. Stir until combined. |
+| 2 | Preheat oven to 300°F. |
+| 3 | Spray an ovenproof casserole dish with nonstick cooking spray. |
+| 4 | In a large bowl, beat eggs with a whisk. |
+| 5 | Stir sugar into the beaten eggs. |
+| 6 | Add whole milk, salt, vanilla, cooked rice, cinnamon, and raisins. Stir until combined. |
 | 7 | Pour rice mixture into the prepared casserole dish. |
-| 8 | Set the casserole dish in a water bath, using a larger baking pan filled with hot water. |
+| 8 | Set the dish in a water bath by placing it inside a larger baking pan filled with hot water. |
 | 9 | Bake for 1 hour 30 minutes. |
-| 10 | After about 30 minutes of baking, stir once from the bottom to distribute the rice and raisins. |
+| 10 | After 30 minutes of baking, insert a spoon at the edge of the pudding and stir from the bottom to distribute the rice and raisins. |
 | 11 | Continue baking until the custard is set. |
 
 <!-- recipe-card:end -->
@@ -89,8 +88,8 @@ last_updated: 2026-06-12
 
 This recipe belongs to Jimmie Hatton and was written by Sue Wallesch on a sticky note.
 
-The sticky note preserves the scalded milk note, water-bath baking method, 400°F oven temperature, and instruction to stir one time during cooking.
+Amy provided the clarified family-practice version to complete the active recipe. The outside source used for comparison is intentionally not referenced here.
 
-Amy provided a clarified family-practice method to complete the missing rice amount, raisin amount, and baking time. The active recipe uses the gentler 300°F water-bath bake so the custard sets evenly.
+The sticky note helped preserve the family identity of the recipe, while the active ingredient amounts and method now follow the clarified baked rice pudding version.
 
-Visible handwritten ingredient amounts from the sticky note were preserved where possible. Salt, cooked rice amount, raisin amount, bake time, and serving yield were clarified for usability.
+Prep time, total time, and servings are estimated.

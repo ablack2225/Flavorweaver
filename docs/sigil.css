@@ -22,6 +22,7 @@ body {
   display: block;
   text-align: left;
   overflow: visible;
+  min-height: clamp(360px, 43vw, 520px);
 }
 
 .hero-card--home::before,
@@ -55,6 +56,100 @@ body {
   opacity: 0.7;
   background: linear-gradient(90deg, var(--bottle-blue), var(--violet), var(--candle), transparent);
   animation: flavorweaver-line-breathe 7.5s ease-in-out infinite;
+}
+
+.flavor-emblem--worktable {
+  position: absolute;
+  z-index: 1;
+  right: max(14px, calc((100vw - 1180px) / 2 + 12px));
+  bottom: clamp(18px, 4vw, 46px);
+  width: clamp(150px, 18vw, 238px);
+  aspect-ratio: 1.28;
+  pointer-events: none;
+  opacity: 0.78;
+  filter: drop-shadow(0 18px 34px rgba(0, 0, 0, 0.34));
+  animation: flavorweaver-emblem-breathe 8.5s ease-in-out infinite;
+}
+
+.emblem-aura {
+  position: absolute;
+  inset: 2% -4% -8%;
+  border-radius: 50%;
+  background:
+    radial-gradient(ellipse at 50% 62%, rgba(76, 204, 232, 0.18), transparent 58%),
+    radial-gradient(ellipse at 63% 38%, rgba(159, 127, 232, 0.16), transparent 48%),
+    radial-gradient(ellipse at 34% 48%, rgba(255, 196, 93, 0.12), transparent 52%);
+  filter: blur(1px);
+}
+
+.emblem-book {
+  position: absolute;
+  left: 8%;
+  right: 8%;
+  bottom: 16%;
+  height: 48%;
+  perspective: 360px;
+}
+
+.book-page {
+  position: absolute;
+  top: 6%;
+  bottom: 3%;
+  width: 49%;
+  background:
+    linear-gradient(120deg, rgba(255, 248, 225, 0.96), rgba(244, 217, 154, 0.76) 62%, rgba(185, 147, 80, 0.42)),
+    repeating-linear-gradient(180deg, transparent 0 12px, rgba(42, 23, 13, 0.12) 13px 14px);
+  border: 1px solid rgba(255, 196, 93, 0.45);
+  box-shadow:
+    inset 0 0 18px rgba(76, 204, 232, 0.12),
+    0 0 18px rgba(255, 196, 93, 0.13);
+}
+
+.book-page--left {
+  left: 0;
+  border-radius: 72% 12% 18% 56% / 14% 18% 24% 32%;
+  transform: rotate(-6deg) skewY(3deg);
+  transform-origin: right bottom;
+}
+
+.book-page--right {
+  right: 0;
+  border-radius: 12% 72% 56% 18% / 18% 14% 32% 24%;
+  transform: rotate(6deg) skewY(-3deg);
+  transform-origin: left bottom;
+}
+
+.book-spine {
+  position: absolute;
+  left: 48.5%;
+  top: 4%;
+  bottom: 0;
+  width: 3%;
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(75, 43, 22, 0.28), rgba(42, 23, 13, 0.72));
+  box-shadow:
+    0 0 12px rgba(255, 196, 93, 0.16),
+    0 0 18px rgba(76, 204, 232, 0.12);
+}
+
+.page-glyph {
+  position: absolute;
+  top: 33%;
+  width: 22%;
+  height: 18%;
+  border-top: 1px solid rgba(76, 204, 232, 0.44);
+  border-bottom: 1px solid rgba(159, 127, 232, 0.25);
+  opacity: 0.65;
+}
+
+.page-glyph--left {
+  left: 16%;
+  transform: rotate(-6deg);
+}
+
+.page-glyph--right {
+  right: 16%;
+  transform: rotate(6deg);
 }
 
 @keyframes flavorweaver-breath-blue {
@@ -93,10 +188,38 @@ body {
   }
 }
 
+@keyframes flavorweaver-emblem-breathe {
+  0%, 100% {
+    opacity: 0.68;
+    transform: translateY(0) scale(0.992);
+  }
+
+  50% {
+    opacity: 0.88;
+    transform: translateY(-2px) scale(1.006);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .hero-flourish,
   .hero-flourish::before,
-  .hero-flourish::after {
+  .hero-flourish::after,
+  .flavor-emblem--worktable {
     animation: none;
+  }
+}
+
+@media (max-width: 820px) {
+  .hero-card--home {
+    min-height: 0;
+    padding-bottom: 20px;
+  }
+
+  .flavor-emblem--worktable {
+    position: relative;
+    right: auto;
+    bottom: auto;
+    width: min(168px, 48vw);
+    margin: 12px 0 0 calc((100% - min(1180px, calc(100% - 32px))) / 2 + 16px);
   }
 }

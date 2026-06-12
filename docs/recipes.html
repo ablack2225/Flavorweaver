@@ -5,19 +5,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flavorweaver Recipe Search</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="site.css" />
 </head>
 <body>
+  <header class="site-topbar">
+    <nav class="site-nav" aria-label="Flavorweaver navigation">
+      <a class="brand-mark" href="index.html">
+        Flavorweaver
+        <small>Amy & Don Kitchen Archive</small>
+      </a>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a aria-current="page" href="recipes.html">Search</a>
+        <a href="index.html#featured">Featured</a>
+        <a href="index.html#categories">Categories</a>
+      </div>
+    </nav>
+  </header>
+
   <main class="page-shell">
     <section class="hero-card">
-      <p class="eyebrow">Search Prototype</p>
-      <h1>Recipe Search</h1>
+      <p class="eyebrow">Recipe Archive</p>
+      <h1>Search Recipes</h1>
       <p class="lead">
-        Search this starter index by recipe title, cuisine, category, status, ingredient,
-        tag, or source path. Results currently open the Markdown recipe files on GitHub.
+        Search the starter Flavorweaver index by title, cuisine, category, status, ingredient,
+        tag, or source path. Converted samples now open as themed recipe pages.
       </p>
       <div class="button-row">
         <a class="button secondary" href="index.html">Back to home</a>
-        <a class="button secondary" href="https://github.com/ablack2225/Flavorweaver">Open repository</a>
+        <a class="button secondary" href="docs/flavorweaver-site-architecture.md">Architecture note</a>
       </div>
     </section>
 
@@ -86,9 +102,9 @@
               <span><strong>Status:</strong> ${recipe.status || 'Not specified'}</span>
               <span><strong>Path:</strong> ${recipe.sourcePath || ''}</span>
             </div>
-            ${ingredients ? `<p><strong>Ingredients:</strong> ${ingredients}</p>` : ''}
+            ${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}
             <div class="tag-row">${tags}</div>
-            <a class="result-link" href="${recipe.path}" target="_blank" rel="noopener noreferrer">Open recipe</a>
+            <a class="result-link" href="${recipe.path}">Open recipe</a>
           </article>
         `;
       }).join('');

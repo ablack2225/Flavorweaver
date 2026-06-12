@@ -23,7 +23,7 @@ Recipes should not be manually duplicated into separate hand-maintained webpages
 
 ## Design Direction
 
-Flavorweaver should feel like a usable recipe website with a distinct Amy / Myriath / SoulWeave atmosphere.
+Flavorweaver should feel like a usable recipe website with a distinct Myriath / SoulWeave atmosphere.
 
 The visual direction is:
 
@@ -95,12 +95,66 @@ Each public recipe page should eventually include:
 - short description
 - ingredients
 - instructions
-- chef notes
+- chef notes when useful to the cook
 - pairs-well-with section when available
 - source/provenance section for family cookbook recipes when appropriate
 - link back to search / archive
 
 The page should feel like a polished recipe website page, not a GitHub Markdown view.
+
+## Public vs Internal Recipe Data
+
+The public website should not expose every section contained in the Markdown source files.
+
+The Markdown files are allowed to hold both reader-facing recipe content and private working notes for recipe development.
+
+### Don & Amy / Flavorweaver recipes
+
+Public pages for Don & Amy recipes should include the cooking content a reader needs:
+
+- title and summary
+- dashboard fields such as status, timing, servings or yield, and difficulty
+- tags as clickable search filters
+- ingredient overview
+- measured ingredients
+- instructions
+- pairs well with
+- chef notes when they help the cook
+- storage, texture goal, best uses, and flavor balance guides when relevant
+
+Public pages for Don & Amy recipes should **exclude** working/archive sections used for modifications, scoring, history, and internal development tracking:
+
+- Final Verdict
+- Flavorweaver Decision checkboxes
+- Flavor Architecture details
+- Flavorweaver Direction details
+- Timing Notes
+- Testing Notes
+- Kitchen Notes
+- Tasting Notes
+- Change Log
+- scoring systems
+- internal modification history
+
+These internal sections should remain in the Markdown source files, but the public generator should not render them into the public HTML recipe pages by default.
+
+### Family cookbook recipes
+
+Family cookbook pages are different because source, provenance, memory, and preservation notes are part of the public archive value.
+
+Public family cookbook pages should include:
+
+- family source when known
+- printed category when useful
+- estimate/documentation status when useful
+- recipe dashboard
+- ingredient overview
+- measured ingredients
+- instructions
+- family notes and provenance
+- preservation context when present
+
+Family cookbook pages should not be forced into Don & Amy testing or scoring structures unless those sections actually exist and are intentionally marked public.
 
 ## Search Direction
 

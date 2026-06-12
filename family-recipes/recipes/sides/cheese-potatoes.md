@@ -48,7 +48,7 @@ last_updated: 2026-06-12
 |---|---|
 | Potato Base | Potatoes, onion, salt, pepper, cream of chicken soup, sour cream |
 | Topping | Margarine, grated cheddar cheese |
-| Optional Shortcut | Frozen hash browns |
+| Optional Shortcut | Frozen hash brown potatoes |
 
 ## Measured Ingredients
 
@@ -64,7 +64,7 @@ last_updated: 2026-06-12
 | 1 cup | Sour cream |  |
 | 4 Tbsp | Margarine | Cut into slices for dotting the top |
 | 1 cup | Grated cheddar cheese | Added near end of baking |
-| 2 (10 oz) packages | Frozen hash browns | Optional substitute for potatoes; thawed |
+| 2 (10 oz) boxes | Frozen hash brown potatoes | Optional substitute for the 6 medium potatoes; thawed |
 
 ## Instructions
 
@@ -87,6 +87,6 @@ This recipe was preserved from Sue Wallesch's original family cookbook.
 
 The printed category was Vegetables. It has been filed under Sides in the digital archive.
 
-Original hint: you can substitute two 10-ounce packages of frozen hash browns, thawed, in place of the potatoes if desired. Either way, it is good.
+Family shortcut note: you can use two 10-ounce boxes of frozen hash brown potatoes in place of the 6 potatoes. Thaw before using. Either way, it is good.
 
 Bake time is from the recipe. Prep time, total time, and servings are estimated.

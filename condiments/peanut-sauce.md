@@ -81,8 +81,8 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 
 | Type | Pairing | Link | Notes |
 |---|---|---|---|
-| Side/Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../recipes/vietnamese/fresh-lemongrass-chicken-spring-rolls.md` | Primary dipping sauce |
-| Main Dish | Lemongrass Chicken Bowls | `../recipes/vietnamese/lemongrass-chicken-bowls.md` | Optional drizzle |
+| Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md` | Primary dipping sauce |
+| Main Dish | Lemongrass Chicken Bowls | `../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md` | Optional drizzle |
 | Condiment | Restaurant-Style Ginger Nuoc Cham | `ginger-nuoc-cham.md` | Used inside this sauce |
 
 <details>
@@ -106,5 +106,6 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 | Date | Change |
 |---|---|
 | 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
+| 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
 
 </details>

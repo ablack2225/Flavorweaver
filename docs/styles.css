@@ -1,25 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+3:wght@400;500;600;700;800;900&display=swap');
 
 :root {
-  color-scheme: light;
-  --ink: #201a22;
-  --muted: #665c68;
-  --paper: #fbf7f0;
-  --surface: #ffffff;
-  --surface-warm: #fff4e6;
-  --line: #e6d8c8;
-  --line-strong: #c9b293;
-  --myriath-plum: #39263f;
-  --myriath-plum-soft: #eee5f1;
-  --myriath-teal: #2f6f69;
-  --myriath-teal-soft: #e1f0ec;
-  --ember: #a2472d;
-  --ember-dark: #73301f;
-  --gold: #d2a044;
-  --gold-soft: #faecc7;
-  --sage: #71845a;
-  --sage-soft: #e9efdd;
-  --shadow: 0 12px 30px rgba(32, 26, 34, 0.09);
+  color-scheme: dark;
+  --ink: #f7efe2;
+  --muted: #cabdce;
+  --paper: #151018;
+  --surface: #211827;
+  --surface-warm: #2a2027;
+  --surface-deep: #100b13;
+  --line: #4a384f;
+  --line-strong: #725b78;
+  --myriath-plum: #c6a4d6;
+  --myriath-plum-deep: #39263f;
+  --myriath-plum-soft: #34263c;
+  --myriath-teal: #7fc9bf;
+  --myriath-teal-soft: #203b3a;
+  --ember: #d46c4a;
+  --ember-dark: #a2472d;
+  --gold: #e5bd61;
+  --gold-soft: #433722;
+  --sage: #a7b87d;
+  --sage-soft: #2c3625;
+  --shadow: 0 18px 42px rgba(0, 0, 0, 0.34);
   --radius: 14px;
 }
 
@@ -36,8 +38,9 @@ body {
   min-height: 100vh;
   font-family: "Source Sans 3", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background:
-    linear-gradient(180deg, rgba(57, 38, 63, 0.06), transparent 320px),
-    var(--paper);
+    radial-gradient(circle at 20% -10%, rgba(198, 164, 214, 0.18), transparent 28rem),
+    radial-gradient(circle at 90% 5%, rgba(127, 201, 191, 0.12), transparent 26rem),
+    linear-gradient(180deg, #19111d 0%, #120d15 52%, #0f0b12 100%);
   color: var(--ink);
 }
 
@@ -60,11 +63,11 @@ body::before,
   position: relative;
   margin: 0 calc(50% - 50vw) 28px;
   padding: 0;
-  background: var(--surface);
+  background: rgba(24, 17, 29, 0.94);
   border: 0;
   border-bottom: 1px solid var(--line);
   border-radius: 0;
-  box-shadow: none;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.28);
   overflow: visible;
 }
 
@@ -147,7 +150,7 @@ h3 {
   text-decoration: none;
   font-weight: 900;
   letter-spacing: 0.01em;
-  transition: background 140ms ease, border-color 140ms ease, transform 140ms ease;
+  transition: background 140ms ease, border-color 140ms ease, transform 140ms ease, box-shadow 140ms ease;
 }
 
 .button:hover,
@@ -160,7 +163,8 @@ h3 {
 .result-link {
   background: var(--ember);
   border: 1px solid var(--ember);
-  color: white;
+  color: #fffaf2;
+  box-shadow: 0 10px 22px rgba(212, 108, 74, 0.18);
 }
 
 .button.primary:hover,
@@ -172,7 +176,7 @@ h3 {
 .button.secondary {
   color: var(--myriath-plum);
   background: var(--myriath-plum-soft);
-  border: 1px solid #cdbad5;
+  border: 1px solid var(--line-strong);
 }
 
 .info-grid {
@@ -185,7 +189,7 @@ h3 {
 .info-grid article,
 .search-panel,
 .results-panel {
-  background: var(--surface);
+  background: rgba(33, 24, 39, 0.94);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -219,6 +223,7 @@ h3 {
   padding: 20px;
   border-radius: 0 0 var(--radius) var(--radius);
   border-top: 6px solid var(--myriath-plum);
+  backdrop-filter: blur(12px);
 }
 
 .search-label {
@@ -238,11 +243,15 @@ h3 {
   padding: 15px 16px;
   font-size: 1.08rem;
   color: var(--ink);
-  background: #fff;
+  background: #120d15;
+}
+
+.search-input::placeholder {
+  color: #9b8da0;
 }
 
 .search-input:focus {
-  outline: 3px solid rgba(57, 38, 63, 0.16);
+  outline: 3px solid rgba(198, 164, 214, 0.18);
   border-color: var(--myriath-plum);
 }
 
@@ -254,7 +263,7 @@ h3 {
 }
 
 .quick-searches button {
-  border: 1px solid #cdbad5;
+  border: 1px solid var(--line-strong);
   border-radius: 999px;
   background: var(--myriath-plum-soft);
   color: var(--myriath-plum);
@@ -264,15 +273,15 @@ h3 {
 }
 
 .quick-searches button:nth-child(2n) {
-  border-color: #b8d5d0;
+  border-color: #3f706a;
   background: var(--myriath-teal-soft);
   color: var(--myriath-teal);
 }
 
 .quick-searches button:nth-child(3n) {
-  border-color: #e2c57b;
+  border-color: #856d33;
   background: var(--gold-soft);
-  color: #735325;
+  color: var(--gold);
 }
 
 .results-panel {
@@ -298,7 +307,7 @@ h3 {
   position: relative;
   border: 1px solid var(--line);
   border-radius: 0;
-  background: var(--surface);
+  background: #1c1421;
   box-shadow: none;
   min-height: 100%;
 }
@@ -310,8 +319,8 @@ h3 {
   height: auto;
   width: 100%;
   padding: 9px 14px;
-  background: var(--myriath-plum);
-  color: white;
+  background: var(--myriath-plum-deep);
+  color: var(--ink);
   font-size: 0.72rem;
   font-weight: 900;
   letter-spacing: 0.12em;
@@ -319,11 +328,11 @@ h3 {
 }
 
 .result-card:nth-child(3n + 2)::before {
-  background: var(--myriath-teal);
+  background: #23534f;
 }
 
 .result-card:nth-child(3n)::before {
-  background: var(--ember);
+  background: var(--ember-dark);
 }
 
 .result-card h3 {
@@ -364,7 +373,7 @@ h3 {
 
 .tag {
   background: var(--myriath-plum-soft);
-  border: 1px solid #cdbad5;
+  border: 1px solid var(--line-strong);
   border-radius: 999px;
   padding: 5px 9px;
   font-size: 0.8rem;
@@ -374,14 +383,14 @@ h3 {
 
 .tag:nth-child(2n) {
   background: var(--myriath-teal-soft);
-  border-color: #b8d5d0;
+  border-color: #3f706a;
   color: var(--myriath-teal);
 }
 
 .tag:nth-child(3n) {
   background: var(--gold-soft);
-  border-color: #e2c57b;
-  color: #735325;
+  border-color: #856d33;
+  color: var(--gold);
 }
 
 .result-link {

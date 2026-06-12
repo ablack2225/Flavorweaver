@@ -61,11 +61,11 @@
   display: grid;
   place-items: center;
   border-radius: 50%;
-  opacity: 0.78;
+  opacity: 0.9;
   background:
-    radial-gradient(circle at 50% 50%, var(--bottle-glow), transparent 52%),
-    radial-gradient(circle at 62% 38%, var(--violet-soft), transparent 48%),
-    radial-gradient(circle at 38% 64%, var(--candle-soft), transparent 52%);
+    radial-gradient(circle at 50% 50%, rgba(76, 204, 232, 0.26), transparent 50%),
+    radial-gradient(circle at 62% 38%, rgba(159, 127, 232, 0.2), transparent 46%),
+    radial-gradient(circle at 38% 64%, rgba(255, 196, 93, 0.18), transparent 50%);
   animation: flavorweaver-spiral-breathe 8s ease-in-out infinite;
 }
 
@@ -78,56 +78,57 @@
 
 .spiral-ring {
   border-radius: 50%;
-  border: 2px solid transparent;
+  border: 2.5px solid transparent;
   box-shadow:
-    0 0 18px var(--bottle-glow),
-    inset 0 0 14px rgba(76, 204, 232, 0.12);
+    0 0 14px rgba(76, 204, 232, 0.38),
+    inset 0 0 10px rgba(76, 204, 232, 0.12);
 }
 
 .spiral-ring--outer {
   inset: 12%;
-  border-top-color: var(--bottle-blue);
-  border-right-color: rgba(159, 127, 232, 0.68);
-  border-bottom-color: rgba(255, 196, 93, 0.36);
+  border-top-color: #7fe6ff;
+  border-right-color: #b99cff;
+  border-bottom-color: rgba(255, 212, 128, 0.64);
   transform: rotate(24deg);
 }
 
 .spiral-ring--middle {
   inset: 28%;
-  border-top-color: rgba(159, 127, 232, 0.78);
-  border-right-color: rgba(76, 204, 232, 0.72);
-  border-bottom-color: rgba(255, 196, 93, 0.28);
+  border-top-color: #c9b5ff;
+  border-right-color: #7fe6ff;
+  border-bottom-color: rgba(255, 196, 93, 0.54);
   transform: rotate(118deg);
-  opacity: 0.9;
+  opacity: 0.96;
 }
 
 .spiral-ring--inner {
   inset: 43%;
-  border-top-color: var(--candle);
-  border-right-color: var(--bottle-blue);
+  border-top-color: #ffd989;
+  border-right-color: #7fe6ff;
+  border-bottom-color: rgba(159, 127, 232, 0.48);
   transform: rotate(208deg);
-  opacity: 0.88;
+  opacity: 0.94;
 }
 
 .spiral-core {
   inset: 46%;
   border-radius: 50%;
-  background: var(--bottle-blue);
+  background: #b4f3ff;
   box-shadow:
-    0 0 20px var(--bottle-glow),
-    0 0 26px var(--violet-soft),
-    0 0 18px var(--candle-soft);
+    0 0 18px rgba(76, 204, 232, 0.62),
+    0 0 20px rgba(159, 127, 232, 0.34),
+    0 0 16px rgba(255, 196, 93, 0.26);
 }
 
 .spiral-spark {
   right: 14%;
   top: 12%;
-  color: var(--candle);
+  color: #ffd989;
   font-size: clamp(1.25rem, 3vw, 1.95rem);
   text-shadow:
-    0 0 14px var(--candle-soft),
-    0 0 24px rgba(255, 196, 93, 0.42),
-    0 0 24px var(--bottle-glow);
+    0 0 12px rgba(255, 196, 93, 0.44),
+    0 0 20px rgba(76, 204, 232, 0.24),
+    0 0 18px rgba(159, 127, 232, 0.2);
   animation: flavorweaver-star-breathe 7.5s ease-in-out infinite;
 }
 
@@ -169,23 +170,20 @@
 
 @keyframes flavorweaver-spiral-breathe {
   0%, 100% {
-    opacity: 0.58;
+    opacity: 0.72;
     transform: translateY(-50%) scale(0.985) rotate(-1deg);
-    filter: drop-shadow(0 0 16px var(--bottle-glow));
+    filter: brightness(1.02) saturate(1.12);
   }
 
   50% {
-    opacity: 0.92;
+    opacity: 1;
     transform: translateY(-50%) scale(1.018) rotate(1deg);
-    filter:
-      drop-shadow(0 0 34px rgba(76, 204, 232, 0.46))
-      drop-shadow(0 0 18px var(--violet-soft))
-      drop-shadow(0 0 14px rgba(255, 196, 93, 0.18));
+    filter: brightness(1.18) saturate(1.28);
   }
 }
 
 @keyframes flavorweaver-star-breathe {
-  0%, 100% { opacity: 0.68; transform: scale(0.96) rotate(-2deg); }
+  0%, 100% { opacity: 0.74; transform: scale(0.96) rotate(-2deg); }
   50% { opacity: 1; transform: scale(1.1) rotate(2deg); }
 }
 
@@ -212,15 +210,15 @@
 
   @keyframes flavorweaver-spiral-breathe {
     0%, 100% {
-      opacity: 0.58;
+      opacity: 0.72;
       transform: scale(0.985) rotate(-1deg);
-      filter: drop-shadow(0 0 16px var(--bottle-glow));
+      filter: brightness(1.02) saturate(1.12);
     }
 
     50% {
-      opacity: 0.92;
+      opacity: 1;
       transform: scale(1.018) rotate(1deg);
-      filter: drop-shadow(0 0 34px rgba(76, 204, 232, 0.46));
+      filter: brightness(1.18) saturate(1.28);
     }
   }
 }

@@ -2,11 +2,14 @@
 name: Cheese Rolls
 category: Appetizers
 status: Preserved
-prep_time:
+prep_time: 25m
+soften_time: 1h
 cook_time: 0m
-total_time:
-servings:
+chill_time: 2h
+total_time: 3h 25m
+servings: 24-32 appetizer servings
 measurement_status: documented
+estimate_status: timing and servings estimated
 
 tags:
   - family recipe
@@ -29,11 +32,11 @@ last_updated: 2026-06-11
 
 | Status | Total Time | Servings |
 |---|---:|---:|
-| Preserved |  |  |
+| Preserved | 3 hr 25 min | 24-32 appetizer servings |
 
-| Prep Time | Cook Time | Measurement Status |
-|---:|---:|---|
-|  | 0 min | Documented |
+| Prep Time | Soften Time | Cook Time | Chill Time | Measurement Status |
+|---:|---:|---:|---:|---|
+| 25 min | 1 hr | 0 min | 2 hr | Documented |
 
 ## Ingredient List
 
@@ -72,3 +75,5 @@ last_updated: 2026-06-11
 ## Notes
 
 Original family note: delicious served on all kinds of crackers. This was made every Christmas and loved by the whole family.
+
+Timing and servings are estimated from the amount of cheese mixture and the method. The original recipe page left those fields blank.

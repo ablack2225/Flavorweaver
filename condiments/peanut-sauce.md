@@ -44,7 +44,7 @@ last_updated: 2026-06-11
 | Component | Ingredients |
 |---|---|
 | Sauce Base | Peanut butter, ginger nuoc cham, hoisin, soy sauce, garlic, ginger, lime, warm water |
-| Optional Heat / Depth | Sesame oil, cayenne, serrano |
+| Optional Additions | Sesame oil or fresh chile |
 
 ## Measured Ingredients
 
@@ -59,8 +59,7 @@ last_updated: 2026-06-11
 | 1/2 | Lime | Juiced |
 | 2-4 Tbsp | Warm water | Use to thin |
 | Optional 1/2 tsp | Sesame oil | For deeper richness |
-| Optional pinch | Cayenne | For heat |
-| Optional | Minced serrano | For fresh heat |
+| Optional | Fresh chile | Minced, for heat |
 
 ## Instructions
 
@@ -68,7 +67,7 @@ last_updated: 2026-06-11
 |---:|---|
 | 1 | Whisk peanut butter, ginger nuoc cham, hoisin, soy sauce, garlic, ginger, and lime juice until combined. |
 | 2 | Add warm water 1 tablespoon at a time until smooth and dippable. |
-| 3 | Add optional sesame oil, cayenne, or minced serrano if desired. |
+| 3 | Add optional sesame oil or fresh chile if desired. |
 | 4 | Taste and adjust lime, water, heat, or saltiness as needed. |
 
 <!-- recipe-card:end -->
@@ -79,11 +78,11 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 
 ## Pairs Well With
 
-| Type | Pairing | Link | Notes |
-|---|---|---|---|
-| Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md` | Primary dipping sauce |
-| Main Dish | Lemongrass Chicken Bowls | `../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md` | Optional drizzle |
-| Condiment | Restaurant-Style Ginger Nuoc Cham | `ginger-nuoc-cham.md` | Used inside this sauce |
+| Type | Pairing | Notes |
+|---|---|---|
+| Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Primary dipping sauce |
+| Main Dish | [Lemongrass Chicken Bowls](../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md) | Optional drizzle |
+| Condiment | [Restaurant-Style Ginger Nuoc Cham](ginger-nuoc-cham.md) | Used inside this sauce |
 
 <details>
 <summary>Flavor Architecture</summary>
@@ -94,7 +93,7 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 | Sweetness | Hoisin and nuoc cham syrup base. |
 | Salt / Umami | Soy sauce, hoisin, fish sauce from nuoc cham. |
 | Acid | Lime and nuoc cham. |
-| Heat | Optional cayenne or serrano. |
+| Heat | Optional fresh chile. |
 | Aroma | Garlic and ginger. |
 | Texture | Creamy, smooth, and adjustable with warm water. |
 
@@ -107,5 +106,6 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 |---|---|
 | 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
 | 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
+| 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 
 </details>

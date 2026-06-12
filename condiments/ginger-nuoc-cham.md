@@ -93,8 +93,8 @@ Use as a dipping sauce, drizzle sauce, marinade component, or bowl finisher.
 
 | Type | Pairing | Link | Notes |
 |---|---|---|---|
-| Main Dish | Lemongrass Chicken Bowls | `../recipes/vietnamese/lemongrass-chicken-bowls.md` | Primary drizzle sauce |
-| Side/Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../recipes/vietnamese/fresh-lemongrass-chicken-spring-rolls.md` | Dipping sauce |
+| Main Dish | Lemongrass Chicken Bowls | `../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md` | Primary drizzle sauce |
+| Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md` | Dipping sauce |
 | Condiment | Peanut Dipping Sauce | `peanut-sauce.md` | Good paired dipping sauces |
 
 <details>
@@ -117,5 +117,6 @@ Use as a dipping sauce, drizzle sauce, marinade component, or bowl finisher.
 | Date | Change |
 |---|---|
 | 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
+| 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
 
 </details>

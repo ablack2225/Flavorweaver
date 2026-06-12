@@ -5,35 +5,109 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flavorweaver</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="site.css" />
 </head>
 <body>
-  <main class="page-shell">
+  <header class="site-topbar">
+    <nav class="site-nav" aria-label="Flavorweaver navigation">
+      <a class="brand-mark" href="index.html">
+        Flavorweaver
+        <small>Amy & Don Kitchen Archive</small>
+      </a>
+      <div class="nav-links">
+        <a aria-current="page" href="index.html">Home</a>
+        <a href="recipes.html">Search</a>
+        <a href="#featured">Featured</a>
+        <a href="#categories">Categories</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="page-shell home-layout">
     <section class="hero-card">
       <p class="eyebrow">Amy & Don Kitchen Archive</p>
       <h1>Flavorweaver</h1>
       <p class="hero-copy">
-        A living recipe archive for house recipes, family recipes, kitchen discoveries,
-        sauces, condiments, staples, and meals worth making again.
+        A dark culinary worktable for recipes, sauces, family memories, kitchen discoveries,
+        and meals worth returning to — searchable, structured, and ready to grow.
       </p>
       <div class="button-row">
         <a class="button primary" href="recipes.html">Search recipes</a>
-        <a class="button secondary" href="https://github.com/ablack2225/Flavorweaver">Open repository</a>
+        <a class="button secondary" href="#featured">Browse featured</a>
       </div>
     </section>
 
-    <section class="info-grid" aria-label="Prototype goals">
-      <article>
-        <h2>Source of truth</h2>
-        <p>Markdown recipes stay in the repository. This Pages prototype reads from a small search index for testing.</p>
-      </article>
-      <article>
-        <h2>Usability test</h2>
-        <p>Search by title, cuisine, category, status, ingredient, and tag before adding another large recipe batch.</p>
-      </article>
-      <article>
-        <h2>Future path</h2>
-        <p>Later, a script or GitHub Action can generate the full search index from the recipe Markdown files.</p>
-      </article>
+    <section id="featured" aria-labelledby="featured-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Recipe formulas</p>
+          <h2 id="featured-heading">Featured from the worktable</h2>
+        </div>
+        <p>Sample pages are being converted from Markdown into themed HTML so recipes open as part of the Flavorweaver website.</p>
+      </div>
+      <div class="feature-grid">
+        <article class="feature-card">
+          <h3>Bold Bulgogi Bowls</h3>
+          <p>Sweet, savory, spicy, and sauce-driven Korean-inspired bowls with gochujang crema.</p>
+          <a href="recipes/korean/bold-bulgogi-bowls.html">Open recipe</a>
+        </article>
+        <article class="feature-card">
+          <h3>Gochujang Crema</h3>
+          <p>A house-staple finishing sauce with creamy heat, tang, and a drizzle-ready texture.</p>
+          <a href="recipes/condiments/gochujang-crema.html">Open condiment</a>
+        </article>
+        <article class="feature-card">
+          <h3>Lemongrass Chicken Bowls</h3>
+          <p>Fresh Vietnamese-inspired bowls with ginger nuoc cham, crisp vegetables, and herbs.</p>
+          <a href="recipes/vietnamese/lemongrass-chicken-bowls.html">Open recipe</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="categories" aria-labelledby="categories-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Browse paths</p>
+          <h2 id="categories-heading">Explore the archive</h2>
+        </div>
+        <p>Folder placement can stay practical because the website layer gives every recipe multiple ways to be found.</p>
+      </div>
+      <div class="category-grid">
+        <article class="category-card">
+          <h3>House Staples</h3>
+          <p>Sauces, condiments, blends, and reusable kitchen building blocks.</p>
+          <a href="recipes.html">Search house staple</a>
+        </article>
+        <article class="category-card">
+          <h3>Cultures & Cuisines</h3>
+          <p>Korean-inspired, Vietnamese-inspired, Italian, American, and more as the archive grows.</p>
+          <a href="recipes.html">Search cuisine</a>
+        </article>
+        <article class="category-card">
+          <h3>Family Cookbook</h3>
+          <p>Preserved family recipes, notes, provenance, and memory-bearing cards.</p>
+          <a href="recipes/family/pies/apple-pie.html">View sample</a>
+        </article>
+        <article class="category-card">
+          <h3>Bowls & Mains</h3>
+          <p>Complete meals with layered components, sauces, and repeat-worthy structure.</p>
+          <a href="recipes.html">Search bowls</a>
+        </article>
+        <article class="category-card">
+          <h3>Pickles & Bright Things</h3>
+          <p>Acid, crunch, garden vegetables, and finishing elements that wake up a plate.</p>
+          <a href="recipes/condiments/asian-pickled-garden-vegetables.html">Open sample</a>
+        </article>
+        <article class="category-card">
+          <h3>Recently Added</h3>
+          <p>The next build phase will generate this section automatically from recipe metadata.</p>
+          <a href="recipes.html">Search archive</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="archive-note">
+      <strong>Architecture note:</strong> Markdown recipes remain the source of truth. The public website will be generated from them so Flavorweaver can stay beautiful without duplicating recipe maintenance.
     </section>
   </main>
 </body>

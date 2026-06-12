@@ -61,3 +61,19 @@ body::after {
 .sidebar-link-list a {
   color: #6ee4ff;
 }
+
+.inline-filter {
+  color: #6ee4ff;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.inline-filter:hover,
+.tag:hover {
+  text-decoration: underline;
+}
+
+.result-card .tag {
+  display: inline-flex;
+  text-decoration: none;
+}

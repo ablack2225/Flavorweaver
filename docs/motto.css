@@ -1,0 +1,35 @@
+.hero-flourish {
+  display: block;
+  width: min(720px, 100%);
+  margin: 12px auto 0;
+  line-height: 1.55;
+  text-align: center;
+}
+
+.hero-flourish::before,
+.hero-flourish::after {
+  display: block;
+  width: min(340px, 58%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-flourish::before {
+  margin-bottom: 10px;
+}
+
+.hero-flourish::after {
+  margin-top: 10px;
+}
+
+@keyframes flavorweaver-line-breathe {
+  0%, 100% {
+    opacity: 0.36;
+    transform: scaleX(0.92);
+  }
+
+  50% {
+    opacity: 0.86;
+    transform: scaleX(1);
+  }
+}

@@ -1,7 +1,10 @@
 ---
 name: Fresh Lemongrass Chicken Spring Rolls
 culture: Vietnamese Inspired
-category: Appetizer
+primary_category: Appetizer
+categories:
+  - Appetizer
+  - Side
 status: Working Recipe
 difficulty: Moderate
 prep_time: 40m
@@ -48,9 +51,9 @@ last_updated: 2026-06-11
 |---|---:|---:|---|
 | Working Recipe | 3-5 hr |  | Moderate |
 
-| Prep Time | Cook Time | Marinate Time | Measurement Status |
-|---:|---:|---:|---|
-| 40 min | 20 min | 2-4 hr | Partial |
+| Primary Category | Also Works As | Prep Time | Cook Time | Marinate Time |
+|---|---|---:|---:|---:|
+| Appetizer | Side | 40 min | 20 min | 2-4 hr |
 
 ## Ingredient List
 
@@ -115,6 +118,8 @@ last_updated: 2026-06-11
 This recipe is best treated as a component-sharing recipe with Lemongrass Chicken Bowls. The chicken, sauces, vegetables, and pasta can be prepped once and used for both.
 
 The source recipe does not define the number of rice paper wrappers or exact filling amounts, so this file preserves the spring rolls as flexible, assembly-based.
+
+Because fresh spring rolls can function as either an appetizer or a side, the recipe keeps one canonical file but includes both categories in the metadata for future site browsing.
 
 ## Final Verdict
 
@@ -186,5 +191,6 @@ Add rolling tips, prep notes, and future refinements here.
 | Date | Change |
 |---|---|
 | 2026-06-11 | Created appetizer recipe file from Lemongrass Chicken Bowls and Fresh Spring Rolls source recipe. |
+| 2026-06-11 | Added dual-category metadata so the recipe can appear as both appetizer and side in the future site. |
 
 </details>

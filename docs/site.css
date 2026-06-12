@@ -3,10 +3,8 @@
   top: 0;
   z-index: 20;
   margin: 0 calc(50% - 50vw);
-  background:
-    linear-gradient(90deg, rgba(5, 11, 18, 0.9), rgba(18, 18, 26, 0.9), rgba(5, 11, 18, 0.9));
+  background: rgba(5, 11, 18, 0.88);
   border-bottom: 1px solid rgba(255, 196, 93, 0.2);
-  box-shadow: 0 10px 32px rgba(0, 0, 0, 0.22);
   backdrop-filter: blur(14px);
 }
 
@@ -16,12 +14,8 @@
   min-height: 64px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   gap: 20px;
-}
-
-.nav-spacer {
-  display: none;
 }
 
 .brand-mark {
@@ -43,7 +37,6 @@
 .nav-links {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   gap: 10px;
 }
 
@@ -51,18 +44,14 @@
   color: var(--muted);
   text-decoration: none;
   font-weight: 800;
-  padding: 8px 12px;
-  border: 1px solid rgba(255, 196, 93, 0.08);
+  padding: 8px 10px;
   border-radius: 999px;
-  background: rgba(255, 241, 220, 0.025);
 }
 
 .nav-links a:hover,
 .nav-links a[aria-current="page"] {
   color: var(--bottle-blue);
   background: var(--bottle-glow);
-  border-color: rgba(76, 204, 232, 0.28);
-  box-shadow: 0 0 18px rgba(76, 204, 232, 0.08);
 }
 
 .home-layout {
@@ -327,6 +316,8 @@
 
 @media (max-width: 720px) {
   .site-nav {
+    align-items: flex-start;
+    flex-direction: column;
     padding: 12px 0;
   }
 

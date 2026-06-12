@@ -91,11 +91,11 @@ Use as a dipping sauce, drizzle sauce, marinade component, or bowl finisher.
 
 ## Pairs Well With
 
-| Type | Pairing | Link | Notes |
-|---|---|---|---|
-| Main Dish | Lemongrass Chicken Bowls | `../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md` | Primary drizzle sauce |
-| Appetizer | Fresh Lemongrass Chicken Spring Rolls | `../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md` | Dipping sauce |
-| Condiment | Peanut Dipping Sauce | `peanut-sauce.md` | Good paired dipping sauces |
+| Type | Pairing | Notes |
+|---|---|---|
+| Main Dish | [Lemongrass Chicken Bowls](../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md) | Primary drizzle sauce |
+| Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Dipping sauce |
+| Condiment | [Peanut Dipping Sauce](peanut-sauce.md) | Good paired dipping sauces |
 
 <details>
 <summary>Flavor Architecture</summary>
@@ -118,5 +118,6 @@ Use as a dipping sauce, drizzle sauce, marinade component, or bowl finisher.
 |---|---|
 | 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
 | 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
+| 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 
 </details>

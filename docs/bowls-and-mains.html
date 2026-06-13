@@ -3,22 +3,52 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Bowls & Mains | Flavorweaver</title>
-  <link rel="stylesheet" href="styles.css?v=20260613-01" />
-  <link rel="stylesheet" href="site.css?v=20260613-01" />
-  <link rel="stylesheet" href="readability.css?v=20260613-01" />
+  <title>Bowls &amp; Mains | Flavorweaver</title>
+  <link rel="stylesheet" href="styles.css?v=20260613-04" />
+  <link rel="stylesheet" href="site.css?v=20260613-04" />
+  <link rel="stylesheet" href="readability.css?v=20260613-04" />
 </head>
 <body>
   <header class="site-topbar"><nav class="site-nav" aria-label="Flavorweaver navigation"><div class="nav-spacer" aria-hidden="true"></div><div class="nav-links"><a href="index.html">Home</a><a href="recipes.html">Search</a><a href="index.html#featured">Featured</a><a href="index.html#categories">Categories</a><a href="dedication.html">Dedication</a></div></nav></header>
   <main class="page-shell home-layout">
-    <section class="hero-card">
+    <section class="hero-card hero-card--archive">
       <p class="eyebrow">Archive Path</p>
-      <h1>Bowls & Mains</h1>
+      <h1>Bowls &amp; Mains</h1>
       <p class="hero-copy">Complete meals with layered components: bases, proteins, vegetables, sauces, crunch, brightness, and the final little spark that makes dinner memorable.</p>
-      <div class="button-row"><a class="button primary" href="recipes.html?q=Main%20Dish">Search main dishes</a><a class="button secondary" href="recipes.html?q=rice%20bowl">Search bowls</a><a class="button secondary" href="index.html#categories">Back to archive</a></div>
     </section>
-    <section aria-labelledby="mains-tags"><div class="section-heading"><div><p class="eyebrow">Clickable paths</p><h2 id="mains-tags">Search this path</h2></div><p>Use these tags to filter for complete meals, bowls, proteins, and repeat-worthy builds.</p></div><div class="tag-row"><a class="tag" href="recipes.html?q=Main%20Dish">Main Dish</a><a class="tag" href="recipes.html?q=rice%20bowl">rice bowl</a><a class="tag" href="recipes.html?q=chicken%20bowl">chicken bowl</a><a class="tag" href="recipes.html?q=beef">beef</a><a class="tag" href="recipes.html?q=chicken">chicken</a><a class="tag" href="recipes.html?q=sauce-driven">sauce-driven</a></div></section>
-    <section aria-labelledby="mains-heading"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="mains-heading">Meals worth returning to</h2></div><p>This path gathers finished meals and repeat-worthy builds.</p></div><div class="feature-grid"><article class="feature-card"><h3>Bold Bulgogi Bowls</h3><p>Sweet-savory beef, vegetables, pickles, rice, and crema.</p><a href="recipes/korean/bold-bulgogi-bowls.html">Open recipe</a></article><article class="feature-card"><h3>Lemongrass Chicken Bowls</h3><p>Fresh, bright, sauce-driven bowls with chicken, vegetables, and cashews.</p><a href="recipes/vietnamese/lemongrass-chicken-bowls.html">Open recipe</a></article><article class="feature-card"><h3>Browse all mains</h3><p>Open the filtered recipe search for main dishes and bowls.</p><a href="recipes.html?q=Main%20Dish">Search Recipes</a></article></div></section>
+
+    <section class="search-panel" aria-label="Bowls and mains search controls">
+      <label class="search-label" for="mains-search">Search this path</label>
+      <input class="search-input" id="mains-search" type="search" placeholder="Search bulgogi, lemongrass, beef, chicken, bowls..." autocomplete="off" />
+      <div class="quick-searches" aria-label="Bowls and mains quick filters">
+        <button type="button" data-filter="Main Dish">Main Dish</button>
+        <button type="button" data-filter="rice bowl">rice bowl</button>
+        <button type="button" data-filter="chicken bowl">chicken bowl</button>
+        <button type="button" data-filter="beef">beef</button>
+        <button type="button" data-filter="chicken">chicken</button>
+        <button type="button" data-filter="sauce-driven">sauce-driven</button>
+      </div>
+    </section>
+
+    <section aria-labelledby="mains-heading"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="mains-heading">Meals worth returning to</h2></div><p>This path gathers finished meals and repeat-worthy builds.</p></div><div class="feature-grid searchable-card-grid"><article class="feature-card" data-search-card data-search="Bold Bulgogi Bowls Main Dish rice bowl beef sauce-driven Korean Inspired"><h3>Bold Bulgogi Bowls</h3><p>Sweet-savory beef, vegetables, pickles, rice, and crema.</p><a href="recipes/korean/bold-bulgogi-bowls.html">Open recipe</a></article><article class="feature-card" data-search-card data-search="Lemongrass Chicken Bowls Main Dish chicken bowl sauce-driven Vietnamese Inspired"><h3>Lemongrass Chicken Bowls</h3><p>Fresh, bright, sauce-driven bowls with chicken, vegetables, and cashews.</p><a href="recipes/vietnamese/lemongrass-chicken-bowls.html">Open recipe</a></article><article class="feature-card" data-search-card data-search="Browse all mains Main Dish bowls rice bowl chicken beef"><h3>Browse all mains</h3><p>Open the filtered recipe search for main dishes and bowls.</p><a href="recipes.html?q=Main%20Dish">Search Recipes</a></article></div></section>
   </main>
+  <script>
+    const mainsSearch = document.getElementById('mains-search');
+    const mainsCards = Array.from(document.querySelectorAll('[data-search-card]'));
+    const filterMainsCards = (term = '') => {
+      const query = term.toLowerCase().trim();
+      mainsCards.forEach((card) => {
+        const haystack = `${card.textContent} ${card.dataset.search || ''}`.toLowerCase();
+        card.hidden = query && !haystack.includes(query);
+      });
+    };
+    mainsSearch.addEventListener('input', () => filterMainsCards(mainsSearch.value));
+    document.querySelectorAll('[data-filter]').forEach((button) => {
+      button.addEventListener('click', () => {
+        mainsSearch.value = button.dataset.filter;
+        filterMainsCards(mainsSearch.value);
+      });
+    });
+  </script>
 </body>
 </html>

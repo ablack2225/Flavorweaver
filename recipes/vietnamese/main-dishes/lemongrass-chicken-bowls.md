@@ -80,18 +80,18 @@ last_updated: 2026-06-13
 
 ### Bowl Components
 
-These amounts make 2 bowls. Adjust the vegetable, noodle, sauce, and crunch levels to your liking.
+These amounts make 2 bowls. Layer the bowls in the order below, then adjust the vegetable, noodle, sauce, and crunch levels to your liking.
 
-| Amount | Ingredient | Notes |
-|---:|---|---|
-| 4 oz dry | Angel hair pasta | Cook, drain, and cool slightly before assembling |
-| All | Sliced lemongrass chicken | From marinade above |
-| 2 cups | Shredded napa cabbage | About 1 cup per bowl |
-| 1 cup | Julienned cucumber | About 1/2 cup per bowl |
-| 1 cup | Garden zucchini ribbons or matchsticks | About 1/2 cup per bowl |
-| 1/2-3/4 cup | Asian pickled vegetables | For acid, crunch, and garden freshness |
-| 2-4 Tbsp | Crushed cashews | For crunch |
-| 1/4-1/2 cup | Restaurant-Style Ginger Nuoc Cham | For drizzling and serving on the side |
+| Layer | Amount for 2 Bowls | Component | Notes |
+|---:|---:|---|---|
+| 1 | 4 oz dry | Angel hair pasta | Cook, drain, and cool slightly. Divide between 2 bowls as the base. |
+| 2 | All | Sliced lemongrass chicken | Slice the cooked chicken thinly and divide over the pasta. |
+| 3 | 2 cups | Shredded napa cabbage | About 1 cup per bowl for fresh crunch. |
+| 4 | 1 cup | Julienned cucumber | About 1/2 cup per bowl. |
+| 5 | 1 cup | Garden zucchini ribbons or matchsticks | About 1/2 cup per bowl. |
+| 6 | 1/2-3/4 cup | Asian pickled vegetables | Scatter over the top for acid, crunch, and garden brightness. |
+| 7 | 2-4 Tbsp | Crushed cashews | Sprinkle over the finished bowls for crunch. |
+| 8 | 1/4-1/2 cup | Restaurant-Style Ginger Nuoc Cham | Drizzle generously and serve extra on the side. |
 
 ## Instructions
 
@@ -102,10 +102,10 @@ These amounts make 2 bowls. Adjust the vegetable, noodle, sauce, and crunch leve
 | 3 | Cook the chicken until browned and cooked through. Rest 5-10 minutes, then slice thinly across the grain. |
 | 4 | Cook the angel hair pasta until tender. Drain, rinse or cool slightly, and set aside for bowl assembly. |
 | 5 | Prep the vegetables: shred napa cabbage, julienne cucumber, and cut zucchini into ribbons or matchsticks. |
-| 6 | Divide the angel hair pasta between 2 bowls. |
-| 7 | Add sliced lemongrass chicken, napa cabbage, cucumber, zucchini, and Asian pickled vegetables. |
-| 8 | Drizzle generously with ginger nuoc cham and finish with crushed cashews. |
-| 9 | Serve with extra ginger nuoc cham on the side so each bowl can be adjusted to taste. |
+| 6 | Build 2 bowls by dividing the pasta first, then layering sliced lemongrass chicken over the base. |
+| 7 | Add napa cabbage, cucumber, and zucchini around or over the chicken so each bowl has fresh crunch throughout. |
+| 8 | Scatter Asian pickled vegetables over the top, then finish with crushed cashews. |
+| 9 | Drizzle generously with ginger nuoc cham and serve with extra sauce on the side so each bowl can be adjusted to taste. |
 
 ## Chef's Notes
 
@@ -195,5 +195,6 @@ Add kitchen observations, practical tips, and future refinements here.
 | 2026-06-11 | Created recipe file from Lemongrass Chicken Bowls and Fresh Spring Rolls source recipe. |
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 | 2026-06-13 | Revised public recipe-card block with estimates for 2 bowls. |
+| 2026-06-13 | Clarified bowl component amounts and layering order. |
 
 </details>

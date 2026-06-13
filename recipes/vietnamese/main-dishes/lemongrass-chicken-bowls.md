@@ -37,7 +37,7 @@ required_components:
 
 pairs_well_with:
   - peanut-sauce
-  - fresh-lemongrass-chicken-spring-rolls
+  - fresh-vegetable-spring-rolls
 
 last_updated: 2026-06-13
 ---
@@ -122,7 +122,7 @@ The ingredient amounts are written as a practical starting point for 2 bowls. Th
 | Type | Pairing | Notes |
 |---|---|---|
 | Condiment | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) | Optional creamy drizzle or side sauce |
-| Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Uses the same chicken and sauce set |
+| Appetizer | [Fresh Vegetable Spring Rolls](../appetizers/fresh-vegetable-spring-rolls.md) | Fresh appetizer or side alongside the bowl meal |
 
 ## Final Verdict
 
@@ -199,5 +199,6 @@ Add kitchen observations, practical tips, and future refinements here.
 | 2026-06-13 | Revised public recipe-card block with estimates for 2 bowls. |
 | 2026-06-13 | Clarified bowl component amounts and layering order. |
 | 2026-06-13 | Marked as Top 10 Meal / Hall of Fame Candidate. |
+| 2026-06-13 | Updated pairing to Fresh Vegetable Spring Rolls. |
 
 </details>

@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flavorweaver Recipe Search</title>
-  <link rel="stylesheet" href="styles.css?v=20260612-09" />
-  <link rel="stylesheet" href="site.css?v=20260612-09" />
-  <link rel="stylesheet" href="readability.css?v=20260612-09" />
+  <link rel="stylesheet" href="styles.css?v=20260613-01" />
+  <link rel="stylesheet" href="site.css?v=20260613-01" />
+  <link rel="stylesheet" href="readability.css?v=20260613-01" />
 </head>
 <body>
   <header class="site-topbar">
@@ -14,7 +14,7 @@
       <div class="nav-spacer" aria-hidden="true"></div>
       <div class="nav-links">
         <a href="index.html">Home</a>
-        <a aria-current="page" href="recipes.html?v=20260612-09">Search</a>
+        <a aria-current="page" href="recipes.html">Search</a>
         <a href="index.html#featured">Featured</a>
         <a href="index.html#categories">Categories</a>
         <a href="dedication.html">Dedication</a>
@@ -30,6 +30,8 @@
       <div class="button-row">
         <a class="button secondary" href="index.html">Back to home</a>
         <a class="button secondary" href="family-cookbook.html">Family cookbook</a>
+        <a class="button secondary" href="house-staples.html">House staples</a>
+        <a class="button secondary" href="recently-added.html">Recently added</a>
       </div>
     </section>
 
@@ -41,9 +43,12 @@
         <button type="button" data-search="condiment">condiment</button>
         <button type="button" data-search="Korean Inspired">Korean Inspired</button>
         <button type="button" data-search="Vietnamese Inspired">Vietnamese Inspired</button>
+        <button type="button" data-search="Asian Inspired">Asian Inspired</button>
         <button type="button" data-search="Main Dish">main dish</button>
         <button type="button" data-search="Family Cookbook">family cookbook</button>
         <button type="button" data-search="quick pickles">quick pickles</button>
+        <button type="button" data-search="sauce-driven">sauce-driven</button>
+        <button type="button" data-search="dessert">dessert</button>
       </div>
     </section>
 
@@ -55,11 +60,11 @@
 
   <script>
     const recipes = [
-      { title: 'Bold Bulgogi Bowls', path: 'recipes/korean/bold-bulgogi-bowls.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['ground beef', 'gochujang', 'soy sauce', 'rice vinegar', 'basmati rice', 'napa cabbage', 'sour cream', 'lime'], tags: ['rice bowl', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal'] },
+      { title: 'Bold Bulgogi Bowls', path: 'recipes/korean/bold-bulgogi-bowls.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['ground beef', 'gochujang', 'soy sauce', 'rice vinegar', 'basmati rice', 'napa cabbage', 'sour cream', 'lime'], tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal'] },
       { title: 'Gochujang Crema', path: 'recipes/condiments/gochujang-crema.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Condiment', status: 'House Staple', ingredients: ['sour cream', 'gochujang', 'lime juice', 'sugar', 'water'], tags: ['sauce', 'crema', 'house staple', 'drizzle sauce'] },
-      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', collection: 'House Recipes', culture: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'crunchy'] },
-      { title: 'Lemongrass Chicken Bowls', path: 'recipes/vietnamese/lemongrass-chicken-bowls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Main Dish', status: 'Working Recipe', ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews'], tags: ['chicken bowl', 'lemongrass chicken', 'sauce-driven'] },
-      { title: 'Apple Pie', path: 'recipes/family/pies/apple-pie.html', collection: 'Family Cookbook', culture: '', category: 'Pie', status: 'Family Recipe', ingredients: ['apples', 'sugar', 'flour', 'cinnamon', 'butter', 'pie crust'], tags: ['family recipe', 'pie', 'apple', 'dessert'] }
+      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', collection: 'House Recipes', culture: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy'] },
+      { title: 'Lemongrass Chicken Bowls', path: 'recipes/vietnamese/lemongrass-chicken-bowls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Main Dish', status: 'Working Recipe', ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews'], tags: ['chicken bowl', 'lemongrass chicken', 'ginger nuoc cham', 'napa cabbage', 'sauce-driven'] },
+      { title: 'Apple Pie', path: 'recipes/family/pies/apple-pie.html', collection: 'Family Cookbook', culture: '', category: 'Pie', status: 'Family Recipe', ingredients: ['apples', 'sugar', 'flour', 'cinnamon', 'butter', 'pie crust'], tags: ['family recipe', 'pie', 'apple', 'dessert', 'family cookbook'] }
     ];
 
     const searchInput = document.getElementById('recipe-search');

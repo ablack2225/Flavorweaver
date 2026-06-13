@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Family Cookbook | Flavorweaver</title>
-  <link rel="stylesheet" href="styles.css?v=20260613-03" />
-  <link rel="stylesheet" href="site.css?v=20260613-03" />
-  <link rel="stylesheet" href="readability.css?v=20260613-03" />
+  <link rel="stylesheet" href="styles.css?v=20260613-04" />
+  <link rel="stylesheet" href="site.css?v=20260613-04" />
+  <link rel="stylesheet" href="readability.css?v=20260613-04" />
 </head>
 <body>
   <header class="site-topbar">
@@ -37,10 +37,11 @@
         </div>
         <p>Search within the preserved family cookbook, or use the category paths below to browse by recipe type.</p>
       </div>
-      <div class="quick-searches">
-        <input id="family-name-search" type="search" placeholder="Search family recipe names..." aria-label="Search family recipe names" autocomplete="off" />
+      <div class="search-panel" aria-label="Family cookbook search controls">
+        <label class="search-label" for="family-name-search">Search family recipes</label>
+        <input class="search-input" id="family-name-search" type="search" placeholder="Search family recipe names..." aria-label="Search family recipe names" autocomplete="off" />
+        <div class="tag-row" id="family-category-tags" aria-label="Family recipe categories"></div>
       </div>
-      <div class="tag-row" id="family-category-tags"></div>
       <div class="feature-grid" id="family-search-results" aria-live="polite"></div>
     </section>
 
@@ -58,7 +59,7 @@
     </section>
   </main>
 
-  <script src="family-recipe-data.js?v=20260613-03"></script>
+  <script src="family-recipe-data.js?v=20260613-04"></script>
   <script>
     const categories = window.FLAVORWEAVER_FAMILY_RECIPE_CATEGORIES || {};
     const labels = window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS || {};

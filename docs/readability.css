@@ -122,7 +122,8 @@ body::after {
   text-align: left;
 }
 
-.hero-card--archive .hero-copy {
+.hero-card--archive .hero-copy,
+.hero-card--archive .lead {
   max-width: 1180px;
   margin-left: auto;
   margin-right: auto;

@@ -17,6 +17,9 @@ tags:
   - garlic
   - creamy
 
+required_components:
+  - ginger-nuoc-cham
+
 pairs_well_with:
   - fresh-vegetable-spring-rolls
   - lemongrass-chicken-bowls
@@ -43,7 +46,7 @@ last_updated: 2026-06-13
 
 | Component | Ingredients |
 |---|---|
-| Sauce Base | Peanut butter, ginger nuoc cham, hoisin, soy sauce, garlic, ginger, lime, warm water |
+| Sauce Base | Peanut butter, [Restaurant-Style Ginger Nuoc Cham](ginger-nuoc-cham.md), hoisin, soy sauce, garlic, ginger, lime, warm water |
 | Optional Additions | Sesame oil or fresh chile |
 
 ## Measured Ingredients
@@ -51,7 +54,7 @@ last_updated: 2026-06-13
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 1/2 cup | Creamy peanut butter |  |
-| 2 Tbsp | Restaurant-Style Ginger Nuoc Cham | See linked condiment |
+| 2 Tbsp | [Restaurant-Style Ginger Nuoc Cham](ginger-nuoc-cham.md) | Required sauce component |
 | 1 Tbsp | Hoisin sauce |  |
 | 1 Tbsp | Soy sauce |  |
 | 1 clove | Garlic | Minced |
@@ -82,31 +85,16 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 |---|---|---|
 | Appetizer | [Fresh Vegetable Spring Rolls](../recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md) | Primary dipping sauce |
 | Main Dish | [Lemongrass Chicken Bowls](../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md) | Optional drizzle |
-| Condiment | [Restaurant-Style Ginger Nuoc Cham](ginger-nuoc-cham.md) | Used inside this sauce |
 
 <details>
 <summary>Flavor Architecture</summary>
 
 | Layer | Notes |
 |---|---|
-| Richness | Peanut butter and optional sesame oil. |
-| Sweetness | Hoisin and nuoc cham syrup base. |
-| Salt / Umami | Soy sauce, hoisin, fish sauce from nuoc cham. |
-| Acid | Lime and nuoc cham. |
-| Heat | Optional fresh chile. |
-| Aroma | Garlic and ginger. |
-| Texture | Creamy, smooth, and adjustable with warm water. |
-
-</details>
-
-<details>
-<summary>Change Log</summary>
-
-| Date | Change |
-|---|---|
-| 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
-| 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
-| 2026-06-11 | Converted pairing paths to clickable Markdown links. |
-| 2026-06-13 | Updated spring roll pairing to Fresh Vegetable Spring Rolls. |
+| Creamy | Peanut butter creates the body. |
+| Sweet-Salty | Ginger nuoc cham, hoisin, and soy sauce balance the base. |
+| Acid | Lime keeps the sauce from feeling heavy. |
+| Aromatic | Garlic and ginger sharpen the finish. |
+| Heat | Optional chile or cayenne can push it spicier. |
 
 </details>

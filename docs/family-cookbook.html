@@ -95,7 +95,7 @@
     const grid = document.getElementById('family-feature-grid');
     const categoryCards = Object.entries(categories).map(([slug, list]) => {
       const label = labels[slug] || slug;
-      return `<article class="feature-card"><h3>${label}</h3><p>${list.length} preserved recipe card${list.length === 1 ? '' : 's'} in this family cookbook path.</p><a href="recipes.html?category=${encodeQuery(label)}">View all ${label.toLowerCase()}</a></article>`;
+      return `<article class="feature-card"><h3>${label}</h3><p>${list.length} preserved recipe card${list.length === 1 ? '' : 's'} in this family cookbook path.</p><a href="recipes.html?category=${encodeQuery(label)}">Search Recipes</a></article>`;
     });
     grid.innerHTML = categoryCards.join('');
   </script>

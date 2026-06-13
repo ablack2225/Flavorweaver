@@ -63,7 +63,7 @@ last_updated: 2026-06-13
 | Wrappers | Rice paper wrappers |
 | Fresh Filling | Napa cabbage, cucumber, carrot, cilantro |
 | Noodle Layer | Cooked and cooled angel hair pasta |
-| Dipping Sauces | Peanut dipping sauce and Restaurant-Style Ginger Nuoc Cham |
+| Dipping Sauces | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) and [Restaurant-Style Ginger Nuoc Cham](../../../condiments/ginger-nuoc-cham.md) |
 
 ## Measured Ingredients
 
@@ -79,8 +79,8 @@ These amounts make about 8-10 vegetable spring rolls. Use them as a starting poi
 | 1 cup | Julienned carrot | Thin matchsticks roll easiest |
 | 1/2 cup | Fresh cilantro leaves | Stems removed if preferred |
 | 4 oz dry | Angel hair pasta | Cook, drain, rinse or cool, then portion into rolls |
-| For serving | Peanut Dipping Sauce | Required dipping sauce |
-| For serving | Restaurant-Style Ginger Nuoc Cham | Bright dipping sauce |
+| For serving | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) | Required dipping sauce |
+| For serving | [Restaurant-Style Ginger Nuoc Cham](../../../condiments/ginger-nuoc-cham.md) | Bright dipping sauce |
 
 ## Instructions
 

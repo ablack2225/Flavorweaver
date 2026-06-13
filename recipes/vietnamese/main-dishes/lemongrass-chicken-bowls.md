@@ -4,16 +4,16 @@ culture: Vietnamese Inspired
 category: Main Dish
 status: Working Recipe
 difficulty: Moderate
-prep_time: 35m
+prep_time: 45-60m
 cook_time: 20m
 marinate_time: 2-4h
-total_time: 2h 55m-4h 55m
-servings: 2-3
-measurement_status: partial
+total_time: 3h 5m-5h 20m
+servings: 2 bowls
+measurement_status: estimated
 
 repeat_worthy:
-hall_of_fame_candidate: false
-hall_of_fame: false
+  hall_of_fame_candidate: false
+  hall_of_fame: false
 
 tags:
   - chicken bowl
@@ -27,14 +27,17 @@ tags:
   - pickled vegetables
   - sauce-driven
   - multi-component
+  - prep-ahead
+
+required_components:
+  - ginger-nuoc-cham
+  - asian-pickled-garden-vegetables
 
 pairs_well_with:
-  - ginger-nuoc-cham
   - peanut-sauce
-  - asian-pickled-garden-vegetables
   - fresh-lemongrass-chicken-spring-rolls
 
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 ---
 
 <!-- recipe-card:start -->
@@ -47,11 +50,11 @@ last_updated: 2026-06-11
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Working Recipe | 2 hr 55 min-4 hr 55 min | 2-3 | Moderate |
+| Working Recipe | 3 hr 5 min-5 hr 20 min | 2 bowls | Moderate |
 
 | Prep Time | Cook Time | Marinate Time | Measurement Status |
 |---:|---:|---:|---|
-| 35 min | 20 min | 2-4 hr | Partial |
+| 45-60 min | 20 min | 2-4 hr | Estimated |
 
 ## Ingredient List
 
@@ -60,7 +63,8 @@ last_updated: 2026-06-11
 | Lemongrass Chicken | Chicken thighs, ginger nuoc cham, lemongrass paste, garlic, neutral oil |
 | Bowl Base | Cooked angel hair pasta |
 | Fresh Vegetables | Napa cabbage, cucumber, zucchini ribbons or matchsticks |
-| Finish | Asian pickled vegetables, crushed cashews, ginger nuoc cham |
+| Acid + Crunch | Asian pickled vegetables and crushed cashews |
+| Finish | Extra ginger nuoc cham for drizzling and serving |
 
 ## Measured Ingredients
 
@@ -68,35 +72,46 @@ last_updated: 2026-06-11
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 3 small | Boneless chicken thighs |  |
-| 2 Tbsp | Restaurant-Style Ginger Nuoc Cham | See condiment link below |
+| 3 small | Boneless chicken thighs | About 12-16 oz total |
+| 2 Tbsp | Restaurant-Style Ginger Nuoc Cham | Required for the marinade |
 | 1 Tbsp | Lemongrass paste |  |
 | 1 clove | Garlic | Minced |
 | 1 tsp | Neutral oil |  |
 
 ### Bowl Components
 
+These amounts make 2 bowls. Adjust the vegetable, noodle, sauce, and crunch levels to your liking.
+
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| As needed | Cooked angel hair pasta | Cook and cool slightly before assembling |
-| As needed | Sliced lemongrass chicken | From marinade above |
-| As needed | Shredded napa cabbage |  |
-| As needed | Julienned cucumber |  |
-| As needed | Garden zucchini ribbons or matchsticks |  |
-| As needed | Asian pickled vegetables |  |
-| As needed | Crushed cashews | For crunch |
-| Generous drizzle | Restaurant-Style Ginger Nuoc Cham | For finishing |
+| 4 oz dry | Angel hair pasta | Cook, drain, and cool slightly before assembling |
+| All | Sliced lemongrass chicken | From marinade above |
+| 2 cups | Shredded napa cabbage | About 1 cup per bowl |
+| 1 cup | Julienned cucumber | About 1/2 cup per bowl |
+| 1 cup | Garden zucchini ribbons or matchsticks | About 1/2 cup per bowl |
+| 1/2-3/4 cup | Asian pickled vegetables | For acid, crunch, and garden freshness |
+| 2-4 Tbsp | Crushed cashews | For crunch |
+| 1/4-1/2 cup | Restaurant-Style Ginger Nuoc Cham | For drizzling and serving on the side |
 
 ## Instructions
 
 | Step | Action |
 |---:|---|
-| 1 | Combine chicken thighs, ginger nuoc cham, lemongrass paste, minced garlic, and neutral oil. Marinate 2-4 hours. |
-| 2 | Cook chicken until done. Rest, then slice thinly. |
-| 3 | Cook angel hair pasta, drain, and cool slightly. |
-| 4 | Prep vegetables: shred napa cabbage, julienne cucumber, and cut zucchini into ribbons or matchsticks. |
-| 5 | Assemble bowls with angel hair pasta, sliced lemongrass chicken, cabbage, cucumber, zucchini, and Asian pickled vegetables. |
-| 6 | Drizzle generously with ginger nuoc cham and finish with crushed cashews. |
+| 1 | Combine chicken thighs, ginger nuoc cham, lemongrass paste, minced garlic, and neutral oil. Toss until the chicken is evenly coated. |
+| 2 | Cover and marinate 2-4 hours. If prepping ahead, make the ginger nuoc cham and pickled vegetables during this window if they are not already prepared. |
+| 3 | Cook the chicken until browned and cooked through. Rest 5-10 minutes, then slice thinly across the grain. |
+| 4 | Cook the angel hair pasta until tender. Drain, rinse or cool slightly, and set aside for bowl assembly. |
+| 5 | Prep the vegetables: shred napa cabbage, julienne cucumber, and cut zucchini into ribbons or matchsticks. |
+| 6 | Divide the angel hair pasta between 2 bowls. |
+| 7 | Add sliced lemongrass chicken, napa cabbage, cucumber, zucchini, and Asian pickled vegetables. |
+| 8 | Drizzle generously with ginger nuoc cham and finish with crushed cashews. |
+| 9 | Serve with extra ginger nuoc cham on the side so each bowl can be adjusted to taste. |
+
+## Chef's Notes
+
+This bowl is built around reusable Flavorweaver components: lemongrass chicken, ginger nuoc cham, pickled vegetables, and optional peanut sauce.
+
+The ingredient amounts are written as a practical starting point for 2 bowls. The final assembly should still be flexible: use more vegetables for a fresher bowl, more pasta for a heartier bowl, more pickled vegetables for brightness, or extra sauce if you want it more juicy and punchy.
 
 <!-- recipe-card:end -->
 
@@ -104,16 +119,8 @@ last_updated: 2026-06-11
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Condiment | [Restaurant-Style Ginger Nuoc Cham](../../../condiments/ginger-nuoc-cham.md) | Primary bowl sauce and marinade component |
 | Condiment | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) | Optional creamy drizzle or side sauce |
-| Condiment | [Asian Pickled Garden Vegetables](../../../condiments/asian-pickled-garden-vegetables.md) | Adds acid, crunch, and garden freshness |
 | Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Uses the same chicken and sauce set |
-
-## Chef's Notes
-
-This bowl is built around reusable Flavorweaver components: lemongrass chicken, ginger nuoc cham, pickled vegetables, and optional peanut sauce.
-
-The source recipe does not define exact amounts for the bowl assembly ingredients, so this file preserves those as flexible, build-to-taste components.
 
 ## Final Verdict
 
@@ -167,8 +174,8 @@ Timing includes vegetable prep, pasta cooking, chicken cooking, slicing, and bow
 
 **What to adjust next time:**
 
-- Confirm ideal serving count.
-- Decide preferred pasta amount per bowl.
+- Confirm whether 4 oz dry angel hair pasta is the preferred amount for 2 bowls.
+- Confirm preferred sauce level per bowl.
 - Decide whether peanut sauce belongs as an optional drizzle.
 
 </details>
@@ -187,5 +194,6 @@ Add kitchen observations, practical tips, and future refinements here.
 |---|---|
 | 2026-06-11 | Created recipe file from Lemongrass Chicken Bowls and Fresh Spring Rolls source recipe. |
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
+| 2026-06-13 | Revised public recipe-card block with estimates for 2 bowls. |
 
 </details>

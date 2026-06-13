@@ -20,12 +20,12 @@ tags:
 
 pairs_well_with:
   - lemongrass-chicken-bowls
-  - fresh-lemongrass-chicken-spring-rolls
+  - fresh-vegetable-spring-rolls
   - rice bowls
   - grilled chicken
   - fresh vegetables
 
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 ---
 
 <!-- recipe-card:start -->
@@ -94,7 +94,7 @@ Use as a dipping sauce, drizzle sauce, marinade component, or bowl finisher.
 | Type | Pairing | Notes |
 |---|---|---|
 | Main Dish | [Lemongrass Chicken Bowls](../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md) | Primary drizzle sauce |
-| Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Dipping sauce |
+| Appetizer | [Fresh Vegetable Spring Rolls](../recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md) | Dipping sauce |
 | Condiment | [Peanut Dipping Sauce](peanut-sauce.md) | Good paired dipping sauces |
 
 <details>
@@ -119,5 +119,6 @@ Use as a dipping sauce, drizzle sauce, marinade component, or bowl finisher.
 | 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
 | 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
+| 2026-06-13 | Updated spring roll pairing to Fresh Vegetable Spring Rolls. |
 
 </details>

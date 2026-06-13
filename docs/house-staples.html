@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>House Staples | Flavorweaver</title>
-  <link rel="stylesheet" href="styles.css?v=20260613-01" />
-  <link rel="stylesheet" href="site.css?v=20260613-01" />
-  <link rel="stylesheet" href="readability.css?v=20260613-01" />
+  <link rel="stylesheet" href="styles.css?v=20260613-04" />
+  <link rel="stylesheet" href="site.css?v=20260613-04" />
+  <link rel="stylesheet" href="readability.css?v=20260613-04" />
 </head>
 <body>
   <header class="site-topbar">
@@ -16,17 +16,43 @@
     </nav>
   </header>
   <main class="page-shell home-layout">
-    <section class="hero-card">
+    <section class="hero-card hero-card--archive">
       <p class="eyebrow">Archive Path</p>
       <h1>House Staples</h1>
       <p class="hero-copy">The reusable magic of the kitchen: sauces, condiments, blends, pickles, dressings, bases, and little formulas that turn ordinary meals into remembered ones.</p>
-      <div class="button-row"><a class="button primary" href="recipes.html?q=house%20staple">Search house staples</a><a class="button secondary" href="recipes.html?q=condiment">Search condiments</a><a class="button secondary" href="index.html#categories">Back to archive</a></div>
     </section>
-    <section aria-labelledby="staples-heading">
-      <div class="section-heading"><div><p class="eyebrow">Clickable paths</p><h2 id="staples-heading">Search this shelf</h2></div><p>Use these paths to jump straight into filtered recipe results.</p></div>
-      <div class="tag-row"><a class="tag" href="recipes.html?q=house%20staple">house staple</a><a class="tag" href="recipes.html?q=condiment">condiment</a><a class="tag" href="recipes.html?q=sauce">sauce</a><a class="tag" href="recipes.html?q=drizzle%20sauce">drizzle sauce</a><a class="tag" href="recipes.html?q=quick%20pickles">quick pickles</a></div>
+
+    <section class="search-panel" aria-label="House staples search controls">
+      <label class="search-label" for="staples-search">Search this shelf</label>
+      <input class="search-input" id="staples-search" type="search" placeholder="Search crema, pickles, condiment, drizzle..." autocomplete="off" />
+      <div class="quick-searches" aria-label="House staples quick filters">
+        <button type="button" data-filter="house staple">house staple</button>
+        <button type="button" data-filter="condiment">condiment</button>
+        <button type="button" data-filter="sauce">sauce</button>
+        <button type="button" data-filter="drizzle sauce">drizzle sauce</button>
+        <button type="button" data-filter="quick pickles">quick pickles</button>
+      </div>
     </section>
-    <section aria-labelledby="current-staples"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="current-staples">Built from the pantry shelf</h2></div><p>Current public pages in this path.</p></div><div class="feature-grid"><article class="feature-card"><h3>Gochujang Crema</h3><p>Creamy, tangy, lightly spicy finishing sauce.</p><a href="recipes/condiments/gochujang-crema.html">Open recipe</a></article><article class="feature-card"><h3>Asian Pickled Garden Vegetables</h3><p>Bright, crisp refrigerator pickles.</p><a href="recipes/condiments/asian-pickled-garden-vegetables.html">Open recipe</a></article><article class="feature-card"><h3>All House Staples</h3><p>Open the searchable archive filtered to reusable kitchen building blocks.</p><a href="recipes.html?q=house%20staple">Search Recipes</a></article></div></section>
+
+    <section aria-labelledby="current-staples"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="current-staples">Built from the pantry shelf</h2></div><p>Current public pages in this path.</p></div><div class="feature-grid searchable-card-grid"><article class="feature-card" data-search-card data-search="Gochujang Crema condiment sauce drizzle house staple"><h3>Gochujang Crema</h3><p>Creamy, tangy, lightly spicy finishing sauce.</p><a href="recipes/condiments/gochujang-crema.html">Open recipe</a></article><article class="feature-card" data-search-card data-search="Asian Pickled Garden Vegetables condiment quick pickles crunchy garden vegetables"><h3>Asian Pickled Garden Vegetables</h3><p>Bright, crisp refrigerator pickles.</p><a href="recipes/condiments/asian-pickled-garden-vegetables.html">Open recipe</a></article><article class="feature-card" data-search-card data-search="All House Staples house staple condiment pantry shelf"><h3>All House Staples</h3><p>Open the searchable archive filtered to reusable kitchen building blocks.</p><a href="recipes.html?q=house%20staple">Search Recipes</a></article></div></section>
   </main>
+  <script>
+    const staplesSearch = document.getElementById('staples-search');
+    const staplesCards = Array.from(document.querySelectorAll('[data-search-card]'));
+    const filterStaplesCards = (term = '') => {
+      const query = term.toLowerCase().trim();
+      staplesCards.forEach((card) => {
+        const haystack = `${card.textContent} ${card.dataset.search || ''}`.toLowerCase();
+        card.hidden = query && !haystack.includes(query);
+      });
+    };
+    staplesSearch.addEventListener('input', () => filterStaplesCards(staplesSearch.value));
+    document.querySelectorAll('[data-filter]').forEach((button) => {
+      button.addEventListener('click', () => {
+        staplesSearch.value = button.dataset.filter;
+        filterStaplesCards(staplesSearch.value);
+      });
+    });
+  </script>
 </body>
 </html>

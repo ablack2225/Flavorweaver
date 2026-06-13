@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Family Cookbook | Flavorweaver</title>
-  <link rel="stylesheet" href="styles.css?v=20260613-01" />
-  <link rel="stylesheet" href="site.css?v=20260613-01" />
-  <link rel="stylesheet" href="readability.css?v=20260613-01" />
+  <link rel="stylesheet" href="styles.css?v=20260613-02" />
+  <link rel="stylesheet" href="site.css?v=20260613-02" />
+  <link rel="stylesheet" href="readability.css?v=20260613-02" />
 </head>
 <body>
   <header class="site-topbar"><nav class="site-nav" aria-label="Flavorweaver navigation"><div class="nav-spacer" aria-hidden="true"></div><div class="nav-links"><a href="index.html">Home</a><a href="recipes.html">Search</a><a href="index.html#featured">Featured</a><a href="index.html#categories">Categories</a><a href="dedication.html">Dedication</a></div></nav></header>
@@ -17,8 +17,40 @@
       <p class="hero-copy">A preserved table of family favorites, shared recipes, handwritten notes, old clippings, and food memories that deserve to keep traveling forward.</p>
       <div class="button-row"><a class="button primary" href="recipes.html?q=Family%20Cookbook">Search family cookbook</a><a class="button secondary" href="recipes.html?q=family%20recipe">Search family recipe</a><a class="button secondary" href="dedication.html">Read dedication</a></div>
     </section>
-    <section aria-labelledby="family-tags"><div class="section-heading"><div><p class="eyebrow">Clickable paths</p><h2 id="family-tags">Search this collection</h2></div><p>Use these tags to filter family cookbook recipes by archive path, category, ingredient, or memory marker.</p></div><div class="tag-row"><a class="tag" href="recipes.html?q=Family%20Cookbook">Family Cookbook</a><a class="tag" href="recipes.html?q=family%20recipe">family recipe</a><a class="tag" href="recipes.html?q=pie">pie</a><a class="tag" href="recipes.html?q=apple">apple</a><a class="tag" href="recipes.html?q=dessert">dessert</a><a class="tag" href="recipes.html?q=preserved">preserved</a></div></section>
-    <section aria-labelledby="family-heading"><div class="section-heading"><div><p class="eyebrow">Preserved pages</p><h2 id="family-heading">Memory-bearing recipes</h2></div><p>Family recipes keep their source notes and context while becoming easier to browse and share.</p></div><div class="feature-grid"><article class="feature-card"><h3>Apple Pie</h3><p>A public family-cookbook page showing how preserved recipes can live inside the Flavorweaver site.</p><a href="recipes/family/pies/apple-pie.html">Open recipe</a></article><article class="feature-card"><h3>Family Recipe Search</h3><p>Open all family cookbook pages and memory-bearing recipes in search.</p><a href="recipes.html?q=Family%20Cookbook">Search family cookbook</a></article><article class="feature-card"><h3>Recipe Stories</h3><p>Source notes, names, and kitchen context remain part of the recipe story when they are known.</p><a href="dedication.html">Read dedication</a></article></div></section>
+
+    <section aria-labelledby="family-tags">
+      <div class="section-heading"><div><p class="eyebrow">Clickable paths</p><h2 id="family-tags">Search this collection</h2></div><p>Use these tags to filter family cookbook recipes by archive path, category, ingredient, or memory marker.</p></div>
+      <div class="tag-row" id="family-category-tags"><a class="tag" href="recipes.html?q=Family%20Cookbook">Family Cookbook</a><a class="tag" href="recipes.html?q=family%20recipe">family recipe</a></div>
+    </section>
+
+    <section aria-labelledby="family-heading">
+      <div class="section-heading"><div><p class="eyebrow">Preserved pages</p><h2 id="family-heading">Memory-bearing recipes</h2></div><p>The family cookbook archive now opens preserved Markdown recipe cards through the public website layer.</p></div>
+      <div class="feature-grid" id="family-feature-grid">
+        <article class="feature-card"><h3>Loading family archive...</h3><p>Preparing family recipe cards from the preserved source files.</p><a href="recipes.html?q=Family%20Cookbook">Search family cookbook</a></article>
+      </div>
+    </section>
   </main>
+
+  <script src="family-recipe-data.js?v=20260613-02"></script>
+  <script>
+    const categories = window.FLAVORWEAVER_FAMILY_RECIPE_CATEGORIES || {};
+    const labels = window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS || {};
+    const recipes = window.FLAVORWEAVER_FAMILY_RECIPES || [];
+    const encodeQuery = (value) => encodeURIComponent(value);
+
+    const tagMount = document.getElementById('family-category-tags');
+    tagMount.innerHTML += Object.keys(categories)
+      .map((slug) => `<a class="tag" href="recipes.html?q=${encodeQuery(labels[slug] || slug)}">${labels[slug] || slug}</a>`)
+      .join('');
+
+    const grid = document.getElementById('family-feature-grid');
+    const categoryCards = Object.entries(categories).map(([slug, list]) => {
+      const label = labels[slug] || slug;
+      const sample = recipes.find((recipe) => recipe.category === label);
+      const href = sample ? sample.path : `recipes.html?q=${encodeQuery(label)}`;
+      return `<article class="feature-card"><h3>${label}</h3><p>${list.length} preserved recipe card${list.length === 1 ? '' : 's'} in this family cookbook path.</p><a href="${href}">Open first recipe</a><br><a href="recipes.html?q=${encodeQuery(label)}">Search ${label.toLowerCase()}</a></article>`;
+    });
+    grid.innerHTML = categoryCards.join('');
+  </script>
 </body>
 </html>

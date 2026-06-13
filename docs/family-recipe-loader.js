@@ -22,6 +22,12 @@ const titleFromSlug = (sourcePath) => {
     .replace('Oreo', 'Oreo');
 };
 
+const normalizeLabel = (value) => String(value || '')
+  .trim()
+  .replace(/_/g, ' ')
+  .replace(/\s+/g, ' ')
+  .replace(/\b\w/g, (letter) => letter.toUpperCase());
+
 const parseFrontMatter = (markdown) => {
   if (!markdown.startsWith('---')) return { meta: {}, body: markdown };
   const end = markdown.indexOf('\n---', 3);
@@ -59,35 +65,110 @@ const extractRecipeCard = (body) => {
   return body.trim();
 };
 
+const extractAfterRecipeCard = (body) => {
+  const end = body.indexOf('<!-- recipe-card:end -->');
+  if (end === -1) return '';
+  return body.slice(end + '<!-- recipe-card:end -->'.length).trim();
+};
+
 const inlineMarkdown = (text) => escapeHtml(text)
   .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
   .replace(/\*(.*?)\*/g, '<em>$1</em>')
   .replace(/`([^`]+)`/g, '<code>$1</code>');
 
-const renderTable = (lines) => {
+const parseTable = (lines) => {
   const rows = lines
     .filter((line) => line.includes('|'))
-    .map((line) => line.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((cell) => inlineMarkdown(cell.trim())));
+    .map((line) => line.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((cell) => cell.trim()));
 
-  if (rows.length < 2) return '';
-  const header = rows[0];
-  const body = rows.slice(2);
+  if (rows.length < 2) return { header: [], body: [] };
+  return { header: rows[0], body: rows.slice(2) };
+};
+
+const renderRawTable = (lines) => {
+  const { header, body } = parseTable(lines);
+  if (!header.length) return '';
   return `
-    <div class="recipe-table-wrap">
-      <table>
-        <thead><tr>${header.map((cell) => `<th>${cell}</th>`).join('')}</tr></thead>
-        <tbody>${body.map((row) => `<tr>${row.map((cell) => `<td>${cell}</td>`).join('')}</tr>`).join('')}</tbody>
-      </table>
+    <div class="family-raw-table">
+      <details>
+        <summary>View preserved table</summary>
+        <table>
+          <thead><tr>${header.map((cell) => `<th>${inlineMarkdown(cell)}</th>`).join('')}</tr></thead>
+          <tbody>${body.map((row) => `<tr>${row.map((cell) => `<td>${inlineMarkdown(cell)}</td>`).join('')}</tr>`).join('')}</tbody>
+        </table>
+      </details>
     </div>
   `;
 };
 
-const markdownToHtml = (markdown) => {
+const renderComponentTable = (lines) => {
+  const { header, body } = parseTable(lines);
+  if (header[0] !== 'Component' || !body.length) return renderRawTable(lines);
+  return `
+    <div class="family-component-grid">
+      ${body.map((row) => `
+        <div class="family-component-card">
+          <strong>${inlineMarkdown(row[0] || 'Component')}</strong>
+          <p>${inlineMarkdown(row[1] || '')}</p>
+        </div>
+      `).join('')}
+    </div>
+  `;
+};
+
+const renderIngredientTable = (lines, groupTitle = 'Ingredients') => {
+  const { header, body } = parseTable(lines);
+  if (header[0] !== 'Amount' || header[1] !== 'Ingredient' || !body.length) return renderRawTable(lines);
+
+  return `
+    <div class="family-ingredient-group">
+      <h3>${inlineMarkdown(groupTitle || 'Ingredients')}</h3>
+      <ul class="family-ingredient-list">
+        ${body.map((row) => `
+          <li class="family-ingredient-item">
+            <span class="family-ingredient-amount">${inlineMarkdown(row[0] || '')}</span>
+            <span class="family-ingredient-name">
+              ${inlineMarkdown(row[1] || '')}
+              ${row[2] ? `<span class="family-ingredient-note">${inlineMarkdown(row[2])}</span>` : ''}
+            </span>
+          </li>
+        `).join('')}
+      </ul>
+    </div>
+  `;
+};
+
+const renderInstructionTable = (lines) => {
+  const { header, body } = parseTable(lines);
+  if (header[0] !== 'Step' || header[1] !== 'Action' || !body.length) return renderRawTable(lines);
+  return `<ol class="family-instruction-list">${body.map((row) => `<li>${inlineMarkdown(row[1] || row[0] || '')}</li>`).join('')}</ol>`;
+};
+
+const collectSections = (markdown) => {
+  const lines = markdown.replace(/\r\n/g, '\n').split('\n');
+  const sections = [];
+  let current = { title: '', lines: [] };
+
+  lines.forEach((line) => {
+    const heading = line.trim().match(/^##\s+(.*)$/);
+    if (heading) {
+      if (current.title || current.lines.some((entry) => entry.trim())) sections.push(current);
+      current = { title: heading[1].trim(), lines: [] };
+      return;
+    }
+
+    if (!line.trim().startsWith('# ')) current.lines.push(line);
+  });
+
+  if (current.title || current.lines.some((entry) => entry.trim())) sections.push(current);
+  return sections.filter((section) => section.title !== 'Recipe Dashboard');
+};
+
+const simpleMarkdownToHtml = (markdown) => {
   const lines = markdown.replace(/\r\n/g, '\n').split('\n');
   const html = [];
   let paragraph = [];
   let list = [];
-  let table = [];
 
   const flushParagraph = () => {
     if (paragraph.length) {
@@ -98,43 +179,24 @@ const markdownToHtml = (markdown) => {
 
   const flushList = () => {
     if (list.length) {
-      html.push(`<ul>${list.map((item) => `<li>${inlineMarkdown(item)}</li>`).join('')}</ul>`);
+      html.push(`<ul class="recipe-list">${list.map((item) => `<li>${inlineMarkdown(item)}</li>`).join('')}</ul>`);
       list = [];
-    }
-  };
-
-  const flushTable = () => {
-    if (table.length) {
-      html.push(renderTable(table));
-      table = [];
     }
   };
 
   lines.forEach((line) => {
     const trimmed = line.trim();
-
     if (!trimmed) {
       flushParagraph();
       flushList();
-      flushTable();
       return;
     }
 
-    if (trimmed.includes('|') && !trimmed.startsWith('>')) {
-      flushParagraph();
-      flushList();
-      table.push(trimmed);
-      return;
-    }
-
-    flushTable();
-
-    const heading = trimmed.match(/^(#{1,4})\s+(.*)$/);
+    const heading = trimmed.match(/^#{3,4}\s+(.*)$/);
     if (heading) {
       flushParagraph();
       flushList();
-      const level = Math.min(heading[1].length + 1, 4);
-      html.push(`<h${level}>${inlineMarkdown(heading[2])}</h${level}>`);
+      html.push(`<h3>${inlineMarkdown(heading[1])}</h3>`);
       return;
     }
 
@@ -148,7 +210,7 @@ const markdownToHtml = (markdown) => {
     if (trimmed.startsWith('>')) {
       flushParagraph();
       flushList();
-      html.push(`<blockquote>${inlineMarkdown(trimmed.replace(/^>\s?/, ''))}</blockquote>`);
+      html.push(`<p class="recipe-note">${inlineMarkdown(trimmed.replace(/^>\s?/, ''))}</p>`);
       return;
     }
 
@@ -157,9 +219,44 @@ const markdownToHtml = (markdown) => {
 
   flushParagraph();
   flushList();
-  flushTable();
-
   return html.join('\n');
+};
+
+const renderSection = (section) => {
+  const title = section.title;
+  const lines = section.lines;
+  const nonEmpty = lines.filter((line) => line.trim());
+  const tableLines = nonEmpty.filter((line) => line.includes('|'));
+  const h3 = nonEmpty.find((line) => /^###\s+/.test(line.trim()))?.trim().replace(/^###\s+/, '');
+
+  if (title === 'Ingredient List') {
+    return `<section class="family-recipe-section"><h2 class="family-section-title">Ingredient List</h2>${renderComponentTable(tableLines)}</section>`;
+  }
+
+  if (title === 'Measured Ingredients') {
+    return `<section class="family-recipe-section"><h2 class="family-section-title">Measured Ingredients</h2><div class="family-ingredient-groups">${renderIngredientTable(tableLines, h3 || 'Ingredients')}</div></section>`;
+  }
+
+  if (title === 'Instructions') {
+    return `<section class="family-recipe-section"><h2 class="family-section-title">Instructions</h2>${renderInstructionTable(tableLines)}</section>`;
+  }
+
+  const contentWithoutH3 = lines.filter((line) => !/^###\s+/.test(line.trim())).join('\n').trim();
+  return `<section class="family-recipe-section"><h2 class="family-section-title">${inlineMarkdown(title || 'Recipe Notes')}</h2>${simpleMarkdownToHtml(contentWithoutH3)}</section>`;
+};
+
+const renderNotes = (notesMarkdown) => {
+  if (!notesMarkdown.trim()) return '';
+  const cleaned = notesMarkdown.replace(/^##\s+Notes\s*/m, '').trim();
+  if (!cleaned) return '';
+  return `
+    <section class="family-recipe-section">
+      <h2 class="family-section-title">Family Notes</h2>
+      <div class="family-note-grid">
+        <div class="family-note-card">${simpleMarkdownToHtml(cleaned)}</div>
+      </div>
+    </section>
+  `;
 };
 
 const buildSourceUrl = (sourcePath) => `${REPO_RAW_BASE}${encodeURI(sourcePath).replace(/#/g, '%23')}`;
@@ -169,6 +266,8 @@ const loadFamilyRecipeCard = async () => {
   const sourcePath = params.get('source');
   const mount = document.getElementById('family-recipe-card');
   const rawLink = document.getElementById('source-link');
+  const sourceLine = document.getElementById('family-source-line');
+  const categorySearchLink = document.getElementById('category-search-link');
 
   if (!sourcePath) {
     mount.innerHTML = '<div class="empty-state">No family recipe source was provided.</div>';
@@ -186,22 +285,42 @@ const loadFamilyRecipeCard = async () => {
     const markdown = await response.text();
     const { meta, body } = parseFrontMatter(markdown);
     const recipeCard = extractRecipeCard(body);
+    const notes = extractAfterRecipeCard(body);
     const title = meta.name || titleFromSlug(sourcePath);
     const summaryMatch = recipeCard.match(/^>\s+(.*)$/m);
     const summary = summaryMatch ? summaryMatch[1] : 'A preserved family recipe from the Flavorweaver family cookbook archive.';
     const tags = Array.isArray(meta.tags) ? meta.tags : [];
+    const category = meta.category || 'Family Cookbook';
 
     document.title = `${title} | Flavorweaver`;
     document.getElementById('recipe-title').textContent = title;
     document.getElementById('recipe-summary').textContent = summary;
-    document.getElementById('recipe-kicker').textContent = meta.category ? `Family Cookbook · ${meta.category}` : 'Family Cookbook';
+    document.getElementById('recipe-kicker').textContent = `Family Cookbook · ${category}`;
+
+    categorySearchLink.href = `../../recipes.html?q=${encodeURIComponent(category)}`;
+    categorySearchLink.textContent = `Search ${category}`;
+
+    const sourcePills = [
+      ['Source', meta.family_source || 'Family recipe archive'],
+      ['Category', category],
+      ['Status', meta.status || 'Preserved']
+    ];
+
+    sourceLine.hidden = false;
+    sourceLine.innerHTML = sourcePills
+      .map(([label, value]) => `<span class="family-source-pill">${escapeHtml(label)}: ${escapeHtml(value)}</span>`)
+      .join('');
 
     const dashboard = [
-      ['Status', meta.status || 'Family Recipe'],
-      ['Source', meta.family_source || 'Family recipe archive'],
-      ['Total Time', meta.total_time || meta.printed_prep_time || 'Not specified'],
-      ['Servings', meta.servings || 'Not specified']
+      ['Prep', meta.prep_time || meta.printed_prep_time || 'Not specified'],
+      ['Bake/Cook', meta.bake_time || meta.cook_time || 'Not specified'],
+      ['Total', meta.total_time || meta.printed_prep_time || 'Not specified'],
+      ['Serves', meta.servings || 'Not specified']
     ];
+
+    const sections = collectSections(recipeCard)
+      .map(renderSection)
+      .join('\n');
 
     mount.innerHTML = `
       <section class="recipe-section">
@@ -211,11 +330,19 @@ const loadFamilyRecipeCard = async () => {
         </div>
       </section>
 
-      <section class="recipe-section recipe-source-card">
-        ${markdownToHtml(recipeCard)}
-      </section>
+      ${sections}
+
+      ${renderNotes(notes)}
 
       ${tags.length ? `<section class="recipe-section"><h2>Tags</h2><div class="recipe-tag-row">${tags.map((tag) => `<a class="recipe-tag" href="../../recipes.html?q=${encodeURIComponent(tag)}">${escapeHtml(tag)}</a>`).join('')}</div></section>` : ''}
+
+      <section class="family-recipe-section">
+        <h2 class="family-section-title">Preservation</h2>
+        <div class="family-provenance-card">
+          <strong>Source path</strong>
+          <p>${escapeHtml(sourcePath)}</p>
+        </div>
+      </section>
     `;
   } catch (error) {
     mount.innerHTML = `

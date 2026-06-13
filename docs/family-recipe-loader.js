@@ -6,6 +6,8 @@ const escapeHtml = (value) => String(value ?? '')
   .replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;');
 
+const normalizeValue = (value) => String(value || '').trim().toLowerCase();
+
 const titleFromSlug = (sourcePath) => {
   const slug = String(sourcePath || '').split('/').pop().replace(/\.md$/, '');
   return slug
@@ -21,12 +23,6 @@ const titleFromSlug = (sourcePath) => {
     .replace('Jalapeno', 'Jalapeño')
     .replace('Oreo', 'Oreo');
 };
-
-const normalizeLabel = (value) => String(value || '')
-  .trim()
-  .replace(/_/g, ' ')
-  .replace(/\s+/g, ' ')
-  .replace(/\b\w/g, (letter) => letter.toUpperCase());
 
 const parseFrontMatter = (markdown) => {
   if (!markdown.startsWith('---')) return { meta: {}, body: markdown };
@@ -261,11 +257,25 @@ const renderNotes = (notesMarkdown) => {
 
 const buildSourceUrl = (sourcePath) => `${REPO_RAW_BASE}${encodeURI(sourcePath).replace(/#/g, '%23')}`;
 
+const publicTags = (tags, category) => {
+  const blocked = new Set([
+    'family recipe',
+    'family cookbook',
+    normalizeValue(category)
+  ]);
+  const seen = new Set();
+  return tags.filter((tag) => {
+    const key = normalizeValue(tag);
+    if (!key || blocked.has(key) || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+};
+
 const loadFamilyRecipeCard = async () => {
   const params = new URLSearchParams(window.location.search);
   const sourcePath = params.get('source');
   const mount = document.getElementById('family-recipe-card');
-  const rawLink = document.getElementById('source-link');
   const sourceLine = document.getElementById('family-source-line');
   const categorySearchLink = document.getElementById('category-search-link');
 
@@ -275,8 +285,6 @@ const loadFamilyRecipeCard = async () => {
   }
 
   const rawUrl = buildSourceUrl(sourcePath);
-  rawLink.href = rawUrl;
-  rawLink.hidden = false;
 
   try {
     const response = await fetch(rawUrl);
@@ -289,27 +297,18 @@ const loadFamilyRecipeCard = async () => {
     const title = meta.name || titleFromSlug(sourcePath);
     const summaryMatch = recipeCard.match(/^>\s+(.*)$/m);
     const summary = summaryMatch ? summaryMatch[1] : 'A preserved family recipe from the Flavorweaver family cookbook archive.';
-    const tags = Array.isArray(meta.tags) ? meta.tags : [];
     const category = meta.category || 'Family Cookbook';
+    const tags = publicTags(Array.isArray(meta.tags) ? meta.tags : [], category);
 
     document.title = `${title} | Flavorweaver`;
     document.getElementById('recipe-title').textContent = title;
     document.getElementById('recipe-summary').textContent = summary;
-    document.getElementById('recipe-kicker').textContent = `Family Cookbook · ${category}`;
+    document.getElementById('recipe-kicker').textContent = category === 'Family Cookbook' ? 'Family Cookbook' : `Family Cookbook · ${category}`;
 
-    categorySearchLink.href = `../../recipes.html?q=${encodeURIComponent(category)}`;
-    categorySearchLink.textContent = `Search ${category}`;
+    if (sourceLine) sourceLine.hidden = true;
 
-    const sourcePills = [
-      ['Source', meta.family_source || 'Family recipe archive'],
-      ['Category', category],
-      ['Status', meta.status || 'Preserved']
-    ];
-
-    sourceLine.hidden = false;
-    sourceLine.innerHTML = sourcePills
-      .map(([label, value]) => `<span class="family-source-pill">${escapeHtml(label)}: ${escapeHtml(value)}</span>`)
-      .join('');
+    categorySearchLink.href = `../../recipes.html?category=${encodeURIComponent(category)}`;
+    categorySearchLink.textContent = category === 'Family Cookbook' ? 'Search family cookbook' : `Search ${category}`;
 
     const dashboard = [
       ['Prep', meta.prep_time || meta.printed_prep_time || 'Not specified'],
@@ -335,20 +334,12 @@ const loadFamilyRecipeCard = async () => {
       ${renderNotes(notes)}
 
       ${tags.length ? `<section class="recipe-section"><h2>Tags</h2><div class="recipe-tag-row">${tags.map((tag) => `<a class="recipe-tag" href="../../recipes.html?q=${encodeURIComponent(tag)}">${escapeHtml(tag)}</a>`).join('')}</div></section>` : ''}
-
-      <section class="family-recipe-section">
-        <h2 class="family-section-title">Preservation</h2>
-        <div class="family-provenance-card">
-          <strong>Source path</strong>
-          <p>${escapeHtml(sourcePath)}</p>
-        </div>
-      </section>
     `;
   } catch (error) {
     mount.innerHTML = `
       <div class="empty-state">
-        This recipe card could not load from the Markdown source.
-        <a href="${rawUrl}">Open the source recipe</a>.
+        This recipe card could not load right now.
+        <a href="../../family-cookbook.html">Return to the family cookbook</a>.
       </div>
     `;
   }

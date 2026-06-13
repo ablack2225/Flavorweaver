@@ -1,0 +1,97 @@
+body {
+  background:
+    radial-gradient(circle at 18% 13%, rgba(255, 196, 93, 0.12), transparent 12rem),
+    radial-gradient(circle at 86% 12%, rgba(76, 204, 232, 0.14), transparent 24rem),
+    radial-gradient(circle at 20% 7%, rgba(159, 127, 232, 0.11), transparent 26rem),
+    linear-gradient(180deg, #081827 0%, #0a1018 45%, #07090d 100%);
+}
+
+.site-topbar {
+  background: rgba(8, 24, 39, 0.72);
+  border-bottom-color: rgba(76, 204, 232, 0.12);
+  box-shadow: none;
+}
+
+.hero-card {
+  background: transparent;
+  border-bottom: 0;
+  box-shadow: none;
+}
+
+.hero-card--home {
+  display: block;
+  text-align: left;
+  overflow: visible;
+}
+
+.hero-card--home h1 {
+  text-shadow: none;
+}
+
+.hero-card--home .hero-content {
+  position: relative;
+  z-index: 2;
+  width: min(1180px, calc(100% - 32px));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-flourish {
+  color: var(--bottle-blue);
+  text-shadow:
+    0 0 12px var(--bottle-glow),
+    0 0 22px rgba(76, 204, 232, 0.18),
+    0 1px 2px rgba(0, 0, 0, 0.72);
+  animation: flavorweaver-breath-blue 7.5s ease-in-out infinite;
+}
+
+.hero-flourish::before,
+.hero-flourish::after {
+  opacity: 0.7;
+  background: linear-gradient(90deg, var(--bottle-blue), var(--violet), var(--candle), transparent);
+  animation: flavorweaver-line-breathe 7.5s ease-in-out infinite;
+}
+
+@keyframes flavorweaver-breath-blue {
+  0%, 100% {
+    opacity: 0.78;
+    color: var(--bottle-blue);
+    text-shadow:
+      0 0 10px var(--bottle-glow),
+      0 1px 2px rgba(0, 0, 0, 0.72);
+    transform: scale(0.996);
+  }
+
+  50% {
+    opacity: 1;
+    color: #b4f3ff;
+    text-shadow:
+      0 0 24px rgba(76, 204, 232, 0.5),
+      0 0 18px var(--violet-soft),
+      0 0 14px var(--candle-soft),
+      0 1px 2px rgba(0, 0, 0, 0.72);
+    transform: scale(1.003);
+  }
+}
+
+@keyframes flavorweaver-line-breathe {
+  0%, 100% {
+    opacity: 0.36;
+    transform: scaleX(0.92);
+    transform-origin: left center;
+  }
+
+  50% {
+    opacity: 0.92;
+    transform: scaleX(1);
+    transform-origin: left center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-flourish,
+  .hero-flourish::before,
+  .hero-flourish::after {
+    animation: none;
+  }
+}

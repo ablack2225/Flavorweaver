@@ -37,9 +37,8 @@
 
     <section class="search-panel" aria-label="Recipe search controls">
       <label class="search-label" for="recipe-search">Search recipes</label>
-      <input class="search-input" id="recipe-search" type="search" placeholder="Try pecan pie, cornbread, cookies, sides, Korean, gochujang, family..." autocomplete="off" />
+      <input class="search-input" id="recipe-search" type="search" placeholder="Try pecan pie, cornbread, cookies, sides, Korean, gochujang..." autocomplete="off" />
       <div class="quick-searches" aria-label="Quick searches">
-        <button type="button" data-search="Family Cookbook">family cookbook</button>
         <button type="button" data-category="Pies">pies</button>
         <button type="button" data-category="Cakes">cakes</button>
         <button type="button" data-category="Cake Frostings">cake frostings</button>
@@ -47,7 +46,13 @@
         <button type="button" data-category="Main Dishes">main dishes</button>
         <button type="button" data-category="Sides">sides</button>
         <button type="button" data-category="Breads">breads</button>
+        <button type="button" data-category="Breakfast">breakfast</button>
         <button type="button" data-category="Desserts">desserts</button>
+        <button type="button" data-category="Salads, Slaws, and Dips">salads, slaws & dips</button>
+        <button type="button" data-category="Soups and Stews">soups & stews</button>
+        <button type="button" data-category="Homemade Pickles">homemade pickles</button>
+        <button type="button" data-category="Beverages">beverages</button>
+        <button type="button" data-category="Appetizers">appetizers</button>
         <button type="button" data-search="house staple">house staple</button>
         <button type="button" data-search="condiment">condiment</button>
         <button type="button" data-search="Korean Inspired">Korean Inspired</button>
@@ -133,7 +138,7 @@
     const renderRecipes = (items, label = '') => {
       countEl.textContent = label ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.` : `Showing ${items.length} recipe pages.`;
       if (!items.length) {
-        resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like family, pie, cookies, sides, sauce, chicken, or Korean.</div>';
+        resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like pie, cookies, sides, sauce, chicken, Korean, or Vietnamese.</div>';
         return;
       }
 

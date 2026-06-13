@@ -4,9 +4,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Family Recipe | Flavorweaver</title>
-  <link rel="stylesheet" href="../../styles.css?v=20260613-02" />
-  <link rel="stylesheet" href="../../site.css?v=20260613-02" />
-  <link rel="stylesheet" href="../../readability.css?v=20260613-02" />
+  <link rel="stylesheet" href="../../styles.css?v=20260613-03" />
+  <link rel="stylesheet" href="../../site.css?v=20260613-03" />
+  <link rel="stylesheet" href="../../readability.css?v=20260613-03" />
+  <link rel="stylesheet" href="../../family-recipe.css?v=20260613-03" />
 </head>
 <body>
   <header class="site-topbar">
@@ -22,12 +23,13 @@
     </nav>
   </header>
 
-  <main class="page-shell recipe-page">
+  <main class="page-shell recipe-page family-recipe-page">
     <article class="recipe-page-card">
       <p class="recipe-kicker" id="recipe-kicker">Family Cookbook</p>
       <h1 class="recipe-title" id="recipe-title">Loading family recipe...</h1>
       <p class="recipe-summary" id="recipe-summary">Opening a preserved recipe card from the Flavorweaver family archive.</p>
-      <div id="family-recipe-card">
+      <div class="family-source-line" id="family-source-line" hidden></div>
+      <div id="family-recipe-card" class="family-recipe-card">
         <div class="empty-state">Loading recipe card...</div>
       </div>
     </article>
@@ -36,6 +38,7 @@
       <h2>Archive Links</h2>
       <ul class="sidebar-link-list">
         <li><a href="../../family-cookbook.html">Family Cookbook</a></li>
+        <li><a id="category-search-link" href="../../recipes.html?q=Family%20Cookbook">Search this category</a></li>
         <li><a href="../../recipes.html?q=Family%20Cookbook">Search family cookbook</a></li>
         <li><a href="../../recipes.html?q=family%20recipe">Search family recipes</a></li>
         <li><a href="../../dedication.html">Dedication</a></li>
@@ -45,6 +48,6 @@
     </aside>
   </main>
 
-  <script src="../../family-recipe-loader.js?v=20260613-02"></script>
+  <script src="../../family-recipe-loader.js?v=20260613-03"></script>
 </body>
 </html>

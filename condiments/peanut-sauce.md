@@ -18,13 +18,13 @@ tags:
   - creamy
 
 pairs_well_with:
-  - fresh-lemongrass-chicken-spring-rolls
+  - fresh-vegetable-spring-rolls
   - lemongrass-chicken-bowls
   - fresh vegetables
   - grilled chicken
   - noodle bowls
 
-last_updated: 2026-06-11
+last_updated: 2026-06-13
 ---
 
 <!-- recipe-card:start -->
@@ -80,7 +80,7 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Appetizer | [Fresh Lemongrass Chicken Spring Rolls](../recipes/vietnamese/appetizers/fresh-lemongrass-chicken-spring-rolls.md) | Primary dipping sauce |
+| Appetizer | [Fresh Vegetable Spring Rolls](../recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md) | Primary dipping sauce |
 | Main Dish | [Lemongrass Chicken Bowls](../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md) | Optional drizzle |
 | Condiment | [Restaurant-Style Ginger Nuoc Cham](ginger-nuoc-cham.md) | Used inside this sauce |
 
@@ -107,5 +107,6 @@ This sauce is meant to be flexible. Use less water for a thicker dipping sauce o
 | 2026-06-11 | Filled placeholder condiment file from Lemongrass Chicken Bowls and Spring Rolls source recipe. |
 | 2026-06-11 | Updated pairing links for nested Vietnamese recipe category structure. |
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
+| 2026-06-13 | Updated spring roll pairing to Fresh Vegetable Spring Rolls. |
 
 </details>

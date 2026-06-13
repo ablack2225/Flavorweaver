@@ -46,8 +46,8 @@ window.FLAVORWEAVER_FAMILY_RECIPES = Object.entries(window.FLAVORWEAVER_FAMILY_R
       collection: 'Family Cookbook',
       culture: '',
       category,
-      status: 'Family Recipe',
+      status: '',
       ingredients: [],
-      tags: ['family recipe', 'family cookbook', category.toLowerCase(), categorySlug.replaceAll('-', ' ')]
+      tags: []
     };
   }));

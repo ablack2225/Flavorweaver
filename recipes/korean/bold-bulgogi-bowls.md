@@ -22,27 +22,29 @@ tags:
   - gochujang
   - ginger
   - garlic
-  - pickled cucumbers
+  - asian pickled vegetables
   - sauce-driven
   - weeknight favorite
   - multi-component
+  - top 10 meal
 
 pairs_well_with:
-  - asian-pickled-garden-vegetables
-  - gochujang-crema
-  - cucumber salad
-  - scallion pancakes
   - kimchi
+  - scallion pancakes
   - iced tea
 
-last_updated: 2026-06-11
+required_components:
+  - asian-pickled-garden-vegetables
+  - gochujang-crema
+
+last_updated: 2026-06-13
 ---
 
 <!-- recipe-card:start -->
 
 # Bold Bulgogi Bowls
 
-> Sweet, savory, tangy, spicy, and fresh Korean-inspired beef bowls with toasted rice, pickled cucumbers, glossy bulgogi beef, stir-fried vegetables, and gochujang crema.
+> Sweet, savory, tangy, spicy, and fresh Korean-inspired beef bowls with toasted rice, Asian pickled garden vegetables, glossy bulgogi beef, stir-fried vegetables, and gochujang crema.
 
 ## Recipe Dashboard
 
@@ -59,11 +61,11 @@ last_updated: 2026-06-11
 | Component | Ingredients |
 |---|---|
 | Rice | Basmati rice, chicken broth, butter, onion, bay leaf, salt |
-| Pickled Cucumbers | Cucumber, rice vinegar, sugar, salt, red pepper flakes |
+| Pickled Vegetables | Asian Pickled Garden Vegetables |
 | Beef | Ground beef, green onions, sesame seeds |
 | Sauce | Soy sauce, dark soy sauce, brown sugar, honey, sesame oil, canned pear, ginger paste, garlic, rice vinegar, gochujang |
 | Vegetables | Napa cabbage, carrots, sesame oil, salt |
-| Crema | Sour cream, gochujang, lime, sugar |
+| Gochujang Crema | Gochujang Crema |
 | Optional | Jammy eggs, sesame oil |
 
 ## Measured Ingredients
@@ -79,15 +81,11 @@ last_updated: 2026-06-11
 | 1 | Bay leaf | Remove before serving |
 | Pinch | Salt | To taste |
 
-### Pickled Cucumbers
+### Pickled Vegetables
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 | Cucumber | Thinly sliced |
-| 2 Tbsp | Rice vinegar |  |
-| 1 tsp | Sugar |  |
-| 1/4 tsp | Salt |  |
-| Pinch | Red pepper flakes |  |
+| 1 batch, or about 1 to 1 1/2 cups | [Asian Pickled Garden Vegetables](../condiments/asian-pickled-garden-vegetables.md) | Required bowl component; drain lightly before serving |
 
 ### Bulgogi Beef
 
@@ -121,15 +119,11 @@ last_updated: 2026-06-11
 | 1 tsp | Sesame oil |  |
 | Pinch | Salt |  |
 
-### Crema
+### Gochujang Crema
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1/4 cup | Sour cream |  |
-| 2 tsp | Gochujang |  |
-| Squeeze | Lime |  |
-| Pinch | Sugar |  |
-| As needed | Water | Optional, for thinning |
+| 1 batch, or about 1/2 cup | [Gochujang Crema](../condiments/gochujang-crema.md) | Required finishing sauce; drizzle over assembled bowls |
 
 ### Optional
 
@@ -142,27 +136,13 @@ last_updated: 2026-06-11
 
 | Step | Action |
 |---:|---|
-| 1 | Toss cucumber with rice vinegar, sugar, salt, and red pepper flakes. Refrigerate while preparing the rest. |
+| 1 | Prepare the Asian Pickled Garden Vegetables and Gochujang Crema, or have them ready before assembling the bowls. |
 | 2 | Rinse rice until water runs mostly clear. Melt butter in a skillet, saute onion until translucent, then toast rice for 2-3 minutes. Transfer to rice cooker with broth, bay leaf, and salt. Cook according to rice cooker directions, remove bay leaf, and fluff. |
 | 3 | Whisk together soy sauce, dark soy sauce, brown sugar, honey, sesame oil, pear, ginger paste, garlic, rice vinegar, and gochujang. |
 | 4 | Brown beef thoroughly over medium-high heat, breaking it into crumbles. Add green onion whites and cook 1 minute. Add sauce and simmer until glossy and slightly thickened, about 3-5 minutes. Stir in sesame seeds. |
 | 5 | Stir-fry cabbage and carrots in sesame oil for 2-3 minutes, keeping some crunch. Season lightly with salt. |
-| 6 | Stir together sour cream, gochujang, lime juice, and sugar. Thin with a teaspoon of water if needed for drizzling. |
-| 7 | Assemble bowls with rice, vegetables, bulgogi beef, pickled cucumbers, green onion tops, gochujang crema, and sesame seeds. |
-| 8 | Optional: top with halved jammy egg and a light drizzle of sesame oil. |
-
-<!-- recipe-card:end -->
-
-## Pairs Well With
-
-| Type | Pairing | Notes |
-|---|---|---|
-| Condiment | [Asian Pickled Garden Vegetables](../../condiments/asian-pickled-garden-vegetables.md) | Acid, crunch, freshness |
-| Condiment | [Gochujang Crema](../../condiments/gochujang-crema.md) | Creamy heat |
-| Side | Cucumber Salad | Fresh cooling contrast |
-| Side | Kimchi | Fermented heat and acid |
-| Bread | Scallion Pancakes | Future pairing idea |
-| Beverage | Iced Tea or Citrus Drink | Cuts richness |
+| 6 | Assemble bowls with toasted rice, stir-fried vegetables, bulgogi beef, Asian Pickled Garden Vegetables, green onion tops, Gochujang Crema, and sesame seeds. |
+| 7 | Optional: top with halved jammy egg and a light drizzle of sesame oil. |
 
 ## Chef's Notes
 
@@ -171,6 +151,16 @@ The canned pear is the secret ingredient. It adds subtle sweetness, moisture, an
 The gochujang should be noticeable. For bolder flavor, stir an extra teaspoon into the beef while simmering or serve extra at the table.
 
 The ideal finished bowl is sweet, savory, tangy, spicy, and fresh.
+
+<!-- recipe-card:end -->
+
+## Pairs Well With
+
+| Type | Pairing | Notes |
+|---|---|---|
+| Side | Kimchi | Fermented heat and acid |
+| Bread | Scallion Pancakes | Future pairing idea |
+| Beverage | Iced Tea or Citrus Drink | Cuts richness |
 
 ## Final Verdict
 
@@ -193,12 +183,12 @@ Yes.
 | Layer | Notes |
 |---|---|
 | Richness | Beef, toasted rice, sesame oil, crema, and optional jammy egg. |
-| Freshness | Pickled cucumber, cabbage, carrots, green onion, lime. |
-| Acid / Brightness | Rice vinegar, pickles, and lime. |
-| Heat | Gochujang and red pepper flakes. |
+| Freshness | Asian pickled garden vegetables, cabbage, carrots, green onion, lime. |
+| Acid / Brightness | Rice vinegar, pickled vegetables, and lime. |
+| Heat | Gochujang, crema, and fermented chile depth. |
 | Sweetness | Brown sugar, honey, and canned pear. |
 | Umami | Soy sauce, dark soy sauce, beef, gochujang, and browning. |
-| Texture | Tender beef, fluffy rice, crisp vegetables, pickled cucumber, and creamy drizzle. |
+| Texture | Tender beef, fluffy rice, crisp vegetables, pickled vegetables, and creamy drizzle. |
 | Sauce / Moisture | Bulgogi sauce coats beef; crema finishes the bowl. |
 | Aroma | Garlic, ginger, sesame oil, browned beef, and toasted rice. |
 
@@ -207,7 +197,7 @@ Yes.
 <details>
 <summary>Flavorweaver Direction</summary>
 
-This recipe succeeds because it is not just beef over rice. It is built from components: toasted rice, glossy beef, pickled cucumber, fresh vegetables, crema, and optional egg.
+This recipe succeeds because it is not just beef over rice. It is built from components: toasted rice, glossy beef, pickled garden vegetables, fresh vegetables, crema, and optional egg.
 
 The Flavorweaver direction favors bold gochujang presence, strong garlic and ginger, balanced sweetness, and fresh acidic lift.
 
@@ -216,9 +206,9 @@ The Flavorweaver direction favors bold gochujang presence, strong garlic and gin
 <details>
 <summary>Timing Notes</summary>
 
-This is a multi-component bowl. The total time should account for slicing cucumbers, rinsing and toasting rice, mixing the sauce, prepping vegetables, making crema, browning beef, and assembling bowls.
+This is a multi-component bowl. The total time should account for preparing or pulling forward the pickled vegetables and crema, rinsing and toasting rice, mixing the sauce, prepping vegetables, browning beef, and assembling bowls.
 
-The recipe may feel faster once the sauce, pickles, or vegetables are prepped ahead.
+The recipe may feel faster once the sauce, pickled vegetables, or crema are prepped ahead.
 
 </details>
 
@@ -233,7 +223,7 @@ The recipe may feel faster once the sauce, pickles, or vegetables are prepped ah
 
 - Canned pear added depth and moisture.
 - Gochujang was important to the identity of the bowl.
-- Pickled cucumber and vegetables kept the bowl fresh.
+- Asian pickled garden vegetables kept the bowl fresh.
 - Crema helped tie the bowl together.
 
 **What to adjust next time:**
@@ -267,5 +257,6 @@ Rated as a Top 10 meal.
 | 2026-06-11 | Simplified metadata and notes to remove recipe-page-specific author labels. |
 | 2026-06-11 | Updated difficulty and timing to account for multi-component prep work. |
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
+| 2026-06-13 | Corrected required components: Asian Pickled Garden Vegetables and Gochujang Crema are recipe components, not Pairs Well With items. |
 
 </details>

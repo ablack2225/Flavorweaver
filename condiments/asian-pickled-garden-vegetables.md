@@ -26,12 +26,12 @@ tags:
 pairs_well_with:
   - bold-bulgogi-bowls
   - lemongrass-chicken-bowls
+  - fresh-vegetable-spring-rolls
   - rice bowls
   - grilled meats
-  - spring rolls
   - noodle bowls
 
-last_updated: 2026-06-12
+last_updated: 2026-06-13
 ---
 
 <!-- recipe-card:start -->
@@ -97,6 +97,14 @@ last_updated: 2026-06-12
 | 5 | Refrigerate until ready to serve. |
 | 6 | Before serving, drain lightly. Add sesame oil and sesame seeds if using. |
 
+## Chef's Notes
+
+Cucumbers can be used in place of the zucchini and yellow squash when you want a more classic cucumber-style quick pickle or when garden squash is not available.
+
+The sesame oil and sesame seeds are optional, but those two little additions make the pickles feel much more restaurant-style.
+
+Drain lightly before serving so the vegetables stay bright and crisp without flooding the plate or bowl.
+
 <!-- recipe-card:end -->
 
 ## Timing Notes
@@ -106,21 +114,16 @@ last_updated: 2026-06-12
 | Good | 2-4 hours | Vegetables will be lightly pickled and fresh. |
 | Better | Overnight | Flavor develops more fully. |
 
-## Chef's Notes
-
-The sesame oil and sesame seeds are optional, but those two little additions make the pickles feel much more restaurant-style.
-
-Drain lightly before serving so the vegetables stay bright and crisp without flooding the plate or bowl.
-
 ## Pairs Well With
 
 | Type | Pairing | Notes |
 |---|---|---|
 | Main Dish | [Bold Bulgogi Bowls](../recipes/korean/bold-bulgogi-bowls.md) | Acid, crunch, and freshness against rich bulgogi beef |
 | Main Dish | [Lemongrass Chicken Bowls](../recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md) | Fresh acidic lift for rice or noodle bowls |
-| Condiment | [Restaurant-Style Ginger Nuoc Cham](ginger-nuoc-cham.md) | Bright sauce pairing for Vietnamese-inspired meals |
+| Appetizer | [Fresh Vegetable Spring Rolls](../recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md) | Fresh crunch and brightness alongside vegetable rolls |
 | Bowl Component | Rice bowls | Adds crunch and acidity |
-| Appetizer | Spring rolls | Can be tucked into fresh rolls or served alongside |
+| Main Dish | Grilled meats | Bright contrast to rich or smoky proteins |
+| Main Dish | Noodle bowls | Adds garden crunch and acid |
 
 <details>
 <summary>Flavor Architecture</summary>
@@ -180,5 +183,6 @@ Use whatever jar or container fits the vegetables comfortably. Stir or shake aft
 | Date | Change |
 |---|---|
 | 2026-06-12 | Filled placeholder condiment file from printed Amy & Don recipe for Asian Pickled Garden Vegetables. |
+| 2026-06-13 | Added public cucumber substitution note and updated pairings. |
 
 </details>

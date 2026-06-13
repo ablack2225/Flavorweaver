@@ -81,6 +81,8 @@
 .premium-ingredient-amount {
   color: var(--candle);
   font-weight: 900;
+  margin-right: 0.35rem;
+  white-space: nowrap;
 }
 
 .premium-ingredient-name {

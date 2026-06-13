@@ -1,0 +1,194 @@
+.family-recipe-page .recipe-page-card {
+  max-width: 100%;
+}
+
+.family-source-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 14px 0 0;
+}
+
+.family-source-pill {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(255, 196, 93, 0.26);
+  border-radius: 999px;
+  padding: 7px 11px;
+  color: #ffe0a1;
+  background: rgba(255, 196, 93, 0.08);
+  font-weight: 900;
+  font-size: 0.86rem;
+}
+
+.family-recipe-card {
+  display: grid;
+  gap: 26px;
+}
+
+.family-recipe-section {
+  margin-top: 30px;
+}
+
+.family-recipe-section:first-child {
+  margin-top: 0;
+}
+
+.family-section-title {
+  margin: 0 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 196, 93, 0.22);
+  font-family: "Libre Baskerville", Georgia, serif;
+  color: #fff7ea;
+}
+
+.family-component-grid,
+.family-ingredient-groups,
+.family-note-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.family-component-card,
+.family-ingredient-group,
+.family-note-card,
+.family-provenance-card {
+  border: 1px solid rgba(255, 196, 93, 0.18);
+  border-radius: 16px;
+  background: rgba(255, 241, 220, 0.045);
+  box-shadow: inset 0 1px 0 rgba(255, 241, 220, 0.04);
+}
+
+.family-component-card,
+.family-note-card,
+.family-provenance-card {
+  padding: 15px 16px;
+}
+
+.family-component-card strong,
+.family-ingredient-group h3,
+.family-provenance-card strong {
+  display: block;
+  margin: 0 0 8px;
+  color: #6ee4ff;
+  font-weight: 900;
+}
+
+.family-component-card p,
+.family-note-card p,
+.family-provenance-card p {
+  margin: 0;
+  color: #f7ead7;
+  line-height: 1.6;
+}
+
+.family-ingredient-group {
+  overflow: hidden;
+}
+
+.family-ingredient-group h3 {
+  margin: 0;
+  padding: 14px 16px 10px;
+  border-bottom: 1px solid rgba(76, 204, 232, 0.16);
+  background: rgba(76, 204, 232, 0.06);
+}
+
+.family-ingredient-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.family-ingredient-item {
+  display: grid;
+  grid-template-columns: minmax(88px, 0.26fr) minmax(0, 1fr);
+  gap: 12px;
+  padding: 12px 16px;
+  border-top: 1px solid rgba(255, 241, 220, 0.08);
+}
+
+.family-ingredient-item:first-child {
+  border-top: 0;
+}
+
+.family-ingredient-amount {
+  color: #ffe0a1;
+  font-weight: 900;
+}
+
+.family-ingredient-name {
+  color: #fff7ea;
+  line-height: 1.45;
+}
+
+.family-ingredient-note {
+  display: block;
+  margin-top: 3px;
+  color: #d9cbbd;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.family-instruction-list {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding-left: 1.35rem;
+  color: #fff7ea;
+  line-height: 1.65;
+}
+
+.family-instruction-list li {
+  padding-left: 4px;
+}
+
+.family-instruction-list li::marker {
+  color: #ffd37a;
+  font-weight: 900;
+}
+
+.family-recipe-section > p,
+.family-recipe-section > ul {
+  color: #f7ead7;
+  line-height: 1.65;
+}
+
+.family-raw-table details {
+  border: 1px dashed rgba(76, 204, 232, 0.28);
+  border-radius: 14px;
+  padding: 12px 14px;
+  background: rgba(76, 204, 232, 0.04);
+}
+
+.family-raw-table summary {
+  color: #6ee4ff;
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.family-raw-table table {
+  width: 100%;
+  margin-top: 12px;
+  border-collapse: collapse;
+}
+
+.family-raw-table th,
+.family-raw-table td {
+  border-top: 1px solid rgba(255, 241, 220, 0.12);
+  padding: 9px 8px;
+  text-align: left;
+  vertical-align: top;
+}
+
+@media (max-width: 720px) {
+  .family-ingredient-item {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .family-source-pill {
+    border-radius: 14px;
+  }
+}

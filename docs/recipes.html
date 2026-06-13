@@ -26,13 +26,7 @@
     <section class="hero-card">
       <p class="eyebrow">Recipe Archive</p>
       <h1>Search Recipes</h1>
-      <p class="lead">Search Flavorweaver by title, collection, culture, category, status, ingredient, or tag. Category links now use exact archive-path filtering so a category like Pies only shows recipes assigned to Pies.</p>
-      <div class="button-row">
-        <a class="button secondary" href="index.html">Back to home</a>
-        <a class="button primary" href="family-cookbook.html">Family cookbook</a>
-        <a class="button secondary" href="house-staples.html">House staples</a>
-        <a class="button secondary" href="recently-added.html">Recently added</a>
-      </div>
+      <p class="lead">Search Flavorweaver by title, collection, culture, category, status, ingredient, or tag. Category links use exact archive-path filtering so a category like Pies only shows recipes assigned to Pies.</p>
     </section>
 
     <section class="search-panel" aria-label="Recipe search controls">
@@ -71,9 +65,9 @@
     const houseRecipes = [
       { title: 'Bold Bulgogi Bowls', path: 'recipes/korean/bold-bulgogi-bowls.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['ground beef', 'gochujang', 'soy sauce', 'rice vinegar', 'basmati rice', 'napa cabbage', 'asian pickled garden vegetables', 'gochujang crema'], tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal', 'asian pickled vegetables'] },
       { title: 'Gochujang Crema', path: 'recipes/condiments/gochujang-crema.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Condiment', status: 'House Staple', ingredients: ['sour cream', 'gochujang', 'lime juice', 'sugar', 'water'], tags: ['sauce', 'crema', 'house staple', 'drizzle sauce'] },
-      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', collection: 'House Recipes', culture: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy'] },
+      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', collection: 'House Recipes', culture: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'cucumber', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy', 'cucumber alternative'] },
       { title: 'Lemongrass Chicken Bowls', path: 'recipes/vietnamese/lemongrass-chicken-bowls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews', 'ginger nuoc cham', 'asian pickled vegetables'], tags: ['top 10 meal', 'chicken bowl', 'lemongrass chicken', 'ginger nuoc cham', 'napa cabbage', 'sauce-driven'] },
-      { title: 'Fresh Lemongrass Chicken Spring Rolls', path: 'recipes/vietnamese/fresh-lemongrass-chicken-spring-rolls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Appetizer', status: 'Working Recipe', ingredients: ['rice paper wrappers', 'lemongrass chicken', 'napa cabbage', 'cucumber', 'carrot', 'cilantro', 'angel hair pasta', 'peanut dipping sauce', 'ginger nuoc cham'], tags: ['spring rolls', 'fresh rolls', 'rice paper', 'multi-component'] },
+      { title: 'Fresh Vegetable Spring Rolls', path: 'recipes/vietnamese/fresh-vegetable-spring-rolls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Appetizer', status: 'Working Recipe', ingredients: ['rice paper wrappers', 'napa cabbage', 'cucumber', 'carrot', 'cilantro', 'angel hair pasta', 'peanut dipping sauce', 'ginger nuoc cham'], tags: ['spring rolls', 'fresh rolls', 'vegetable spring rolls', 'rice paper', 'fresh vegetables'] },
       { title: 'Restaurant-Style Ginger Nuoc Cham', path: 'recipes/condiments/ginger-nuoc-cham.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['water', 'sugar', 'ginger paste', 'garlic', 'lemongrass paste', 'fish sauce', 'lime', 'serrano'], tags: ['dipping sauce', 'fish sauce', 'ginger', 'lime', 'sweet-salty', 'bright'] },
       { title: 'Peanut Dipping Sauce', path: 'recipes/condiments/peanut-sauce.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['peanut butter', 'ginger nuoc cham', 'hoisin sauce', 'soy sauce', 'garlic', 'ginger', 'lime', 'warm water'], tags: ['dipping sauce', 'peanut sauce', 'hoisin', 'creamy'] }
     ];
@@ -85,34 +79,20 @@
     const normalize = (value) => String(value || '').toLowerCase().trim();
     const encodeQuery = (value) => encodeURIComponent(value);
     const tokenize = (value) => normalize(value).match(/[a-z0-9]+/g) || [];
-
-    const searchableFields = (recipe) => [
-      recipe.title,
-      recipe.collection,
-      recipe.culture,
-      recipe.category,
-      recipe.status,
-      ...(recipe.ingredients || []),
-      ...(recipe.tags || [])
-    ].filter(Boolean);
-
+    const searchableFields = (recipe) => [recipe.title, recipe.collection, recipe.culture, recipe.category, recipe.status, ...(recipe.ingredients || []), ...(recipe.tags || [])].filter(Boolean);
     const termMatchesRecipe = (recipe, term) => {
       const normalizedTerm = normalize(term);
       if (!normalizedTerm) return true;
-
       return searchableFields(recipe).some((field) => {
         const normalizedField = normalize(field);
         const fieldTokens = tokenize(field);
         const termTokens = tokenize(normalizedTerm);
-
         if (normalizedField === normalizedTerm) return true;
         if (termTokens.length > 1 && normalizedField.includes(normalizedTerm)) return true;
         return termTokens.every((token) => fieldTokens.includes(token));
       });
     };
-
     const categoryMatchesRecipe = (recipe, category) => normalize(recipe.category) === normalize(category);
-
     const dedupeLabels = (labels) => {
       const seen = new Set();
       return labels.filter((label) => {
@@ -122,90 +102,42 @@
         return true;
       });
     };
-
     const publicTagsForRecipe = (recipe) => {
-      const hidden = new Set(dedupeLabels([
-        recipe.collection,
-        recipe.category,
-        recipe.status,
-        'family recipe',
-        'family cookbook'
-      ]).map(normalize));
-
+      const hidden = new Set(dedupeLabels([recipe.collection, recipe.category, recipe.status, 'family recipe', 'family cookbook']).map(normalize));
       return dedupeLabels(recipe.tags || []).filter((tag) => !hidden.has(normalize(tag)));
     };
-
     const renderRecipes = (items, label = '') => {
       countEl.textContent = label ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.` : `Showing ${items.length} recipe pages.`;
       if (!items.length) {
         resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like pie, cookies, sides, sauce, chicken, Korean, or Vietnamese.</div>';
         return;
       }
-
       resultsEl.innerHTML = items.map((recipe) => {
         const tags = publicTagsForRecipe(recipe).map((tag) => `<a class="tag" href="recipes.html?q=${encodeQuery(tag)}" data-filter="${tag}">${tag}</a>`).join('');
         const ingredients = (recipe.ingredients || []).slice(0, 8).join(', ');
         const cultureRow = recipe.culture ? `<span><strong>Culture:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.culture)}" data-filter="${recipe.culture}">${recipe.culture}</a></span>` : '';
         const statusRow = recipe.status ? `<span><strong>Status:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.status)}" data-filter="${recipe.status}">${recipe.status}</a></span>` : '';
-        return `
-          <article class="result-card">
-            <h3>${recipe.title}</h3>
-            <div class="meta">
-              <span><strong>Collection:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.collection)}" data-filter="${recipe.collection}">${recipe.collection}</a></span>
-              ${cultureRow}
-              <span><strong>Category:</strong> <a class="inline-filter" href="recipes.html?category=${encodeQuery(recipe.category)}" data-category-filter="${recipe.category}">${recipe.category}</a></span>
-              ${statusRow}
-            </div>
-            ${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}
-            ${tags ? `<div class="tag-row">${tags}</div>` : ''}
-            <a class="result-link" href="${recipe.path}">Open recipe</a>
-          </article>
-        `;
+        return `<article class="result-card"><h3>${recipe.title}</h3><div class="meta"><span><strong>Collection:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.collection)}" data-filter="${recipe.collection}">${recipe.collection}</a></span>${cultureRow}<span><strong>Category:</strong> <a class="inline-filter" href="recipes.html?category=${encodeQuery(recipe.category)}" data-category-filter="${recipe.category}">${recipe.category}</a></span>${statusRow}</div>${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}${tags ? `<div class="tag-row">${tags}</div>` : ''}<a class="result-link" href="${recipe.path}">Open recipe</a></article>`;
       }).join('');
     };
-
     const setCategoryFilter = (category, updateUrl = true) => {
       searchInput.value = '';
       const filtered = recipes.filter((recipe) => categoryMatchesRecipe(recipe, category));
       if (updateUrl) window.history.replaceState({}, '', `recipes.html?category=${encodeQuery(category)}`);
       renderRecipes(filtered, category);
     };
-
     const runSearch = (updateUrl = true) => {
       const query = searchInput.value.trim();
       const terms = tokenize(query);
       const filtered = terms.length ? recipes.filter((recipe) => terms.every((term) => termMatchesRecipe(recipe, term))) : recipes;
-      if (updateUrl) {
-        const newUrl = query ? `recipes.html?q=${encodeQuery(query)}` : 'recipes.html';
-        window.history.replaceState({}, '', newUrl);
-      }
+      if (updateUrl) window.history.replaceState({}, '', query ? `recipes.html?q=${encodeQuery(query)}` : 'recipes.html');
       renderRecipes(filtered, query);
     };
-
-    document.querySelectorAll('[data-search]').forEach((button) => {
-      button.addEventListener('click', () => {
-        searchInput.value = button.dataset.search;
-        runSearch();
-        searchInput.focus();
-      });
-    });
-
-    document.querySelectorAll('[data-category]').forEach((button) => {
-      button.addEventListener('click', () => {
-        setCategoryFilter(button.dataset.category);
-        searchInput.focus();
-      });
-    });
-
+    document.querySelectorAll('[data-search]').forEach((button) => button.addEventListener('click', () => { searchInput.value = button.dataset.search; runSearch(); searchInput.focus(); }));
+    document.querySelectorAll('[data-category]').forEach((button) => button.addEventListener('click', () => { setCategoryFilter(button.dataset.category); searchInput.focus(); }));
     resultsEl.addEventListener('click', (event) => {
       const categoryLink = event.target.closest('[data-category-filter]');
-      if (categoryLink) {
-        event.preventDefault();
-        setCategoryFilter(categoryLink.dataset.categoryFilter);
-        searchInput.focus();
-        return;
-      }
-
+      if (categoryLink) { event.preventDefault(); setCategoryFilter(categoryLink.dataset.categoryFilter); searchInput.focus(); return; }
       const filterLink = event.target.closest('[data-filter]');
       if (!filterLink) return;
       event.preventDefault();
@@ -213,19 +145,12 @@
       runSearch();
       searchInput.focus();
     });
-
     searchInput.addEventListener('input', () => runSearch());
-
     const params = new URLSearchParams(window.location.search);
     const initialCategory = params.get('category') || '';
     const initialQuery = params.get('q') || '';
-
-    if (initialCategory) {
-      setCategoryFilter(initialCategory, false);
-    } else {
-      searchInput.value = initialQuery;
-      runSearch(false);
-    }
+    if (initialCategory) setCategoryFilter(initialCategory, false);
+    else { searchInput.value = initialQuery; runSearch(false); }
   </script>
 </body>
 </html>

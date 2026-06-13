@@ -2,7 +2,7 @@
 name: Lemongrass Chicken Bowls
 culture: Vietnamese Inspired
 category: Main Dish
-status: Working Recipe
+status: Hall of Fame Candidate
 difficulty: Moderate
 prep_time: 45-60m
 cook_time: 20m
@@ -11,9 +11,10 @@ total_time: 3h 5m-5h 20m
 servings: 2 bowls
 measurement_status: estimated
 
-repeat_worthy:
-  hall_of_fame_candidate: false
-  hall_of_fame: false
+rating_note: Top 10 Meal
+repeat_worthy: true
+hall_of_fame_candidate: true
+hall_of_fame: false
 
 tags:
   - chicken bowl
@@ -28,6 +29,7 @@ tags:
   - sauce-driven
   - multi-component
   - prep-ahead
+  - top 10 meal
 
 required_components:
   - ginger-nuoc-cham
@@ -50,7 +52,7 @@ last_updated: 2026-06-13
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Working Recipe | 3 hr 5 min-5 hr 20 min | 2 bowls | Moderate |
+| Hall of Fame Candidate | 3 hr 5 min-5 hr 20 min | 2 bowls | Moderate |
 
 | Prep Time | Cook Time | Marinate Time | Measurement Status |
 |---:|---:|---:|---|
@@ -196,5 +198,6 @@ Add kitchen observations, practical tips, and future refinements here.
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 | 2026-06-13 | Revised public recipe-card block with estimates for 2 bowls. |
 | 2026-06-13 | Clarified bowl component amounts and layering order. |
+| 2026-06-13 | Marked as Top 10 Meal / Hall of Fame Candidate. |
 
 </details>

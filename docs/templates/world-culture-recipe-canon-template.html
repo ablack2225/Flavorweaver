@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{RECIPE_TITLE}} | Flavorweaver</title>
+
+  <!--
+    WORLD-CULTURE RECIPE CANON TEMPLATE
+    Locked visual/layout template cloned from Bold Bulgogi Bowls.
+
+    Do not casually change this file.
+    If the public recipe-page design changes, update this template first,
+    then migrate individual world-culture recipe pages from the template.
+
+    Canon reference source:
+    docs/recipes/korean/bold-bulgogi-bowls.html
+  -->
+
+  <link rel="stylesheet" href="../../styles.css?v=20260613-01" />
+  <link rel="stylesheet" href="../../site.css?v=20260613-01" />
+  <link rel="stylesheet" href="../../readability.css?v=20260613-01" />
+  <link rel="stylesheet" href="../../premium-recipe.css?v=20260613-04" />
+</head>
+<body>
+  <header class="site-topbar">
+    <nav class="site-nav" aria-label="Flavorweaver navigation">
+      <a class="brand-mark" href="../../index.html">Flavorweaver<small>Amy &amp; Don Kitchen Archive</small></a>
+      <div class="nav-links"><a href="../../index.html">Home</a><a href="../../recipes.html">Search</a><a href="../../index.html#featured">Featured</a><a href="../../index.html#categories">Categories</a><a href="../../dedication.html">Dedication</a></div>
+    </nav>
+  </header>
+
+  <main class="page-shell recipe-page premium-recipe">
+    <article class="recipe-page-card">
+      <p class="recipe-kicker">{{CULTURE_OR_PATH}} · {{CATEGORY}} · {{STATUS}}</p>
+      <h1 class="recipe-title">{{RECIPE_TITLE}}</h1>
+      <p class="recipe-summary">{{PUBLIC_RECIPE_SUMMARY}}</p>
+
+      <div class="recipe-meta-grid">
+        <div class="recipe-meta-item"><strong>Prep</strong>{{PREP_TIME}}</div>
+        <div class="recipe-meta-item"><strong>Cook</strong>{{COOK_TIME}}</div>
+        <div class="recipe-meta-item"><strong>Total</strong>{{TOTAL_TIME}}</div>
+        <div class="recipe-meta-item"><strong>{{YIELD_LABEL}}</strong>{{YIELD_VALUE}}</div>
+      </div>
+
+      <div class="recipe-tag-row">
+        <span class="recipe-tag">{{TAG_ONE}}</span><span class="recipe-tag">{{TAG_TWO}}</span><span class="recipe-tag">{{TAG_THREE}}</span>
+      </div>
+
+      <section class="recipe-section">
+        <h2>Ingredient List</h2>
+        <div class="premium-component-grid">
+          <div class="premium-component-card"><h3>{{COMPONENT_ONE}}</h3><p>{{COMPONENT_ONE_SUMMARY}}</p></div>
+          <div class="premium-component-card"><h3>{{COMPONENT_TWO}}</h3><p>{{COMPONENT_TWO_SUMMARY}}</p></div>
+          <div class="premium-component-card"><h3>{{REQUIRED_COMPONENT_NAME}}</h3><p><a class="recipe-link" href="{{REQUIRED_COMPONENT_HREF}}">{{REQUIRED_COMPONENT_TITLE}}</a>.</p></div>
+        </div>
+      </section>
+
+      <section class="recipe-section">
+        <h2>Measured Ingredients</h2>
+
+        <div class="premium-ingredient-group"><h3>{{INGREDIENT_GROUP_ONE}}</h3><div class="premium-ingredient-list">
+          <div class="premium-ingredient-row"><span class="premium-ingredient-amount">{{AMOUNT}}</span><span class="premium-ingredient-name">{{INGREDIENT}}</span><span class="premium-ingredient-note">{{NOTE}}</span></div>
+        </div></div>
+
+        <div class="premium-ingredient-group"><h3>{{REQUIRED_COMPONENT_GROUP}}</h3><div class="premium-ingredient-list">
+          <div class="premium-ingredient-row"><span class="premium-ingredient-amount">{{COMPONENT_AMOUNT}}</span><span class="premium-ingredient-name"><a class="recipe-link" href="{{COMPONENT_HREF}}">{{COMPONENT_TITLE}}</a></span><span class="premium-ingredient-note">{{COMPONENT_NOTE}}</span></div>
+        </div></div>
+      </section>
+
+      <section class="recipe-section">
+        <h2>Instructions</h2>
+        <ol class="instruction-list">
+          <li>{{INSTRUCTION_STEP_ONE}}</li>
+          <li>{{INSTRUCTION_STEP_TWO}}</li>
+          <li>{{INSTRUCTION_STEP_THREE}}</li>
+        </ol>
+      </section>
+
+      <section class="recipe-section">
+        <h2>Chef's Notes</h2>
+        <div class="premium-chef-notes">
+          <p>{{CHEFS_NOTE_ONE}}</p>
+          <p>{{CHEFS_NOTE_TWO}}</p>
+        </div>
+      </section>
+    </article>
+
+    <aside class="recipe-sidebar-card">
+      <h2>Pairs Well With</h2>
+      <ul class="pairing-menu">
+        <li><strong>{{PAIRING_TITLE}}</strong><span>{{PAIRING_NOTE}}</span></li>
+      </ul>
+    </aside>
+  </main>
+</body>
+</html>

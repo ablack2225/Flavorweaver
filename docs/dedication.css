@@ -82,7 +82,7 @@
   color: var(--candle);
   font-family: "Libre Baskerville", Georgia, serif;
   font-weight: 700;
-  text-align: right;
+  text-align: left;
 }
 
 .preservation-note-card {

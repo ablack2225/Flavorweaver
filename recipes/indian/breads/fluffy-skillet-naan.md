@@ -1,0 +1,197 @@
+---
+name: Fluffy Skillet Naan
+culture: Indian Inspired
+category: Breads
+status: Source Adaptation Needed
+difficulty: Moderate
+prep_time: 20m active
+rise_time: 2h
+cook_time: 10m
+total_time: 2h 30m
+yield: 6 naan
+measurement_status: source-reference-adaptation
+rating_note: Amy saved naan reference; needs Amy & Don tested adaptation
+repeat_worthy: likely
+hall_of_fame_candidate: false
+hall_of_fame: false
+tags:
+  - indian-inspired
+  - naan
+  - skillet-bread
+  - scoop-bread
+  - bread
+  - source-adaptation-needed
+pairs_well_with:
+  - Ethiopian-Inspired Doro Wat Platter
+  - Indian curries
+last_updated: 2026-06-14
+---
+
+<!-- recipe-card:start -->
+
+# Fluffy Skillet Naan
+
+> A fluffy skillet naan entry based on Amy's saved RecipeTin Eats / Nagi reference. This file needs Amy & Don testing and adaptation before it becomes final Flavorweaver canon.
+
+## Recipe Dashboard
+
+| Status | Total Time | Yield | Difficulty |
+|---|---:|---:|---|
+| Source Adaptation Needed | 2h 30m | 6 naan | Moderate |
+
+| Prep Time | Cook Time | Rating Note | Repeat Worthy |
+|---:|---:|---|---|
+| 20m active + 2h rise | 10m | Amy saved naan reference; needs Amy & Don tested adaptation | Likely |
+
+## Ingredient List
+
+| Component | Ingredients |
+|---|---|
+| Dough | Yeast, warm water, sugar, milk, egg, salt, bread flour or all-purpose flour, ghee or butter |
+| Finish | Melted ghee or butter, optional garlic, optional nigella seeds, optional cilantro |
+| Optional Cheese Naan | Shredded melting cheese |
+
+## Measured Ingredients
+
+### Naan Dough
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 tsp | Instant or rapid-rise yeast | Source reference uses dry active/instant yeast style handling |
+| 1/2 cup | Warm water | About 105°F / 40°C |
+| 1 Tbsp | White sugar | Helps bloom yeast |
+| 2 Tbsp | Milk | Full-fat preferred; low-fat acceptable |
+| 1 1/2 Tbsp | Whisked egg | About 1/2 large egg; double batch can use 1 whole egg |
+| 1/2 tsp | Salt | Kosher/cooking salt |
+| 1 3/4 cups | Bread flour or all-purpose flour | Bread flour gives softer/fluffier result; all-purpose works |
+| 2 Tbsp / 30g | Ghee or unsalted butter | Melted |
+
+### Finish
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 2 Tbsp / 30g | Ghee or butter | Melted, for brushing |
+| Optional | Garlic | For garlic butter finish |
+| Optional | Nigella seeds | Sprinkle after brushing |
+| Optional | Cilantro/coriander | Finely chopped |
+
+### Optional Cheese Naan
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| As needed | Shredded melting cheese | Monterey Jack, cheddar, colby, or similar |
+
+## Instructions
+
+| Step | Action |
+|---:|---|
+| 1 | Combine yeast, warm water, and sugar. Cover and let stand until foamy, about 10 minutes. |
+| 2 | Whisk milk and egg together. |
+| 3 | In a separate bowl, combine flour and salt. |
+| 4 | Add the wet ingredients, yeast mixture, and melted ghee or butter to the flour. Mix until a dough forms. |
+| 5 | Knead until the dough becomes smooth and elastic. It should be soft but not so sticky that it cannot be handled. Add flour only as needed. |
+| 6 | Cover and let rise in a warm place until doubled, about 1-1 1/2 hours depending on room temperature. |
+| 7 | Divide into 6 portions and shape into balls. Rest briefly, then roll each piece into a thin round or oval. |
+| 8 | Heat a cast iron skillet or heavy skillet over high heat until very hot. Lightly oil only if needed. |
+| 9 | Cook one naan at a time until bubbles form and the underside has golden charred spots. Flip and cook the second side briefly. |
+| 10 | Brush hot naan with melted ghee or butter. Add garlic butter, nigella seeds, or cilantro if desired. Serve warm. |
+
+<!-- recipe-card:end -->
+
+## Pairs Well With
+
+| Type | Pairing | Notes |
+|---|---|---|
+| Practical substitute | [Ethiopian-Inspired Doro Wat Platter](../../ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md) | Used as scoop bread until real injera is ready. |
+| Traditional Indian pairing | Curries | Natural Indian bread pairing. |
+| Future traditional Ethiopian option | [Teff Starter & Real Injera](../../ethiopian/breads/teff-starter-and-real-injera.md) | Use injera instead of naan for the traditional Ethiopian-style version. |
+
+## Chef's Notes
+
+This recipe belongs under Indian breads, not Ethiopian. It can still be linked from the Ethiopian-inspired Doro Wat platter as a practical scoop-bread substitute.
+
+Source note: Amy's printed reference is RecipeTin Eats / Nagi's naan. This Flavorweaver file is a working adaptation scaffold and should be updated after Amy & Don test and settle their exact method.
+
+Do not treat this as final canon until Amy confirms the tested household version.
+
+## Final Verdict
+
+**Worth making again?**
+
+Likely, but still needs Amy & Don testing and adaptation.
+
+**Flavorweaver Decision:**
+
+- [ ] Keep as written
+- [ ] Keep with changes
+- [ ] Move toward Hall of Fame
+- [ ] Mark as House Staple
+- [x] Keep for testing
+- [ ] Do not repeat
+
+<details>
+<summary>Flavor Architecture</summary>
+
+| Layer | Notes |
+|---|---|
+| Richness | Ghee or butter, milk, egg |
+| Freshness | Optional cilantro finish |
+| Acid / Brightness | None |
+| Heat | None |
+| Sweetness | Small sugar amount for yeast and browning |
+| Umami | Butter/ghee and skillet browning |
+| Texture | Fluffy, bubbly, chewy |
+| Sauce / Moisture | Designed to scoop saucy dishes |
+| Aroma | Yeast, butter/ghee, optional garlic |
+
+</details>
+
+<details>
+<summary>Flavorweaver Direction</summary>
+
+This should become Amy's house naan only after testing. Until then, it is a linked practical bread reference for meals that need scoop bread.
+
+</details>
+
+<details>
+<summary>Timing Notes</summary>
+
+Dough rise is approximately 2 hours total in the source reference. Warm room conditions will shorten rise time; cooler rooms may extend it.
+
+</details>
+
+<details>
+<summary>Testing Notes</summary>
+
+## First Test
+
+**Date:** Future test / source adaptation pending
+
+**What worked:**
+
+- To be tested as Amy & Don version.
+
+**What to adjust next time:**
+
+- Confirm flour choice.
+- Confirm exact egg handling.
+- Confirm skillet heat and cook time.
+- Decide whether this becomes a house staple.
+
+</details>
+
+<details>
+<summary>Kitchen Notes</summary>
+
+A very hot skillet is important for bubbles and color. Cast iron is preferred. Avoid making this final public copy sound like the external source; preserve it as Amy & Don tested language once tested.
+
+</details>
+
+<details>
+<summary>Change Log</summary>
+
+| Date | Change |
+|---|---|
+| 2026-06-14 | Created working adaptation scaffold from Amy's saved naan reference. |
+
+</details>

@@ -154,16 +154,7 @@ docs/recipes/<culture-or-path>/<category>/<recipe-slug>.html
 
 Some older pages may exist at a flatter path while the site is being aligned, but new world-culture recipe work should use the category-aware pattern unless Amy explicitly approves another structure.
 
-Examples:
-
-```text
-recipes/korean/bowls-and-mains/bold-bulgogi-bowls.md
-recipes/vietnamese/bowls-and-mains/lemongrass-chicken-bowls.md
-recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md
-recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md
-```
-
-World-culture recipes are chef-level developed recipes from the Amy & Don Kitchen. They may be inspired by restaurants, cultures, flavor memories, research, experiments, substitutions, or ingredient access limitations, but the final recipe should reflect what Amy and Don would want to make again.
+World-culture recipes are chef-level developed recipes from the Amy & Don Kitchen. They may be inspired by restaurants, cultures, flavor memories, research, experiments, substitutions, ingredient access limitations, or printed/source recipes, but the final recipe should reflect what Amy and Don would want to make again.
 
 ## Required Outputs
 
@@ -253,6 +244,32 @@ Do not duplicate the full recipe body just because it belongs to more than one c
 
 ---
 
+# 📸 Canon Reminder: Recipe Image & Printout Conversion
+
+When converting a recipe from photos, screenshots, scanned cards, printed pages, handwritten notes, or source images, do not flatten the recipe into generic steps.
+
+The conversion must preserve the cook-critical workflow exactly enough that Amy or Don could cook from the GitHub recipe without returning to the image.
+
+For image/printout conversions, review every visible section before committing:
+
+- ingredient notes, temperatures, room-temperature requirements, substitutions, and quantity clarifications
+- proofing, resting, marinating, chilling, rising, blooming, simmering, cooling, or holding times
+- shape, size, thickness, cutting, rolling, folding, scoring, sealing, stuffing, or plating details
+- equipment guidance such as cast iron, skillet type, thermometer use, pan warnings, towels, lids, trays, or bowls
+- heat level, pan preparation, oiling method, cook timing, visual doneness cues, and when to adjust heat
+- optional variations such as garlic butter, cheese filling, make-ahead workflow, storage, reheating, or alternate finishes
+- source notes that affect success, such as no-knead handling, second proof, make-ahead timing, or ingredient temperature
+
+Never assume a short summary is enough for a house staple or complex technique. If a printed recipe has notes, those notes may contain the most important success instructions.
+
+Before marking an image-converted recipe complete, compare the finished Markdown and public HTML against the source images and ask:
+
+> Could the cook follow this without unanswered questions?
+
+If not, keep refining.
+
+---
+
 # 🌐 World-Culture Public HTML Format
 
 World-culture HTML pages should mirror the premium recipe page design already used by canon examples such as:
@@ -294,6 +311,7 @@ Public HTML pages should show the cook-facing recipe content:
 - required components and their role on the plate, when applicable
 - plating and serving architecture for complete meal plates
 - integrated preparation order inside instructions for complete meal plates
+- complete cook-critical workflow when converted from images or printouts
 - chef notes
 - pairs-well-with sidebar
 
@@ -596,6 +614,7 @@ Current examples include:
 * Asian Pickled Garden Vegetables
 * Ginger Restaurant-Style Nuoc Cham
 * Peanut Sauce
+* Fluffy Skillet Naan
 
 House staples should be linked through metadata, category pages, and generated site search rather than duplicated.
 
@@ -618,6 +637,7 @@ Flavorweaver currently follows several repository-wide standards.
 ### Bread
 
 * Homemade Whenever Practical
+* Preserve bread technique details; bread recipes often depend on temperature, timing, proofing, shaping, pan choice, and visual cues.
 
 ### Philosophy
 
@@ -710,15 +730,17 @@ When adding world-culture recipes:
 1. Determine the culture/path and category.
 2. Create the Markdown source file.
 3. Create the public HTML page.
-4. Break out substantial required components into their own source and public pages.
-5. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
-6. Use Required Components to explain component roles on the plate.
-7. Add Plating & Serving Architecture for complete meal plates.
-8. Integrate preparation order directly into Instructions for complex complete plates.
-9. Update active and legacy search/index files.
-10. Add new search tags for new cultures, dishes, components, and major concepts.
-11. Update category/path pages and cache query strings as needed.
-12. Verify links and discovery paths.
+4. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
+5. Break out substantial required components into their own source and public pages.
+6. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
+7. Use Required Components to explain component roles on the plate.
+8. Add Plating & Serving Architecture for complete meal plates.
+9. Integrate preparation order directly into Instructions for complex complete plates.
+10. Update active and legacy search/index files.
+11. Add new search tags for new cultures, dishes, components, and major concepts.
+12. Update category/path pages and cache query strings as needed.
+13. Verify links and discovery paths.
+14. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
 
 ---
 
@@ -734,6 +756,7 @@ When adding world-culture recipes:
 8. Respect traditions while embracing adaptation.
 9. Share what works.
 10. Keep curiosity alive.
+11. Preserve the real cooking workflow, not just the ingredient list.
 
 ---
 

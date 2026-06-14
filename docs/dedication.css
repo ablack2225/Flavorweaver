@@ -3,6 +3,16 @@
   gap: 30px;
 }
 
+.dedication-page-hero {
+  text-align: left;
+}
+
+.dedication-page-hero .hero-copy {
+  margin-left: 0;
+  margin-right: auto;
+  text-align: left;
+}
+
 .dedication-panel {
   position: relative;
   padding: clamp(18px, 3vw, 28px);

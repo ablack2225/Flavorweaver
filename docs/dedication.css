@@ -36,7 +36,8 @@
 }
 
 .original-dedication-intro {
-  max-width: 780px;
+  max-width: none;
+  width: 100%;
 }
 
 .original-dedication-card {

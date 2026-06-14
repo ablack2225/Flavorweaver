@@ -18,12 +18,31 @@
   margin-bottom: 0;
 }
 
+.dedication-memory-header {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: clamp(14px, 2.5vw, 22px);
+  margin-bottom: 18px;
+}
+
+.dedication-memory-title .recipe-kicker {
+  margin-bottom: 8px;
+}
+
+.dedication-memory-title h2 {
+  margin-bottom: 0;
+}
+
 .dedication-heading-candle {
-  display: inline-block;
-  margin-right: 0.42rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: clamp(2.25rem, 5vw, 3.35rem);
+  line-height: 1;
   filter:
-    drop-shadow(0 0 6px rgba(255, 196, 93, 0.42))
-    drop-shadow(0 0 14px rgba(255, 146, 70, 0.16));
+    drop-shadow(0 0 8px rgba(255, 196, 93, 0.46))
+    drop-shadow(0 0 18px rgba(255, 146, 70, 0.18));
   transform-origin: center bottom;
   animation: candleBreath 4.8s ease-in-out infinite;
 }
@@ -105,24 +124,24 @@
     opacity: 0.92;
     transform: scale(1);
     filter:
-      drop-shadow(0 0 5px rgba(255, 196, 93, 0.38))
-      drop-shadow(0 0 12px rgba(255, 146, 70, 0.12));
+      drop-shadow(0 0 6px rgba(255, 196, 93, 0.4))
+      drop-shadow(0 0 14px rgba(255, 146, 70, 0.14));
   }
 
   42% {
     opacity: 1;
-    transform: scale(1.018);
+    transform: scale(1.014);
     filter:
-      drop-shadow(0 0 8px rgba(255, 196, 93, 0.58))
-      drop-shadow(0 0 20px rgba(255, 146, 70, 0.22));
+      drop-shadow(0 0 10px rgba(255, 196, 93, 0.62))
+      drop-shadow(0 0 26px rgba(255, 146, 70, 0.24));
   }
 
   68% {
     opacity: 0.96;
-    transform: scale(0.996);
+    transform: scale(0.998);
     filter:
-      drop-shadow(0 0 6px rgba(255, 196, 93, 0.46))
-      drop-shadow(0 0 15px rgba(255, 146, 70, 0.16));
+      drop-shadow(0 0 8px rgba(255, 196, 93, 0.5))
+      drop-shadow(0 0 18px rgba(255, 146, 70, 0.18));
   }
 }
 
@@ -133,6 +152,16 @@
 }
 
 @media (max-width: 560px) {
+  .dedication-memory-header {
+    grid-template-columns: 1fr;
+    justify-items: start;
+    gap: 12px;
+  }
+
+  .dedication-heading-candle {
+    font-size: 2.35rem;
+  }
+
   .dedication-divider {
     gap: 9px;
   }

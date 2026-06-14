@@ -66,8 +66,8 @@
     "cuisine": "Ethiopian Inspired",
     "category": "Main Dish",
     "status": "Working Recipe",
-    "ingredients": ["chicken thighs", "hard-boiled eggs", "paprika", "cayenne", "fenugreek", "onion", "garlic", "ginger", "tomato paste", "yellow split peas", "cabbage", "carrot", "tomato", "cucumber", "naan", "injera"],
-    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "doro wat", "Doro Wat", "complete meal plate", "split pea alicha", "Split Pea Alicha", "atakilt wat", "Atakilt Wat", "timatim salad", "Timatim Salad", "naan substitute", "injera", "Injera", "html page"]
+    "ingredients": ["chicken thighs", "hard-boiled eggs", "paprika", "cayenne", "fenugreek", "onion", "garlic", "ginger", "tomato paste", "yellow split peas", "red lentils", "cabbage", "carrot", "tomato", "cucumber", "naan", "injera"],
+    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "doro wat", "Doro Wat", "complete meal plate", "split pea alicha", "Split Pea Alicha", "misir wat", "Misir Wat", "red lentils", "atakilt wat", "Atakilt Wat", "timatim salad", "Timatim Salad", "naan substitute", "injera", "Injera", "traditional upgrade path", "html page"]
   },
   {
     "title": "Split Pea Alicha",
@@ -78,6 +78,16 @@
     "status": "First Test",
     "ingredients": ["yellow split peas", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "black pepper", "butter", "oil"],
     "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "split pea alicha", "Split Pea Alicha", "yellow split peas", "alicha", "side dish", "stew", "doro wat platter", "html page"]
+  },
+  {
+    "title": "Misir Wat",
+    "path": "recipes/ethiopian/sides/misir-wat.html",
+    "sourcePath": "recipes/ethiopian/sides/misir-wat.md",
+    "cuisine": "Ethiopian",
+    "category": "Side Dish",
+    "status": "Working Recipe",
+    "ingredients": ["red lentils", "onion", "garlic", "ginger", "berbere", "tomato paste", "water", "broth", "butter", "oil", "lemon"],
+    "tags": ["Ethiopian", "Ethiopian-Inspired", "ethiopian", "ethiopian-inspired", "misir wat", "Misir Wat", "red lentils", "berbere", "side dish", "stew", "doro wat platter", "traditional upgrade path", "html page"]
   },
   {
     "title": "Atakilt Wat",
@@ -105,9 +115,9 @@
     "sourcePath": "recipes/ethiopian/breads/teff-starter-and-real-injera.md",
     "cuisine": "Ethiopian",
     "category": "Bread",
-    "status": "Future Project",
+    "status": "Traditional Technique",
     "ingredients": ["teff flour", "water", "active teff starter", "salt"],
-    "tags": ["Ethiopian", "injera", "Injera", "teff", "Teff", "teff starter", "fermented", "flatbread", "starter", "future project", "html page"]
+    "tags": ["Ethiopian", "injera", "Injera", "teff", "Teff", "teff starter", "fermented", "flatbread", "starter", "traditional technique", "doro wat platter", "misir wat", "html page"]
   },
   {
     "title": "Fluffy Skillet Naan",

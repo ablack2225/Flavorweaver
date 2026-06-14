@@ -87,7 +87,7 @@
     const filteredRecipes = () => {
       const query = normalize(searchInput.value);
       return recipes.filter((recipe) => {
-        const categoryMatches = !activeCategory || recipe.sourcePath.includes(`/family-recipes/recipes/${activeCategory}/`);
+        const categoryMatches = !activeCategory || recipe.sourcePath.includes(`family-recipes/recipes/${activeCategory}/`);
         const nameMatches = !query || normalize(recipe.title).includes(query);
         return categoryMatches && nameMatches;
       }).slice(0, 24);

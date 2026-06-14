@@ -2,7 +2,7 @@
 name: Teff Starter & Real Injera
 culture: Ethiopian
 category: Breads
-status: Future Project
+status: Traditional Technique
 difficulty: Advanced
 prep_time: 30m active
 ferment_time: 4-7 days starter + 24-72h batter fermentation
@@ -10,7 +10,7 @@ cook_time: 30-45m
 total_time: Multi-day fermentation project
 servings: 8-12 injera, depending on size
 measurement_status: planned-detailed
-rating_note: Traditional-style fermented teff flatbread for future Ethiopian meals
+rating_note: Traditional-style fermented teff flatbread for Ethiopian meals
 repeat_worthy: planned
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -21,7 +21,7 @@ tags:
   - fermented
   - flatbread
   - starter
-  - future-project
+  - traditional-technique
   - dairy-free
 pairs_well_with:
   - Ethiopian-Inspired Doro Wat Platter
@@ -34,17 +34,17 @@ last_updated: 2026-06-14
 
 # Teff Starter & Real Injera
 
-> A traditional-style fermented teff flatbread project for future Ethiopian meals, built from an active teff starter and a fermented injera batter.
+> A traditional-style fermented teff flatbread project built from an active teff starter and a fermented injera batter.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Future Project | Multi-day fermentation project | 8-12 injera | Advanced |
+| Traditional Technique | Multi-day fermentation project | 8-12 injera | Advanced |
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
-| 30m active | 30-45m | Traditional-style fermented teff flatbread for future Ethiopian meals | Planned |
+| 30m active | 30-45m | Traditional-style fermented teff flatbread for Ethiopian meals | Planned |
 
 ## Ingredient List
 
@@ -93,12 +93,12 @@ last_updated: 2026-06-14
 | Type | Pairing | Notes |
 |---|---|---|
 | Main plate | [Ethiopian-Inspired Doro Wat Platter](../bowls-and-mains/ethiopian-inspired-doro-wat-platter.md) | Traditional-style bread upgrade for the platter. |
-| Stew | Misir Wat | Future red lentil traditional component. |
-| Side | Atakilt Wat | Soft vegetable side. |
+| Stew | [Misir Wat](../sides/misir-wat.md) | Traditional red-lentil stew component. |
+| Side | [Atakilt Wat](../sides/atakilt-wat.md) | Soft vegetable side. |
 
 ## Chef's Notes
 
-For the current Doro Wat platter, naan can be used as a practical scoop bread. For the later traditional-style version, start with this teff starter and give the batter time to ferment.
+For the practical Doro Wat platter, naan can be used as a scoop-bread substitute. For the traditional-style Ethiopian version, use this teff starter and real injera process, allowing enough time for the starter and batter fermentation.
 
 Injera should be soft, flexible, tangy, and spongy with small holes that soak up stews. It should not be crisp, browned like naan, or flipped during cooking.
 
@@ -106,7 +106,7 @@ Injera should be soft, flexible, tangy, and spongy with small holes that soak up
 
 **Worth making again?**
 
-Planned. This is the preserved traditional technique path for future Ethiopian meals.
+Planned. This is the preserved traditional technique path for Ethiopian meals.
 
 **Flavorweaver Decision:**
 
@@ -137,7 +137,7 @@ Planned. This is the preserved traditional technique path for future Ethiopian m
 <details>
 <summary>Flavorweaver Direction</summary>
 
-This should remain a dedicated Ethiopian bread project, not a quick bread substitute. It supports the traditional version of the platter and should be linked from Ethiopian stews and sides once tested.
+This should remain a dedicated Ethiopian bread project, not a quick bread substitute. It supports the traditional version of the Doro Wat platter and pairs directly with Misir Wat, Atakilt Wat, and other Ethiopian stews and sides.
 
 </details>
 
@@ -153,7 +153,7 @@ Starter may become active in 4-7 days, longer in a cooler kitchen. Batter fermen
 
 ## First Test
 
-**Date:** Future project
+**Date:** Future test
 
 **What worked:**
 
@@ -180,6 +180,7 @@ If injera cracks, the batter may be too thick or the pan too hot. If it lacks bu
 
 | Date | Change |
 |---|---|
-| 2026-06-14 | Created future project source file from Teff Starter & Real Injera handoff. |
+| 2026-06-14 | Created source file from Teff Starter & Real Injera handoff. |
+| 2026-06-14 | Updated wording and links now that Misir Wat exists as a standalone component. |
 
 </details>

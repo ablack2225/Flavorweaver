@@ -32,27 +32,7 @@
     <section class="search-panel" aria-label="Recipe search controls">
       <label class="search-label" for="recipe-search">Search recipes</label>
       <input class="search-input" id="recipe-search" type="search" placeholder="Try pecan pie, cornbread, cookies, sides, Korean, gochujang..." autocomplete="off" />
-      <div class="quick-searches" aria-label="Quick searches">
-        <button type="button" data-search="house staple">house staple</button>
-        <button type="button" data-search="Korean Inspired">Korean Inspired</button>
-        <button type="button" data-search="Vietnamese Inspired">Vietnamese Inspired</button>
-        <button type="button" data-category="Main Dishes">main dishes</button>
-        <button type="button" data-category="Sides">sides</button>
-        <button type="button" data-category="Salads, Slaws, and Dips">salads, slaws & dips</button>
-        <button type="button" data-category="Soups and Stews">soups & stews</button>
-        <button type="button" data-category="Homemade Pickles">homemade pickles</button>
-        <button type="button" data-category="Breads">breads</button>
-        <button type="button" data-category="Breakfast">breakfast</button>
-        <button type="button" data-category="Desserts">desserts</button>
-        <button type="button" data-category="Cakes">cakes</button>
-        <button type="button" data-category="Cake Frostings">cake frostings</button>
-        <button type="button" data-category="Pies">pies</button>
-        <button type="button" data-category="Cookies">cookies</button>
-        <button type="button" data-category="Candy and Snacks">candy and snacks</button>
-        <button type="button" data-category="Beverages">beverages</button>
-        <button type="button" data-category="Appetizers">appetizers</button>
-        <button type="button" data-search="condiment">condiment</button>
-      </div>
+      <div class="quick-searches" id="quick-searches" aria-label="Quick searches"></div>
     </section>
 
     <section class="results-panel" aria-live="polite">
@@ -61,97 +41,11 @@
     </section>
   </main>
 
+  <script src="world-recipe-data.js?v=20260614-01"></script>
   <script src="family-recipe-data.js?v=20260613-04"></script>
+  <script src="recipe-search.js?v=20260614-01"></script>
   <script>
-    const houseRecipes = [
-      { title: 'Bold Bulgogi Bowls', path: 'recipes/korean/bold-bulgogi-bowls.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['ground beef', 'gochujang', 'soy sauce', 'rice vinegar', 'basmati rice', 'napa cabbage', 'asian pickled garden vegetables', 'gochujang crema'], tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal', 'asian pickled vegetables'] },
-      { title: 'Gochujang Crema', path: 'recipes/condiments/gochujang-crema.html', collection: 'House Recipes', culture: 'Korean Inspired', category: 'Condiment', status: 'House Staple', ingredients: ['sour cream', 'gochujang', 'lime juice', 'sugar', 'water'], tags: ['sauce', 'crema', 'house staple', 'drizzle sauce'] },
-      { title: 'Asian Pickled Garden Vegetables', path: 'recipes/condiments/asian-pickled-garden-vegetables.html', collection: 'House Recipes', culture: 'Asian Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['zucchini', 'yellow squash', 'cucumber', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'], tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy', 'cucumber alternative'] },
-      { title: 'Lemongrass Chicken Bowls', path: 'recipes/vietnamese/lemongrass-chicken-bowls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Main Dish', status: 'Hall of Fame Candidate', ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews', 'ginger nuoc cham', 'asian pickled vegetables'], tags: ['top 10 meal', 'chicken bowl', 'lemongrass chicken', 'ginger nuoc cham', 'napa cabbage', 'sauce-driven'] },
-      { title: 'Fresh Vegetable Spring Rolls', path: 'recipes/vietnamese/fresh-vegetable-spring-rolls.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Appetizer', status: 'Working Recipe', ingredients: ['rice paper wrappers', 'napa cabbage', 'cucumber', 'carrot', 'cilantro', 'angel hair pasta', 'peanut dipping sauce', 'ginger nuoc cham'], tags: ['spring rolls', 'fresh rolls', 'vegetable spring rolls', 'rice paper', 'fresh vegetables'] },
-      { title: 'Restaurant-Style Ginger Nuoc Cham', path: 'recipes/condiments/ginger-nuoc-cham.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['water', 'sugar', 'ginger paste', 'garlic', 'lemongrass paste', 'fish sauce', 'lime', 'serrano'], tags: ['dipping sauce', 'fish sauce', 'ginger', 'lime', 'sweet-salty', 'bright'] },
-      { title: 'Peanut Dipping Sauce', path: 'recipes/condiments/peanut-sauce.html', collection: 'House Recipes', culture: 'Vietnamese Inspired', category: 'Condiment', status: 'Working Recipe', ingredients: ['peanut butter', 'ginger nuoc cham', 'hoisin sauce', 'soy sauce', 'garlic', 'ginger', 'lime', 'warm water'], tags: ['dipping sauce', 'peanut sauce', 'hoisin', 'creamy'] }
-    ];
-
-    const recipes = [...houseRecipes, ...(window.FLAVORWEAVER_FAMILY_RECIPES || [])];
-    const searchInput = document.getElementById('recipe-search');
-    const resultsEl = document.getElementById('results');
-    const countEl = document.getElementById('result-count');
-    const normalize = (value) => String(value || '').toLowerCase().trim();
-    const encodeQuery = (value) => encodeURIComponent(value);
-    const tokenize = (value) => normalize(value).match(/[a-z0-9]+/g) || [];
-    const searchableFields = (recipe) => [recipe.title, recipe.collection, recipe.culture, recipe.category, recipe.status, ...(recipe.ingredients || []), ...(recipe.tags || [])].filter(Boolean);
-    const termMatchesRecipe = (recipe, term) => {
-      const normalizedTerm = normalize(term);
-      if (!normalizedTerm) return true;
-      return searchableFields(recipe).some((field) => {
-        const normalizedField = normalize(field);
-        const fieldTokens = tokenize(field);
-        const termTokens = tokenize(normalizedTerm);
-        if (normalizedField === normalizedTerm) return true;
-        if (termTokens.length > 1 && normalizedField.includes(normalizedTerm)) return true;
-        return termTokens.every((token) => fieldTokens.includes(token));
-      });
-    };
-    const categoryMatchesRecipe = (recipe, category) => normalize(recipe.category) === normalize(category);
-    const dedupeLabels = (labels) => {
-      const seen = new Set();
-      return labels.filter((label) => {
-        const key = normalize(label);
-        if (!key || seen.has(key)) return false;
-        seen.add(key);
-        return true;
-      });
-    };
-    const publicTagsForRecipe = (recipe) => {
-      const hidden = new Set(dedupeLabels([recipe.collection, recipe.category, recipe.status, 'family recipe', 'family cookbook']).map(normalize));
-      return dedupeLabels(recipe.tags || []).filter((tag) => !hidden.has(normalize(tag)));
-    };
-    const renderRecipes = (items, label = '') => {
-      countEl.textContent = label ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.` : `Showing ${items.length} recipe pages.`;
-      if (!items.length) {
-        resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like pie, cookies, sides, sauce, chicken, Korean, or Vietnamese.</div>';
-        return;
-      }
-      resultsEl.innerHTML = items.map((recipe) => {
-        const tags = publicTagsForRecipe(recipe).map((tag) => `<a class="tag" href="recipes.html?q=${encodeQuery(tag)}" data-filter="${tag}">${tag}</a>`).join('');
-        const ingredients = (recipe.ingredients || []).slice(0, 8).join(', ');
-        const cultureRow = recipe.culture ? `<span><strong>Culture:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.culture)}" data-filter="${recipe.culture}">${recipe.culture}</a></span>` : '';
-        const statusRow = recipe.status ? `<span><strong>Status:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.status)}" data-filter="${recipe.status}">${recipe.status}</a></span>` : '';
-        return `<article class="result-card"><h3>${recipe.title}</h3><div class="meta"><span><strong>Collection:</strong> <a class="inline-filter" href="recipes.html?q=${encodeQuery(recipe.collection)}" data-filter="${recipe.collection}">${recipe.collection}</a></span>${cultureRow}<span><strong>Category:</strong> <a class="inline-filter" href="recipes.html?category=${encodeQuery(recipe.category)}" data-category-filter="${recipe.category}">${recipe.category}</a></span>${statusRow}</div>${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}${tags ? `<div class="tag-row">${tags}</div>` : ''}<a class="result-link" href="${recipe.path}">Open recipe</a></article>`;
-      }).join('');
-    };
-    const setCategoryFilter = (category, updateUrl = true) => {
-      searchInput.value = '';
-      const filtered = recipes.filter((recipe) => categoryMatchesRecipe(recipe, category));
-      if (updateUrl) window.history.replaceState({}, '', `recipes.html?category=${encodeQuery(category)}`);
-      renderRecipes(filtered, category);
-    };
-    const runSearch = (updateUrl = true) => {
-      const query = searchInput.value.trim();
-      const terms = tokenize(query);
-      const filtered = terms.length ? recipes.filter((recipe) => terms.every((term) => termMatchesRecipe(recipe, term))) : recipes;
-      if (updateUrl) window.history.replaceState({}, '', query ? `recipes.html?q=${encodeQuery(query)}` : 'recipes.html');
-      renderRecipes(filtered, query);
-    };
-    document.querySelectorAll('[data-search]').forEach((button) => button.addEventListener('click', () => { searchInput.value = button.dataset.search; runSearch(); searchInput.focus(); }));
-    document.querySelectorAll('[data-category]').forEach((button) => button.addEventListener('click', () => { setCategoryFilter(button.dataset.category); searchInput.focus(); }));
-    resultsEl.addEventListener('click', (event) => {
-      const categoryLink = event.target.closest('[data-category-filter]');
-      if (categoryLink) { event.preventDefault(); setCategoryFilter(categoryLink.dataset.categoryFilter); searchInput.focus(); return; }
-      const filterLink = event.target.closest('[data-filter]');
-      if (!filterLink) return;
-      event.preventDefault();
-      searchInput.value = filterLink.dataset.filter;
-      runSearch();
-      searchInput.focus();
-    });
-    searchInput.addEventListener('input', () => runSearch());
-    const params = new URLSearchParams(window.location.search);
-    const initialCategory = params.get('category') || '';
-    const initialQuery = params.get('q') || '';
-    if (initialCategory) setCategoryFilter(initialCategory, false);
-    else { searchInput.value = initialQuery; runSearch(false); }
+    window.FLAVORWEAVER_RECIPE_SEARCH.initArchiveSearch();
   </script>
 </body>
 </html>

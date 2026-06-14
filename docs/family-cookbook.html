@@ -68,6 +68,30 @@
     const recipes = window.FLAVORWEAVER_FAMILY_RECIPES || [];
     const normalize = (value) => String(value || '').trim().toLowerCase();
 
+    const categoryOrder = [
+      'main-dishes',
+      'sides',
+      'salads-slaws-and-dips',
+      'soups-and-stews',
+      'breads',
+      'breakfast',
+      'appetizers',
+      'pies',
+      'cakes',
+      'cake-frostings',
+      'cookies',
+      'desserts',
+      'candy-and-snacks',
+      'beverages',
+      'gravies-and-sauces',
+      'homemade-pickles'
+    ];
+
+    const orderedCategorySlugs = [
+      ...categoryOrder.filter((slug) => categories[slug]),
+      ...Object.keys(categories).filter((slug) => !categoryOrder.includes(slug)).sort()
+    ];
+
     const categoryDescriptions = {
       'appetizers': 'Party bites, snackable starters, and the little recipes that gathered people around before the meal began.',
       'beverages': 'Punches, warm sippers, and family drinks poured for holidays, gatherings, and kitchen-table visits.',
@@ -103,7 +127,7 @@
       });
     };
 
-    tagMount.innerHTML = Object.keys(categories)
+    tagMount.innerHTML = orderedCategorySlugs
       .map((slug) => `<button class="family-category-pill" type="button" data-family-category="${slug}">${labels[slug] || slug}</button>`)
       .join('');
 
@@ -161,7 +185,7 @@
     });
 
     const grid = document.getElementById('family-feature-grid');
-    const categoryCards = Object.entries(categories).map(([slug, list]) => {
+    const categoryCards = orderedCategorySlugs.map((slug) => {
       const label = labels[slug] || slug;
       const description = categoryDescriptions[slug] || 'A preserved shelf of family recipes, notes, and kitchen memories.';
       return `<article class="feature-card"><h3>${label}</h3><p>${description}</p><button class="family-category-pill" type="button" data-family-category-card="${slug}">Search ${label}</button></article>`;

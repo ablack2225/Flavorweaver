@@ -58,7 +58,8 @@ last_updated: 2026-06-14
 | Component | Ingredients |
 |---|---|
 | House Berbere-Style Spice Blend | Paprika, cayenne or ground chile, coriander, ginger, fenugreek, cumin, garlic powder, onion powder, cardamom, black pepper, clove, cinnamon, allspice, turmeric |
-| Doro Wat-Style Chicken & Eggs | Chicken thighs, hard-boiled eggs, onion, butter or oil, berbere-style spice blend, garlic, ginger, tomato paste, chicken broth, bay leaf, lemon |
+| House Spice Blend Marination | Chicken thighs, House Berbere-Style Spice Blend, oil, lemon juice, garlic, salt, black pepper |
+| Doro Wat-Style Chicken & Eggs | Marinated chicken thighs, hard-boiled eggs, onion, butter or oil, berbere-style spice blend, garlic, ginger, tomato paste, chicken broth, bay leaf, lemon |
 | Split Pea Alicha | [Split Pea Alicha](../sides/split-pea-alicha.md): yellow split peas, water or broth, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander, black pepper, salt, optional lemon |
 | Atakilt Wat | [Atakilt Wat](../sides/atakilt-wat.md): cabbage, carrot, potato, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander, salt, black pepper, water or broth |
 | Timatim Salad | [Timatim Salad](../salads/timatim-salad.md): tomato, cucumber, onion, lemon juice, olive oil, salt, black pepper, optional chile and herbs |
@@ -86,14 +87,14 @@ last_updated: 2026-06-14
 | 1/8 tsp | Allspice | Optional |
 | 1/4 tsp | Turmeric | Optional |
 
-### Overnight Doro Wat-Style Chicken Marinade
+### House Spice Blend Marination
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 2 small | Chicken thighs | Small thighs; plate uses extra eggs for fullness |
-| 1 Tbsp | House Berbere-Style Spice Blend |  |
-| 1 Tbsp | Oil |  |
-| 1 Tbsp | Lemon juice |  |
+| 1 Tbsp | House Berbere-Style Spice Blend | From spice blend above |
+| 1 Tbsp | Oil | Neutral oil preferred |
+| 1 Tbsp | Lemon juice | Helps the spice paste cling |
 | 2 cloves | Garlic | Minced |
 | 1/2 tsp | Salt |  |
 | 1/4 tsp | Black pepper |  |
@@ -110,11 +111,11 @@ last_updated: 2026-06-14
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 2 | Marinated chicken thighs | From overnight marinade |
+| 2 | Marinated chicken thighs | From House Spice Blend Marination |
 | 4 | Peeled hard-boiled eggs | Lightly scored or pricked |
 | 1 large | Onion | Finely diced |
 | 1-2 Tbsp | Unsalted butter or oil | Butter is acceptable |
-| 1 Tbsp | House Berbere-Style Spice Blend |  |
+| 1 Tbsp | House Berbere-Style Spice Blend | Additional spice for the sauce base |
 | 2 cloves | Garlic | Minced |
 | 1 tsp | Fresh grated ginger or ginger paste |  |
 | 1 tsp | Tomato paste | Optional but recommended |
@@ -157,10 +158,10 @@ The plate should feel generous, colorful, and interactive. Each bite should move
 | Step | Action |
 |---:|---|
 | 1 | Mix the berbere-style spice blend and store airtight. Go light with fenugreek and clove because they can dominate quickly. |
-| 2 | Mix the chicken marinade ingredients into a paste, coat the chicken thighs thoroughly, cover, and refrigerate overnight. |
+| 2 | Mix the House Spice Blend Marination ingredients into a paste, coat the chicken thighs thoroughly, cover, and refrigerate overnight. |
 | 3 | Hard-boil the eggs, cool in an ice bath, peel, and lightly score or prick each egg so the sauce can cling and stain them. |
 | 4 | For the doro wat-style sauce, cook the diced onion over medium heat for 10-15 minutes until softened, reduced, and starting to turn golden. Add tiny splashes of water if needed to prevent sticking. |
-| 5 | Add butter or oil, then bloom the berbere-style spice blend for 30-60 seconds, stirring constantly. Do not burn the spices. |
+| 5 | Add butter or oil, then bloom the additional berbere-style spice blend for 30-60 seconds, stirring constantly. Do not burn the spices. |
 | 6 | Add garlic, ginger, and tomato paste. Cook 1-2 minutes until fragrant and deepened. |
 | 7 | Add the marinated chicken thighs and sear lightly for 2-3 minutes per side so the spice paste clings. |
 | 8 | Add 1 cup chicken broth and bay leaf if using. Simmer covered on low for 25-35 minutes, adding broth as needed, until the chicken is tender and cooked through. |
@@ -278,5 +279,6 @@ This platter is built for real ingredient access. Do not force special-order ing
 | 2026-06-14 | Linked Atakilt Wat and Timatim Salad as required components while preserving full-plate ingredient visibility. |
 | 2026-06-14 | Updated linked required component notes to define each component's role on the plate instead of repeating ingredient lists. |
 | 2026-06-14 | Added plating and serving architecture for portioning, visual build, and eating experience. |
+| 2026-06-14 | Clarified House Spice Blend Marination measurements in source. |
 
 </details>

@@ -4,7 +4,7 @@ status: Preserved
 family_source: Sue Wallesch
 honors: Jimmie Hatton
 legacy_note: Sue has passed, and her recipes live on with our family.
-last_updated: 2026-06-12
+last_updated: 2026-06-14
 ---
 
 # Dedication and Legacy
@@ -32,6 +32,22 @@ To her mother, Sue offered thanks for all the wonderful meals prepared for famil
 Sue also gave special thanks to her daughter Amy for helping organize the cookbook. She wrote that she could not have done it without Amy's help.
 
 This preserved archive continues that work. It carries recipes, memories, family notes, holidays, ordinary meals, and the love tucked into the pages. It honors Jimmie Hatton, Sue Wallesch, and the family kitchens that shaped the recipes.
+
+## Sue's Original Dedication
+
+The original cookbook included a dedication page written by Sue Wallesch in her own voice. It is preserved here below Amy's dedication so Sue's words remain part of the family archive.
+
+### A Collection of Recipes From the Kitchen of Sue Wallesch
+
+This cookbook is dedicated to my mom, Jimmie Hatton, who is one of the best cooks that I have ever known. As I was a child growing up, I remember well the wonderful meals that mom would always prepare for our family every day of the week. Mom is well known for her skills in the kitchen, and she taught me all the basic skills I needed to get me on the road to becoming a successful COOK. I have been referred to as a good cook many times over the years, and if that truly is correct, I owe it all to my mom because she was the person who taught me and gave me the desire to learn to cook. I wanted to follow in her footsteps in the kitchen.
+
+To you mom, I say "thank you" for all the wonderful meals you have prepared for our family and friends over the years. I now realize how much love and work went into those big family dinners as I have prepared many of them myself over the past few years. Thank you for passing all that wonderful knowledge on to me. Now I can have the pleasure of passing on to my family and friends some of the knowledge I have gained over the years just as you passed yours on to me.
+
+I truly hope you all enjoy using your cookbooks as much as I have enjoyed preparing them for you. There's many years of cooking experience and a whole lot of love tucked into these pages. I have prepared every single recipe in this book myself so I know they are good recipes. I hope to send you new recipes to add to your books from time to time as they become available.
+
+In closing, I must add a very special thank you to my daughter, Amy, for all her hard work helping me to get this cookbook organized. In my eyes, she is a computer genius, and I couldn't have done it without her help. Thanks, Amy! Once again, thanks mom! I love you dearly!
+
+— Sue Wallesch
 
 ## Preservation Note
 

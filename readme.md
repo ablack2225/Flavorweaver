@@ -251,6 +251,227 @@ Exceptions may exist for special feature pages, but the default family recipe mo
 
 ---
 
+# 🧾 Don & Amy World Culture Recipe Build Standard
+
+This section records the working format for new Don & Amy world-culture recipes.
+
+Use this standard before importing, converting, moving, or publishing any new main collection recipe.
+
+## Required Outputs
+
+Every new world-culture recipe should produce both a Markdown source file and a public HTML recipe page.
+
+```text
+recipes/<culture>/<recipe-category>/<recipe-slug>.md
+docs/recipes/<culture>/<recipe-slug>.html
+```
+
+The Markdown file is the source-of-truth kitchen record.
+
+The HTML file is the public recipe page used by the GitHub Pages website.
+
+Do not treat Don & Amy world-culture recipes like family recipes. They do not use the family recipe card renderer as their primary public format.
+
+## Markdown Source Format
+
+New world-culture Markdown recipes should follow:
+
+```text
+docs/main-flavorweaver-recipe-structure.md
+templates/main-recipe-template.md
+```
+
+Required Markdown structure:
+
+1. YAML frontmatter.
+2. `<!-- recipe-card:start -->`.
+3. Recipe title.
+4. Short recipe summary.
+5. Recipe Dashboard.
+6. Ingredient List by component.
+7. Measured Ingredients with cook-ready amounts and notes.
+8. Instructions.
+9. `<!-- recipe-card:end -->`.
+10. Pairs Well With.
+11. Chef's Notes.
+12. Final Verdict.
+13. Collapsible Flavorweaver sections.
+
+Recommended collapsible sections:
+
+```text
+Flavor Architecture
+Flavorweaver Direction
+Timing Notes
+Testing Notes
+Kitchen Notes
+Change Log
+```
+
+YAML frontmatter should include practical searchable metadata such as:
+
+```yaml
+name:
+culture:
+category:
+status:
+difficulty:
+prep_time:
+cook_time:
+total_time:
+servings:
+yield:
+measurement_status:
+rating_note:
+repeat_worthy:
+hall_of_fame_candidate:
+hall_of_fame:
+tags:
+required_components:
+pairs_well_with:
+last_updated:
+```
+
+Use `primary_category` and `categories` when a recipe belongs in more than one browsing category.
+
+Do not duplicate the full recipe body just because it belongs to more than one category. Use one canonical Markdown file and metadata for cross-category discovery.
+
+## HTML Recipe Page Format
+
+World-culture HTML pages should mirror the existing premium recipe page design already used by examples such as:
+
+```text
+docs/recipes/korean/bold-bulgogi-bowls.html
+docs/recipes/vietnamese/lemongrass-chicken-bowls.html
+docs/recipes/vietnamese/fresh-vegetable-spring-rolls.html
+```
+
+The HTML page should use the existing site shell and premium recipe layout rather than inventing a new design.
+
+Required stylesheet pattern:
+
+```html
+<link rel="stylesheet" href="../../styles.css?v=..." />
+<link rel="stylesheet" href="../../site.css?v=..." />
+<link rel="stylesheet" href="../../readability.css?v=..." />
+<link rel="stylesheet" href="../../premium-recipe.css?v=..." />
+```
+
+Required layout classes and regions:
+
+```text
+site-topbar
+site-nav
+page-shell recipe-page premium-recipe
+recipe-page-card
+recipe-kicker
+recipe-title
+recipe-summary
+recipe-meta-grid
+recipe-tag-row
+recipe-section
+premium-component-grid
+premium-component-card
+premium-ingredient-group
+premium-ingredient-list
+premium-ingredient-row
+instruction-list
+premium-chef-notes
+recipe-sidebar-card
+pairing-menu
+```
+
+Public HTML pages should show the cook-facing recipe content:
+
+- title and summary
+- culture / category / status kicker
+- prep, cook, total, marinate, rest, yield, or servings as appropriate
+- tags
+- ingredient list by component
+- measured ingredients
+- instructions
+- chef notes
+- pairs-well-with sidebar
+
+Public HTML pages should not render internal development sections by default:
+
+- Final Verdict
+- Flavorweaver Decision checkboxes
+- Flavor Architecture
+- Flavorweaver Direction
+- Timing Notes
+- Testing Notes
+- Kitchen Notes
+- Tasting Notes
+- Change Log
+
+Those sections stay in the Markdown source file for kitchen development, testing history, and future automation.
+
+## Search and Link Requirements
+
+When adding or moving a world-culture recipe, update all related discovery and navigation files.
+
+Check and update as needed:
+
+```text
+docs/recipe-search.json
+docs/recipe-search-live.json
+Markdown links in recipes/
+HTML links in docs/recipes/
+README and documentation references
+component links and pairings
+```
+
+When a source file moves, search for old path references before deleting or relocating the original.
+
+Update both Markdown links and HTML links. The source Markdown and public HTML site are connected, but they are not the same layer.
+
+## Component Placement Rule
+
+Reusable sauces, condiments, breads, pickles, and other meal components should live under the most appropriate world-culture recipe folder when they belong to the Don & Amy collection.
+
+Preferred pattern:
+
+```text
+recipes/<culture>/condiments/<component>.md
+recipes/<culture>/breads/<component>.md
+```
+
+Public pages should use:
+
+```text
+docs/recipes/<culture>/<component>.html
+```
+
+If a component is genuinely cross-cultural, pause before moving it and decide whether it needs:
+
+- a primary culture home,
+- a shared metadata strategy,
+- a special house-staple treatment,
+- or a temporary legacy location until the site structure can support it cleanly.
+
+Do not bury a cross-cultural house staple inside one culture folder without reviewing links, search behavior, and future browsing needs.
+
+## Family Recipe Exception
+
+Do not apply this build standard to the family recipe archive.
+
+Family recipes live under:
+
+```text
+family-recipes/recipes/<category>/<recipe>.md
+```
+
+Family recipes are surfaced through shared data/search/card rendering, especially:
+
+```text
+docs/family-recipe-data.js
+```
+
+They generally do not receive one hand-built premium HTML page per recipe.
+
+---
+
 # 🏆 Hall of Fame
 
 Hall of Fame recipes have earned permanent placement in the Amy & Don Kitchen.

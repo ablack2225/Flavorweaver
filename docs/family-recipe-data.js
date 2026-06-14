@@ -19,6 +19,11 @@ window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS = {
   "soups-and-stews": "Soups and Stews"
 };
 
+window.FLAVORWEAVER_FAMILY_RECIPE_PREVIEWS = {
+  "family-recipes/recipes/main-dishes/mexican-cabbage.md": "A preserved handwritten recipe from Sue Wallesch for a simple skillet-style cabbage dish with hamburger meat, onion, bell pepper, stewed tomatoes, and flexible seasonings.",
+  "family-recipes/recipes/main-dishes/10-minute-spaghetti-sauce.md": "A preserved family spaghetti sauce recipe made with ground beef, onion, tomato sauce, tomato paste, garlic powder, sweet basil, oregano, marjoram, brown sugar, and black pepper."
+};
+
 window.FLAVORWEAVER_TITLE_FROM_SLUG = (slug) => String(slug || '')
   .split('-')
   .map((word, index) => {
@@ -46,6 +51,7 @@ window.FLAVORWEAVER_FAMILY_RECIPES = Object.entries(window.FLAVORWEAVER_FAMILY_R
       collection: 'Family Cookbook',
       culture: '',
       category,
+      preview: window.FLAVORWEAVER_FAMILY_RECIPE_PREVIEWS[sourcePath] || '',
       status: '',
       ingredients: [],
       tags: []

@@ -59,15 +59,12 @@ function titleFromSlug(slug) {
     .replace('Mac and Cheese', 'Mac and Cheese');
 }
 
-function escapeJsString(value) {
-  return String(value || '')
-    .replace(/\\/g, '\\\\')
-    .replace(/`/g, '\\`')
-    .replace(/\$/g, '\\$');
-}
-
 function slugFromFilename(filename) {
   return path.basename(filename, '.md');
+}
+
+function isRecipeMarkdownFile(filename) {
+  return filename.endsWith('.md') && slugFromFilename(filename).toLowerCase() !== 'readme';
 }
 
 function normalizeLine(line) {
@@ -137,7 +134,7 @@ function readCategory(categorySlug) {
   if (!fs.existsSync(categoryPath)) return [];
 
   return fs.readdirSync(categoryPath)
-    .filter((filename) => filename.endsWith('.md'))
+    .filter(isRecipeMarkdownFile)
     .map(slugFromFilename)
     .sort((a, b) => a.localeCompare(b));
 }

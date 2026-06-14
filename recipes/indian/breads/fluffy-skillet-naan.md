@@ -59,7 +59,7 @@ last_updated: 2026-06-14
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 1 tsp | Instant or rapid-rise yeast |  |
-| 1/2 cup | Warm water | About 105°F / 40°C |
+| 1/2 cup | Warm water | 105-108°F; measure with a kitchen thermometer so the water is warm enough to activate yeast but not hot enough to damage it |
 | 1 Tbsp | White sugar | Helps bloom yeast |
 | 2 Tbsp | Milk | Full-fat preferred; low-fat acceptable |
 | 1 1/2 Tbsp | Whisked egg | Room temperature; about 1/2 large egg. Double batch can use 1 whole egg. |
@@ -86,7 +86,7 @@ last_updated: 2026-06-14
 
 | Step | Action |
 |---:|---|
-| 1 | Combine yeast, warm water, and sugar. Cover and let stand until foamy, about 10 minutes. |
+| 1 | Measure the warm water with a kitchen thermometer. The target temperature is 105-108°F. Combine yeast, warm water, and sugar. Cover and let stand until foamy, about 10 minutes. Do not use overly hot water, because it can damage or kill the yeast and prevent the dough from rising. |
 | 2 | Whisk milk and room-temperature egg together. |
 | 3 | In a separate bowl, combine flour and salt. |
 | 4 | Add the wet ingredients, yeast mixture, and melted ghee or butter to the flour. Mix until a dough forms. |
@@ -111,7 +111,7 @@ last_updated: 2026-06-14
 
 This recipe belongs under Indian breads. It can still be linked from the Ethiopian-inspired Doro Wat platter as a practical scoop-bread substitute.
 
-For best texture, use a room-temperature egg, keep the dough soft, and cook the naan in a very hot skillet so it bubbles and chars quickly without drying out.
+For best texture, use a room-temperature egg, keep the dough soft, measure the warm water so the yeast activates reliably, and cook the naan in a very hot skillet so it bubbles and chars quickly without drying out.
 
 ## Final Verdict
 
@@ -155,14 +155,14 @@ This is Amy & Don's house naan and should be treated as a staple Indian bread re
 <details>
 <summary>Timing Notes</summary>
 
-Dough rise is approximately 2 hours total. Warm room conditions will shorten rise time; cooler rooms may extend it. Use a room-temperature egg so the dough stays warm enough for a good rise.
+Dough rise is approximately 2 hours total. Warm room conditions will shorten rise time; cooler rooms may extend it. Use a room-temperature egg so the dough stays warm enough for a good rise. Measure the water at 105-108°F so the yeast activates reliably.
 
 </details>
 
 <details>
 <summary>Kitchen Notes</summary>
 
-A very hot skillet is important for bubbles and color. Cast iron is preferred. Keep the dough soft and use only enough flour to make it workable.
+A very hot skillet is important for bubbles and color. Cast iron is preferred. Keep the dough soft and use only enough flour to make it workable. Water temperature matters for yeast activation; use a kitchen thermometer instead of guessing by touch.
 
 </details>
 
@@ -172,5 +172,6 @@ A very hot skillet is important for bubbles and color. Cast iron is preferred. K
 | Date | Change |
 |---|---|
 | 2026-06-14 | Cleaned naan recipe into Amy & Don house staple and removed external-source/testing language. |
+| 2026-06-14 | Added precise yeast water temperature and thermometer instruction. |
 
 </details>

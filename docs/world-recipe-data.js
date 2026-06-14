@@ -76,8 +76,8 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     culture: 'Ethiopian Inspired',
     category: 'Main Dish',
     status: 'Working Recipe',
-    ingredients: ['chicken thighs', 'hard-boiled eggs', 'paprika', 'cayenne', 'fenugreek', 'onion', 'garlic', 'ginger', 'tomato paste', 'yellow split peas', 'cabbage', 'carrot', 'tomato', 'cucumber', 'naan', 'injera'],
-    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Doro Wat', 'doro wat', 'complete meal plate', 'berbere-style', 'Split Pea Alicha', 'split pea alicha', 'Atakilt Wat', 'atakilt wat', 'Timatim Salad', 'timatim salad', 'Naan', 'naan substitute', 'Injera', 'injera future project']
+    ingredients: ['chicken thighs', 'hard-boiled eggs', 'paprika', 'cayenne', 'fenugreek', 'onion', 'garlic', 'ginger', 'tomato paste', 'yellow split peas', 'red lentils', 'cabbage', 'carrot', 'tomato', 'cucumber', 'naan', 'injera'],
+    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Doro Wat', 'doro wat', 'complete meal plate', 'berbere-style', 'Split Pea Alicha', 'split pea alicha', 'Misir Wat', 'misir wat', 'red lentils', 'Atakilt Wat', 'atakilt wat', 'Timatim Salad', 'timatim salad', 'Naan', 'naan substitute', 'Injera', 'injera', 'traditional upgrade path']
   },
   {
     title: 'Split Pea Alicha',
@@ -88,6 +88,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'First Test',
     ingredients: ['yellow split peas', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'black pepper', 'butter', 'oil'],
     tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Split Pea Alicha', 'split pea alicha', 'yellow split peas', 'split peas', 'alicha', 'side dish', 'stew', 'doro wat platter', 'dairy-minimal']
+  },
+  {
+    title: 'Misir Wat',
+    path: 'recipes/ethiopian/sides/misir-wat.html',
+    collection: 'House Recipes',
+    culture: 'Ethiopian',
+    category: 'Side Dish',
+    status: 'Working Recipe',
+    ingredients: ['red lentils', 'onion', 'garlic', 'ginger', 'berbere', 'tomato paste', 'water', 'broth', 'butter', 'oil', 'lemon'],
+    tags: ['Ethiopian', 'Ethiopian-Inspired', 'ethiopian', 'ethiopian-inspired', 'Misir Wat', 'misir wat', 'red lentils', 'berbere', 'side dish', 'stew', 'doro wat platter', 'traditional upgrade path']
   },
   {
     title: 'Atakilt Wat',
@@ -115,9 +125,9 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     collection: 'House Recipes',
     culture: 'Ethiopian',
     category: 'Bread',
-    status: 'Future Project',
+    status: 'Traditional Technique',
     ingredients: ['teff flour', 'water', 'active teff starter', 'salt'],
-    tags: ['Ethiopian', 'Injera', 'injera', 'Teff', 'teff', 'teff starter', 'fermented', 'flatbread', 'starter', 'future project', 'dairy-free']
+    tags: ['Ethiopian', 'Injera', 'injera', 'Teff', 'teff', 'teff starter', 'fermented', 'flatbread', 'starter', 'traditional technique', 'dairy-free', 'doro wat platter', 'misir wat']
   },
   {
     title: 'Fluffy Skillet Naan',

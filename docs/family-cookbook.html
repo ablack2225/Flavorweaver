@@ -47,7 +47,7 @@
       <div class="feature-grid" id="family-search-results" aria-live="polite"></div>
     </section>
 
-    <section aria-labelledby="family-heading">
+    <section id="family-browse-section" aria-labelledby="family-heading">
       <div class="section-heading">
         <div>
           <p class="eyebrow">Preserved pages</p>
@@ -87,9 +87,12 @@
       'homemade-pickles'
     ];
 
+    const isRenderableRecipe = (recipeSlug) => Boolean(recipeSlug) && normalize(recipeSlug) !== 'readme';
+    const categoryHasRenderableRecipes = (slug) => (categories[slug] || []).some(isRenderableRecipe);
+
     const orderedCategorySlugs = [
-      ...categoryOrder.filter((slug) => categories[slug]),
-      ...Object.keys(categories).filter((slug) => !categoryOrder.includes(slug)).sort()
+      ...categoryOrder.filter((slug) => categories[slug] && categoryHasRenderableRecipes(slug)),
+      ...Object.keys(categories).filter((slug) => !categoryOrder.includes(slug) && categoryHasRenderableRecipes(slug)).sort()
     ];
 
     const categoryDescriptions = {
@@ -115,6 +118,7 @@
     const searchInput = document.getElementById('family-name-search');
     const searchResults = document.getElementById('family-search-results');
     const context = document.getElementById('family-search-context');
+    const browseSection = document.getElementById('family-browse-section');
     let activeCategory = '';
 
     const recipeSlugFromSourcePath = (sourcePath) => String(sourcePath || '').split('/').pop().replace(/\.md$/, '');
@@ -150,6 +154,7 @@
       const query = normalize(searchInput.value);
       return recipes.filter((recipe) => {
         const recipeSlug = recipeSlugFromSourcePath(recipe.sourcePath);
+        if (!isRenderableRecipe(recipeSlug)) return false;
         const categorySlug = categorySlugFromSourcePath(recipe.sourcePath);
         const categoryMatches = !activeCategory || categorySlug === activeCategory || (categories[activeCategory] || []).includes(recipeSlug);
         const nameMatches = recipeMatchesQuery(recipe, query, recipeSlug, categorySlug);
@@ -161,11 +166,13 @@
       const query = normalize(searchInput.value);
       const label = activeCategory ? labels[activeCategory] || activeCategory : '';
       const matches = filteredRecipes();
-      context.textContent = label || query
+      const isResultView = Boolean(label || query);
+      browseSection.hidden = isResultView;
+      context.textContent = isResultView
         ? `Showing family recipes${label ? ` in ${label}` : ''}${query ? ` matching “${searchInput.value.trim()}”` : ''}.`
         : '';
       setActivePill();
-      if (!label && !query) {
+      if (!isResultView) {
         searchResults.innerHTML = '';
         return;
       }

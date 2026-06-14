@@ -59,11 +59,11 @@ last_updated: 2026-06-14
 |---|---|
 | House Berbere-Style Spice Blend | Paprika, cayenne or ground chile, coriander, ginger, fenugreek, cumin, garlic powder, onion powder, cardamom, black pepper, clove, cinnamon, allspice, turmeric |
 | Doro Wat-Style Chicken & Eggs | Chicken thighs, hard-boiled eggs, onion, butter or oil, berbere-style spice blend, garlic, ginger, tomato paste, chicken broth, bay leaf, lemon |
-| Split Pea Alicha | [Yellow split peas](../sides/split-pea-alicha.md), onion, butter or oil, garlic, ginger, turmeric, cumin, coriander, black pepper |
-| Atakilt Wat | Cabbage, carrot, potato, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander |
-| Timatim Salad | Tomato, cucumber, onion, lemon juice, olive oil, salt, black pepper, optional chile and herbs |
-| Practical Scoop Bread | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) until injera is ready |
-| Traditional Bread Path | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) for the future traditional-style version |
+| Split Pea Alicha | [Split Pea Alicha](../sides/split-pea-alicha.md): yellow split peas, water or broth, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander, black pepper, salt, optional lemon |
+| Atakilt Wat | [Atakilt Wat](../sides/atakilt-wat.md): cabbage, carrot, potato, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander, salt, black pepper, water or broth |
+| Timatim Salad | [Timatim Salad](../salads/timatim-salad.md): tomato, cucumber, onion, lemon juice, olive oil, salt, black pepper, optional chile and herbs |
+| Practical Scoop Bread | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md): yeast, warm water, sugar, milk, egg, salt, flour, ghee or butter, optional garlic and herbs |
+| Traditional Bread Path | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md): teff flour, water, active teff starter, salt, and fermentation time |
 
 ## Measured Ingredients
 
@@ -123,48 +123,15 @@ last_updated: 2026-06-14
 | To taste | Salt and black pepper |  |
 | Small squeeze | Lemon | Optional at the end |
 
-### Split Pea Alicha
+### Linked Required Components
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 batch | [Split Pea Alicha](../sides/split-pea-alicha.md) | Yellow split pea version is the working platter standard |
-
-### Atakilt Wat
-
-| Amount | Ingredient | Notes |
-|---:|---|---|
-| 1/2 small | Cabbage | Sliced |
-| 1 | Carrot | Sliced or shredded |
-| 1 small | Potato | Diced, optional |
-| 1/2 | Onion | Sliced |
-| 1 Tbsp | Unsalted butter or oil |  |
-| 1 clove | Garlic | Minced |
-| 1 tsp | Fresh grated ginger or ginger paste |  |
-| 1/2 tsp | Turmeric |  |
-| 1/4 tsp | Cumin |  |
-| 1/4 tsp | Coriander |  |
-| To taste | Salt and black pepper |  |
-| Splash | Water or broth |  |
-
-### Timatim Salad
-
-| Amount | Ingredient | Notes |
-|---:|---|---|
-| 1 | Tomato | Diced |
-| 1/2 | Cucumber | Diced |
-| 2-3 Tbsp | Onion | Finely sliced |
-| 1 Tbsp | Lemon juice |  |
-| 1 Tbsp | Olive oil |  |
-| To taste | Salt and black pepper |  |
-| Optional | Jalapeno or serrano | Minced |
-| Optional | Parsley or cilantro | Chopped |
-
-### Bread
-
-| Amount | Ingredient | Notes |
-|---:|---|---|
-| 1 batch | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Practical working scoop bread |
-| Future project | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Traditional-style bread path |
+| 1 batch | [Split Pea Alicha](../sides/split-pea-alicha.md) | Yellow split peas, onion, garlic, ginger, turmeric, cumin, coriander, black pepper, butter or oil, water or broth |
+| 1 batch | [Atakilt Wat](../sides/atakilt-wat.md) | Cabbage, carrot, optional potato, onion, garlic, ginger, turmeric, cumin, coriander, butter or oil |
+| 1 batch | [Timatim Salad](../salads/timatim-salad.md) | Tomato, cucumber, onion, lemon juice, olive oil, salt, black pepper, optional chile and herbs |
+| 1 batch | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Yeast, water, sugar, milk, egg, salt, flour, ghee or butter; practical working scoop bread |
+| Future project | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Teff flour, water, active teff starter, salt, and fermentation time; traditional-style bread path |
 
 ## Instructions
 
@@ -180,7 +147,7 @@ last_updated: 2026-06-14
 | 8 | Add 1 cup chicken broth and bay leaf if using. Simmer covered on low for 25-35 minutes, adding broth as needed, until the chicken is tender and cooked through. |
 | 9 | During the last 10-15 minutes, nestle the scored eggs into the sauce. Spoon sauce over them and turn gently so they stain evenly. |
 | 10 | Uncover and simmer 5-10 minutes until the sauce thickens and clings. Adjust with salt, black pepper, lemon, or a tiny pinch of sugar if needed. |
-| 11 | Prepare the split pea alicha, atakilt wat, timatim salad, and naan or injera according to their linked recipes. |
+| 11 | Prepare the linked split pea alicha, atakilt wat, timatim salad, and naan or injera according to their recipes. |
 | 12 | Assemble each plate with naan or injera, doro wat-style chicken, 2 eggs per person, split pea alicha, atakilt wat, and timatim salad. Spoon extra sauce over the chicken and eggs. |
 
 <!-- recipe-card:end -->
@@ -190,7 +157,7 @@ last_updated: 2026-06-14
 | Type | Pairing | Notes |
 |---|---|---|
 | Drink | Ethiopian coffee | A beautiful future pairing for a full Ethiopian-style meal. |
-| Fresh side | Extra Timatim Salad | Adds more brightness if the plate feels rich. |
+| Fresh side | Extra [Timatim Salad](../salads/timatim-salad.md) | Adds more brightness if the plate feels rich. |
 | Traditional upgrade | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Use when building the more traditional-style version. |
 
 ## Chef's Notes
@@ -238,7 +205,7 @@ Yes. This is a strong working platter with a clear practical version and a prese
 <details>
 <summary>Flavorweaver Direction</summary>
 
-This meal should remain a complete restaurant-style plate. Required elements belong in the main recipe card, while reusable components may also be broken out and linked.
+This meal should remain a complete restaurant-style plate. The main recipe's Ingredient List should show all ingredients needed to make the whole plate while also linking reusable component recipes.
 
 The current public-facing version should be the practical Amy & Don version: yellow split pea alicha and naan. The traditional path should be preserved through linked future components: Misir Wat and real injera.
 
@@ -285,5 +252,6 @@ This platter is built for real ingredient access. Do not force special-order ing
 | Date | Change |
 |---|---|
 | 2026-06-14 | Created recipe file from Ethiopian-inspired platter handoff and split pea alicha decision. |
+| 2026-06-14 | Linked Atakilt Wat and Timatim Salad as required components while preserving full-plate ingredient visibility. |
 
 </details>

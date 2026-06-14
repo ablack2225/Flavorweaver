@@ -12,45 +12,23 @@
 
 Flavorweaver is more than a recipe collection.
 
-It is a living record of culinary exploration, experimentation, refinement, and discovery.
+It is a living record of culinary exploration, experimentation, refinement, adaptation, testing, and discovery.
 
 The goal is not merely to preserve recipes.
 
 The goal is to preserve what was learned along the way.
 
-Every recipe begins somewhere.
+Flavorweaver documents what happens after a recipe, restaurant meal, family memory, cultural tradition, or ingredient idea enters the Amy & Don Kitchen.
 
-A cookbook.
+The final question is always:
 
-A restaurant.
+> Would Amy and Don be excited to make this again?
 
-A family memory.
-
-A cultural tradition.
-
-A recommendation.
-
-Flavorweaver documents what happens after that recipe enters the Amy & Don Kitchen.
-
-It is tested.
-
-Modified.
-
-Refined.
-
-Adapted.
-
-Sometimes transformed completely.
-
-The result is not simply a collection of dishes.
-
-It is a growing flavor ecosystem.
+If the answer is yes, the recipe belongs in Flavorweaver.
 
 ---
 
 # 🧭 Culinary Philosophy
-
-Over time, Flavorweaver revealed recurring patterns.
 
 Meals that consistently succeed tend to share:
 
@@ -72,8 +50,6 @@ The goal is creating meals worth remembering.
 
 # 📂 Current Repository Structure
 
-This structure reflects the active working model for Flavorweaver.
-
 ```text
 Flavorweaver/
 │
@@ -85,7 +61,6 @@ Flavorweaver/
 │   ├── family-cookbook.html
 │   ├── dedication.html
 │   ├── cultures-and-cuisines.html
-│   ├── house-staples.html
 │   ├── family-recipe-data.js
 │   ├── world-recipe-data.js
 │   ├── recipe-search.json
@@ -149,7 +124,7 @@ docs/templates/family-recipe-source-template.md
 
 Flavorweaver contains two related but different recipe systems.
 
-They should not be merged, flattened, or treated as interchangeable.
+They must not be merged, flattened, or treated as interchangeable.
 
 Before adding any recipe, determine which system it belongs to.
 
@@ -185,9 +160,10 @@ Examples:
 recipes/korean/bowls-and-mains/bold-bulgogi-bowls.md
 recipes/vietnamese/bowls-and-mains/lemongrass-chicken-bowls.md
 recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md
+recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md
 ```
 
-World-culture recipes are chef-level developed recipes from the Amy & Don kitchen. They may be inspired by restaurants, cultures, flavor memories, research, or experiments, but the final recipe should reflect what Amy and Don would want to make again.
+World-culture recipes are chef-level developed recipes from the Amy & Don Kitchen. They may be inspired by restaurants, cultures, flavor memories, research, experiments, substitutions, or ingredient access limitations, but the final recipe should reflect what Amy and Don would want to make again.
 
 ## Required Outputs
 
@@ -202,9 +178,11 @@ The Markdown file is the source-of-truth kitchen record.
 
 The HTML file is the public recipe page used by the GitHub Pages website.
 
-Do not treat Don & Amy world-culture recipes like family recipes. They do not use the family recipe card renderer as their primary public format.
+World-culture recipes do not use the family recipe renderer as their primary public format.
 
-## Markdown Source Format
+---
+
+# 🧾 World-Culture Markdown Source Format
 
 New world-culture Markdown recipes should begin from:
 
@@ -212,7 +190,7 @@ New world-culture Markdown recipes should begin from:
 docs/templates/world-culture-recipe-source-template.md
 ```
 
-The supporting structure reference is:
+Supporting structure reference:
 
 ```text
 docs/main-flavorweaver-recipe-structure.md
@@ -273,7 +251,9 @@ Use `primary_category` and `categories` when a recipe belongs in more than one b
 
 Do not duplicate the full recipe body just because it belongs to more than one category. Use one canonical Markdown file and metadata for cross-category discovery.
 
-## HTML Recipe Page Format
+---
+
+# 🌐 World-Culture Public HTML Format
 
 World-culture HTML pages should mirror the premium recipe page design already used by canon examples such as:
 
@@ -281,9 +261,8 @@ World-culture HTML pages should mirror the premium recipe page design already us
 docs/recipes/korean/bowls-and-mains/bold-bulgogi-bowls.html
 docs/recipes/vietnamese/bowls-and-mains/lemongrass-chicken-bowls.html
 docs/recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.html
+docs/recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html
 ```
-
-If a current live example still exists at an older flat path, use the most current working page as the visual reference and preserve the category-aware structure for new work.
 
 The locked public HTML template is:
 
@@ -304,30 +283,6 @@ Required stylesheet pattern should be adjusted for the HTML page depth:
 
 Use `../../` instead of `../../../` only when a public recipe page is intentionally placed one folder shallower.
 
-Required layout classes and regions:
-
-```text
-site-topbar
-site-nav
-page-shell recipe-page premium-recipe
-recipe-page-card
-recipe-kicker
-recipe-title
-recipe-summary
-recipe-meta-grid
-recipe-tag-row
-recipe-section
-premium-component-grid
-premium-component-card
-premium-ingredient-group
-premium-ingredient-list
-premium-ingredient-row
-instruction-list
-premium-chef-notes
-recipe-sidebar-card
-pairing-menu
-```
-
 Public HTML pages should show the cook-facing recipe content:
 
 - title and summary
@@ -336,6 +291,8 @@ Public HTML pages should show the cook-facing recipe content:
 - tags
 - ingredient list by component
 - measured ingredients
+- required components and their role on the plate, when applicable
+- plating and serving architecture for complete meal plates
 - instructions
 - chef notes
 - pairs-well-with sidebar
@@ -354,39 +311,88 @@ Public HTML pages should not render internal development sections by default:
 
 Those sections stay in the Markdown source file for kitchen development, testing history, and future automation.
 
-## Complete Meal Plate Rule
+---
+
+# 🍽️ Complete Meal Plate Rule
 
 Some Don & Amy world-culture recipes represent a complete restaurant-style meal plate rather than a single isolated dish.
 
 In those cases, the main dish recipe should keep the full meal build together as the canonical recipe. This may include the protein or central dish, rice, noodles, bread, vegetables, sauces, pickles, garnishes, assembly instructions, and any other required elements needed to make the plate feel complete.
 
-The Ingredient List and Measured Ingredients sections should show everything required to make the whole plate, even when some of those required elements also exist as standalone reusable component recipes.
+The complete meal recipe must allow the cook to visualize the finished plate before cooking.
 
-When a required element has its own recipe file or public HTML page, link to that component directly from the main recipe so the cook can move cleanly between the complete meal and the reusable component.
+A complete meal plate recipe should contain three distinct layers:
 
-Reusable components may be broken out into separate recipes when they are useful beyond the original meal, but the main dish should still clearly show that they are required for the full plate.
+## 1. Ingredient List = Full Plate Shopping and Prep View
+
+The Ingredient List should show everything required to make the whole plate, even when some required elements also exist as standalone reusable component recipes.
+
+When a required element has its own recipe, link it by name while still listing the ingredients needed for that component.
+
+Correct pattern:
+
+```markdown
+| Atakilt Wat | [Atakilt Wat](../sides/atakilt-wat.md): cabbage, carrot, potato, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander |
+```
+
+Do not replace full-plate ingredient visibility with only a link.
+
+## 2. Linked Required Components = Role on the Plate
+
+The Linked Required Components section should explain how each component functions in the final dish.
+
+This section should not repeat the full ingredient list.
+
+Correct pattern:
+
+```markdown
+| 1 batch | [Atakilt Wat](../sides/atakilt-wat.md) | Soft vegetable component that rounds out the plate and adds gentle sweetness |
+```
+
+Use this section to explain balance, contrast, texture, sauce role, freshness, scoopability, richness, acidity, heat, crunch, or comfort.
+
+## 3. Plating & Serving Architecture = Story of the Finished Plate
+
+Complete meal plates should include a Plating & Serving Architecture section.
+
+This section should describe:
+
+- serving size and per-plate portioning
+- where each component goes visually
+- what gets spooned over what
+- what should remain fresh, cool, bright, crispy, saucy, or scoopable
+- how the components should be eaten together
+- what the final plate should feel like to the eater
+
+The goal is the holy grail of instruction: the cook should be able to envision the plate in their mind.
+
+These main plate recipes tell a story.
+
+## Component Breakout Rule
+
+Reusable components may be broken out into separate recipes when they are useful beyond the original meal.
+
+Required components should not be listed as required unless they have enough recipe content to cook them. If the component is substantial or reusable, create and link a separate source Markdown file and public HTML page for it.
+
+Current complete-meal test cases:
+
+```text
+Bold Bulgogi Bowls
+Lemongrass Chicken Bowls
+Ethiopian-Inspired Doro Wat Platter
+```
+
+The Ethiopian-Inspired Doro Wat Platter is the first expanded test case showing a full meal card with linked required component recipes, component role notes, and plating architecture.
+
+Bold Bulgogi Bowls and Lemongrass Chicken Bowls should be normalized to this complete-meal layer so the pattern remains consistent.
 
 `Pairs Well With` is reserved for optional companion dishes, add-ons, sides, drinks, or menu-style pairings that would go well beside the meal but are not required for the identity of the main dish.
 
-Bold Bulgogi Bowls is the current canon example of this pattern: the bowl remains the complete main recipe, while required components can be included, linked, and reused without turning them into optional pairings.
+---
 
-## Required Components vs Pairs Well With
+# 🧩 Component Placement Rule
 
-Required components belong in the Ingredient List and Measured Ingredients sections.
-
-Examples of required components:
-
-- sauces required to complete the dish
-- rice, noodles, bread, or base
-- pickles or vegetables required for balance
-- garnishes required for the intended final plate
-- crema, dipping sauce, dressing, or finishing sauce required for the recipe identity
-
-`Pairs Well With` is only for optional companion dishes or add-ons that would make a good menu around the recipe.
-
-## Component Placement Rule
-
-Reusable sauces, condiments, breads, pickles, and other meal components should live under the most appropriate world-culture recipe folder when they belong to the Don & Amy collection.
+Reusable sauces, condiments, breads, pickles, salads, sides, and other meal components should live under the most appropriate world-culture recipe folder when they belong to the Don & Amy collection.
 
 Preferred pattern:
 
@@ -400,6 +406,7 @@ Common component categories include:
 condiments/
 breads/
 sides/
+salads/
 pickles-and-bright-things/
 ```
 
@@ -418,7 +425,9 @@ If a component is genuinely cross-cultural, pause before moving it and decide wh
 
 Do not bury a cross-cultural house staple inside one culture folder without reviewing links, search behavior, and future browsing needs.
 
-## Search and Link Requirements
+---
+
+# 🔎 Search, Index, and Link Requirements
 
 When adding or moving a world-culture recipe, update all related discovery and navigation files.
 
@@ -438,6 +447,31 @@ category pages and cards
 When a source file moves, search for old path references before deleting or relocating the original.
 
 Update both Markdown links and HTML links. The source Markdown and public HTML site are connected, but they are not the same layer.
+
+Every new culture, culture-path, component name, dish name, ingredient pattern, and major searchable concept introduced by a recipe should be represented in the active search data tags. Do not rely only on the recipe title or body text.
+
+Examples of tags that must be added when introduced:
+
+```text
+Ethiopian-Inspired
+Ethiopian Inspired
+Indian-Inspired
+Indian Inspired
+Doro Wat
+Split Pea Alicha
+Atakilt Wat
+Timatim Salad
+Injera
+Teff
+Naan
+Complete Meal Plate
+```
+
+Use both readable display terms and practical lowercase/hyphenated search terms when useful. This helps quick filters, typed search, and future category/path pages find the recipe reliably.
+
+When index/data files are changed, bump the query-string version on any HTML page that loads them if GitHub Pages or browser caching may hide the change.
+
+Path pages must load the data layer needed for the recipes they are expected to show. For example, a breads page that should show both family breads and world-culture breads must load both `family-recipe-data.js` and `world-recipe-data.js`.
 
 ---
 
@@ -653,14 +687,19 @@ When editing the repository:
 4. Commit in small, clear steps.
 5. Only claim completion after GitHub confirms the commit.
 
-When adding recipes:
+When adding world-culture recipes:
 
-1. Determine whether the recipe belongs to the Family Recipe Archive or the Don & Amy World-Culture Collection.
-2. Use the correct active template from `docs/templates/`.
-3. Create the Markdown source file in the correct location.
-4. For world-culture recipes, create the public HTML page.
-5. Update search/index/navigation data as needed.
-6. Verify internal links, component links, category pages, and public page paths.
+1. Determine the culture/path and category.
+2. Create the Markdown source file.
+3. Create the public HTML page.
+4. Break out substantial required components into their own source and public pages.
+5. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
+6. Use Required Components to explain component roles on the plate.
+7. Add Plating & Serving Architecture for complete meal plates.
+8. Update active and legacy search/index files.
+9. Add new search tags for new cultures, dishes, components, and major concepts.
+10. Update category/path pages and cache query strings as needed.
+11. Verify links and discovery paths.
 
 ---
 

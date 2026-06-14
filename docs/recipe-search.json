@@ -125,9 +125,9 @@
     "sourcePath": "recipes/indian/breads/fluffy-skillet-naan.md",
     "cuisine": "Indian Inspired",
     "category": "Bread",
-    "status": "Source Adaptation Needed",
-    "ingredients": ["yeast", "warm water", "sugar", "milk", "egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
-    "tags": ["Indian-Inspired", "indian-inspired", "naan", "Naan", "skillet bread", "scoop bread", "source adaptation needed", "doro wat platter substitute", "html page"]
+    "status": "House Staple",
+    "ingredients": ["yeast", "warm water", "sugar", "milk", "room-temperature egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
+    "tags": ["Indian-Inspired", "indian-inspired", "naan", "Naan", "skillet bread", "scoop bread", "house staple", "doro wat platter substitute", "html page"]
   },
   {
     "title": "Apple Pie",

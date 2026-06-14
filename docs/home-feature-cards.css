@@ -1,0 +1,104 @@
+.feature-card--family-archive {
+  position: relative;
+  overflow: hidden;
+  border-color: rgba(255, 196, 93, 0.36);
+  border-top-color: var(--candle) !important;
+  box-shadow:
+    var(--shadow),
+    0 0 34px rgba(255, 196, 93, 0.1),
+    inset 0 1px 0 rgba(255, 241, 220, 0.08);
+}
+
+.feature-card--family-archive::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: inherit;
+  background:
+    radial-gradient(circle at 18% 12%, rgba(255, 213, 143, 0.24), transparent 8rem),
+    linear-gradient(120deg, transparent 0%, rgba(255, 196, 93, 0.12) 45%, transparent 70%);
+  opacity: 0.75;
+}
+
+.feature-card--family-archive::after {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  pointer-events: none;
+  border-radius: calc(var(--radius) - 7px);
+  border: 1px solid rgba(255, 216, 154, 0.34);
+  box-shadow: 0 0 18px rgba(255, 196, 93, 0.14);
+  animation: memoryCandleGlow 5.8s ease-in-out infinite;
+}
+
+.feature-card--family-archive > * {
+  position: relative;
+  z-index: 1;
+}
+
+.feature-card--family-archive h3 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.feature-card--family-archive h3::before {
+  content: "🕯️";
+  font-size: 0.95em;
+  filter: drop-shadow(0 0 8px rgba(255, 196, 93, 0.35));
+}
+
+.feature-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.feature-card-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 9px 13px;
+  text-decoration: none;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.feature-card-actions .archive-pill-primary {
+  background: linear-gradient(135deg, var(--amber), var(--candle));
+  border: 1px solid rgba(255, 196, 93, 0.68);
+  color: #150c05;
+  box-shadow: var(--glow-candle);
+}
+
+.feature-card-actions .archive-pill-secondary {
+  background: rgba(255, 196, 93, 0.12);
+  border: 1px solid rgba(255, 196, 93, 0.36);
+  color: var(--candle);
+}
+
+@keyframes memoryCandleGlow {
+  0%, 100% {
+    opacity: 0.42;
+    box-shadow: 0 0 12px rgba(255, 196, 93, 0.1);
+  }
+  50% {
+    opacity: 0.9;
+    box-shadow: 0 0 24px rgba(255, 196, 93, 0.24);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .feature-card--family-archive::after {
+    animation: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .feature-card-actions a {
+    width: 100%;
+  }
+}

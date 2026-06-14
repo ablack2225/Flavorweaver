@@ -1,0 +1,53 @@
+.family-category-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.family-category-pill {
+  border: 1px solid rgba(76, 204, 232, 0.34);
+  border-radius: 999px;
+  background: var(--bottle-glow);
+  color: var(--bottle-blue);
+  padding: 8px 12px;
+  font-weight: 900;
+  cursor: pointer;
+  text-decoration: none;
+  line-height: 1.1;
+  font-family: inherit;
+}
+
+.family-category-pill:nth-child(2n) {
+  border-color: rgba(255, 196, 93, 0.44);
+  background: var(--candle-soft);
+  color: var(--candle);
+}
+
+.family-category-pill:nth-child(3n) {
+  border-color: rgba(88, 227, 197, 0.38);
+  background: var(--elixir-soft);
+  color: var(--elixir-teal);
+}
+
+.family-category-pill:nth-child(4n) {
+  border-color: rgba(159, 127, 232, 0.36);
+  background: var(--violet-soft);
+  color: #c9b5ff;
+}
+
+.family-category-pill:hover,
+.family-category-pill:focus {
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.family-category-pill.is-active {
+  box-shadow: 0 0 0 2px rgba(255, 196, 93, 0.22), var(--glow-candle);
+}
+
+.family-search-context {
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-weight: 900;
+}

@@ -70,6 +70,26 @@
     "tags": ["ethiopian-inspired", "split peas", "alicha", "side dish", "stew", "doro wat platter", "html page"]
   },
   {
+    "title": "Atakilt Wat",
+    "path": "recipes/ethiopian/sides/atakilt-wat.html",
+    "sourcePath": "recipes/ethiopian/sides/atakilt-wat.md",
+    "cuisine": "Ethiopian Inspired",
+    "category": "Side Dish",
+    "status": "Working Recipe",
+    "ingredients": ["cabbage", "carrot", "potato", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "butter", "oil"],
+    "tags": ["ethiopian-inspired", "atakilt wat", "cabbage", "carrot", "potato", "side dish", "doro wat platter", "html page"]
+  },
+  {
+    "title": "Timatim Salad",
+    "path": "recipes/ethiopian/salads/timatim-salad.html",
+    "sourcePath": "recipes/ethiopian/salads/timatim-salad.md",
+    "cuisine": "Ethiopian Inspired",
+    "category": "Salads, Slaws & Dips",
+    "status": "Working Recipe",
+    "ingredients": ["tomato", "cucumber", "onion", "lemon juice", "olive oil", "black pepper", "jalapeno", "serrano", "parsley", "cilantro"],
+    "tags": ["ethiopian-inspired", "timatim", "tomato", "cucumber", "salad", "fresh", "acidic", "doro wat platter", "html page"]
+  },
+  {
     "title": "Teff Starter & Real Injera",
     "path": "recipes/ethiopian/breads/teff-starter-and-real-injera.html",
     "sourcePath": "recipes/ethiopian/breads/teff-starter-and-real-injera.md",

@@ -4,6 +4,10 @@
 }
 
 .dedication-page-hero {
+  padding: clamp(30px, 7vw, 78px) 0 clamp(8px, 2vw, 18px);
+  border: 0;
+  background: transparent;
+  box-shadow: none;
   text-align: left;
 }
 

@@ -5,7 +5,7 @@ category: Breads
 status: Future Project
 difficulty: Advanced
 prep_time: 30m active
-germent_time: 4-7 days starter + 24-72h batter fermentation
+ferment_time: 4-7 days starter + 24-72h batter fermentation
 cook_time: 30-45m
 total_time: Multi-day fermentation project
 servings: 8-12 injera, depending on size
@@ -78,7 +78,7 @@ last_updated: 2026-06-14
 |---:|---|
 | 1 | Start the teff starter by mixing 50g teff flour with 50g filtered or non-chlorinated water in a clean glass jar. Stir into a thick batter, scrape down the sides, and cover loosely. |
 | 2 | Feed once per day for 4-7 days: discard about half, then feed with 50g teff flour and 50g water. Cover loosely and keep at room temperature. |
-| 3 | Use the starter when it bubbles reliably, smells pleasantly tangy, and shows activity after feeding. Discard and restart if mold, pink/orange streaks, fuzzy growth, or rotten odors appear. |
+| 3 | Use the starter when it bubbles reliably, smells pleasantly tangy, and shows activity after feeding. Restart if the culture shows unusual contamination signs or smells unpleasant. |
 | 4 | Mix the injera batter by whisking 2 cups teff flour, 2 1/2 cups water, and 1/4 cup active teff starter in a large bowl. The batter should be thinner than pancake batter but not watery. |
 | 5 | Cover loosely and ferment at room temperature for 24-72 hours. Ferment longer for more tang and sooner for a milder result once the batter is bubbly. |
 | 6 | Before cooking, stir the fermented batter well, add salt, and thin with water as needed until it pours like heavy cream or thin crepe batter. |

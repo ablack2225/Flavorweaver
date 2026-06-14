@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Bowl Recipes | Flavorweaver</title>
+  <title>Search Bowls and Mains | Flavorweaver</title>
   <link rel="stylesheet" href="styles.css?v=20260613-04" />
   <link rel="stylesheet" href="site.css?v=20260613-04" />
   <link rel="stylesheet" href="readability.css?v=20260613-04" />
@@ -11,12 +11,12 @@
 <body>
   <header class="site-topbar"><nav class="site-nav" aria-label="Flavorweaver navigation"><div class="nav-spacer" aria-hidden="true"></div><div class="nav-links"><a href="index.html">Home</a><a href="recipes.html">Search</a><a href="index.html#featured">Featured</a><a href="index.html#categories">Categories</a><a href="dedication.html">Dedication</a></div></nav></header>
   <main class="page-shell home-layout">
-    <section class="hero-card hero-card--archive"><p class="eyebrow">Archive Path</p><h1>Bowls and Mains</h1><p class="hero-copy">Complete meals with layered components, bases, proteins, vegetables, sauces, crunch, and brightness.</p></section>
-    <section class="search-panel" aria-label="Bowl recipe search controls"><label class="search-label" for="mains-search">Search this path</label><input class="search-input" id="mains-search" type="search" placeholder="Search bulgogi, lemongrass, bowls, rice, sauce..." autocomplete="off" /><div class="quick-searches" id="mains-filters" aria-label="Bowl quick filters"></div></section>
+    <section class="hero-card hero-card--archive"><p class="eyebrow">Archive Path</p><h1>Search Bowls and Mains</h1><p class="hero-copy">Complete meals with layered components, bases, proteins, vegetables, sauces, crunch, and brightness.</p></section>
+    <section class="search-panel" aria-label="Bowl recipe search controls"><label class="search-label" for="mains-search">Search bowls and mains</label><input class="search-input" id="mains-search" type="search" placeholder="Search bulgogi, lemongrass, rice bowl, chicken bowl..." autocomplete="off" /><div class="quick-searches" id="mains-filters" aria-label="Bowl quick filters"></div></section>
     <section aria-labelledby="mains-heading"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="mains-heading">Meals worth returning to</h2></div><p>This path gathers finished meals and repeat-worthy builds.</p></div><div class="feature-grid searchable-card-grid" id="mains-results"></div></section>
   </main>
   <script src="world-recipe-data.js?v=20260614-01"></script>
   <script src="path-page-search.js?v=20260614-01"></script>
-  <script>window.FLAVORWEAVER_PATH_PAGE_SEARCH.init({searchInputId:'mains-search',filterMountId:'mains-filters',resultMountId:'mains-results',collections:['House Recipes'],categories:['Main Dish'],quickFilters:['Main Dish','rice bowl','sauce-driven','top 10 meal'],emptyText:'Try bulgogi, lemongrass, bowl, rice, or sauce.'});</script>
+  <script>window.FLAVORWEAVER_PATH_PAGE_SEARCH.init({searchInputId:'mains-search',filterMountId:'mains-filters',resultMountId:'mains-results',collections:['House Recipes'],categories:['Main Dish'],quickFilters:['bulgogi','lemongrass chicken','rice bowl','chicken bowl','top 10 meal','sauce-driven'],emptyText:'Try bulgogi, lemongrass chicken, rice bowl, chicken bowl, top 10 meal, or sauce-driven.'});</script>
 </body>
 </html>

@@ -60,6 +60,66 @@
     "tags": ["peanut sauce", "dipping sauce", "condiment", "sauce", "rice bowls", "spring rolls"]
   },
   {
+    "title": "Ethiopian-Inspired Doro Wat Platter",
+    "path": "recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html",
+    "sourcePath": "recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md",
+    "cuisine": "Ethiopian Inspired",
+    "category": "Main Dish",
+    "status": "Working Recipe",
+    "ingredients": ["chicken thighs", "hard-boiled eggs", "paprika", "cayenne", "fenugreek", "onion", "garlic", "ginger", "tomato paste", "yellow split peas", "cabbage", "carrot", "tomato", "cucumber", "naan", "injera"],
+    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "doro wat", "Doro Wat", "complete meal plate", "split pea alicha", "Split Pea Alicha", "atakilt wat", "Atakilt Wat", "timatim salad", "Timatim Salad", "naan substitute", "injera", "Injera", "html page"]
+  },
+  {
+    "title": "Split Pea Alicha",
+    "path": "recipes/ethiopian/sides/split-pea-alicha.html",
+    "sourcePath": "recipes/ethiopian/sides/split-pea-alicha.md",
+    "cuisine": "Ethiopian Inspired",
+    "category": "Side Dish",
+    "status": "First Test",
+    "ingredients": ["yellow split peas", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "black pepper", "butter", "oil"],
+    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "split pea alicha", "Split Pea Alicha", "yellow split peas", "alicha", "side dish", "stew", "doro wat platter", "html page"]
+  },
+  {
+    "title": "Atakilt Wat",
+    "path": "recipes/ethiopian/sides/atakilt-wat.html",
+    "sourcePath": "recipes/ethiopian/sides/atakilt-wat.md",
+    "cuisine": "Ethiopian Inspired",
+    "category": "Side Dish",
+    "status": "Working Recipe",
+    "ingredients": ["cabbage", "carrot", "potato", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "butter", "oil"],
+    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "atakilt wat", "Atakilt Wat", "cabbage", "carrot", "potato", "side dish", "doro wat platter", "html page"]
+  },
+  {
+    "title": "Timatim Salad",
+    "path": "recipes/ethiopian/salads/timatim-salad.html",
+    "sourcePath": "recipes/ethiopian/salads/timatim-salad.md",
+    "cuisine": "Ethiopian Inspired",
+    "category": "Salads, Slaws & Dips",
+    "status": "Working Recipe",
+    "ingredients": ["tomato", "cucumber", "onion", "lemon juice", "olive oil", "black pepper", "jalapeno", "serrano", "parsley", "cilantro"],
+    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "timatim", "Timatim", "timatim salad", "Timatim Salad", "tomato cucumber", "fresh", "acidic", "doro wat platter", "html page"]
+  },
+  {
+    "title": "Teff Starter & Real Injera",
+    "path": "recipes/ethiopian/breads/teff-starter-and-real-injera.html",
+    "sourcePath": "recipes/ethiopian/breads/teff-starter-and-real-injera.md",
+    "cuisine": "Ethiopian",
+    "category": "Bread",
+    "status": "Future Project",
+    "ingredients": ["teff flour", "water", "active teff starter", "salt"],
+    "tags": ["Ethiopian", "injera", "Injera", "teff", "Teff", "teff starter", "fermented", "flatbread", "starter", "future project", "html page"]
+  },
+  {
+    "title": "Fluffy Skillet Naan",
+    "path": "recipes/indian/breads/fluffy-skillet-naan.html",
+    "sourcePath": "recipes/indian/breads/fluffy-skillet-naan.md",
+    "cuisine": "Indian Inspired",
+    "category": "Bread",
+    "status": "Source Adaptation Needed",
+    "ingredients": ["yeast", "warm water", "sugar", "milk", "egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
+    "tags": ["Indian-Inspired", "indian-inspired", "naan", "Naan", "skillet bread", "scoop bread", "source adaptation needed", "doro wat platter substitute", "html page"]
+  },
+  {
     "title": "Apple Pie",
     "path": "recipes/family/pies/apple-pie.html",
     "sourcePath": "family-recipes/recipes/pies/apple-pie.md",

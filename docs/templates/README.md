@@ -43,12 +43,31 @@ It includes:
 - Final Verdict
 - collapsible Flavorweaver development sections
 
+## Canon: Family Recipe Source Markdown
+
+Template file:
+
+```text
+family-recipe-source-template.md
+```
+
+This template is the source Markdown starting point for preserved family recipes.
+
+Family recipes remain type-first under:
+
+```text
+family-recipes/recipes/<category>/<recipe-slug>.md
+```
+
+They are not built from the world-culture HTML canon unless Amy approves a special feature page.
+
 ## Rules
 
 - Do not casually change canon templates.
 - If the public recipe-page layout changes, update the HTML canon template first.
 - Then migrate existing world-culture recipe pages from the HTML template.
-- New world-culture source Markdown should begin from the source Markdown template.
+- New world-culture source Markdown should begin from the world-culture source Markdown template.
+- New family source Markdown should begin from the family source Markdown template.
 - World-culture recipes use individual public HTML pages, not the family cookbook dynamic recipe renderer.
 - Required component recipes belong in the Ingredient List and Measured Ingredients sections as direct links.
 - Pairs Well With is reserved for companion dishes, not required components.

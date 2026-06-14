@@ -1,3 +1,11 @@
+#featured .feature-card:first-child {
+  border-top-color: var(--violet);
+}
+
+#featured .feature-card:first-child a {
+  color: #c9b5ff;
+}
+
 .feature-card--family-archive {
   position: relative;
   overflow: hidden;

@@ -11,43 +11,12 @@
 <body>
   <header class="site-topbar"><nav class="site-nav" aria-label="Flavorweaver navigation"><div class="nav-spacer" aria-hidden="true"></div><div class="nav-links"><a href="index.html">Home</a><a href="recipes.html">Search</a><a href="index.html#featured">Featured</a><a href="index.html#categories">Categories</a><a href="dedication.html">Dedication</a></div></nav></header>
   <main class="page-shell home-layout">
-    <section class="hero-card hero-card--archive">
-      <p class="eyebrow">Archive Path</p>
-      <h1>Pickles &amp; Bright Things</h1>
-      <p class="hero-copy">The sparks and charms of the plate: acid, crunch, herbs, garden vegetables, quick pickles, finishing sauces, and little bursts of freshness.</p>
-    </section>
-
-    <section class="search-panel" aria-label="Pickles and bright things search controls">
-      <label class="search-label" for="bright-search">Search this path</label>
-      <input class="search-input" id="bright-search" type="search" placeholder="Search pickles, crunchy, garden vegetables, rice vinegar..." autocomplete="off" />
-      <div class="quick-searches" aria-label="Bright things quick filters">
-        <button type="button" data-filter="quick pickles">quick pickles</button>
-        <button type="button" data-filter="garden vegetables">garden vegetables</button>
-        <button type="button" data-filter="rice vinegar">rice vinegar</button>
-        <button type="button" data-filter="crunchy">crunchy</button>
-        <button type="button" data-filter="fresh">fresh</button>
-      </div>
-    </section>
-
-    <section aria-labelledby="bright-heading"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="bright-heading">A little brightness</h2></div><p>This path gathers recipes that sharpen, lift, cut through richness, or wake up a meal.</p></div><div class="feature-grid searchable-card-grid"><article class="feature-card" data-search-card data-search="Asian Pickled Garden Vegetables quick pickles garden vegetables rice vinegar crunchy fresh"><h3>Asian Pickled Garden Vegetables</h3><p>Crisp refrigerator pickles with garden vegetables and rice vinegar.</p><a href="recipes/condiments/asian-pickled-garden-vegetables.html">Open recipe</a></article><article class="feature-card" data-search-card data-search="Browse bright things quick pickles crunchy fresh garden vegetables"><h3>Browse bright things</h3><p>Open the filtered recipe search for pickles and crunchy finishes.</p><a href="recipes.html?q=quick%20pickles">Search Recipes</a></article></div></section>
+    <section class="hero-card hero-card--archive"><p class="eyebrow">Archive Path</p><h1>Pickles &amp; Bright Things</h1><p class="hero-copy">The sparks and charms of the plate: acid, crunch, herbs, garden vegetables, quick pickles, finishing sauces, and little bursts of freshness.</p></section>
+    <section class="search-panel" aria-label="Pickles and bright things search controls"><label class="search-label" for="bright-search">Search this path</label><input class="search-input" id="bright-search" type="search" placeholder="Search pickles, crunchy, garden vegetables, rice vinegar..." autocomplete="off" /><div class="quick-searches" id="bright-filters" aria-label="Bright things quick filters"></div></section>
+    <section aria-labelledby="bright-heading"><div class="section-heading"><div><p class="eyebrow">Current pages</p><h2 id="bright-heading">A little brightness</h2></div><p>This path gathers recipes that sharpen, lift, cut through richness, or wake up a meal.</p></div><div class="feature-grid searchable-card-grid" id="bright-results"></div></section>
   </main>
-  <script>
-    const brightSearch = document.getElementById('bright-search');
-    const brightCards = Array.from(document.querySelectorAll('[data-search-card]'));
-    const filterBrightCards = (term = '') => {
-      const query = term.toLowerCase().trim();
-      brightCards.forEach((card) => {
-        const haystack = `${card.textContent} ${card.dataset.search || ''}`.toLowerCase();
-        card.hidden = query && !haystack.includes(query);
-      });
-    };
-    brightSearch.addEventListener('input', () => filterBrightCards(brightSearch.value));
-    document.querySelectorAll('[data-filter]').forEach((button) => {
-      button.addEventListener('click', () => {
-        brightSearch.value = button.dataset.filter;
-        filterBrightCards(brightSearch.value);
-      });
-    });
-  </script>
+  <script src="world-recipe-data.js?v=20260614-01"></script>
+  <script src="path-page-search.js?v=20260614-01"></script>
+  <script>window.FLAVORWEAVER_PATH_PAGE_SEARCH.init({searchInputId:'bright-search',filterMountId:'bright-filters',resultMountId:'bright-results',collections:['House Recipes'],tags:['quick pickles'],quickFilters:['quick pickles','garden vegetables','rice vinegar','crunchy','fresh'],emptyText:'Try pickles, crunchy, garden vegetables, rice vinegar, or fresh.'});</script>
 </body>
 </html>

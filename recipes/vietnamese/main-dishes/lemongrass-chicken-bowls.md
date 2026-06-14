@@ -128,15 +128,17 @@ The bowl should feel cool, fresh, bright, crunchy, juicy, and aromatic. Each bit
 
 | Step | Action |
 |---:|---|
-| 1 | Combine chicken thighs, ginger nuoc cham, lemongrass paste, minced garlic, and neutral oil. Toss until the chicken is evenly coated. |
-| 2 | Cover and marinate 2-4 hours. If prepping ahead, make the ginger nuoc cham and pickled vegetables during this window if they are not already prepared. |
-| 3 | Cook the chicken until browned and cooked through. Rest 5-10 minutes, then slice thinly across the grain. |
-| 4 | Cook the angel hair pasta until tender. Drain, rinse or cool slightly, and set aside for bowl assembly. |
-| 5 | Prep the vegetables: shred napa cabbage, julienne cucumber, and cut zucchini into ribbons or matchsticks. |
-| 6 | Build 2 bowls by dividing the pasta first, then layering sliced lemongrass chicken over the base. |
-| 7 | Add napa cabbage, cucumber, and zucchini around or over the chicken so each bowl has fresh crunch throughout. |
-| 8 | Scatter Asian pickled vegetables over the top, then finish with crushed cashews. |
-| 9 | Drizzle generously with ginger nuoc cham and serve with extra sauce on the side so each bowl can be adjusted to taste. |
+| 1 | **Make ahead if needed:** Prepare the [Restaurant-Style Ginger Nuoc Cham](../condiments/ginger-nuoc-cham.md). This sauce is required in two places: it marinates the chicken and finishes the assembled bowls. Chill until needed and stir before using. |
+| 2 | **Make ahead if needed:** Prepare the [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) early enough to chill and brighten. They are a required acidic crunch component, not just a garnish. |
+| 3 | Combine chicken thighs, 2 Tbsp ginger nuoc cham, lemongrass paste, minced garlic, and neutral oil. Toss until the chicken is evenly coated. Cover and marinate 2-4 hours. |
+| 4 | While the chicken marinates, prep the fresh vegetables if cooking the same day: shred napa cabbage, julienne cucumber, and cut zucchini into ribbons or matchsticks. Keep the vegetables chilled so they stay crisp. |
+| 5 | Cook the angel hair pasta before final assembly. Drain, rinse or cool slightly, and set aside. The noodles should be ready before the chicken is sliced so the bowl can be built quickly. |
+| 6 | Cook the marinated chicken until browned and cooked through. Rest 5-10 minutes so the juices settle, then slice thinly across the grain. |
+| 7 | Before assembling, drain the pickled vegetables lightly, crush the cashews, stir the ginger nuoc cham, and bring all bowl components within reach. This bowl is best assembled while the chicken is warm and the vegetables are still fresh. |
+| 8 | Build 2 bowls by dividing the pasta first, then layering sliced lemongrass chicken over the base. |
+| 9 | Add napa cabbage, cucumber, and zucchini around or over the chicken so each bowl has fresh crunch throughout. |
+| 10 | Scatter Asian pickled vegetables over the top, then finish with crushed cashews. |
+| 11 | Drizzle generously with ginger nuoc cham and serve with extra sauce on the side so each bowl can be adjusted to taste. Serve promptly while the chicken is warm, the vegetables are crisp, and the sauce is bright. |
 
 ## Chef's Notes
 
@@ -184,9 +186,18 @@ To be determined after testing.
 </details>
 
 <details>
+<summary>Flavorweaver Direction</summary>
+
+This complete bowl should guide the cook through the prep order, not only the assembly. Ginger nuoc cham and pickled vegetables can be made ahead, the chicken needs marination time, vegetables should stay crisp, noodles should be ready before final assembly, and the bowl should be built while the chicken is warm.
+
+</details>
+
+<details>
 <summary>Timing Notes</summary>
 
 Timing includes vegetable prep, pasta cooking, chicken cooking, slicing, and bowl assembly. It does not include making ginger nuoc cham or pickled vegetables from scratch if those are not already prepared.
+
+The recipe moves fastest when ginger nuoc cham and pickled vegetables are already prepared. Keep fresh vegetables chilled until assembly and build the bowls promptly after slicing the chicken.
 
 </details>
 
@@ -230,5 +241,6 @@ Add kitchen observations, practical tips, and future refinements here.
 | 2026-06-13 | Marked as Top 10 Meal / Hall of Fame Candidate. |
 | 2026-06-13 | Updated pairing to Fresh Vegetable Spring Rolls. |
 | 2026-06-14 | Added complete-meal plate ingredient visibility, component role notes, and plating architecture. |
+| 2026-06-14 | Integrated preparation order into instructions for the full multi-component bowl. |
 
 </details>

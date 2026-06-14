@@ -77,7 +77,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Main Dish',
     status: 'Working Recipe',
     ingredients: ['chicken thighs', 'hard-boiled eggs', 'paprika', 'cayenne', 'fenugreek', 'onion', 'garlic', 'ginger', 'tomato paste', 'yellow split peas', 'cabbage', 'carrot', 'tomato', 'cucumber', 'naan', 'injera'],
-    tags: ['ethiopian-inspired', 'doro wat', 'complete meal plate', 'berbere-style', 'split pea alicha', 'atakilt wat', 'timatim salad', 'naan substitute', 'injera future project']
+    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Doro Wat', 'doro wat', 'complete meal plate', 'berbere-style', 'Split Pea Alicha', 'split pea alicha', 'Atakilt Wat', 'atakilt wat', 'Timatim Salad', 'timatim salad', 'Naan', 'naan substitute', 'Injera', 'injera future project']
   },
   {
     title: 'Split Pea Alicha',
@@ -87,7 +87,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Side Dish',
     status: 'First Test',
     ingredients: ['yellow split peas', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'black pepper', 'butter', 'oil'],
-    tags: ['ethiopian-inspired', 'split peas', 'alicha', 'side dish', 'stew', 'doro wat platter', 'dairy-minimal']
+    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Split Pea Alicha', 'split pea alicha', 'yellow split peas', 'split peas', 'alicha', 'side dish', 'stew', 'doro wat platter', 'dairy-minimal']
   },
   {
     title: 'Atakilt Wat',
@@ -97,7 +97,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Side Dish',
     status: 'Working Recipe',
     ingredients: ['cabbage', 'carrot', 'potato', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'butter', 'oil'],
-    tags: ['ethiopian-inspired', 'atakilt wat', 'cabbage', 'carrot', 'potato', 'side dish', 'doro wat platter']
+    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Atakilt Wat', 'atakilt wat', 'cabbage', 'carrot', 'potato', 'side dish', 'doro wat platter']
   },
   {
     title: 'Timatim Salad',
@@ -107,7 +107,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Salads, Slaws & Dips',
     status: 'Working Recipe',
     ingredients: ['tomato', 'cucumber', 'onion', 'lemon juice', 'olive oil', 'black pepper', 'jalapeno', 'serrano', 'parsley', 'cilantro'],
-    tags: ['ethiopian-inspired', 'timatim', 'tomato', 'cucumber', 'salad', 'fresh', 'acidic', 'doro wat platter']
+    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Timatim', 'timatim', 'Timatim Salad', 'timatim salad', 'tomato cucumber', 'salad', 'fresh', 'acidic', 'doro wat platter']
   },
   {
     title: 'Teff Starter & Real Injera',
@@ -117,7 +117,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Bread',
     status: 'Future Project',
     ingredients: ['teff flour', 'water', 'active teff starter', 'salt'],
-    tags: ['ethiopian', 'injera', 'teff', 'fermented', 'flatbread', 'starter', 'future project', 'dairy-free']
+    tags: ['Ethiopian', 'Injera', 'injera', 'Teff', 'teff', 'teff starter', 'fermented', 'flatbread', 'starter', 'future project', 'dairy-free']
   },
   {
     title: 'Fluffy Skillet Naan',
@@ -127,6 +127,6 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Bread',
     status: 'Source Adaptation Needed',
     ingredients: ['yeast', 'warm water', 'sugar', 'milk', 'egg', 'salt', 'bread flour', 'all-purpose flour', 'ghee', 'butter', 'garlic'],
-    tags: ['indian-inspired', 'naan', 'skillet bread', 'scoop bread', 'source adaptation needed', 'doro wat platter substitute']
+    tags: ['Indian-Inspired', 'indian-inspired', 'Naan', 'naan', 'skillet bread', 'scoop bread', 'source adaptation needed', 'doro wat platter substitute']
   }
 ];

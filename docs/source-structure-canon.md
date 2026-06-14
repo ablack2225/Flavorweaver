@@ -80,6 +80,36 @@ docs/recipes/<culture-or-path>/<recipe-slug>.html
 
 For shared public component pages, `docs/recipes/condiments/<slug>.html` may remain user-friendly while the source Markdown lives under its culture/path home.
 
+## Search Metadata Rule
+
+World-culture / Don & Amy recipes keep individual public HTML pages on purpose.
+
+Those public HTML pages are indexed through:
+
+```text
+docs/world-recipe-data.js
+```
+
+The shared archive search engine lives in:
+
+```text
+docs/recipe-search.js
+```
+
+Family recipe index data remains separate in:
+
+```text
+docs/family-recipe-data.js
+```
+
+When adding a new world-culture recipe, update all three layers as needed:
+
+1. source Markdown under `recipes/<culture-or-path>/<locked-category>/`
+2. public recipe HTML under `docs/recipes/...`
+3. search/index metadata in `docs/world-recipe-data.js`
+
+Do not add world-culture recipe metadata directly inside `docs/recipes.html`.
+
 ## Required Move Protocol
 
 Before relocating a source Markdown file:

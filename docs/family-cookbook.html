@@ -74,6 +74,8 @@
     const context = document.getElementById('family-search-context');
     let activeCategory = '';
 
+    const recipeSlugFromSourcePath = (sourcePath) => String(sourcePath || '').split('/').pop().replace(/\.md$/, '');
+
     const setActivePill = () => {
       tagMount.querySelectorAll('[data-family-category]').forEach((button) => {
         button.classList.toggle('is-active', button.dataset.familyCategory === activeCategory);
@@ -86,8 +88,10 @@
 
     const filteredRecipes = () => {
       const query = normalize(searchInput.value);
+      const activeRecipeSlugs = activeCategory ? categories[activeCategory] || [] : [];
       return recipes.filter((recipe) => {
-        const categoryMatches = !activeCategory || recipe.sourcePath.includes(`family-recipes/recipes/${activeCategory}/`);
+        const recipeSlug = recipeSlugFromSourcePath(recipe.sourcePath);
+        const categoryMatches = !activeCategory || activeRecipeSlugs.includes(recipeSlug);
         const nameMatches = !query || normalize(recipe.title).includes(query);
         return categoryMatches && nameMatches;
       }).slice(0, 24);

@@ -48,7 +48,8 @@
   margin-bottom: 0;
 }
 
-.dedication-panel--memory > p {
+.dedication-panel--memory > p,
+.amy-dedication-closing {
   margin-left: calc(clamp(2.25rem, 5vw, 3.35rem) + clamp(14px, 2.5vw, 22px));
 }
 
@@ -63,6 +64,35 @@
     drop-shadow(0 0 18px rgba(255, 146, 70, 0.18));
   transform-origin: center bottom;
   animation: candleBreath 4.8s ease-in-out infinite;
+}
+
+.amy-dedication-closing {
+  margin-top: 28px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(255, 196, 93, 0.22);
+  color: #ead8bf;
+  font-family: "Libre Baskerville", Georgia, serif;
+}
+
+.amy-dedication-closing p {
+  margin-bottom: 14px;
+  line-height: 1.75;
+}
+
+.amy-dedication-closing .gold-heart {
+  margin-bottom: 14px;
+  color: var(--candle);
+  font-size: 1.35rem;
+  line-height: 1;
+  text-shadow:
+    0 0 10px rgba(255, 196, 93, 0.48),
+    0 0 20px rgba(255, 146, 70, 0.18);
+}
+
+.amy-dedication-closing .amy-signature {
+  margin-top: 18px;
+  color: var(--candle);
+  font-weight: 700;
 }
 
 .dedication-divider {
@@ -176,7 +206,8 @@
     gap: 12px;
   }
 
-  .dedication-panel--memory > p {
+  .dedication-panel--memory > p,
+  .amy-dedication-closing {
     margin-left: 0;
   }
 

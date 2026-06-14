@@ -1,0 +1,36 @@
+name: Generate Family Recipe Data
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'family-recipes/recipes/**'
+      - 'scripts/generate-family-recipe-data.js'
+      - '.github/workflows/generate-family-recipe-data.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-family-recipe-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate family recipe data
+        run: node scripts/generate-family-recipe-data.js
+
+      - name: Commit regenerated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Generate family recipe data from source notes
+          file_pattern: docs/family-recipe-data.js

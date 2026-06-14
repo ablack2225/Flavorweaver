@@ -25,15 +25,8 @@ tags:
 
 pairs_well_with:
   - bold-bulgogi-bowls
-  - korean-bbq-bowls
-  - rice bowls
-  - lettuce wraps
-  - grilled meats
-  - roasted vegetables
-  - burgers
-  - sliders
 
-last_updated: 2026-06-12
+last_updated: 2026-06-13
 ---
 
 <!-- recipe-card:start -->
@@ -108,48 +101,17 @@ If using as a dip or spread, leave it slightly thicker.
 | Too sharp | Add a tiny pinch more sugar or a few drops of honey. |
 | Too mild | Add more gochujang in 1/2 teaspoon increments. |
 
-## Best Uses
-
-- Bold Bulgogi Bowls
-- Korean BBQ bowls
-- Rice bowls
-- Lettuce wraps
-- Fried chicken drizzle
-- Roasted vegetables
-- Sweet potato fries
-- Burgers or sliders
-- Taco-style fusion bowls
-- Grilled chicken or pork
-
-## Storage
-
-Store in a clean airtight container in the refrigerator.
-
-Best used within **3 to 4 days**.
-
-Stir before using.
-
-Do not store at room temperature.
-
-Discard if it develops an off smell, visible mold, bubbling, separation that will not stir back together, or any unusual discoloration.
-
 ## Pairs Well With
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Main Dish | [Bold Bulgogi Bowls](../recipes/korean/bold-bulgogi-bowls.md) | Primary recipe relationship; finishing drizzle |
-| Bowl Component | Korean BBQ bowls | Creamy heat and tang |
-| Bowl Component | Rice bowls | Adds sauce-driven finish |
-| Wrap Component | Lettuce wraps | Adds creamy spice |
-| Protein | Grilled chicken or pork | Finishing sauce or table condiment |
-| Side | Roasted vegetables or sweet potato fries | Dip or drizzle |
-| Sandwich | Burgers or sliders | Spicy creamy spread |
+| Main Dish | [Bold Bulgogi Bowls](../recipes/korean/bold-bulgogi-bowls.md) | Attached dish and original use for this crema. |
 
 ## Chef's Notes
 
-This crema was developed as the finishing sauce for the **Bold Bulgogi Bowls** and is now a reusable condiment for rice bowls, wraps, grilled meats, roasted vegetables, and other sauce-driven meals.
+This crema was developed as the finishing sauce for the **Bold Bulgogi Bowls**.
 
-It adds creamy heat, tang, and sweetness without overpowering the main dish.
+It adds creamy heat, tang, and a little sweetness without overpowering the main dish.
 
 The finished crema should be creamy, lightly spicy, tangy, and just sweet enough to round out the gochujang.
 
@@ -163,7 +125,7 @@ The finished crema should be creamy, lightly spicy, tangy, and just sweet enough
 | Tang | Lime juice, and optional rice vinegar, keep the sauce bright. |
 | Sweetness | Sugar or honey rounds the edges of the gochujang. |
 | Sauce / Moisture | Water adjusts the sauce into drizzle consistency. |
-| Customization | Extra gochujang, sesame oil, garlic powder, vinegar, or honey can move the crema toward different meals. |
+| Customization | Extra gochujang, sesame oil, garlic powder, vinegar, or honey can tune the sauce while keeping the canon version intact. |
 
 </details>
 
@@ -211,5 +173,6 @@ For dipping or spreading, leave thicker and adjust only after tasting.
 | Date | Change |
 |---|---|
 | 2026-06-12 | Filled placeholder condiment file from Amy & Don Gochujang Crema recipe and marked as House Staple / Flavorweaver Canon. |
+| 2026-06-13 | Reduced public pairing relationship to Bold Bulgogi Bowls as the current attached dish. |
 
 </details>

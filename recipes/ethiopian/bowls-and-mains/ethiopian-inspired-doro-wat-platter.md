@@ -127,11 +127,11 @@ last_updated: 2026-06-14
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 batch | [Split Pea Alicha](../sides/split-pea-alicha.md) | Yellow split peas, onion, garlic, ginger, turmeric, cumin, coriander, black pepper, butter or oil, water or broth |
-| 1 batch | [Atakilt Wat](../sides/atakilt-wat.md) | Cabbage, carrot, optional potato, onion, garlic, ginger, turmeric, cumin, coriander, butter or oil |
-| 1 batch | [Timatim Salad](../salads/timatim-salad.md) | Tomato, cucumber, onion, lemon juice, olive oil, salt, black pepper, optional chile and herbs |
-| 1 batch | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Yeast, water, sugar, milk, egg, salt, flour, ghee or butter; practical working scoop bread |
-| Future project | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Teff flour, water, active teff starter, salt, and fermentation time; traditional-style bread path |
+| 1 batch | [Split Pea Alicha](../sides/split-pea-alicha.md) | Creamy mild stew component that balances the heat and makes the plate feel generous |
+| 1 batch | [Atakilt Wat](../sides/atakilt-wat.md) | Soft vegetable component that rounds out the plate and adds gentle sweetness |
+| 1 batch | [Timatim Salad](../salads/timatim-salad.md) | Fresh acidic component that cuts through the rich sauce and brightens each bite |
+| 1 batch | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Practical scoop-bread substitute for the working version of the plate |
+| Future project | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Traditional-style scoop bread for the future Ethiopian version |
 
 ## Instructions
 
@@ -207,6 +207,8 @@ Yes. This is a strong working platter with a clear practical version and a prese
 
 This meal should remain a complete restaurant-style plate. The main recipe's Ingredient List should show all ingredients needed to make the whole plate while also linking reusable component recipes.
 
+The Linked Required Components section should describe how each component functions on the plate, not repeat the ingredient list from the full-plate Ingredient List.
+
 The current public-facing version should be the practical Amy & Don version: yellow split pea alicha and naan. The traditional path should be preserved through linked future components: Misir Wat and real injera.
 
 </details>
@@ -253,5 +255,6 @@ This platter is built for real ingredient access. Do not force special-order ing
 |---|---|
 | 2026-06-14 | Created recipe file from Ethiopian-inspired platter handoff and split pea alicha decision. |
 | 2026-06-14 | Linked Atakilt Wat and Timatim Salad as required components while preserving full-plate ingredient visibility. |
+| 2026-06-14 | Updated linked required component notes to define each component's role on the plate instead of repeating ingredient lists. |
 
 </details>

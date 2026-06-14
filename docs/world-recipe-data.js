@@ -90,6 +90,26 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['ethiopian-inspired', 'split peas', 'alicha', 'side dish', 'stew', 'doro wat platter', 'dairy-minimal']
   },
   {
+    title: 'Atakilt Wat',
+    path: 'recipes/ethiopian/sides/atakilt-wat.html',
+    collection: 'House Recipes',
+    culture: 'Ethiopian Inspired',
+    category: 'Side Dish',
+    status: 'Working Recipe',
+    ingredients: ['cabbage', 'carrot', 'potato', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'butter', 'oil'],
+    tags: ['ethiopian-inspired', 'atakilt wat', 'cabbage', 'carrot', 'potato', 'side dish', 'doro wat platter']
+  },
+  {
+    title: 'Timatim Salad',
+    path: 'recipes/ethiopian/salads/timatim-salad.html',
+    collection: 'House Recipes',
+    culture: 'Ethiopian Inspired',
+    category: 'Salads, Slaws & Dips',
+    status: 'Working Recipe',
+    ingredients: ['tomato', 'cucumber', 'onion', 'lemon juice', 'olive oil', 'black pepper', 'jalapeno', 'serrano', 'parsley', 'cilantro'],
+    tags: ['ethiopian-inspired', 'timatim', 'tomato', 'cucumber', 'salad', 'fresh', 'acidic', 'doro wat platter']
+  },
+  {
     title: 'Teff Starter & Real Injera',
     path: 'recipes/ethiopian/breads/teff-starter-and-real-injera.html',
     collection: 'House Recipes',

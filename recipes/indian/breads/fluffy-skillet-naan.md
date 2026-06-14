@@ -62,7 +62,7 @@ last_updated: 2026-06-14
 | 1/2 cup | Warm water | 105-108°F; measure with a kitchen thermometer so the water is warm enough to activate yeast but not hot enough to damage it |
 | 1 Tbsp | White sugar | Helps bloom yeast |
 | 2 Tbsp | Milk | Full-fat preferred; low-fat acceptable |
-| 1 1/2 Tbsp | Whisked egg | Room temperature; about 1/2 large egg. Double batch can use 1 whole egg. |
+| 1 1/2 Tbsp | Whisked egg | Room temperature; equals about 1/2 large egg. Double the amount when making the full/double recipe, which equals 1 whole egg. |
 | 1/2 tsp | Salt | Kosher/cooking salt |
 | 1 3/4 cups | Bread flour or all-purpose flour | Bread flour gives softer/fluffier result; all-purpose works |
 | 2 Tbsp / 30g | Ghee or unsalted butter | Melted |
@@ -87,7 +87,7 @@ last_updated: 2026-06-14
 | Step | Action |
 |---:|---|
 | 1 | Measure the warm water with a kitchen thermometer. The target temperature is 105-108°F. Combine yeast, warm water, and sugar. Cover and let stand until foamy, about 10 minutes. Do not use overly hot water, because it can damage or kill the yeast and prevent the dough from rising. |
-| 2 | Whisk milk and room-temperature egg together. |
+| 2 | Whisk milk and room-temperature egg together. Measure 1 1/2 Tbsp of the whisked egg for this batch. If making the full/double recipe, double the egg amount to 1 whole egg. |
 | 3 | In a separate bowl, combine flour and salt. |
 | 4 | Add the wet ingredients, yeast mixture, and melted ghee or butter to the flour. Mix until a dough forms. |
 | 5 | Knead until the dough becomes smooth and elastic. It should be soft but not so sticky that it cannot be handled. Add flour only as needed. |
@@ -173,5 +173,6 @@ A very hot skillet is important for bubbles and color. Cast iron is preferred. K
 |---|---|
 | 2026-06-14 | Cleaned naan recipe into Amy & Don house staple and removed external-source/testing language. |
 | 2026-06-14 | Added precise yeast water temperature and thermometer instruction. |
+| 2026-06-14 | Clarified whisked egg measurement for half and full/double recipe. |
 
 </details>

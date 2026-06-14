@@ -133,6 +133,25 @@ last_updated: 2026-06-14
 | 1 batch | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Practical scoop-bread substitute for the working version of the plate |
 | Future project | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Traditional-style scoop bread for the future Ethiopian version |
 
+## Plating & Serving Architecture
+
+### Per Plate
+
+- 1 doro wat-style chicken thigh
+- 2 sauced eggs
+- A generous spoon of [Split Pea Alicha](../sides/split-pea-alicha.md)
+- A spoon of [Atakilt Wat](../sides/atakilt-wat.md)
+- A bright spoon of [Timatim Salad](../salads/timatim-salad.md)
+- Warm [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) for the working version, or injera for the traditional-style version
+
+### Visual Build
+
+Place the scoop bread as the foundation or to the side. Set the chicken and eggs slightly off-center with the dark red-brown sauce spooned over the top. Add the golden split pea alicha beside it, tuck the soft vegetable atakilt wat near the alicha, and keep the timatim salad fresh and separate so it stays cool, bright, and colorful.
+
+### Eating Experience
+
+The plate should feel generous, colorful, and interactive. Each bite should move between spicy rich sauce, creamy mild stew, soft warm vegetables, and cool lemony salad. The bread should make the meal scoopable and restaurant-style, so the eater can build different bites across the plate.
+
 ## Instructions
 
 | Step | Action |
@@ -209,6 +228,8 @@ This meal should remain a complete restaurant-style plate. The main recipe's Ing
 
 The Linked Required Components section should describe how each component functions on the plate, not repeat the ingredient list from the full-plate Ingredient List.
 
+Complete meal plates should include plating and serving architecture so the cook can visualize the final plate, portion it correctly, and understand how the components eat together.
+
 The current public-facing version should be the practical Amy & Don version: yellow split pea alicha and naan. The traditional path should be preserved through linked future components: Misir Wat and real injera.
 
 </details>
@@ -256,5 +277,6 @@ This platter is built for real ingredient access. Do not force special-order ing
 | 2026-06-14 | Created recipe file from Ethiopian-inspired platter handoff and split pea alicha decision. |
 | 2026-06-14 | Linked Atakilt Wat and Timatim Salad as required components while preserving full-plate ingredient visibility. |
 | 2026-06-14 | Updated linked required component notes to define each component's role on the plate instead of repeating ingredient lists. |
+| 2026-06-14 | Added plating and serving architecture for portioning, visual build, and eating experience. |
 
 </details>

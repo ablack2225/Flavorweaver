@@ -135,8 +135,8 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     collection: 'House Recipes',
     culture: 'Indian Inspired',
     category: 'Bread',
-    status: 'Source Adaptation Needed',
-    ingredients: ['yeast', 'warm water', 'sugar', 'milk', 'egg', 'salt', 'bread flour', 'all-purpose flour', 'ghee', 'butter', 'garlic'],
-    tags: ['Indian-Inspired', 'indian-inspired', 'Naan', 'naan', 'skillet bread', 'scoop bread', 'source adaptation needed', 'doro wat platter substitute']
+    status: 'House Staple',
+    ingredients: ['yeast', 'warm water', 'sugar', 'milk', 'room-temperature egg', 'salt', 'bread flour', 'all-purpose flour', 'ghee', 'butter', 'garlic'],
+    tags: ['Indian-Inspired', 'indian-inspired', 'Naan', 'naan', 'skillet bread', 'scoop bread', 'house staple', 'doro wat platter substitute']
   }
 ];

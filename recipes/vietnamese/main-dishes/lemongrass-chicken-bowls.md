@@ -28,6 +28,7 @@ tags:
   - pickled vegetables
   - sauce-driven
   - multi-component
+  - complete meal plate
   - prep-ahead
   - top 10 meal
 
@@ -39,7 +40,7 @@ pairs_well_with:
   - peanut-sauce
   - fresh-vegetable-spring-rolls
 
-last_updated: 2026-06-13
+last_updated: 2026-06-14
 ---
 
 <!-- recipe-card:start -->
@@ -62,11 +63,11 @@ last_updated: 2026-06-13
 
 | Component | Ingredients |
 |---|---|
-| Lemongrass Chicken | Chicken thighs, ginger nuoc cham, lemongrass paste, garlic, neutral oil |
+| Lemongrass Chicken | Chicken thighs, [Restaurant-Style Ginger Nuoc Cham](../condiments/ginger-nuoc-cham.md), lemongrass paste, garlic, neutral oil |
 | Bowl Base | Cooked angel hair pasta |
 | Fresh Vegetables | Napa cabbage, cucumber, zucchini ribbons or matchsticks |
-| Acid + Crunch | Asian pickled vegetables and crushed cashews |
-| Finish | Extra ginger nuoc cham for drizzling and serving |
+| Acid + Crunch | [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md), crushed cashews |
+| Finish | Extra [Restaurant-Style Ginger Nuoc Cham](../condiments/ginger-nuoc-cham.md) for drizzling and serving |
 
 ## Measured Ingredients
 
@@ -75,7 +76,7 @@ last_updated: 2026-06-13
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 3 small | Boneless chicken thighs | About 12-16 oz total |
-| 2 Tbsp | Restaurant-Style Ginger Nuoc Cham | Required for the marinade |
+| 2 Tbsp | [Restaurant-Style Ginger Nuoc Cham](../condiments/ginger-nuoc-cham.md) | Required for the marinade |
 | 1 Tbsp | Lemongrass paste |  |
 | 1 clove | Garlic | Minced |
 | 1 tsp | Neutral oil |  |
@@ -91,9 +92,37 @@ These amounts make 2 bowls. Layer the bowls in the order below, then adjust the 
 | 3 | 2 cups | Shredded napa cabbage | About 1 cup per bowl for fresh crunch. |
 | 4 | 1 cup | Julienned cucumber | About 1/2 cup per bowl. |
 | 5 | 1 cup | Garden zucchini ribbons or matchsticks | About 1/2 cup per bowl. |
-| 6 | 1/2-3/4 cup | Asian pickled vegetables | Scatter over the top for acid, crunch, and garden brightness. |
+| 6 | 1/2-3/4 cup | [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) | Scatter over the top for acid, crunch, and garden brightness. |
 | 7 | 2-4 Tbsp | Crushed cashews | Sprinkle over the finished bowls for crunch. |
-| 8 | 1/4-1/2 cup | Restaurant-Style Ginger Nuoc Cham | Drizzle generously and serve extra on the side. |
+| 8 | 1/4-1/2 cup | [Restaurant-Style Ginger Nuoc Cham](../condiments/ginger-nuoc-cham.md) | Drizzle generously and serve extra on the side. |
+
+### Linked Required Components
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 batch | [Restaurant-Style Ginger Nuoc Cham](../condiments/ginger-nuoc-cham.md) | Bright, sweet-salty sauce that marinates the chicken and finishes the bowl |
+| 1 batch | [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) | Acidic garden crunch that keeps the bowl fresh, lively, and balanced |
+
+## Plating & Serving Architecture
+
+### Per Bowl
+
+- Half the angel hair pasta base
+- Half the sliced lemongrass chicken
+- About 1 cup shredded napa cabbage
+- About 1/2 cup cucumber
+- About 1/2 cup zucchini ribbons or matchsticks
+- A bright scatter of Asian Pickled Garden Vegetables
+- Crushed cashews for crunch
+- Generous Ginger Nuoc Cham drizzle with extra sauce served on the side
+
+### Visual Build
+
+Start with the pasta as the soft base. Fan or pile the sliced lemongrass chicken across the center so it remains the focus. Arrange napa cabbage, cucumber, and zucchini around the chicken so the bowl looks fresh and abundant. Scatter pickled vegetables over the top where the color is visible, then finish with cashews and a glossy drizzle of ginger nuoc cham.
+
+### Eating Experience
+
+The bowl should feel cool, fresh, bright, crunchy, juicy, and aromatic. Each bite should move between lemongrass chicken, fresh vegetables, sweet-salty ginger sauce, pickled acidity, and cashew crunch. It should eat like a restaurant noodle bowl: refreshing but still satisfying.
 
 ## Instructions
 
@@ -121,7 +150,7 @@ The ingredient amounts are written as a practical starting point for 2 bowls. Th
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Condiment | [Peanut Dipping Sauce](../../../condiments/peanut-sauce.md) | Optional creamy drizzle or side sauce |
+| Condiment | [Peanut Dipping Sauce](../condiments/peanut-sauce.md) | Optional creamy drizzle or side sauce |
 | Appetizer | [Fresh Vegetable Spring Rolls](../appetizers/fresh-vegetable-spring-rolls.md) | Fresh appetizer or side alongside the bowl meal |
 
 ## Final Verdict
@@ -200,5 +229,6 @@ Add kitchen observations, practical tips, and future refinements here.
 | 2026-06-13 | Clarified bowl component amounts and layering order. |
 | 2026-06-13 | Marked as Top 10 Meal / Hall of Fame Candidate. |
 | 2026-06-13 | Updated pairing to Fresh Vegetable Spring Rolls. |
+| 2026-06-14 | Added complete-meal plate ingredient visibility, component role notes, and plating architecture. |
 
 </details>

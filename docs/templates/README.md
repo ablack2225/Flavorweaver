@@ -1,6 +1,10 @@
-# Flavorweaver HTML Templates
+# Flavorweaver Templates
 
-## Locked Canon: World-Culture Recipe Page
+This folder is the canon home for active Flavorweaver templates.
+
+Root-level `templates/` is no longer an active template location.
+
+## Locked Canon: World-Culture Recipe HTML Page
 
 Template file:
 
@@ -16,21 +20,45 @@ docs/recipes/korean/bold-bulgogi-bowls.html
 
 This template is cloned from the Bold Bulgogi Bowls public recipe page and should be treated as the locked visual/layout standard for world-culture recipe HTML pages.
 
+## Canon: World-Culture Recipe Source Markdown
+
+Template file:
+
+```text
+world-culture-recipe-source-template.md
+```
+
+This template is the source-of-truth Markdown structure for Don & Amy world-culture recipes.
+
+It includes:
+
+- YAML frontmatter
+- `<!-- recipe-card:start -->` and `<!-- recipe-card:end -->`
+- Recipe Dashboard
+- Ingredient List
+- Measured Ingredients
+- Instructions
+- Pairs Well With
+- Chef's Notes
+- Final Verdict
+- collapsible Flavorweaver development sections
+
 ## Rules
 
-- Do not casually change the template.
-- If the public recipe-page layout changes, update the template first.
-- Then migrate existing world-culture recipe pages from the template.
+- Do not casually change canon templates.
+- If the public recipe-page layout changes, update the HTML canon template first.
+- Then migrate existing world-culture recipe pages from the HTML template.
+- New world-culture source Markdown should begin from the source Markdown template.
 - World-culture recipes use individual public HTML pages, not the family cookbook dynamic recipe renderer.
 - Required component recipes belong in the Ingredient List and Measured Ingredients sections as direct links.
 - Pairs Well With is reserved for companion dishes, not required components.
-- Chef's Notes should remain a premium callout inside the main recipe card.
+- Chef's Notes should remain a premium callout inside the main recipe card on public HTML pages.
 - Public HTML pages should use only public recipe-card content from the source Markdown.
 - Do not expose internal owner notes, test notes, flavor architecture details, change logs, or Markdown source paths on public pages.
 
 ## Canon structural markers
 
-The canon layout uses:
+The canon public HTML layout uses:
 
 ```html
 <main class="page-shell recipe-page premium-recipe">

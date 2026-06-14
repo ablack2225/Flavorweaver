@@ -159,18 +159,22 @@ The plate should feel generous, colorful, and interactive. Each bite should move
 
 | Step | Action |
 |---:|---|
-| 1 | Measure and mix the House Berbere-Style Spice Blend for this recipe. Go light with fenugreek and clove because they can dominate quickly. Use 1 Tbsp for the marination and 1 Tbsp additional blend for the sauce base; store any leftover blend airtight for future use. |
-| 2 | Mix the House Berbere-Style Marination ingredients into a paste, coat the chicken thighs thoroughly, cover, and refrigerate overnight. |
-| 3 | Hard-boil the eggs, cool in an ice bath, peel, and lightly score or prick each egg so the sauce can cling and stain them. |
-| 4 | For the doro wat-style sauce, cook the diced onion over medium heat for 10-15 minutes until softened, reduced, and starting to turn golden. Add tiny splashes of water if needed to prevent sticking. |
-| 5 | Add butter or oil, then bloom the 1 Tbsp additional House Berbere-Style Spice Blend for 30-60 seconds, stirring constantly. This is the sauce-base spice, separate from the marination spice. Do not burn the spices. |
-| 6 | Add garlic, ginger, and tomato paste. Cook 1-2 minutes until fragrant and deepened. |
-| 7 | Add the marinated chicken thighs and sear lightly for 2-3 minutes per side so the spice paste clings. |
-| 8 | Add 1 cup chicken broth and bay leaf if using. Simmer covered on low for 25-35 minutes, adding broth as needed, until the chicken is tender and cooked through. |
-| 9 | During the last 10-15 minutes, nestle the scored eggs into the sauce. Spoon sauce over them and turn gently so they stain evenly. |
-| 10 | Uncover and simmer 5-10 minutes until the sauce thickens and clings. Adjust with salt, black pepper, lemon, or a tiny pinch of sugar if needed. |
-| 11 | Prepare the linked split pea alicha, atakilt wat, timatim salad, and naan or injera according to their recipes. |
-| 12 | Assemble each plate with naan or injera, doro wat-style chicken, 2 eggs per person, split pea alicha, atakilt wat, and timatim salad. Spoon extra sauce over the chicken and eggs. |
+| 1 | **Day before:** Measure and mix the House Berbere-Style Spice Blend for this recipe. Go light with fenugreek and clove because they can dominate quickly. Use 1 Tbsp for the marination and reserve 1 Tbsp additional blend for the sauce base. Store any leftover blend airtight for future use. |
+| 2 | **Day before:** Mix the House Berbere-Style Marination ingredients into a paste, coat the chicken thighs thoroughly, cover, and refrigerate overnight. |
+| 3 | **Bread prep:** If using homemade [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md), prepare the dough according to the naan recipe early enough for its rise/rest timing. Do not treat naan as a last-minute quick component. If naan is already cooked or store-bought, save reheating for final assembly. If using injera, have it ready before cooking day assembly. |
+| 4 | **Start first on cooking day:** Begin the [Split Pea Alicha](../sides/split-pea-alicha.md), since it needs the longest steady simmer and can hold warm while the rest of the plate comes together. |
+| 5 | **Early prep:** Hard-boil the eggs, cool in an ice bath, peel, and lightly score or prick each egg so the sauce can cling and stain them. Set aside for the sauce. |
+| 6 | **Start the doro wat-style sauce:** Cook the diced onion over medium heat for 10-15 minutes until softened, reduced, and starting to turn golden. Add tiny splashes of water if needed to prevent sticking. |
+| 7 | Add butter or oil, then bloom the reserved 1 Tbsp additional House Berbere-Style Spice Blend for 30-60 seconds, stirring constantly. This is the sauce-base spice, separate from the marination spice. Do not burn the spices. |
+| 8 | Add garlic, ginger, and tomato paste. Cook 1-2 minutes until fragrant and deepened. |
+| 9 | Add the marinated chicken thighs and sear lightly for 2-3 minutes per side so the spice paste clings. |
+| 10 | Add 1 cup chicken broth and bay leaf if using. Simmer covered on low for 25-35 minutes, adding broth as needed, until the chicken is tender and cooked through. |
+| 11 | **While the chicken simmers:** Cook the [Atakilt Wat](../sides/atakilt-wat.md). It can finish slightly before the chicken and hold warm covered. |
+| 12 | During the last 10-15 minutes of the doro wat-style sauce, nestle the scored eggs into the sauce. Spoon sauce over them and turn gently so they stain evenly. |
+| 13 | Uncover and simmer 5-10 minutes until the sauce thickens and clings. Adjust with salt, black pepper, lemon, or a tiny pinch of sugar if needed. |
+| 14 | **Last fresh component:** Make the [Timatim Salad](../salads/timatim-salad.md) near the end so it stays cool, bright, and fresh. Let it rest 10-15 minutes while the warm components finish. |
+| 15 | **Bread finish:** Cook or rewarm prepared naan close to serving so it stays soft and scoopable. This step is only for finishing prepared bread, not starting naan dough from scratch. |
+| 16 | Assemble each plate with naan or injera, doro wat-style chicken, 2 eggs per person, split pea alicha, atakilt wat, and timatim salad. Spoon extra sauce over the chicken and eggs. |
 
 <!-- recipe-card:end -->
 
@@ -233,6 +237,8 @@ The Linked Required Components section should describe how each component functi
 
 Complete meal plates should include plating and serving architecture so the cook can visualize the final plate, portion it correctly, and understand how the components eat together.
 
+For multi-component plates, preparation order should be integrated directly into the Instructions section so the cook knows what to start early, what can hold warm, what should be made fresh at the end, and when to assemble the plate.
+
 The current public-facing version should be the practical Amy & Don version: yellow split pea alicha and naan. The traditional path should be preserved through linked future components: Misir Wat and real injera.
 
 </details>
@@ -240,7 +246,7 @@ The current public-facing version should be the practical Amy & Don version: yel
 <details>
 <summary>Timing Notes</summary>
 
-Marinate the chicken overnight. Injera requires a separate starter and fermentation window, so it should not be treated as a quick substitute.
+Marinate the chicken overnight. Prepare naan dough early if making homemade naan. Start the split pea alicha first on cooking day because it needs the longest simmer. Make the timatim salad near the end so it stays fresh. Injera requires a separate starter and fermentation window, so it should not be treated as a quick substitute.
 
 </details>
 
@@ -283,5 +289,6 @@ This platter is built for real ingredient access. Do not force special-order ing
 | 2026-06-14 | Added plating and serving architecture for portioning, visual build, and eating experience. |
 | 2026-06-14 | Clarified House Berbere-Style Spice Blend and House Berbere-Style Marination workflow. |
 | 2026-06-14 | Clarified that 1 Tbsp additional House Berbere-Style Spice Blend is bloomed in the sauce base. |
+| 2026-06-14 | Integrated preparation order into instructions for the full multi-component plate. |
 
 </details>

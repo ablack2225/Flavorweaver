@@ -75,7 +75,7 @@ The goal is creating meals worth remembering.
 ```text
 Flavorweaver/
 │
-├── README.md
+├── readme.md
 │
 ├── docs/
 │   ├── culinary-philosophy.md
@@ -83,13 +83,27 @@ Flavorweaver/
 │   ├── hall-of-fame.md
 │   ├── exploration-roadmap.md
 │   ├── pantry-staples.md
-│   └── repository-changelog.md
+│   ├── repository-changelog.md
+│   ├── recipe-search.json
+│   ├── recipe-search-live.json
+│   ├── family-recipe-data.js
+│   └── recipes/
+│       ├── korean/
+│       ├── vietnamese/
+│       ├── condiments/
+│       └── family/
 │
 ├── recipes/
 │   ├── korean/
 │   ├── chinese/
 │   ├── japanese/
 │   ├── vietnamese/
+│   │   ├── main-dishes/
+│   │   ├── appetizers/
+│   │   ├── sides/
+│   │   ├── soups-and-stews/
+│   │   ├── breads/
+│   │   └── condiments/
 │   ├── thai/
 │   ├── indian/
 │   ├── greek/
@@ -103,16 +117,26 @@ Flavorweaver/
 │   ├── mexican/
 │   └── american/
 │
-├── condiments/
-│   ├── ginger-nuoc-cham.md
-│   ├── peanut-sauce.md
-│   ├── asian-pickled-garden-vegetables.md
-│   ├── gochujang-crema.md
-│   ├── toum.md
-│   ├── tzatziki.md
-│   └── future-chutneys/
+├── family-recipes/
+│   ├── readme.md
+│   └── recipes/
+│       ├── appetizers/
+│       ├── breads/
+│       ├── cakes/
+│       ├── cookies/
+│       ├── main-dishes/
+│       ├── pies/
+│       └── sides/
 │
-├── breads/
+├── inventory/
+│   ├── README.md
+│   ├── inventory-equipment.md
+│   ├── inventory-proteins.md
+│   ├── inventory-spices-seasonings.md
+│   └── other inventory references
+│
+├── condiments/        # Transitional legacy location; migrate into recipes/<culture>/condiments/ over time.
+├── breads/            # Transitional legacy location; migrate into recipes/<culture>/breads/ over time.
 │
 ├── pantry/
 │   ├── pantry-standards.md
@@ -132,11 +156,98 @@ Flavorweaver/
 │   └── legendary-meals.md
 │
 └── templates/
+    ├── main-recipe-template.md
     ├── recipe-template.md
     ├── restaurant-recreation-template.md
     ├── ingredient-review-template.md
     └── experiment-template.md
 ```
+
+---
+
+# 🧬 Two Recipe Systems
+
+Flavorweaver contains two related but different recipe systems.
+
+They should not be merged, flattened, or treated as interchangeable.
+
+## Don & Amy World Culture Collection
+
+The main Don & Amy collection lives under:
+
+```text
+recipes/
+```
+
+This collection is organized by world culture or flavor identity first, then by recipe category.
+
+Preferred pattern:
+
+```text
+recipes/<culture>/<recipe-category>/<recipe-file>.md
+```
+
+Examples:
+
+```text
+recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md
+recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md
+recipes/korean/bold-bulgogi-bowls.md
+```
+
+As cultures grow, each culture folder may contain category subfolders such as:
+
+```text
+main-dishes/
+appetizers/
+sides/
+soups-and-stews/
+breads/
+condiments/
+desserts/
+```
+
+Reusable sauces, condiments, pickles, breads, and other meal components should belong inside the appropriate culture folder when they are part of the Don & Amy world-culture collection.
+
+The root-level `condiments/` and `breads/` folders are transitional legacy locations. They should be migrated carefully into `recipes/<culture>/<category>/` over time.
+
+Before moving any file out of `condiments/` or `breads/`, search all related references and update Markdown links, generated HTML links, search JSON entries, and documentation references.
+
+World culture recipes receive individual generated or hand-built HTML recipe pages under:
+
+```text
+docs/recipes/<culture>/<recipe>.html
+```
+
+These pages may use layouts and cards designed specifically for the Don & Amy world-culture collection.
+
+## Family Recipe Archive
+
+The family recipe archive lives under:
+
+```text
+family-recipes/
+```
+
+This archive preserves inherited recipes, family cookbook recipes, holidays, gatherings, original source context, and family memory.
+
+Family recipes are organized by recipe type, not world culture:
+
+```text
+family-recipes/recipes/<category>/<recipe-file>.md
+```
+
+Family recipes do not generally receive one individual hand-built HTML file per recipe.
+
+Instead, family recipes are surfaced through shared site code, search data, and reusable card rendering. Current family recipe search/card behavior is driven by:
+
+```text
+docs/family-recipe-data.js
+```
+
+This keeps the family archive scalable while preserving family-source metadata and category browsing.
+
+Exceptions may exist for special feature pages, but the default family recipe model is data-driven search/card rendering rather than one manually maintained HTML page per recipe.
 
 ---
 
@@ -170,6 +281,8 @@ These are documented in:
 docs/pantry-staples.md
 ```
 
+As root-level component folders are migrated, house staples should be placed under the most appropriate world-culture recipe path and linked through metadata and generated site search rather than duplicated.
+
 ---
 
 # 🔪 Kitchen Standards
@@ -198,6 +311,12 @@ Full standards are documented in:
 
 ```text
 docs/kitchen-standards.md
+```
+
+The operational inventory canon is documented in:
+
+```text
+inventory/README.md
 ```
 
 ---

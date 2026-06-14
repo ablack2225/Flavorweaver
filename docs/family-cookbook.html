@@ -75,6 +75,8 @@
     let activeCategory = '';
 
     const recipeSlugFromSourcePath = (sourcePath) => String(sourcePath || '').split('/').pop().replace(/\.md$/, '');
+    const categorySlugFromSourcePath = (sourcePath) => String(sourcePath || '').split('/')[2] || '';
+    const titleFromSlug = (slug) => window.FLAVORWEAVER_TITLE_FROM_SLUG ? window.FLAVORWEAVER_TITLE_FROM_SLUG(slug) : String(slug || '').replace(/-/g, ' ');
 
     const setActivePill = () => {
       tagMount.querySelectorAll('[data-family-category]').forEach((button) => {
@@ -86,13 +88,27 @@
       .map((slug) => `<button class="family-category-pill" type="button" data-family-category="${slug}">${labels[slug] || slug}</button>`)
       .join('');
 
+    const recipeMatchesQuery = (recipe, query, recipeSlug, categorySlug) => {
+      if (!query) return true;
+      const fields = [
+        recipe.title,
+        recipeSlug,
+        titleFromSlug(recipeSlug),
+        recipe.category,
+        categorySlug,
+        labels[categorySlug],
+        recipe.sourcePath
+      ];
+      return fields.some((field) => normalize(field).includes(query));
+    };
+
     const filteredRecipes = () => {
       const query = normalize(searchInput.value);
-      const activeRecipeSlugs = activeCategory ? categories[activeCategory] || [] : [];
       return recipes.filter((recipe) => {
         const recipeSlug = recipeSlugFromSourcePath(recipe.sourcePath);
-        const categoryMatches = !activeCategory || activeRecipeSlugs.includes(recipeSlug);
-        const nameMatches = !query || normalize(recipe.title).includes(query);
+        const categorySlug = categorySlugFromSourcePath(recipe.sourcePath);
+        const categoryMatches = !activeCategory || categorySlug === activeCategory || (categories[activeCategory] || []).includes(recipeSlug);
+        const nameMatches = recipeMatchesQuery(recipe, query, recipeSlug, categorySlug);
         return categoryMatches && nameMatches;
       }).slice(0, 24);
     };
@@ -114,7 +130,10 @@
         : `<article class="feature-card"><h3>No matches yet</h3><p>Try a shorter recipe name or choose another family category.</p></article>`;
     };
 
-    searchInput.addEventListener('input', renderSearchResults);
+    searchInput.addEventListener('input', () => {
+      if (searchInput.value.trim()) activeCategory = '';
+      renderSearchResults();
+    });
     tagMount.addEventListener('click', (event) => {
       const button = event.target.closest('[data-family-category]');
       if (!button) return;

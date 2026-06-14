@@ -70,7 +70,9 @@ The goal is creating meals worth remembering.
 
 ---
 
-# 📂 Repository Structure
+# 📂 Current Repository Structure
+
+This structure reflects the active working model for Flavorweaver.
 
 ```text
 Flavorweaver/
@@ -78,89 +80,67 @@ Flavorweaver/
 ├── readme.md
 │
 ├── docs/
-│   ├── culinary-philosophy.md
-│   ├── kitchen-standards.md
-│   ├── hall-of-fame.md
-│   ├── exploration-roadmap.md
-│   ├── pantry-staples.md
-│   ├── repository-changelog.md
+│   ├── index.html
+│   ├── recipes.html
+│   ├── family-cookbook.html
+│   ├── dedication.html
+│   ├── cultures-and-cuisines.html
+│   ├── house-staples.html
+│   ├── family-recipe-data.js
+│   ├── world-recipe-data.js
 │   ├── recipe-search.json
 │   ├── recipe-search-live.json
-│   ├── family-recipe-data.js
+│   ├── site.css
+│   ├── styles.css
+│   ├── readability.css
+│   ├── premium-recipe.css
+│   ├── templates/
+│   │   ├── README.md
+│   │   ├── world-culture-recipe-canon-template.html
+│   │   ├── world-culture-recipe-source-template.md
+│   │   └── family-recipe-source-template.md
 │   └── recipes/
-│       ├── korean/
-│       ├── vietnamese/
-│       ├── condiments/
-│       └── family/
+│       ├── family/
+│       └── <culture-or-path>/
+│           └── <category>/
+│               └── <recipe-slug>.html
 │
 ├── recipes/
-│   ├── korean/
-│   ├── chinese/
-│   ├── japanese/
-│   ├── vietnamese/
-│   │   ├── main-dishes/
-│   │   ├── appetizers/
-│   │   ├── sides/
-│   │   ├── soups-and-stews/
-│   │   ├── breads/
-│   │   └── condiments/
-│   ├── thai/
-│   ├── indian/
-│   ├── greek/
-│   ├── italian/
-│   ├── lebanese/
-│   ├── turkish/
-│   ├── halal-cart/
-│   ├── ethiopian/
-│   ├── moroccan/
-│   ├── cape-malay/
-│   ├── mexican/
-│   └── american/
+│   └── <culture-or-path>/
+│       └── <category>/
+│           └── <recipe-slug>.md
 │
 ├── family-recipes/
 │   ├── readme.md
+│   ├── dedication-and-legacy.md
 │   └── recipes/
-│       ├── appetizers/
-│       ├── breads/
-│       ├── cakes/
-│       ├── cookies/
-│       ├── main-dishes/
-│       ├── pies/
-│       └── sides/
+│       └── <category>/
+│           └── <recipe-slug>.md
 │
 ├── inventory/
-│   ├── README.md
-│   ├── inventory-equipment.md
-│   ├── inventory-proteins.md
-│   ├── inventory-spices-seasonings.md
-│   └── other inventory references
-│
-├── condiments/        # Transitional legacy location; migrate into recipes/<culture>/condiments/ over time.
-├── breads/            # Transitional legacy location; migrate into recipes/<culture>/breads/ over time.
-│
 ├── pantry/
-│   ├── pantry-standards.md
-│   ├── ingredient-reviews.md
-│   ├── spice-reference.md
-│   └── shopping-discoveries.md
-│
 ├── experiments/
-│   ├── flavor-notes.md
-│   ├── failed-experiments.md
-│   ├── ingredient-comparisons.md
-│   └── restaurant-recreations.md
-│
 ├── hall-of-fame/
-│   ├── top-10-meals.md
-│   ├── permanent-recipes.md
-│   └── legendary-meals.md
-│
-└── templates/
-    ├── main-recipe-template.md
-    ├── recipe-template.md
-    ├── restaurant-recreation-template.md
-    ├── ingredient-review-template.md
-    └── experiment-template.md
+└── scripts/
+    └── generate-family-recipe-data.js
+```
+
+## Active Template Location
+
+The active canon template home is:
+
+```text
+docs/templates/
+```
+
+Root-level `templates/` is not the active template location. Do not create new recipe templates there.
+
+Active recipe templates:
+
+```text
+docs/templates/world-culture-recipe-canon-template.html
+docs/templates/world-culture-recipe-source-template.md
+docs/templates/family-recipe-source-template.md
 ```
 
 ---
@@ -171,99 +151,51 @@ Flavorweaver contains two related but different recipe systems.
 
 They should not be merged, flattened, or treated as interchangeable.
 
-## Don & Amy World Culture Collection
+Before adding any recipe, determine which system it belongs to.
 
-The main Don & Amy collection lives under:
+---
+
+# 🌍 Don & Amy World-Culture Collection
+
+The Don & Amy world-culture collection lives under:
 
 ```text
 recipes/
 ```
 
-This collection is organized by world culture or flavor identity first, then by recipe category.
+This collection is organized by world culture or flavor identity first, then recipe category.
 
-Preferred pattern:
+Preferred Markdown source pattern:
 
 ```text
-recipes/<culture>/<recipe-category>/<recipe-file>.md
+recipes/<culture-or-path>/<category>/<recipe-slug>.md
 ```
+
+Preferred public HTML pattern:
+
+```text
+docs/recipes/<culture-or-path>/<category>/<recipe-slug>.html
+```
+
+Some older pages may exist at a flatter path while the site is being aligned, but new world-culture recipe work should use the category-aware pattern unless Amy explicitly approves another structure.
 
 Examples:
 
 ```text
-recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md
+recipes/korean/bowls-and-mains/bold-bulgogi-bowls.md
+recipes/vietnamese/bowls-and-mains/lemongrass-chicken-bowls.md
 recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.md
-recipes/korean/bold-bulgogi-bowls.md
 ```
 
-As cultures grow, each culture folder may contain category subfolders such as:
-
-```text
-main-dishes/
-appetizers/
-sides/
-soups-and-stews/
-breads/
-condiments/
-desserts/
-```
-
-Reusable sauces, condiments, pickles, breads, and other meal components should belong inside the appropriate culture folder when they are part of the Don & Amy world-culture collection.
-
-The root-level `condiments/` and `breads/` folders are transitional legacy locations. They should be migrated carefully into `recipes/<culture>/<category>/` over time.
-
-Before moving any file out of `condiments/` or `breads/`, search all related references and update Markdown links, generated HTML links, search JSON entries, and documentation references.
-
-World culture recipes receive individual generated or hand-built HTML recipe pages under:
-
-```text
-docs/recipes/<culture>/<recipe>.html
-```
-
-These pages may use layouts and cards designed specifically for the Don & Amy world-culture collection.
-
-## Family Recipe Archive
-
-The family recipe archive lives under:
-
-```text
-family-recipes/
-```
-
-This archive preserves inherited recipes, family cookbook recipes, holidays, gatherings, original source context, and family memory.
-
-Family recipes are organized by recipe type, not world culture:
-
-```text
-family-recipes/recipes/<category>/<recipe-file>.md
-```
-
-Family recipes do not generally receive one individual hand-built HTML file per recipe.
-
-Instead, family recipes are surfaced through shared site code, search data, and reusable card rendering. Current family recipe search/card behavior is driven by:
-
-```text
-docs/family-recipe-data.js
-```
-
-This keeps the family archive scalable while preserving family-source metadata and category browsing.
-
-Exceptions may exist for special feature pages, but the default family recipe model is data-driven search/card rendering rather than one manually maintained HTML page per recipe.
-
----
-
-# 🧾 Don & Amy World Culture Recipe Build Standard
-
-This section records the working format for new Don & Amy world-culture recipes.
-
-Use this standard before importing, converting, moving, or publishing any new main collection recipe.
+World-culture recipes are chef-level developed recipes from the Amy & Don kitchen. They may be inspired by restaurants, cultures, flavor memories, research, or experiments, but the final recipe should reflect what Amy and Don would want to make again.
 
 ## Required Outputs
 
-Every new world-culture recipe should produce both a Markdown source file and a public HTML recipe page.
+Every new world-culture recipe should produce both:
 
 ```text
-recipes/<culture>/<recipe-category>/<recipe-slug>.md
-docs/recipes/<culture>/<recipe-slug>.html
+recipes/<culture-or-path>/<category>/<recipe-slug>.md
+docs/recipes/<culture-or-path>/<category>/<recipe-slug>.html
 ```
 
 The Markdown file is the source-of-truth kitchen record.
@@ -274,11 +206,16 @@ Do not treat Don & Amy world-culture recipes like family recipes. They do not us
 
 ## Markdown Source Format
 
-New world-culture Markdown recipes should follow:
+New world-culture Markdown recipes should begin from:
+
+```text
+docs/templates/world-culture-recipe-source-template.md
+```
+
+The supporting structure reference is:
 
 ```text
 docs/main-flavorweaver-recipe-structure.md
-templates/main-recipe-template.md
 ```
 
 Required Markdown structure:
@@ -338,24 +275,34 @@ Do not duplicate the full recipe body just because it belongs to more than one c
 
 ## HTML Recipe Page Format
 
-World-culture HTML pages should mirror the existing premium recipe page design already used by examples such as:
+World-culture HTML pages should mirror the premium recipe page design already used by canon examples such as:
 
 ```text
-docs/recipes/korean/bold-bulgogi-bowls.html
-docs/recipes/vietnamese/lemongrass-chicken-bowls.html
-docs/recipes/vietnamese/fresh-vegetable-spring-rolls.html
+docs/recipes/korean/bowls-and-mains/bold-bulgogi-bowls.html
+docs/recipes/vietnamese/bowls-and-mains/lemongrass-chicken-bowls.html
+docs/recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.html
+```
+
+If a current live example still exists at an older flat path, use the most current working page as the visual reference and preserve the category-aware structure for new work.
+
+The locked public HTML template is:
+
+```text
+docs/templates/world-culture-recipe-canon-template.html
 ```
 
 The HTML page should use the existing site shell and premium recipe layout rather than inventing a new design.
 
-Required stylesheet pattern:
+Required stylesheet pattern should be adjusted for the HTML page depth:
 
 ```html
-<link rel="stylesheet" href="../../styles.css?v=..." />
-<link rel="stylesheet" href="../../site.css?v=..." />
-<link rel="stylesheet" href="../../readability.css?v=..." />
-<link rel="stylesheet" href="../../premium-recipe.css?v=..." />
+<link rel="stylesheet" href="../../../styles.css?v=..." />
+<link rel="stylesheet" href="../../../site.css?v=..." />
+<link rel="stylesheet" href="../../../readability.css?v=..." />
+<link rel="stylesheet" href="../../../premium-recipe.css?v=..." />
 ```
+
+Use `../../` instead of `../../../` only when a public recipe page is intentionally placed one folder shallower.
 
 Required layout classes and regions:
 
@@ -407,25 +354,6 @@ Public HTML pages should not render internal development sections by default:
 
 Those sections stay in the Markdown source file for kitchen development, testing history, and future automation.
 
-## Search and Link Requirements
-
-When adding or moving a world-culture recipe, update all related discovery and navigation files.
-
-Check and update as needed:
-
-```text
-docs/recipe-search.json
-docs/recipe-search-live.json
-Markdown links in recipes/
-HTML links in docs/recipes/
-README and documentation references
-component links and pairings
-```
-
-When a source file moves, search for old path references before deleting or relocating the original.
-
-Update both Markdown links and HTML links. The source Markdown and public HTML site are connected, but they are not the same layer.
-
 ## Complete Meal Plate Rule
 
 Some Don & Amy world-culture recipes represent a complete restaurant-style meal plate rather than a single isolated dish.
@@ -442,6 +370,20 @@ Reusable components may be broken out into separate recipes when they are useful
 
 Bold Bulgogi Bowls is the current canon example of this pattern: the bowl remains the complete main recipe, while required components can be included, linked, and reused without turning them into optional pairings.
 
+## Required Components vs Pairs Well With
+
+Required components belong in the Ingredient List and Measured Ingredients sections.
+
+Examples of required components:
+
+- sauces required to complete the dish
+- rice, noodles, bread, or base
+- pickles or vegetables required for balance
+- garnishes required for the intended final plate
+- crema, dipping sauce, dressing, or finishing sauce required for the recipe identity
+
+`Pairs Well With` is only for optional companion dishes or add-ons that would make a good menu around the recipe.
+
 ## Component Placement Rule
 
 Reusable sauces, condiments, breads, pickles, and other meal components should live under the most appropriate world-culture recipe folder when they belong to the Don & Amy collection.
@@ -449,14 +391,22 @@ Reusable sauces, condiments, breads, pickles, and other meal components should l
 Preferred pattern:
 
 ```text
-recipes/<culture>/condiments/<component>.md
-recipes/<culture>/breads/<component>.md
+recipes/<culture-or-path>/<category>/<component>.md
 ```
 
-Public pages should use:
+Common component categories include:
 
 ```text
-docs/recipes/<culture>/<component>.html
+condiments/
+breads/
+sides/
+pickles-and-bright-things/
+```
+
+Public component pages should use:
+
+```text
+docs/recipes/<culture-or-path>/<category>/<component>.html
 ```
 
 If a component is genuinely cross-cultural, pause before moving it and decide whether it needs:
@@ -468,37 +418,120 @@ If a component is genuinely cross-cultural, pause before moving it and decide wh
 
 Do not bury a cross-cultural house staple inside one culture folder without reviewing links, search behavior, and future browsing needs.
 
-## Family Recipe Exception
+## Search and Link Requirements
 
-Do not apply this build standard to the family recipe archive.
+When adding or moving a world-culture recipe, update all related discovery and navigation files.
 
-Family recipes live under:
+Check and update as needed:
 
 ```text
-family-recipes/recipes/<category>/<recipe>.md
+docs/world-recipe-data.js
+docs/recipe-search.json
+docs/recipe-search-live.json
+Markdown links in recipes/
+HTML links in docs/recipes/
+README and documentation references
+component links and pairings
+category pages and cards
 ```
 
-Family recipes are surfaced through shared data/search/card rendering, especially:
+When a source file moves, search for old path references before deleting or relocating the original.
+
+Update both Markdown links and HTML links. The source Markdown and public HTML site are connected, but they are not the same layer.
+
+---
+
+# 👨‍👩‍👧 Family Recipe Archive
+
+The family recipe archive lives under:
+
+```text
+family-recipes/
+```
+
+This archive preserves inherited recipes, family cookbook recipes, holidays, gatherings, handwritten card context, original source context, and family memory.
+
+Family recipes are organized by recipe type, not world culture:
+
+```text
+family-recipes/recipes/<category>/<recipe-slug>.md
+```
+
+Family recipes generally do not receive one individual hand-built HTML file per recipe.
+
+Instead, family recipes are surfaced through shared site code, search data, and reusable card rendering. Current family recipe search/card behavior is driven by:
 
 ```text
 docs/family-recipe-data.js
 ```
 
-They generally do not receive one hand-built premium HTML page per recipe.
+The generator for family recipe data is:
+
+```text
+scripts/generate-family-recipe-data.js
+```
+
+The workflow for family recipe data is:
+
+```text
+.github/workflows/generate-family-recipe-data.yml
+```
+
+New family recipe Markdown should begin from:
+
+```text
+docs/templates/family-recipe-source-template.md
+```
+
+Family recipes use a lighter preservation structure:
+
+1. YAML frontmatter.
+2. `<!-- recipe-card:start -->`.
+3. Recipe title.
+4. Short description, if helpful.
+5. Recipe Dashboard.
+6. Ingredient List.
+7. Measured Ingredients.
+8. Instructions.
+9. `<!-- recipe-card:end -->`.
+10. Notes, only if useful.
+
+Family recipes should not use the heavier world-culture ending by default.
+
+Avoid these sections for normal family recipes:
+
+- Final Verdict
+- Flavorweaver Decision checkboxes
+- Flavor Architecture
+- Flavorweaver Direction
+- Testing Notes
+- Kitchen Notes
+- Change Log
+
+Special public feature pages may exist for family cookbook presentation, dedication, or legacy material, but the default family recipe model is data-driven search/card rendering rather than one manually maintained HTML page per recipe.
 
 ---
 
-# 🏆 Hall of Fame
+# 🕯️ Family Cookbook Dedication
 
-Hall of Fame recipes have earned permanent placement in the Amy & Don Kitchen.
-
-These are meals that consistently generate excitement, requests for repeats, and lasting memories.
-
-For the complete Hall of Fame list see:
+The public dedication page lives at:
 
 ```text
-docs/hall-of-fame.md
+docs/dedication.html
 ```
+
+The source/legacy dedication record lives at:
+
+```text
+family-recipes/dedication-and-legacy.md
+```
+
+The currently locked public dedication sections are:
+
+- A message to my mother
+- Sue's Original Dedication
+
+Do not redesign those sections unless Amy explicitly asks.
 
 ---
 
@@ -512,13 +545,9 @@ Current examples include:
 * Ginger Restaurant-Style Nuoc Cham
 * Peanut Sauce
 
-These are documented in:
+House staples should be linked through metadata, category pages, and generated site search rather than duplicated.
 
-```text
-docs/pantry-staples.md
-```
-
-As root-level component folders are migrated, house staples should be placed under the most appropriate world-culture recipe path and linked through metadata and generated site search rather than duplicated.
+When a house staple is also required for a complete meal plate, link it from the main recipe while keeping the whole plate readable and cookable.
 
 ---
 
@@ -554,6 +583,20 @@ The operational inventory canon is documented in:
 
 ```text
 inventory/README.md
+```
+
+---
+
+# 🏆 Hall of Fame
+
+Hall of Fame recipes have earned permanent placement in the Amy & Don Kitchen.
+
+These are meals that consistently generate excitement, requests for repeats, and lasting memories.
+
+For the complete Hall of Fame list see:
+
+```text
+docs/hall-of-fame.md
 ```
 
 ---
@@ -597,6 +640,27 @@ Current active investigations include:
 
 * Chinese Comfort Chicken Identification
 * Frank's Fig & Pig Recreation Project
+
+---
+
+# ✅ Working Process
+
+When editing the repository:
+
+1. Fetch the current file first.
+2. Use the returned SHA for updates.
+3. Replace the full file content when updating through GitHub.
+4. Commit in small, clear steps.
+5. Only claim completion after GitHub confirms the commit.
+
+When adding recipes:
+
+1. Determine whether the recipe belongs to the Family Recipe Archive or the Don & Amy World-Culture Collection.
+2. Use the correct active template from `docs/templates/`.
+3. Create the Markdown source file in the correct location.
+4. For world-culture recipes, create the public HTML page.
+5. Update search/index/navigation data as needed.
+6. Verify internal links, component links, category pages, and public page paths.
 
 ---
 

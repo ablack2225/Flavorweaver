@@ -53,7 +53,7 @@
           <p class="eyebrow">Preserved pages</p>
           <h2 id="family-heading">Browse family categories</h2>
         </div>
-        <p>Each card filters this family cookbook page without leaving the family archive.</p>
+        <p>Each card opens a small shelf of family treasures from the preserved cookbook.</p>
       </div>
       <div class="feature-grid" id="family-feature-grid">
         <article class="feature-card"><h3>Loading family archive...</h3><p>Preparing family recipe categories from the preserved source files.</p></article>
@@ -67,6 +67,25 @@
     const labels = window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS || {};
     const recipes = window.FLAVORWEAVER_FAMILY_RECIPES || [];
     const normalize = (value) => String(value || '').trim().toLowerCase();
+
+    const categoryDescriptions = {
+      'appetizers': 'Party bites, snackable starters, and the little recipes that gathered people around before the meal began.',
+      'beverages': 'Punches, warm sippers, and family drinks poured for holidays, gatherings, and kitchen-table visits.',
+      'breads': 'Cornbreads, rolls, biscuits, hushpuppies, and warm breads that belonged beside supper.',
+      'breakfast': 'Morning favorites, brunch casseroles, pancakes, oatmeal, and comfort recipes for slow family mornings.',
+      'cakes': 'Celebration cakes, church-table cakes, holiday cakes, and sweet slices remembered by name.',
+      'cake-frostings': 'The finishing touches: frostings, fillings, and sweet toppings that made family cakes complete.',
+      'candy-and-snacks': 'Fudge, brittle, party mixes, popcorn, pralines, and the treats people reached for by the handful.',
+      'cookies': 'Cookie tins, holiday batches, lunchbox sweets, and handwritten favorites baked again and again.',
+      'desserts': 'Puddings, cobblers, creamy desserts, frozen treats, and sweet dishes saved for after supper.',
+      'gravies-and-sauces': 'Savory family finishes, barbecue mops, gravies, and the little extras that made plates feel complete.',
+      'homemade-pickles': 'Jars of old-fashioned pickles and preserved garden brightness from family kitchen shelves.',
+      'main-dishes': 'Dinner anchors, casseroles, skillets, meat dishes, and hearty meals that carried the family table.',
+      'pies': 'Cream pies, fruit pies, holiday pies, chess pies, and well-loved crusts from the dessert table.',
+      'salads-slaws-and-dips': 'Cool salads, picnic bowls, slaws, dips, and colorful dishes carried to gatherings.',
+      'sides': 'Potatoes, vegetables, casseroles, dressings, and side dishes that filled out family meals.',
+      'soups-and-stews': 'Chili, gumbo, soups, dumplings, and comfort bowls made for sharing and warming up.'
+    };
 
     const tagMount = document.getElementById('family-category-tags');
     const searchInput = document.getElementById('family-name-search');
@@ -144,7 +163,8 @@
     const grid = document.getElementById('family-feature-grid');
     const categoryCards = Object.entries(categories).map(([slug, list]) => {
       const label = labels[slug] || slug;
-      return `<article class="feature-card"><h3>${label}</h3><p>${list.length} preserved recipe card${list.length === 1 ? '' : 's'} in this family cookbook path.</p><button class="family-category-pill" type="button" data-family-category-card="${slug}">Search ${label}</button></article>`;
+      const description = categoryDescriptions[slug] || 'A preserved shelf of family recipes, notes, and kitchen memories.';
+      return `<article class="feature-card"><h3>${label}</h3><p>${description}</p><button class="family-category-pill" type="button" data-family-category-card="${slug}">Search ${label}</button></article>`;
     });
     grid.innerHTML = categoryCards.join('');
     grid.addEventListener('click', (event) => {

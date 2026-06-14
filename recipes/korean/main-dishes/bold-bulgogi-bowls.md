@@ -26,6 +26,7 @@ tags:
   - sauce-driven
   - weeknight favorite
   - multi-component
+  - complete meal plate
   - top 10 meal
 
 pairs_well_with:
@@ -37,7 +38,7 @@ required_components:
   - asian-pickled-garden-vegetables
   - gochujang-crema
 
-last_updated: 2026-06-13
+last_updated: 2026-06-14
 ---
 
 <!-- recipe-card:start -->
@@ -61,11 +62,11 @@ last_updated: 2026-06-13
 | Component | Ingredients |
 |---|---|
 | Rice | Basmati rice, chicken broth, butter, onion, bay leaf, salt |
-| Pickled Vegetables | Asian Pickled Garden Vegetables |
+| Pickled Vegetables | [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md): zucchini, yellow squash, cucumber or garden vegetables, carrot, green onion, rice vinegar, sugar, salt |
 | Beef | Ground beef, green onions, sesame seeds |
 | Sauce | Soy sauce, dark soy sauce, brown sugar, honey, sesame oil, canned pear, ginger paste, garlic, rice vinegar, gochujang |
 | Vegetables | Napa cabbage, carrots, sesame oil, salt |
-| Gochujang Crema | Gochujang Crema |
+| Gochujang Crema | [Gochujang Crema](../condiments/gochujang-crema.md): sour cream, gochujang, lime juice, sugar, water |
 | Optional | Jammy eggs, sesame oil |
 
 ## Measured Ingredients
@@ -125,12 +126,39 @@ last_updated: 2026-06-13
 |---:|---|---|
 | 1 batch, or about 1/2 cup | [Gochujang Crema](../condiments/gochujang-crema.md) | Required finishing sauce; drizzle over assembled bowls |
 
+### Linked Required Components
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 batch | [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) | Bright acidic crunch that keeps the bowl from feeling heavy |
+| 1 batch | [Gochujang Crema](../condiments/gochujang-crema.md) | Creamy spicy drizzle that ties the rice, beef, vegetables, and pickles together |
+
 ### Optional
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 4 | Jammy eggs | Halved for serving |
 | Light drizzle | Sesame oil | For extra-rich finish |
+
+## Plating & Serving Architecture
+
+### Per Bowl
+
+- 1/4 of the toasted rice
+- 1/4 of the glossy bulgogi beef
+- A scoop of stir-fried napa cabbage and carrots
+- A bright spoon of Asian Pickled Garden Vegetables
+- A generous drizzle of Gochujang Crema
+- Green onion tops and sesame seeds
+- Optional jammy egg half or whole egg portion
+
+### Visual Build
+
+Build the bowl from the bottom up. Rice is the warm foundation. Vegetables should sit around or beside the beef so the bowl looks full and colorful. Place the glossy bulgogi beef as the center anchor. Add pickled vegetables where they stay visible and bright. Finish with gochujang crema in a visible drizzle so the bowl reads as sauce-driven and restaurant-style.
+
+### Eating Experience
+
+Each bite should move between sweet-savory beef, creamy heat, tangy pickled crunch, tender rice, and fresh vegetables. The bowl should feel rich but not heavy because the pickles and vegetables keep lifting it back up.
 
 ## Instructions
 
@@ -150,7 +178,7 @@ The canned pear is the secret ingredient. It adds subtle sweetness, moisture, an
 
 The gochujang should be noticeable. For bolder flavor, stir an extra teaspoon into the beef while simmering or serve extra at the table.
 
-The ideal finished bowl is sweet, savory, tangy, spicy, and fresh.
+The ideal finished bowl is sweet, savory, tangy, spicy, creamy, and fresh.
 
 <!-- recipe-card:end -->
 
@@ -228,9 +256,9 @@ The recipe may feel faster once the sauce, pickled vegetables, or crema are prep
 
 **What to adjust next time:**
 
-- 
-- 
-- 
+- Confirm ideal crema amount per bowl.
+- Confirm whether jammy egg belongs in the canon serving or optional topping.
+- Confirm final rice portion for 4 servings.
 
 </details>
 
@@ -259,5 +287,6 @@ Rated as a Top 10 meal.
 | 2026-06-11 | Converted pairing paths to clickable Markdown links. |
 | 2026-06-13 | Corrected required components: Asian Pickled Garden Vegetables and Gochujang Crema are recipe components, not Pairs Well With items. |
 | 2026-06-13 | Relocated source to recipes/korean/main-dishes/ under the culture-first source canon. |
+| 2026-06-14 | Added complete-meal plate ingredient visibility, component role notes, and plating architecture. |
 
 </details>

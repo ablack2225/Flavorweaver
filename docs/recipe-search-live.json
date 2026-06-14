@@ -115,8 +115,8 @@
     "sourcePath": "recipes/indian/breads/fluffy-skillet-naan.md",
     "cuisine": "Indian Inspired",
     "category": "Bread",
-    "status": "Source Adaptation Needed",
-    "ingredients": ["yeast", "warm water", "sugar", "milk", "egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
-    "tags": ["indian-inspired", "naan", "skillet bread", "scoop bread", "source adaptation needed", "html page"]
+    "status": "House Staple",
+    "ingredients": ["yeast", "warm water", "sugar", "milk", "room-temperature egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
+    "tags": ["indian-inspired", "naan", "skillet bread", "scoop bread", "house staple", "html page"]
   }
 ]

@@ -2,6 +2,34 @@
   padding-top: clamp(44px, 7vw, 84px);
 }
 
+body:has(.dedication-shell) {
+  background:
+    radial-gradient(circle at 50% 4%, rgba(255, 196, 93, 0.2), transparent 12rem),
+    radial-gradient(circle at 72% 12%, rgba(76, 204, 232, 0.12), transparent 25rem),
+    radial-gradient(circle at 18% 18%, rgba(159, 127, 232, 0.09), transparent 24rem),
+    linear-gradient(180deg, #0a1a27 0%, #10131b 42%, #0b090c 100%);
+}
+
+body:has(.dedication-shell)::after {
+  background:
+    radial-gradient(ellipse at 42% 82%, rgba(255, 178, 80, 0.2), transparent 30rem),
+    radial-gradient(ellipse at 58% 20%, rgba(255, 196, 93, 0.08), transparent 24rem),
+    linear-gradient(180deg, transparent 0%, rgba(47, 25, 14, 0.42) 48%, rgba(17, 9, 7, 0.76) 100%);
+}
+
+body:has(.dedication-shell) .site-topbar {
+  background:
+    linear-gradient(180deg, rgba(8, 19, 29, 0.58), rgba(8, 19, 29, 0.34));
+  border-bottom: 1px solid rgba(255, 196, 93, 0.12);
+  box-shadow: 0 10px 32px rgba(0, 0, 0, 0.1);
+}
+
+body:has(.dedication-shell) .nav-links a[aria-current="page"] {
+  color: var(--candle);
+  background: rgba(255, 196, 93, 0.16);
+  box-shadow: 0 0 18px rgba(255, 196, 93, 0.12);
+}
+
 .dedication-page-card {
   display: grid;
   gap: 30px;

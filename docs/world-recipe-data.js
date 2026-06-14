@@ -68,5 +68,45 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Working Recipe',
     ingredients: ['peanut butter', 'ginger nuoc cham', 'hoisin sauce', 'soy sauce', 'garlic', 'ginger', 'lime', 'warm water'],
     tags: ['dipping sauce', 'peanut sauce', 'hoisin', 'creamy']
+  },
+  {
+    title: 'Ethiopian-Inspired Doro Wat Platter',
+    path: 'recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html',
+    collection: 'House Recipes',
+    culture: 'Ethiopian Inspired',
+    category: 'Main Dish',
+    status: 'Working Recipe',
+    ingredients: ['chicken thighs', 'hard-boiled eggs', 'paprika', 'cayenne', 'fenugreek', 'onion', 'garlic', 'ginger', 'tomato paste', 'yellow split peas', 'cabbage', 'carrot', 'tomato', 'cucumber', 'naan', 'injera'],
+    tags: ['ethiopian-inspired', 'doro wat', 'complete meal plate', 'berbere-style', 'split pea alicha', 'atakilt wat', 'timatim salad', 'naan substitute', 'injera future project']
+  },
+  {
+    title: 'Split Pea Alicha',
+    path: 'recipes/ethiopian/sides/split-pea-alicha.html',
+    collection: 'House Recipes',
+    culture: 'Ethiopian Inspired',
+    category: 'Side Dish',
+    status: 'First Test',
+    ingredients: ['yellow split peas', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'black pepper', 'butter', 'oil'],
+    tags: ['ethiopian-inspired', 'split peas', 'alicha', 'side dish', 'stew', 'doro wat platter', 'dairy-minimal']
+  },
+  {
+    title: 'Teff Starter & Real Injera',
+    path: 'recipes/ethiopian/breads/teff-starter-and-real-injera.html',
+    collection: 'House Recipes',
+    culture: 'Ethiopian',
+    category: 'Bread',
+    status: 'Future Project',
+    ingredients: ['teff flour', 'water', 'active teff starter', 'salt'],
+    tags: ['ethiopian', 'injera', 'teff', 'fermented', 'flatbread', 'starter', 'future project', 'dairy-free']
+  },
+  {
+    title: 'Fluffy Skillet Naan',
+    path: 'recipes/indian/breads/fluffy-skillet-naan.html',
+    collection: 'House Recipes',
+    culture: 'Indian Inspired',
+    category: 'Bread',
+    status: 'Source Adaptation Needed',
+    ingredients: ['yeast', 'warm water', 'sugar', 'milk', 'egg', 'salt', 'bread flour', 'all-purpose flour', 'ghee', 'butter', 'garlic'],
+    tags: ['indian-inspired', 'naan', 'skillet bread', 'scoop bread', 'source adaptation needed', 'doro wat platter substitute']
   }
 ];

@@ -59,10 +59,18 @@
       'house staple',
       'Korean Inspired',
       'Vietnamese Inspired',
+      'Ethiopian Inspired',
+      'Indian Inspired',
       'Asian Inspired',
       'Main Dish',
+      'Side Dish',
+      'Bread',
       'Appetizer',
       'Condiment',
+      'complete meal plate',
+      'doro wat',
+      'naan',
+      'injera',
       'top 10 meal'
     ];
     const labels = [];
@@ -88,7 +96,7 @@
       ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.`
       : `Showing ${items.length} recipe pages.`;
     if (!items.length) {
-      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like pie, cookies, sides, sauce, chicken, Korean, or Vietnamese.</div>';
+      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like pie, cookies, sides, sauce, chicken, Korean, Vietnamese, Ethiopian, or naan.</div>';
       return;
     }
     resultsEl.innerHTML = items.map((recipe) => {

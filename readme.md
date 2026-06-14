@@ -426,6 +426,22 @@ When a source file moves, search for old path references before deleting or relo
 
 Update both Markdown links and HTML links. The source Markdown and public HTML site are connected, but they are not the same layer.
 
+## Complete Meal Plate Rule
+
+Some Don & Amy world-culture recipes represent a complete restaurant-style meal plate rather than a single isolated dish.
+
+In those cases, the main dish recipe should keep the full meal build together as the canonical recipe. This may include the protein or central dish, rice, noodles, bread, vegetables, sauces, pickles, garnishes, assembly instructions, and any other required elements needed to make the plate feel complete.
+
+The Ingredient List and Measured Ingredients sections should show everything required to make the whole plate, even when some of those required elements also exist as standalone reusable component recipes.
+
+When a required element has its own recipe file or public HTML page, link to that component directly from the main recipe so the cook can move cleanly between the complete meal and the reusable component.
+
+Reusable components may be broken out into separate recipes when they are useful beyond the original meal, but the main dish should still clearly show that they are required for the full plate.
+
+`Pairs Well With` is reserved for optional companion dishes, add-ons, sides, drinks, or menu-style pairings that would go well beside the meal but are not required for the identity of the main dish.
+
+Bold Bulgogi Bowls is the current canon example of this pattern: the bowl remains the complete main recipe, while required components can be included, linked, and reused without turning them into optional pairings.
+
 ## Component Placement Rule
 
 Reusable sauces, condiments, breads, pickles, and other meal components should live under the most appropriate world-culture recipe folder when they belong to the Don & Amy collection.

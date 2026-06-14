@@ -164,13 +164,16 @@ Each bite should move between sweet-savory beef, creamy heat, tangy pickled crun
 
 | Step | Action |
 |---:|---|
-| 1 | Prepare the Asian Pickled Garden Vegetables and Gochujang Crema, or have them ready before assembling the bowls. |
-| 2 | Rinse rice until water runs mostly clear. Melt butter in a skillet, saute onion until translucent, then toast rice for 2-3 minutes. Transfer to rice cooker with broth, bay leaf, and salt. Cook according to rice cooker directions, remove bay leaf, and fluff. |
-| 3 | Whisk together soy sauce, dark soy sauce, brown sugar, honey, sesame oil, pear, ginger paste, garlic, rice vinegar, and gochujang. |
-| 4 | Brown beef thoroughly over medium-high heat, breaking it into crumbles. Add green onion whites and cook 1 minute. Add sauce and simmer until glossy and slightly thickened, about 3-5 minutes. Stir in sesame seeds. |
-| 5 | Stir-fry cabbage and carrots in sesame oil for 2-3 minutes, keeping some crunch. Season lightly with salt. |
-| 6 | Assemble bowls with toasted rice, stir-fried vegetables, bulgogi beef, Asian Pickled Garden Vegetables, green onion tops, Gochujang Crema, and sesame seeds. |
-| 7 | Optional: top with halved jammy egg and a light drizzle of sesame oil. |
+| 1 | **Make ahead if needed:** Prepare the [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) early enough to chill and develop flavor. They are a required bright/crunchy bowl component, not an optional side. |
+| 2 | **Make ahead or first:** Prepare the [Gochujang Crema](../condiments/gochujang-crema.md) and refrigerate until assembly. Stir before using so it drizzles smoothly. |
+| 3 | **Start the rice first:** Rinse rice until water runs mostly clear. Melt butter in a skillet, saute onion until translucent, then toast rice for 2-3 minutes. Transfer to rice cooker with broth, bay leaf, and salt. Cook according to rice cooker directions, remove bay leaf, and fluff. Keep warm for bowl assembly. |
+| 4 | While the rice cooks, whisk together soy sauce, dark soy sauce, brown sugar, honey, sesame oil, pear, ginger paste, garlic, rice vinegar, and gochujang. This is the sauce that makes the beef glossy and bowl-defining. |
+| 5 | Prep bowl toppings while rice cooks: slice green onions, separate whites and greens, shred napa cabbage and carrots, drain the pickled vegetables lightly, and have sesame seeds ready. If using jammy eggs, prepare them before final assembly. |
+| 6 | Brown beef thoroughly over medium-high heat, breaking it into crumbles. Add green onion whites and cook 1 minute. |
+| 7 | Add sauce to the beef and simmer until glossy and slightly thickened, about 3-5 minutes. Stir in sesame seeds. Keep warm while the vegetables finish. |
+| 8 | Stir-fry cabbage and carrots in sesame oil for 2-3 minutes, keeping some crunch. Season lightly with salt. These should be warm but still fresh enough to keep the bowl lifted. |
+| 9 | Assemble bowls immediately while rice, beef, and vegetables are warm: rice first, then stir-fried vegetables, bulgogi beef, Asian Pickled Garden Vegetables, green onion tops, Gochujang Crema, and sesame seeds. |
+| 10 | Optional: top with halved jammy egg and a light drizzle of sesame oil. Serve right away so the rice is warm, the beef is glossy, the pickles stay bright, and the crema still reads as a finishing sauce. |
 
 ## Chef's Notes
 
@@ -228,6 +231,8 @@ Yes.
 This recipe succeeds because it is not just beef over rice. It is built from components: toasted rice, glossy beef, pickled garden vegetables, fresh vegetables, crema, and optional egg.
 
 The Flavorweaver direction favors bold gochujang presence, strong garlic and ginger, balanced sweetness, and fresh acidic lift.
+
+Complete bowl recipes should integrate preparation order directly into the Instructions section so the cook knows what can be made ahead, what starts first, what stays warm, what stays fresh, and when final assembly happens.
 
 </details>
 
@@ -288,5 +293,6 @@ Rated as a Top 10 meal.
 | 2026-06-13 | Corrected required components: Asian Pickled Garden Vegetables and Gochujang Crema are recipe components, not Pairs Well With items. |
 | 2026-06-13 | Relocated source to recipes/korean/main-dishes/ under the culture-first source canon. |
 | 2026-06-14 | Added complete-meal plate ingredient visibility, component role notes, and plating architecture. |
+| 2026-06-14 | Integrated preparation order into instructions for the full multi-component bowl. |
 
 </details>

@@ -84,20 +84,25 @@
   line-height: 1.75;
 }
 
-.amy-dedication-closing .gold-heart {
-  margin-bottom: 14px;
-  color: var(--candle);
-  font-size: 1.35rem;
-  line-height: 1;
-  text-shadow:
-    0 0 10px rgba(255, 196, 93, 0.48),
-    0 0 20px rgba(255, 146, 70, 0.18);
-}
-
 .amy-dedication-closing .amy-signature {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
   margin-top: 18px;
   color: var(--candle);
   font-weight: 700;
+}
+
+.amy-dedication-closing .gold-heart {
+  display: inline-block;
+  color: var(--candle);
+  font-size: 1.2em;
+  line-height: 1;
+  transform-origin: center;
+  text-shadow:
+    0 0 10px rgba(255, 196, 93, 0.48),
+    0 0 20px rgba(255, 146, 70, 0.18);
+  animation: heartBeat 2.8s ease-in-out infinite;
 }
 
 .dedication-divider {
@@ -198,8 +203,31 @@
   }
 }
 
+@keyframes heartBeat {
+  0%, 100% {
+    transform: scale(1);
+  }
+
+  14% {
+    transform: scale(1.16);
+  }
+
+  24% {
+    transform: scale(1.02);
+  }
+
+  38% {
+    transform: scale(1.1);
+  }
+
+  52% {
+    transform: scale(1);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .dedication-heading-candle {
+  .dedication-heading-candle,
+  .amy-dedication-closing .gold-heart {
     animation: none;
   }
 }

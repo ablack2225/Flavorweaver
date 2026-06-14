@@ -7,6 +7,7 @@ const outputPath = path.join(repoRoot, 'docs', 'family-recipe-data.js');
 
 const CATEGORY_LABELS = {
   appetizers: 'Appetizers',
+  'batters-and-coatings': 'Batters and Coatings',
   beverages: 'Beverages',
   breads: 'Breads',
   breakfast: 'Breakfast',
@@ -18,6 +19,7 @@ const CATEGORY_LABELS = {
   'gravies-and-sauces': 'Gravies and Sauces',
   'homemade-pickles': 'Homemade Pickles',
   'main-dishes': 'Main Dishes',
+  miscellaneous: 'Miscellaneous',
   pies: 'Pies',
   'salads-slaws-and-dips': 'Salads, Slaws, and Dips',
   sides: 'Sides',
@@ -29,6 +31,7 @@ const CATEGORY_ORDER = [
   'cakes',
   'cake-frostings',
   'breads',
+  'batters-and-coatings',
   'cookies',
   'main-dishes',
   'sides',
@@ -40,7 +43,8 @@ const CATEGORY_ORDER = [
   'homemade-pickles',
   'salads-slaws-and-dips',
   'soups-and-stews',
-  'appetizers'
+  'appetizers',
+  'miscellaneous'
 ];
 
 function titleFromSlug(slug) {
@@ -124,7 +128,7 @@ function readMarkdownRecipe(categorySlug, recipeSlug) {
     recipeSlug,
     sourcePath,
     title: frontmatter.name || titleFromSlug(recipeSlug),
-    category: frontmatter.category || CATEGORY_LABELS[categorySlug] || categorySlug,
+    category: frontmatter.category || CATEGORY_LABELS[categorySlug] || titleFromSlug(categorySlug),
     preview
   };
 }
@@ -184,7 +188,7 @@ function buildOutput() {
 `  .replace('Mac and Cheese', 'Mac and Cheese');\n\n` +
 `window.FLAVORWEAVER_FAMILY_RECIPES = Object.entries(window.FLAVORWEAVER_FAMILY_RECIPE_CATEGORIES)\n` +
 `  .flatMap(([categorySlug, recipeSlugs]) => recipeSlugs.map((recipeSlug) => {\n` +
-`    const category = window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS[categorySlug] || categorySlug;\n` +
+`    const category = window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS[categorySlug] || window.FLAVORWEAVER_TITLE_FROM_SLUG(categorySlug);\n` +
 `    const sourcePath = \`family-recipes/recipes/\${categorySlug}/\${recipeSlug}.md\`;\n` +
 `    return {\n` +
 `      title: window.FLAVORWEAVER_TITLE_FROM_SLUG(recipeSlug),\n` +

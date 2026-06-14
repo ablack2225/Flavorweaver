@@ -61,7 +61,7 @@
     </section>
   </main>
 
-  <script src="family-recipe-data.js?v=20260613-04"></script>
+  <script src="family-recipe-data.js?v=20260614-02"></script>
   <script>
     const categories = window.FLAVORWEAVER_FAMILY_RECIPE_CATEGORIES || {};
     const labels = window.FLAVORWEAVER_FAMILY_CATEGORY_LABELS || {};
@@ -135,6 +135,7 @@
       if (!query) return true;
       const fields = [
         recipe.title,
+        recipe.preview,
         recipeSlug,
         titleFromSlug(recipeSlug),
         recipe.category,
@@ -169,7 +170,7 @@
         return;
       }
       searchResults.innerHTML = matches.length
-        ? matches.map((recipe) => `<article class="feature-card"><h3>${recipe.title}</h3><p>${recipe.category || 'Family recipe'}</p><a href="${recipe.path}">Open recipe</a></article>`).join('')
+        ? matches.map((recipe) => `<article class="feature-card"><h3>${recipe.title}</h3><p>${recipe.preview || recipe.category || 'Family recipe'}</p><a href="${recipe.path}">Open recipe</a></article>`).join('')
         : `<article class="feature-card"><h3>No matches yet</h3><p>Try a shorter recipe name or choose another family category.</p></article>`;
     };
 

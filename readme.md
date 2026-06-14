@@ -293,7 +293,7 @@ Public HTML pages should show the cook-facing recipe content:
 - measured ingredients
 - required components and their role on the plate, when applicable
 - plating and serving architecture for complete meal plates
-- instructions
+- integrated preparation order inside instructions for complete meal plates
 - chef notes
 - pairs-well-with sidebar
 
@@ -319,9 +319,9 @@ Some Don & Amy world-culture recipes represent a complete restaurant-style meal 
 
 In those cases, the main dish recipe should keep the full meal build together as the canonical recipe. This may include the protein or central dish, rice, noodles, bread, vegetables, sauces, pickles, garnishes, assembly instructions, and any other required elements needed to make the plate feel complete.
 
-The complete meal recipe must allow the cook to visualize the finished plate before cooking.
+The complete meal recipe must allow the cook to visualize the finished plate before cooking and understand the order of work while cooking.
 
-A complete meal plate recipe should contain three distinct layers:
+A complete meal plate recipe should contain four distinct layers:
 
 ## 1. Ingredient List = Full Plate Shopping and Prep View
 
@@ -368,6 +368,24 @@ The goal is the holy grail of instruction: the cook should be able to envision t
 
 These main plate recipes tell a story.
 
+## 4. Instructions = Integrated Preparation Order and Cook Flow
+
+For complete meal plates, preparation order belongs inside the Instructions section, not as an isolated note that the cook may miss.
+
+The Instructions should answer the chef's practical timing questions:
+
+- what must be done the day before
+- what starts first on cooking day
+- what can simmer or hold warm
+- what must stay fresh until the end
+- what should be prepared earlier but cooked or reheated close to serving
+- when sauces, breads, pickles, salads, garnishes, and other required components enter the flow
+- when final assembly and plating happen
+
+Do not imply a required component is quick or last-minute when it is not. For example, homemade naan dough, injera, long-simmering legumes, marinades, fermented components, and chilled components must be timed honestly.
+
+The cook should be able to follow the Instructions from start to finish without needing to build a separate prep schedule.
+
 ## Component Breakout Rule
 
 Reusable components may be broken out into separate recipes when they are useful beyond the original meal.
@@ -382,7 +400,7 @@ Lemongrass Chicken Bowls
 Ethiopian-Inspired Doro Wat Platter
 ```
 
-The Ethiopian-Inspired Doro Wat Platter is the first expanded test case showing a full meal card with linked required component recipes, component role notes, and plating architecture.
+The Ethiopian-Inspired Doro Wat Platter is the first expanded test case showing a full meal card with linked required component recipes, component role notes, plating architecture, and integrated preparation order.
 
 Bold Bulgogi Bowls and Lemongrass Chicken Bowls should be normalized to this complete-meal layer so the pattern remains consistent.
 
@@ -696,10 +714,11 @@ When adding world-culture recipes:
 5. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
 6. Use Required Components to explain component roles on the plate.
 7. Add Plating & Serving Architecture for complete meal plates.
-8. Update active and legacy search/index files.
-9. Add new search tags for new cultures, dishes, components, and major concepts.
-10. Update category/path pages and cache query strings as needed.
-11. Verify links and discovery paths.
+8. Integrate preparation order directly into Instructions for complex complete plates.
+9. Update active and legacy search/index files.
+10. Add new search tags for new cultures, dishes, components, and major concepts.
+11. Update category/path pages and cache query strings as needed.
+12. Verify links and discovery paths.
 
 ---
 

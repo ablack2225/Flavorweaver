@@ -9,7 +9,7 @@ cook_time: 25m
 total_time: 40m
 servings: 2-4 side servings
 measurement_status: tested-draft
-rating_note: Mild cabbage, carrot, and red potato side for the Doro Wat platter
+rating_note: Mild cabbage, carrot, and Yukon potato side for the Doro Wat platter
 repeat_worthy: yes
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -18,6 +18,8 @@ tags:
   - atakilt-wat
   - cabbage
   - carrot
+  - yukon-potato
+  - yukon-gold
   - red-potato
   - potato
   - side-dish
@@ -31,7 +33,7 @@ last_updated: 2026-06-14
 
 # Atakilt Wat
 
-> A mild Ethiopian-inspired cabbage, carrot, and red potato side that brings soft vegetable comfort to the Doro Wat platter.
+> A mild Ethiopian-inspired cabbage, carrot, and Yukon potato side that brings soft vegetable comfort to the Doro Wat platter.
 
 ## Recipe Dashboard
 
@@ -47,7 +49,7 @@ last_updated: 2026-06-14
 
 | Component | Ingredients |
 |---|---|
-| Vegetables | Cabbage, carrot, red potato, onion |
+| Vegetables | Cabbage, carrot, Yukon yellow/Yukon Gold potato, onion; red potatoes may be substituted |
 | Aromatics | Garlic, ginger |
 | Spices | Turmeric, cumin, coriander, salt, black pepper |
 | Cooking | Unsalted butter or oil, splash of water or broth |
@@ -60,7 +62,7 @@ last_updated: 2026-06-14
 |---:|---|---|
 | 1/2 small | Cabbage | Sliced |
 | 1 | Carrot | Sliced or shredded |
-| 2 medium or 3 small | Red potatoes | About 1 to 1 1/2 cups chopped; leave unpeeled unless skins are tough, blemished, or undesirable |
+| 2 medium or 3 small | Yukon yellow/Yukon Gold potatoes | Preferred; about 1 to 1 1/2 cups chopped. Red potatoes may be substituted. Leave unpeeled unless skins are tough, blemished, or undesirable |
 | 1/2 | Onion | Sliced |
 | 1 Tbsp | Unsalted butter or oil | Butter is acceptable |
 | 1 clove | Garlic | Minced |
@@ -73,11 +75,11 @@ last_updated: 2026-06-14
 
 ### Potato Prep
 
-Use **2 medium red potatoes** or **3 small red potatoes**, aiming for about **1 to 1 1/2 cups chopped potato**.
+Use **2 medium Yukon yellow/Yukon Gold potatoes** or **3 small Yukon yellow/Yukon Gold potatoes**, aiming for about **1 to 1 1/2 cups chopped potato**. If Yukon potatoes are not available, **red potatoes may be substituted**.
 
-Leave the red potatoes unpeeled unless the skins are tough, blemished, or undesirable. Scrub well, remove any eyes or rough spots, and cut into **3/4-inch chunks** or **thick half-moons**.
+Leave the potatoes unpeeled unless the skins are tough, blemished, or undesirable. Scrub well, remove any eyes or rough spots, and cut into **3/4-inch chunks** or **thick half-moons**.
 
-Red potatoes hold their shape well in Atakilt Wat and add a tender-creamy texture without falling apart too quickly.
+Yukon potatoes are preferred because they cook up tender and creamy while still holding together when handled gently. Red potatoes also work well because they hold their shape and do not fall apart too quickly.
 
 Stir gently once the potatoes begin softening so they stay intact.
 
@@ -85,10 +87,10 @@ Stir gently once the potatoes begin softening so they stay intact.
 
 | Step | Action |
 |---:|---|
-| 1 | Scrub the red potatoes well, remove any eyes or rough spots, and cut into 3/4-inch chunks or thick half-moons. Leave the skins on unless they are tough, blemished, or undesirable. |
+| 1 | Scrub the Yukon potatoes well, remove any eyes or rough spots, and cut into 3/4-inch chunks or thick half-moons. Leave the skins on unless they are tough, blemished, or undesirable. Red potatoes may be substituted. |
 | 2 | Cook onion in butter or oil until softened. |
 | 3 | Add garlic, ginger, turmeric, cumin, and coriander. Cook 30-45 seconds until fragrant. |
-| 4 | Add cabbage, carrot, and red potatoes. Season with salt and black pepper. |
+| 4 | Add cabbage, carrot, and potatoes. Season with salt and black pepper. |
 | 5 | Add a splash of water or broth, cover, and cook until the vegetables are tender, stirring occasionally. Stir gently once the potatoes begin softening so they stay intact. |
 | 6 | Uncover near the end to let extra moisture cook off. Adjust seasoning before serving. |
 
@@ -105,7 +107,7 @@ Stir gently once the potatoes begin softening so they stay intact.
 
 This is a gentle vegetable counterpoint to the spicy doro wat-style chicken and the creamy split pea alicha. Keep the seasoning warm and mild so it does not compete with the main sauce.
 
-Red potatoes are preferred here because they hold their shape and add a creamy-tender bite. Keep the pieces large enough that they do not disappear into the cabbage.
+Yukon yellow/Yukon Gold potatoes are preferred here because they give a tender-creamy bite while still holding together when stirred gently. Red potatoes may be substituted and also hold their shape well. Keep the pieces large enough that they do not disappear into the cabbage.
 
 ## Final Verdict
 
@@ -133,7 +135,7 @@ Yes. This belongs as a required vegetable component in the Ethiopian-inspired pl
 | Heat | None |
 | Sweetness | Carrot, onion, cabbage |
 | Umami | Onion and gentle browning |
-| Texture | Tender cabbage and carrot with creamy red potatoes that hold their shape |
+| Texture | Tender cabbage and carrot with creamy Yukon potatoes or red potatoes that hold their shape |
 | Sauce / Moisture | Light steaming moisture |
 | Aroma | Ginger, garlic, turmeric, cumin, coriander |
 
@@ -142,7 +144,7 @@ Yes. This belongs as a required vegetable component in the Ethiopian-inspired pl
 <details>
 <summary>Flavorweaver Direction</summary>
 
-Keep this as a linked required component for the Doro Wat platter rather than leaving it buried inside the main recipe only. Preserve the potato guidance because the cut size, peel decision, and gentle stirring affect final texture.
+Keep this as a linked required component for the Doro Wat platter rather than leaving it buried inside the main recipe only. Preserve the potato guidance because the potato type, cut size, peel decision, and gentle stirring affect final texture.
 
 </details>
 
@@ -152,6 +154,7 @@ Keep this as a linked required component for the Doro Wat platter rather than le
 | Date | Change |
 |---|---|
 | 2026-06-14 | Created standalone Atakilt Wat component recipe from the Doro Wat platter. |
-| 2026-06-14 | Added red potato amount, peel guidance, cut size, and gentle stirring notes. |
+| 2026-06-14 | Added potato amount, peel guidance, cut size, and gentle stirring notes. |
+| 2026-06-14 | Clarified that Yukon yellow/Yukon Gold potatoes are preferred and red potatoes may be substituted. |
 
 </details>

@@ -63,16 +63,6 @@ last_updated: 2026-06-15
 - **Make Pickle Base** — 2 hours to overnight.
 - **Confirm Bread Setup** — day before or morning of.
 
-## Required Component Recipes
-
-Full component recipes remain linked here for reference. This plate card includes the measured ingredients, prep bowls, and instructions needed to cook the full plate without opening the component files.
-
-| Amount | Component | Source Recipe | Role on the Plate |
-|---:|---|---|---|
-| 1 batch | Vietnamese Bò Kho-Style Brisket Stew | [Vietnamese Bò Kho-Style Brisket Stew](../main-dishes/vietnamese-bo-kho-style-brisket-stew.md) | Rich aromatic main: tender brisket, carrots, tomato-rich broth, lemongrass, star anise, and fish sauce depth |
-| 1 batch | Bánh Mì Không-Style Dipping Rolls | [Bánh Mì Không-Style Dipping Rolls](../breads/banh-mi-khong-style-dipping-rolls.md) | Fresh, crackly bread for tearing and dipping into the broth |
-| 1 batch | Asian Pickled Garden Vegetables | [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) | Crisp acid side; use Vietnamese / Bò Kho service mode with lime, cilantro, optional serrano, and no sesame |
-
 ## Full Plate Ingredient Roll-Up
 
 | Ingredient | Total Amount Needed | Prep Style | Divided Into / Used For |
@@ -258,3 +248,4 @@ For the pickled vegetables, skip sesame oil and sesame seeds for this plate.
 - Created as the complete-plate execution version of the Bò Kho meal.
 - The standalone stew recipe remains a required component, separate from this plate card.
 - Collapsible measured ingredient sections are reference only; the full execution is contained in the main prep bowls and instructions.
+- Required components remain in frontmatter/sidebar only, not as a main-panel section.

@@ -468,6 +468,254 @@ Bold Bulgogi Bowls and Lemongrass Chicken Bowls should be normalized to this com
 
 ---
 
+# 🧠 Kitchen Execution Systems
+
+Flavorweaver recipes must become pleasant to cook from, not merely accurate to read.
+
+For individual component recipes, the recipe should teach how to cook that one component clearly.
+
+For complete plates and featured meals, the recipe must function as a kitchen execution system. It must read every component recipe as if the cook is actually making the whole plate, then rebuild the work into the correct sequence.
+
+Core rule:
+
+> Echo must interpret the recipes as a cook, not just format them as files.
+
+A featured meal master card is the sequenced cooking brain for the whole plate. Component recipes are references, but the master card must make the kitchen workflow clear enough to cook without chaos.
+
+## Complete Capture Before Design
+
+Before improving layout or usability, all usable source information must be captured.
+
+Do not flatten meaningful information into generic steps. Preserve:
+
+- ingredient amounts and total quantities
+- cut sizes and cut styles
+- ingredient temperature requirements
+- prep timing and holding limits
+- cooking order
+- which ingredients must stay separate
+- equipment needs and warnings
+- visual doneness cues
+- simmer, reduction, rest, bloom, proof, marinate, and hold timing
+- troubleshooting and rescue notes
+- live test notes and ratings
+- what worked and should not be casually changed
+- what failed and needs research or redesign
+
+If the recipe or test note contains a detail that would prevent confusion in the kitchen, capture it.
+
+## Full Ingredient Roll-Up
+
+Complete plates and featured meals need a total prep view before cooking begins.
+
+The roll-up should combine shared ingredients across all component recipes so the cook can prep once and divide intentionally.
+
+Examples of roll-up ingredients:
+
+- onions
+- garlic
+- ginger
+- tomatoes
+- cucumbers
+- herbs
+- potatoes
+- carrots
+- cabbage
+- spices
+- broth
+- eggs
+- butter or oil
+- lemon, lime, or vinegar
+
+The roll-up should show:
+
+```text
+Ingredient
+Total amount needed
+Prep style
+Which component receives which portion
+```
+
+If the same ingredient needs different cuts, list each cut separately.
+
+Example:
+
+```text
+Onion total: ___
+- Doro Wat: finely diced for sauce reduction
+- Atakilt Wat: thin half-moons for onion base
+- Timatim Salad: fine raw onion presence
+```
+
+Do not invent missing quantities. If component recipes do not provide enough measured information to calculate a total, flag the missing data before canon-locking.
+
+## Stage-Based Prep Bowls
+
+Prep bowls must preserve cooking order.
+
+Do not combine ingredients merely because they belong to the same component recipe.
+
+Group prep by when ingredients enter the pan.
+
+Correct Atakilt Wat logic:
+
+```text
+Stage 1 — Onion Base
+- sliced onion
+
+Stage 2 — Aromatics & Spices
+- garlic
+- ginger
+- turmeric
+- cumin
+- coriander
+- optional chile or researched aromatic direction
+
+Stage 3 — Bulk Vegetables
+- cabbage
+- carrot
+- Yukon potatoes
+
+Stage 4 — Finish / Adjustment
+- salt
+- black pepper
+- water or broth
+- optional acid if flat
+```
+
+Incorrect logic:
+
+```text
+Atakilt Bowl
+- onion
+- cabbage
+- carrot
+- potato
+```
+
+That breaks the cooking order because the onion needs to cook first.
+
+Canon rule:
+
+> Prep ahead, but do not combine ingredients that enter the pan at different stages.
+
+## Advance Prep Quality Standard
+
+Advance prep should reduce chaos, not reduce standards.
+
+Make-ahead is not automatically better. For Amy & Don, quality comes first; the master timeline exists so high-quality day-of cooking is possible.
+
+Advance prep is allowed only when it preserves or improves final quality.
+
+Good advance prep may include:
+
+- spice blends
+- marinades
+- doughs that require fermentation, rise, or rest timing
+- dry equipment setup
+- ingredient verification
+- printed or written prep maps
+- soaking legumes only when the recipe or technique calls for it
+
+Do not prep ahead when quality, texture, freshness, flavor, or appearance would suffer.
+
+For the Ethiopian platter test case:
+
+- do not cut potatoes the day before; they can oxidize or brown
+- do not cut tomatoes, cucumbers, herbs, or raw-salad onions the day before
+- do not boil eggs the day before if the refrigerator will dull texture or flavor
+- do not cook Split Pea Alicha ahead unless a future test proves quality is preserved or improved
+- do not rely on microwave reheating or leftover-style treatment for main dishes
+- naan should start first on cooking day if made from scratch, but cook close to serving so it is fresh, soft, bubbly, and scoopable
+
+Canon lines:
+
+> The Featured Meal Master Card should reduce chaos, not reduce standards.
+
+> Advance prep should never turn fresh components into leftover components.
+
+## Full Cooking Timeline
+
+A complete plate must have one full cooking timeline that sequences all components together.
+
+The timeline should answer:
+
+- what begins before cooking day
+- what begins first on cooking day
+- what starts while another item rises, simmers, reduces, or rests
+- what can hold warm without quality loss
+- what must be made fresh near service
+- what cooks last for best quality
+- when to reduce sauces
+- when to add delicate items such as eggs, herbs, salad dressing, or fresh bread
+- when final plating begins
+
+For example:
+
+```text
+Naan starts first if made from scratch, because the dough needs time.
+Naan cooks last because it is best fresh.
+Eggs are boiled day-of during a simmer window.
+Timatim is dressed near the end so it stays bright.
+Atakilt is cooked fresh with onion first, aromatics second, bulk vegetables third.
+```
+
+## Paragraph-Style Instructions With Measurements
+
+Ingredient lists are for shopping, planning, and prep.
+
+Instructions are for cooking.
+
+For cook-facing recipes, especially project meals and full plates, instructions should repeat enough measurements that the cook does not need to constantly scroll back to the ingredient list.
+
+Weak pattern:
+
+```text
+Add garlic, ginger, turmeric, cumin, and coriander.
+```
+
+Preferred pattern:
+
+```text
+Add 1 clove minced garlic, 1 tsp grated ginger, 1/2 tsp turmeric, 1/4 tsp cumin, and 1/4 tsp coriander. Cook 30-45 seconds, stirring constantly, until fragrant. Do not let the garlic burn.
+```
+
+Each step should include, when useful:
+
+- the action
+- the amount
+- the ingredient
+- timing
+- heat level
+- sensory cue
+- caution
+- where the step fits in the larger timeline
+
+This is especially important for recipes cooked from a phone or tablet in the kitchen.
+
+## Protect High-Scoring Components
+
+A full plate can score lower because one component, contrast layer, or workflow failed.
+
+Do not automatically revise every component.
+
+If a component tests around 9.5/10, preserve it unless Amy identifies a specific reason to change it.
+
+Focus refinement where the plate actually failed:
+
+- underbuilt supporting component
+- lack of contrast
+- weak dressing
+- poor sequencing
+- prep chaos
+- unclear instructions
+- plating imbalance
+- missing make-ahead or day-of timeline guidance
+
+The Ethiopian platter test case preserved the Doro Wat-style chicken and eggs, Split Pea Alicha, and naan as high-performing components while identifying Timatim, Atakilt Wat, and workflow as the refinement targets.
+
+---
+
 # 🧩 Component Placement Rule
 
 Reusable sauces, condiments, breads, pickles, salads, sides, and other meal components should live under the most appropriate world-culture recipe folder when they belong to the Don & Amy collection.
@@ -543,6 +791,9 @@ Injera
 Teff
 Naan
 Complete Meal Plate
+Kitchen Execution System
+Featured Meal Master Card
+Stage-Based Prep Bowls
 ```
 
 Use both readable display terms and practical lowercase/hyphenated search terms when useful. This helps quick filters, typed search, and future category/path pages find the recipe reliably.
@@ -686,6 +937,8 @@ Flavorweaver currently follows several repository-wide standards.
 * Control salt intentionally
 * Prioritize ingredient quality
 * Build reusable pantry systems
+* Reduce kitchen chaos without lowering food quality
+* Never use make-ahead shortcuts that turn fresh components into leftover-style components
 
 Full standards are documented in:
 
@@ -749,6 +1002,8 @@ Flavorweaver preserves:
 * Restaurant recreations
 * Flavor notes
 * Culinary research
+* Kitchen execution failures and fixes
+* Full-plate workflow lessons
 
 Current active investigations include:
 
@@ -775,16 +1030,22 @@ When adding world-culture recipes:
 4. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, top-tier, and common/traditional patterns before canon-locking an Amy & Don adaptation.
 5. Preserve 9.5/10-level tested components unless there is a clear reason to change them; improve weaker components, contrast, workflow, or plating instead.
 6. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
-7. Break out substantial required components into their own source and public pages.
-8. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
-9. Use Required Components to explain component roles on the plate.
-10. Add Plating & Serving Architecture for complete meal plates.
-11. Integrate preparation order directly into Instructions for complex complete plates.
-12. Update active and legacy search/index files.
-13. Add new search tags for new cultures, dishes, components, and major concepts.
-14. Update category/path pages and cache query strings as needed.
-15. Verify links and discovery paths.
-16. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
+7. For complete plates and featured meals, read every component recipe as if cooking the whole plate and build one sequenced kitchen execution system.
+8. Build a full ingredient roll-up for shared prep items across all components.
+9. Create stage-based prep bowls that preserve cooking order.
+10. Separate advance prep from day-of prep, and only recommend advance prep that preserves or improves quality.
+11. Write a full cooking timeline showing what starts first, what waits, what holds, what cooks last, and when plating begins.
+12. Use paragraph-style instruction steps with ingredient amounts repeated when it prevents scrolling or confusion.
+13. Break out substantial required components into their own source and public pages.
+14. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
+15. Use Required Components to explain component roles on the plate.
+16. Add Plating & Serving Architecture for complete meal plates.
+17. Integrate preparation order directly into Instructions for complex complete plates.
+18. Update active and legacy search/index files.
+19. Add new search tags for new cultures, dishes, components, and major concepts.
+20. Update category/path pages and cache query strings as needed.
+21. Verify links and discovery paths.
+22. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
 
 ---
 
@@ -804,6 +1065,12 @@ When adding world-culture recipes:
 12. Research stronger world-cuisine patterns before turning test feedback into recipe changes.
 13. Build toward top-tier, chef-quality plates; do not spend project-meal effort on mediocre results.
 14. Protect high-scoring components and focus refinement where the plate actually failed.
+15. Recipes should be pleasant to cook from, not just accurate to read.
+16. Featured meals need one master cooking brain, not five separate recipe brains.
+17. Reduce chaos, not standards.
+18. Make-ahead is only useful when it preserves or improves final quality.
+19. Stage bowls must preserve cooking order.
+20. Instructions should carry enough measurements and cues to cook without constant scrolling.
 
 ---
 

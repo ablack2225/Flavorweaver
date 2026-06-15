@@ -123,39 +123,43 @@ last_updated: 2026-06-15
 - Because the marinade contains sugar, tomato paste, garlic, and fish sauce, scrape away only heavy excess marinade before searing if it looks likely to burn. Save excess marinade for the stew base.
 - Keep the simmer gentle. Brisket should become tender, not dry or stringy.
 - Add carrots late so they stay tender and shaped.
+- Keep the onion separate from the garlic, ginger, and lemongrass. The onion needs 5-7 minutes; the garlic, ginger, and lemongrass only need 30-60 seconds.
 
 ## Stage-Based Prep Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
 | Beef Bowl | Marinated brisket, lightly scraped if needed | Searing stage |
-| Aromatic Bowl | Onion, garlic, ginger, lemongrass | After beef is browned |
-| Spice Bowl | Tomato paste, paprika, five-spice, bay, star anise | After aromatics bloom |
-| Braise Bowl | Beef broth, fish sauce, hoisin, brown sugar, sriracha, saved marinade | After tomato paste toasts |
-| Vegetable Bowl | Carrots | Last 35-45 minutes |
-| Finish Tray | Lime, cilantro, green onion, serrano, black pepper, sriracha | At serving |
+| Onion Bowl | 1 medium sliced or diced onion | After beef is browned; cook 5-7 minutes |
+| Aromatic Bowl | 2 minced garlic cloves, 1 Tbsp ginger, 1 Tbsp lemongrass paste | After onion softens; cook 30-60 seconds |
+| Spice Bowl | 2 Tbsp tomato paste, 1/2 tsp paprika, 1/2 tsp five-spice if using, 2 bay leaves, 1 star anise pod | After aromatics bloom |
+| Braise Bowl | 4 cups beef broth, 1 Tbsp fish sauce, 1 Tbsp hoisin, 1-2 tsp brown sugar, 1-2 tsp sriracha, saved marinade, 1-2 cups water as needed | After tomato paste toasts |
+| Vegetable Bowl | 3 large carrots, cut thick | Last 35-45 minutes |
+| Finish Tray | Lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, sriracha | At serving |
 
 ## Instructions
 
-1. **Marinate the brisket.** Combine the brisket chunks with fish sauce, soy sauce, neutral oil, brown sugar, tomato paste, ginger, garlic, lemongrass, five-spice, paprika, and black pepper. Marinate at least 2 hours when possible, or overnight for deeper flavor.
+1. **Marinate the brisket.** Combine **2 to 2 1/2 lb brisket chunks** with **1 1/2 Tbsp fish sauce**, **1 Tbsp soy sauce**, **1 Tbsp neutral oil**, **1 Tbsp brown sugar**, **1 Tbsp tomato paste**, **1 Tbsp ginger**, **3 to 4 minced garlic cloves**, **1 Tbsp lemongrass paste**, **1 tsp Chinese five-spice**, **1 tsp paprika**, and **1/2 tsp black pepper**. Marinate at least 2 hours when possible, or overnight for deeper flavor.
 
 2. **Prepare for searing.** Remove the brisket from the refrigerator while preparing the pot. Do not rinse. If the marinade is very thick on the meat, scrape away only the heavy excess and reserve that marinade for the stew base.
 
-3. **Sear the beef.** Heat neutral oil in a Dutch oven over medium-high heat. Sear the brisket in batches until deeply browned on multiple sides. Do not crowd the pot. Adjust heat if the marinade begins to scorch. Transfer browned beef to a bowl.
+3. **Sear the beef.** Heat **1 Tbsp neutral oil** in a Dutch oven over medium-high heat. Sear the marinated brisket in batches until deeply browned on multiple sides. Do not crowd the pot. Adjust heat if the marinade begins to scorch. Transfer browned beef to a bowl.
 
-4. **Build the aromatic base.** Lower heat to medium. Add the onion and cook 5-7 minutes, scraping up browned bits. Add garlic, ginger, and lemongrass and cook 30-60 seconds, just until fragrant.
+4. **Cook the onion first.** Lower heat to medium. Add **1 medium sliced or diced onion** by itself and cook **5-7 minutes**, scraping up browned bits, until softened and lightly golden.
 
-5. **Toast tomato paste and spices.** Add tomato paste and cook 1-2 minutes until slightly darkened and aromatic. Stir in paprika, five-spice if using, bay leaves, and 1 star anise pod.
+5. **Bloom the fast aromatics.** Add **2 minced garlic cloves**, **1 Tbsp ginger**, and **1 Tbsp lemongrass paste** to the softened onion. Cook **30-60 seconds**, just until fragrant. Do not let the garlic burn.
 
-6. **Start the braise.** Return brisket and juices to the pot. Add beef broth, reserved marinade, fish sauce, hoisin, optional brown sugar, optional sriracha, and enough water to cover the beef comfortably. Bring to a simmer, then reduce to low.
+6. **Toast tomato paste and spices.** Add **2 Tbsp tomato paste** and cook **1-2 minutes** until slightly darkened and aromatic. Stir in **1/2 tsp paprika**, **1/2 tsp Chinese five-spice if using**, **2 bay leaves**, and **1 star anise pod**.
 
-7. **Cook until tender.** Simmer gently for 2 1/2 to 3 1/2 hours, partially covered, until the brisket is tender. Add water as needed so the broth stays stew-like and does not reduce into a heavy sauce.
+7. **Start the braise.** Return brisket and juices to the pot. Add **4 cups beef broth**, the reserved marinade, **1 Tbsp fish sauce**, **1 Tbsp hoisin**, **1-2 tsp brown sugar if needed**, **1-2 tsp sriracha if using**, and enough of the **1-2 cups water** to cover the beef comfortably. Bring to a simmer, then reduce to low.
 
-8. **Add carrots late.** Add carrots during the final 35-45 minutes of cooking. Continue simmering until carrots are tender but not collapsing.
+8. **Cook until tender.** Simmer gently for **2 1/2 to 3 1/2 hours**, partially covered, until the brisket is tender. Add more water as needed so the broth stays stew-like and does not reduce into a heavy sauce.
 
-9. **Finish the stew.** Remove bay leaves and star anise. Taste carefully. Add fish sauce or salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift.
+9. **Add carrots late.** Add **3 large carrots, cut into thick diagonal pieces**, during the final **35-45 minutes** of cooking. Continue simmering until carrots are tender but not collapsing.
 
-10. **Rest and serve.** Rest the stew 10 minutes. Serve with bánh mì không-style dipping rolls, Asian Pickled Garden Vegetables in Vietnamese / Bò Kho service mode, lime wedges, cilantro, green onion, thin-sliced serrano, and sriracha at the table.
+10. **Finish the stew.** Remove the **2 bay leaves** and **1 star anise pod**. Taste carefully. Add fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift.
+
+11. **Rest and serve.** Rest the stew **10 minutes**. Serve with bánh mì không-style dipping rolls, Asian Pickled Garden Vegetables in Vietnamese / Bò Kho service mode, lime wedges, cilantro, sliced green onion, thin-sliced serrano, and sriracha at the table.
 
 ## Troubleshooting / Rescue Notes
 

@@ -156,6 +156,43 @@ Some older pages may exist at a flatter path while the site is being aligned, bu
 
 World-culture recipes are chef-level developed recipes from the Amy & Don Kitchen. They may be inspired by restaurants, cultures, flavor memories, research, experiments, substitutions, ingredient access limitations, or printed/source recipes, but the final recipe should reflect what Amy and Don would want to make again.
 
+## World-Cuisine Recipe Research Standard
+
+For cultural and world-cuisine recipes, especially cuisines that are new or still being learned, do not treat the first simple internet recipe as canon.
+
+The development path should be:
+
+```text
+top-tier / chef / cookbook-style source first
+→ compare patterns
+→ then adapt for Amy & Don
+```
+
+Before revising or canon-locking a world-cuisine recipe, look for:
+
+- chef-written recipes
+- cookbook excerpts
+- restaurant-connected recipes
+- reputable food publications
+- multiple traditional or common versions
+
+Then compare the shared structure before creating or revising the Amy & Don house version.
+
+Do not jump straight from a test result such as “this was bland” to generic fixes. First ask whether the tested recipe was underbuilt compared with stronger source patterns.
+
+For example, the Ethiopian platter test showed that the Timatim and Atakilt Wat were not merely short on random additions. They needed to be compared against stronger Ethiopian recipe patterns before canon-locking. The correction was not just fixing blandness; it was upgrading the source standard.
+
+The goal is not random authenticity and not random adjustment.
+
+The goal is chef-quality Flavorweaver adaptation.
+
+When documenting this research, clearly distinguish between:
+
+- what comes from stronger sourced patterns,
+- what appears across multiple traditional/common versions,
+- what is a chef/cookbook/restaurant direction,
+- and what is an Amy & Don house variation after testing.
+
 ## Required Outputs
 
 Every new world-culture recipe should produce both:
@@ -730,17 +767,18 @@ When adding world-culture recipes:
 1. Determine the culture/path and category.
 2. Create the Markdown source file.
 3. Create the public HTML page.
-4. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
-5. Break out substantial required components into their own source and public pages.
-6. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
-7. Use Required Components to explain component roles on the plate.
-8. Add Plating & Serving Architecture for complete meal plates.
-9. Integrate preparation order directly into Instructions for complex complete plates.
-10. Update active and legacy search/index files.
-11. Add new search tags for new cultures, dishes, components, and major concepts.
-12. Update category/path pages and cache query strings as needed.
-13. Verify links and discovery paths.
-14. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
+4. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, and common/traditional patterns before canon-locking an Amy & Don adaptation.
+5. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
+6. Break out substantial required components into their own source and public pages.
+7. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
+8. Use Required Components to explain component roles on the plate.
+9. Add Plating & Serving Architecture for complete meal plates.
+10. Integrate preparation order directly into Instructions for complex complete plates.
+11. Update active and legacy search/index files.
+12. Add new search tags for new cultures, dishes, components, and major concepts.
+13. Update category/path pages and cache query strings as needed.
+14. Verify links and discovery paths.
+15. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
 
 ---
 
@@ -757,6 +795,7 @@ When adding world-culture recipes:
 9. Share what works.
 10. Keep curiosity alive.
 11. Preserve the real cooking workflow, not just the ingredient list.
+12. Research stronger world-cuisine patterns before turning test feedback into recipe changes.
 
 ---
 

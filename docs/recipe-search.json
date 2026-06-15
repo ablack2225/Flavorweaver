@@ -22,12 +22,12 @@
   {
     "title": "Asian Pickled Garden Vegetables",
     "path": "recipes/condiments/asian-pickled-garden-vegetables.html",
-    "sourcePath": "condiments/asian-pickled-garden-vegetables.md",
+    "sourcePath": "recipes/asian-inspired/condiments/asian-pickled-garden-vegetables.md",
     "cuisine": "Asian Inspired",
     "category": "Condiment",
     "status": "Working Recipe",
-    "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "kosher salt", "water", "red pepper flakes", "sesame oil", "sesame seeds"],
-    "tags": ["asian-inspired", "quick pickles", "refrigerator pickles", "garden vegetables", "zucchini", "yellow squash", "cucumber alternative", "rice vinegar", "fresh", "acidic", "crunchy", "html page"]
+    "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "kosher salt", "water", "red pepper flakes", "sesame oil", "sesame seeds", "lime", "cilantro", "serrano"],
+    "tags": ["asian-inspired", "quick pickles", "refrigerator pickles", "garden vegetables", "zucchini", "yellow squash", "cucumber alternative", "rice vinegar", "fresh", "acidic", "crunchy", "house staple", "service modes", "bo kho mode", "html page"]
   },
   {
     "title": "Restaurant-Style Ginger Nuoc Cham",
@@ -48,6 +48,36 @@
     "status": "Working Recipe",
     "ingredients": ["chicken thighs", "ginger nuoc cham", "lemongrass paste", "garlic", "neutral oil", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "cashews"],
     "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "ginger nuoc cham", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "sauce-driven", "multi-component", "html page"]
+  },
+  {
+    "title": "Vietnamese Bò Kho-Style Brisket Stew",
+    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew.html",
+    "sourcePath": "recipes/vietnamese/main-dishes/vietnamese-bo-kho-style-brisket-stew.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Main Dish",
+    "status": "Working Recipe",
+    "ingredients": ["brisket", "fish sauce", "soy sauce", "tomato paste", "ginger", "garlic", "lemongrass", "five-spice", "paprika", "onion", "star anise", "bay leaves", "beef broth", "hoisin", "carrots", "lime", "cilantro", "green onion", "serrano", "sriracha"],
+    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket", "beef stew", "lemongrass", "star anise", "five spice", "tomato rich", "bread dipping meal", "project meal", "html page"]
+  },
+  {
+    "title": "Bánh Mì Không-Style Dipping Rolls",
+    "path": "recipes/vietnamese/banh-mi-khong-style-dipping-rolls.html",
+    "sourcePath": "recipes/vietnamese/breads/banh-mi-khong-style-dipping-rolls.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Bread",
+    "status": "Working Recipe",
+    "ingredients": ["all-purpose flour", "bread flour", "active dry yeast", "sugar", "water", "salt", "neutral oil", "lime juice"],
+    "tags": ["vietnamese-inspired", "banh mi", "bánh mì", "bread", "dipping rolls", "active dry yeast", "crisp crust", "airy crumb", "bo kho pairing", "html page"]
+  },
+  {
+    "title": "Vietnamese Bò Kho-Style Brisket Stew Meal",
+    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-meal.html",
+    "sourcePath": "recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-meal.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Featured Meal",
+    "status": "Working Recipe",
+    "ingredients": ["brisket stew", "banh mi rolls", "asian pickled garden vegetables", "lime", "cilantro", "green onion", "serrano", "sriracha", "carrots", "lemongrass", "star anise", "fish sauce"],
+    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew", "featured meal", "project meal", "bread dipping meal", "complete plate", "amy and don kitchen", "html page"]
   },
   {
     "title": "Peanut Sauce",
@@ -78,145 +108,5 @@
     "status": "First Test",
     "ingredients": ["yellow split peas", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "black pepper", "butter", "oil"],
     "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "split pea alicha", "Split Pea Alicha", "yellow split peas", "alicha", "side dish", "stew", "doro wat platter", "html page"]
-  },
-  {
-    "title": "Misir Wat",
-    "path": "recipes/ethiopian/sides/misir-wat.html",
-    "sourcePath": "recipes/ethiopian/sides/misir-wat.md",
-    "cuisine": "Ethiopian",
-    "category": "Side Dish",
-    "status": "Working Recipe",
-    "ingredients": ["red lentils", "onion", "garlic", "ginger", "berbere", "tomato paste", "water", "broth", "butter", "oil", "lemon"],
-    "tags": ["Ethiopian", "Ethiopian-Inspired", "ethiopian", "ethiopian-inspired", "misir wat", "Misir Wat", "red lentils", "berbere", "side dish", "stew", "doro wat platter", "traditional upgrade path", "html page"]
-  },
-  {
-    "title": "Atakilt Wat",
-    "path": "recipes/ethiopian/sides/atakilt-wat.html",
-    "sourcePath": "recipes/ethiopian/sides/atakilt-wat.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Side Dish",
-    "status": "Working Recipe",
-    "ingredients": ["cabbage", "carrot", "potato", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "butter", "oil"],
-    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "atakilt wat", "Atakilt Wat", "cabbage", "carrot", "potato", "side dish", "doro wat platter", "html page"]
-  },
-  {
-    "title": "Timatim Salad",
-    "path": "recipes/ethiopian/salads/timatim-salad.html",
-    "sourcePath": "recipes/ethiopian/salads/timatim-salad.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Salads, Slaws & Dips",
-    "status": "Working Recipe",
-    "ingredients": ["tomato", "cucumber", "onion", "lemon juice", "olive oil", "black pepper", "jalapeno", "serrano", "parsley", "cilantro"],
-    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "timatim", "Timatim", "timatim salad", "Timatim Salad", "tomato cucumber", "fresh", "acidic", "doro wat platter", "html page"]
-  },
-  {
-    "title": "Teff Starter & Real Injera",
-    "path": "recipes/ethiopian/breads/teff-starter-and-real-injera.html",
-    "sourcePath": "recipes/ethiopian/breads/teff-starter-and-real-injera.md",
-    "cuisine": "Ethiopian",
-    "category": "Bread",
-    "status": "Traditional Technique",
-    "ingredients": ["teff flour", "water", "active teff starter", "salt"],
-    "tags": ["Ethiopian", "injera", "Injera", "teff", "Teff", "teff starter", "fermented", "flatbread", "starter", "traditional technique", "doro wat platter", "misir wat", "html page"]
-  },
-  {
-    "title": "Fluffy Skillet Naan",
-    "path": "recipes/indian/breads/fluffy-skillet-naan.html",
-    "sourcePath": "recipes/indian/breads/fluffy-skillet-naan.md",
-    "cuisine": "Indian Inspired",
-    "category": "Bread",
-    "status": "House Staple",
-    "ingredients": ["yeast", "warm water", "sugar", "milk", "room-temperature egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
-    "tags": ["Indian-Inspired", "indian-inspired", "naan", "Naan", "skillet bread", "scoop bread", "house staple", "doro wat platter substitute", "html page"]
-  },
-  {
-    "title": "Apple Pie",
-    "path": "recipes/family/pies/apple-pie.html",
-    "sourcePath": "family-recipes/recipes/pies/apple-pie.md",
-    "cuisine": "Family Cookbook",
-    "category": "Pie",
-    "status": "Family Recipe",
-    "ingredients": ["apples", "sugar", "flour", "cinnamon", "butter", "pie crust"],
-    "tags": ["family recipe", "pie", "apple", "dessert", "family cookbook", "html page"]
-  },
-  {
-    "title": "Cornbread",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/breads/cornbread.md",
-    "sourcePath": "family-recipes/recipes/breads/cornbread.md",
-    "cuisine": "Family Cookbook",
-    "category": "Bread",
-    "status": "Family Recipe",
-    "ingredients": ["cornmeal", "flour", "milk", "egg", "shortening"],
-    "tags": ["family recipe", "bread", "cornbread", "family cookbook"]
-  },
-  {
-    "title": "Homemade Vanilla Ice Cream",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/desserts/homemade-vanilla-ice-cream.md",
-    "sourcePath": "family-recipes/recipes/desserts/homemade-vanilla-ice-cream.md",
-    "cuisine": "Family Cookbook",
-    "category": "Dessert",
-    "status": "Family Recipe",
-    "ingredients": ["milk", "cream", "sugar", "vanilla", "eggs"],
-    "tags": ["family recipe", "dessert", "ice cream", "vanilla", "family cookbook"]
-  },
-  {
-    "title": "Pecan Pie",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/pies/pecan-pie.md",
-    "sourcePath": "family-recipes/recipes/pies/pecan-pie.md",
-    "cuisine": "Family Cookbook",
-    "category": "Pie",
-    "status": "Family Recipe",
-    "ingredients": ["pecans", "sugar", "eggs", "butter", "corn syrup", "pie crust"],
-    "tags": ["family recipe", "pie", "pecan", "dessert", "family cookbook"]
-  },
-  {
-    "title": "Taco Mac and Cheese",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/main-dishes/taco-mac-and-cheese.md",
-    "sourcePath": "family-recipes/recipes/main-dishes/taco-mac-and-cheese.md",
-    "cuisine": "Family Cookbook",
-    "category": "Main Dish",
-    "status": "Family Recipe",
-    "ingredients": ["ground beef", "macaroni", "cheese", "taco seasoning"],
-    "tags": ["family recipe", "main dish", "taco", "mac and cheese", "family cookbook"]
-  },
-  {
-    "title": "Pickled Beets",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/sides/pickled-beets.md",
-    "sourcePath": "family-recipes/recipes/sides/pickled-beets.md",
-    "cuisine": "Family Cookbook",
-    "category": "Side",
-    "status": "Family Recipe",
-    "ingredients": ["beets", "vinegar", "sugar", "spices"],
-    "tags": ["family recipe", "side", "pickled", "beets", "family cookbook"]
-  },
-  {
-    "title": "Mop for Barbecue",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/gravies-and-sauces/mop-for-barbecue.md",
-    "sourcePath": "family-recipes/recipes/gravies-and-sauces/mop-for-barbecue.md",
-    "cuisine": "Family Cookbook",
-    "category": "Gravy or Sauce",
-    "status": "Family Recipe",
-    "ingredients": ["barbecue sauce", "vinegar", "seasoning"],
-    "tags": ["family recipe", "barbecue", "sauce", "mop", "family cookbook"]
-  },
-  {
-    "title": "10 Minute Spaghetti Sauce",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/main-dishes/10-minute-spaghetti-sauce.md",
-    "sourcePath": "family-recipes/recipes/main-dishes/10-minute-spaghetti-sauce.md",
-    "cuisine": "Family Cookbook",
-    "category": "Main Dish",
-    "status": "Family Recipe",
-    "ingredients": ["tomato sauce", "spaghetti", "Italian seasoning", "garlic"],
-    "tags": ["family recipe", "main dish", "spaghetti", "sauce", "family cookbook"]
-  },
-  {
-    "title": "Hushpuppies",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/family-recipes/recipes/breads/hushpuppies.md",
-    "sourcePath": "family-recipes/recipes/breads/hushpuppies.md",
-    "cuisine": "Family Cookbook",
-    "category": "Bread",
-    "status": "Family Recipe",
-    "ingredients": ["cornmeal", "flour", "onion", "egg", "milk"],
-    "tags": ["family recipe", "bread", "hushpuppies", "fried", "family cookbook"]
   }
 ]

@@ -26,7 +26,9 @@ tags:
   - Featured Meal Master Card
   - Kitchen Execution System
   - Complete Meal Plate
-  - Stage-Based Prep Bowls
+  - Full Plate Ingredient Roll-Up
+  - Cross-Component Prep Map
+  - Grouped Numbered Prep Bowls
 
 last_updated:
 ---
@@ -57,11 +59,11 @@ Describe the true workload honestly. Include whether this is a weeknight meal, w
 
 List every component required for the identity of the plate. These are not optional pairings.
 
-| Component | Source Recipe | Role on the Plate | Status |
-|---|---|---|---|
-|  | [Component Name](relative/path/to/component.md) |  |  |
-|  | [Component Name](relative/path/to/component.md) |  |  |
-|  | [Component Name](relative/path/to/component.md) |  |  |
+| Amount | Component | Source Recipe | Role on the Plate | Status |
+|---:|---|---|---|---|
+| 1 batch |  | [Component Name](relative/path/to/component.md) |  |  |
+| 1 batch |  | [Component Name](relative/path/to/component.md) |  |  |
+| 1 batch |  | [Component Name](relative/path/to/component.md) |  |  |
 
 ## Plate Architecture
 
@@ -75,6 +77,42 @@ Explain the final plate before cooking begins.
 | Legume / Sauce / Condiment |  |  |
 | Fresh / Bright Element |  |  |
 | Garnish |  |  |
+
+## Full Plate Ingredient Roll-Up
+
+This is the full shopping and prep view for the whole plate. Include required component ingredients here even when those components also have their own standalone recipe files.
+
+Do not replace component visibility with only links.
+
+Do not invent quantities. Calculate from the component recipes. If totals cannot be calculated, flag the missing data before canon-locking.
+
+| Ingredient | Total Needed | Prep Style | Divided Into / Used For |
+|---|---:|---|---|
+| Onion |  |  |  |
+| Garlic |  | Prep once if quality holds; divide intentionally | Component 1, Component 2 |
+| Ginger |  | Prep once if quality holds; divide intentionally | Component 1, Component 2 |
+| Bread / Starch Ingredients |  |  | Required bread/starch component |
+| Fresh Herbs |  | Cut close to service unless quality holds | Garnish / salad / finish |
+| Acid / Citrus / Vinegar |  | Divide by use; some may stay close to service | Sauce, pickle, finish, garnish |
+| Cooking Fat |  | Divide intentionally | Marinade, searing, dough, sauce |
+
+## Cross-Component Prep Map
+
+Use this section to decide what should be prepped once across the whole plate and what must stay separate for timing, freshness, or cooking order.
+
+Canon rule:
+
+> Prep once when quality is preserved. Prep separately when timing, freshness, or cooking order requires it.
+
+Example:
+
+| Ingredient | Prep Once? | Divide Into | Notes |
+|---|---|---|---|
+| Garlic | Yes, if used same day | Marinade bowl; aromatic bowl | Keep portions separate after mincing. |
+| Ginger | Yes, if used same day | Marinade bowl; aromatic bowl | Measure portions before cooking. |
+| Lime | Partially | Dough/sauce; final garnish | Juice for cooked/prepped components can be measured earlier; wedges should be cut near service. |
+| Herbs | Usually no | Salad; garnish | Cut close to service unless the recipe proves quality holds. |
+| Bread dough | Separate workflow | Bread bowls | Must be integrated into master timeline, not left as a link. |
 
 ## Before Cooking Day / Advance Prep
 
@@ -96,22 +134,6 @@ Do not recommend make-ahead steps merely to reduce effort if they reduce freshne
 - 
 - 
 
-## Day-Of Ingredient Roll-Up
-
-This section combines shared prep across all components.
-
-Do not invent quantities. Calculate from the component recipes. If totals cannot be calculated, flag the missing data before canon-locking.
-
-| Ingredient | Total Needed | Prep Style | Divided Into / Used For |
-|---|---:|---|---|
-| Onion |  |  |  |
-| Garlic |  |  |  |
-| Ginger |  |  |  |
-| Potato |  |  |  |
-| Fresh Herbs |  |  |  |
-| Acid / Citrus / Vinegar |  |  |  |
-| Cooking Fat |  |  |  |
-
 ## Day-Of Master Prep Notes
 
 Call out what should be done immediately before cooking and what must stay fresh until later.
@@ -125,49 +147,76 @@ Call out what should be done immediately before cooking and what must stay fresh
 
 ## Stage-Based Prep Bowls
 
-Prep bowls must preserve cooking order. Do not group by recipe when ingredients enter the pan at different times.
+Prep bowls must preserve cooking order. Do not group by recipe when ingredients enter the pan, bowl, oven, or service flow at different times.
 
-### Component Name — Stage Bowls
+Canon format:
 
-#### Stage 1 — Base / First Into Pan
+```text
+Workflow Area Bowls
+Bowl 1 — First item or stage
+Bowl 2 — Second item or stage
+Bowl 3 — Third item or stage
+```
 
-- 
+The numbering follows the cooking sequence, not the ingredient category alone.
 
-#### Stage 2 — Aromatics / Spice Bloom / Sauce Base
+Example:
 
-- 
+```text
+Aromatic Bowls
+Bowl 1 — Onion
+Bowl 2 — Garlic, Ginger & Lemongrass
+Bowl 3 — Tomato Paste & Spices
+```
 
-#### Stage 3 — Main Ingredient / Bulk Additions
+### Bread / Starch Bowls
 
-- 
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Yeast Bloom / Starter / First Step |  |  |
+| Bowl 2 — Dry Ingredients |  |  |
+| Bowl 3 — Dough Additions / Finish |  |  |
 
-#### Stage 4 — Finish / Adjustment / Garnish
+### Main Protein / Central Dish Bowls
 
-- 
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Protein / First Cooking Stage |  |  |
 
-### Component Name — Stage Bowls
+### Aromatic Bowls
 
-#### Stage 1 — Base / First Into Pan
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — First Aromatic Stage |  |  |
+| Bowl 2 — Fast Aromatics |  |  |
+| Bowl 3 — Tomato Paste / Spices / Bloom Stage |  |  |
 
-- 
+### Braise / Sauce / Liquid Bowls
 
-#### Stage 2 — Aromatics / Spice Bloom / Sauce Base
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Liquids and Seasoning |  |  |
 
-- 
+### Vegetable / Side Bowls
 
-#### Stage 3 — Main Ingredient / Bulk Additions
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Vegetable Stage |  |  |
 
-- 
+### Fresh Finish / Garnish Bowls
 
-#### Stage 4 — Finish / Adjustment / Garnish
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Fresh Finish |  |  |
+| Bowl 2 — Table Garnish |  |  |
 
-- 
-
-## Full Cooking Timeline
+## Full Cooking Timeline and Instructions
 
 The timeline should read like a chef is coordinating the entire meal.
 
 It must show what starts first, what waits, what can hold, what must be fresh, and what cooks last.
+
+Instructions must include enough measurements that the cook does not need to constantly scroll back to the ingredient list.
 
 1. **Start the first time-dependent component.** Include rise, marination, soaking, simmering, or resting logic.
 

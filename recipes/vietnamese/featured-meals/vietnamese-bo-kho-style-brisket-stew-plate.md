@@ -215,23 +215,49 @@ These collapsible reference sections are for checking component quantities only.
 
 ## Full Cooking Timeline and Instructions
 
-1. **Before cooking day or early cooking day, marinate the brisket.** Combine brisket with marinade ingredients and marinate at least **2 hours**, or overnight for deeper flavor.
-2. **Before cooking day or at least 2 hours before service, make Pickle Bowl 1 — Pickle Base.** Chill at least **2-4 hours** or overnight. Do not add sesame, lime, cilantro, or serrano yet.
-3. **About 4 hours before serving, start the stew.** Remove brisket from refrigerator. Do not rinse. Reserve heavy excess marinade if scraped.
-4. **Sear Stew Protein Bowl 1.** Heat **1 Tbsp neutral oil** and sear brisket in batches.
-5. **Cook Stew Aromatic Bowl 1.** Add onion and cook **5-7 minutes**.
-6. **Bloom Stew Aromatic Bowl 2.** Add garlic, ginger, and lemongrass. Cook **30-60 seconds**.
-7. **Toast Stew Aromatic Bowl 3.** Add tomato paste and spices. Cook **1-2 minutes**.
-8. **Add Stew Braise Bowl 1.** Return beef to pot, add braise liquids, bring to simmer, then reduce to low.
-9. **Simmer stew gently** for **2 1/2 to 3 1/2 hours**.
-10. **Start Bread Bowl 1** about **2 hours 45 minutes before serving**. Bloom yeast **5-10 minutes**.
-11. **Mix Bread Bowls 2 and 3** into dough. Knead **5-7 minutes**, then rise **60-90 minutes**.
-12. **Shape rolls** about **1 hour 15 minutes before serving**. Rise **35-45 minutes**.
-13. **Add carrots** during the final **35-45 minutes** of stew cooking.
-14. **Bake rolls close to service** at **450°F** with steam for **18-22 minutes**.
-15. **Finish Pickle Bowl 2** about **15 minutes before service** with lime, cilantro, and optional serrano.
-16. **Finish stew.** Remove bay leaves and star anise. Adjust salt/fish sauce, lime/rice vinegar, sugar, sriracha, and black pepper. Rest **10 minutes**.
-17. **Serve with Garnish Bowl 1.** Plate hot stew, fresh rolls, pickles, lime, herbs, serrano, black pepper, and sriracha.
+1. **Before cooking day or early cooking day, marinate the brisket.** Combine **2 to 2 1/2 lb brisket chunks** with **1 1/2 Tbsp fish sauce**, **1 Tbsp soy sauce**, **1 Tbsp neutral oil**, **1 Tbsp brown sugar**, **1 Tbsp tomato paste**, **1 Tbsp ginger**, **3 to 4 minced garlic cloves**, **1 Tbsp lemongrass paste**, **1 tsp Chinese five-spice**, **1 tsp paprika**, and **1/2 tsp black pepper**. Cover and marinate at least **2 hours**, or overnight for deeper flavor.
+
+2. **Before cooking day or at least 2 hours before service, make Pickle Bowl 1 — Pickle Base.** Combine **1 thin-sliced zucchini**, **1 thin-sliced yellow squash**, **1 carrot cut into ribbons or julienne**, and **2 sliced green onions** with **1/4 cup rice vinegar**, **2 Tbsp sugar**, **1 tsp kosher salt**, **1 Tbsp water**, and optional **1/4 tsp red pepper flakes**. Chill **2 to 4 hours** or overnight. Do not add lime, cilantro, serrano, sesame oil, or sesame seeds yet.
+
+3. **Before cooking day or the morning of cooking, confirm the bread setup.** Confirm **2 cups all-purpose flour**, **1 cup bread flour**, **2 tsp active dry yeast**, **1 tsp sugar**, **1 1/2 tsp fine salt**, **1 Tbsp neutral oil**, **1 tsp fresh lime juice**, and a thermometer for **105°F to 108°F water** are ready.
+
+4. **About 4 hours before serving, start the stew.** Remove the marinated brisket from the refrigerator. Do not rinse. If the marinade is thick, scrape only heavy excess from the meat and reserve that marinade for the braise.
+
+5. **Sear Stew Protein Bowl 1 — Marinated Brisket.** Heat **1 Tbsp neutral oil** in a Dutch oven over medium-high heat. Sear the marinated brisket in batches until deeply browned on multiple sides. Do not crowd the pot. Transfer browned beef to a bowl.
+
+6. **Cook Stew Aromatic Bowl 1 — Onion.** Lower heat to medium. Add **1 medium sliced or diced onion** by itself and cook **5 to 7 minutes**, scraping browned bits, until softened and lightly golden.
+
+7. **Bloom Stew Aromatic Bowl 2 — Garlic, Ginger & Lemongrass.** Add **2 minced garlic cloves**, **1 Tbsp ginger**, and **1 Tbsp lemongrass paste** to the softened onion. Cook **30 to 60 seconds**, just until fragrant. Do not let the garlic burn.
+
+8. **Toast Stew Aromatic Bowl 3 — Tomato Paste & Spices.** Add **2 Tbsp tomato paste** and cook **1 to 2 minutes** until slightly darkened and aromatic. Stir in **1/2 tsp paprika**, **1/2 tsp Chinese five-spice if using**, **2 bay leaves**, and **1 star anise pod**.
+
+9. **Add Stew Braise Bowl 1 — Broth, Reserved Marinade & Seasoning Liquids.** Return the beef and juices to the pot. Add **4 cups beef broth**, the reserved marinade, **1 Tbsp fish sauce**, **1 Tbsp hoisin**, optional **1 to 2 tsp brown sugar**, optional **1 to 2 tsp sriracha**, and enough of the **1 to 2 cups water** to cover the beef comfortably. Bring to a simmer, then reduce to low.
+
+10. **Simmer the stew gently.** Cook partially covered for **2 1/2 to 3 1/2 hours**, adding water as needed so the broth stays stew-like and does not reduce into a heavy sauce.
+
+11. **About 2 hours 45 minutes before serving, start Bread Bowl 1 — Yeast Bloom.** In a large bowl, combine **1 cup water between 105°F and 108°F**, **1 tsp sugar**, and **2 tsp active dry yeast**. Let sit **5 to 10 minutes**, until foamy. If the yeast does not foam, stop and restart with fresh yeast.
+
+12. **Mix Bread Bowl 2 — Dry Ingredients into the yeast bowl.** Add **2 cups all-purpose flour**, **1 cup bread flour**, and **1 1/2 tsp fine salt** to the foamy yeast mixture.
+
+13. **Add Bread Bowl 3 — Dough Additions.** Add **1 Tbsp neutral oil** and **1 tsp fresh lime juice**. Mix until a soft dough forms. Add up to **1/4 cup additional warm water**, **1 Tbsp at a time**, only if the dough is dry. Knead **5 to 7 minutes**, until smooth and elastic but not dense.
+
+14. **First rise for the rolls.** Place the dough in a lightly oiled bowl, cover, and let rise **60 to 90 minutes**, until doubled.
+
+15. **During the final 35 to 45 minutes of stew cooking, add Vegetable Bowl 1 — Carrots.** Add **3 large carrots cut into thick diagonal pieces** to the stew and simmer until tender but not collapsing.
+
+16. **About 1 hour 15 minutes before serving, shape the rolls.** Divide the dough into **4 pieces** and shape into short baguette-style rolls. Let rise **35 to 45 minutes**, until puffy.
+
+17. **About 35 minutes before serving, preheat the oven for the rolls.** Heat the oven to **450°F** with an empty metal steam pan on the lower rack.
+
+18. **Bake the rolls close to service.** Slash the rolls, place them in the oven, pour **1 cup hot water** into the steam pan, and bake **18 to 22 minutes**, until deeply golden and crisp. Cool **10 to 15 minutes** before tearing.
+
+19. **About 15 minutes before service, finish Pickle Bowl 2 — Vietnamese / Bò Kho Finish.** Drain the pickled vegetables lightly. Finish with fresh lime juice to taste, cilantro to taste, and optional thin-sliced serrano. Do not add sesame oil or sesame seeds for this Bò Kho plate.
+
+20. **Prepare Garnish Bowl 1 — Table Finish.** Cut lime wedges, slice green onion, thin-slice serrano, gather cilantro, set out fresh black pepper, and place sriracha on the table.
+
+21. **Finish the stew.** Remove the **2 bay leaves** and **1 star anise pod**. Taste and adjust with fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift. Rest **10 minutes**.
+
+22. **Serve the full plate.** Serve hot Bò Kho brisket stew in bowls with fresh dipping rolls, pickled vegetables beside the stew, lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, and sriracha at the table.
 
 ## Chef's Notes
 
@@ -249,3 +275,4 @@ For the pickled vegetables, skip sesame oil and sesame seeds for this plate.
 - The standalone stew recipe remains a required component, separate from this plate card.
 - Collapsible measured ingredient sections are reference only; the full execution is contained in the main prep bowls and instructions.
 - Required components remain in frontmatter/sidebar only, not as a main-panel section.
+- Full Cooking Timeline and Instructions must remain a complete cross-recipe execution flow, not a compressed summary.

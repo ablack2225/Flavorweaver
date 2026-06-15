@@ -63,42 +63,75 @@ last_updated: 2026-06-15
 - **Make Pickle Base** — 2 hours to overnight.
 - **Confirm Bread Setup** — day before or morning of.
 
+## Service Countdown
+
+- **Day before or morning of** — marinate brisket, make pickle base, confirm bread supplies.
+- **4 hours before serving** — start the stew.
+- **2 hours 45 minutes before serving** — start bread dough.
+- **45 minutes before serving** — add carrots to stew.
+- **35 minutes before serving** — preheat oven for rolls.
+- **15 minutes before serving** — finish pickles and garnish.
+- **At service** — finish stew, tear rolls, and plate hot stew with pickles and fresh table finish.
+
 ## Full Plate Ingredient Roll-Up
 
-| Ingredient | Total Amount Needed | Prep Style | Divided Into / Used For |
-|---|---:|---|---|
-| Brisket stew meat | 2 to 2 1/2 lb | 1 1/2-inch chunks | Stew marinade and braise |
-| Fish sauce | 2 1/2 Tbsp plus more to finish | Measure in two portions | 1 1/2 Tbsp marinade; 1 Tbsp braise; extra final adjustment |
-| Soy sauce | 1 Tbsp | Measured | Stew marinade |
-| Neutral oil | 3 Tbsp plus more if needed | Divide intentionally | 1 Tbsp marinade; 1 Tbsp searing/stew; 1 Tbsp bread dough |
-| Brown sugar | 1 Tbsp plus 1-2 tsp optional | Divide | 1 Tbsp marinade; 1-2 tsp optional stew balance |
-| Tomato paste | 3 Tbsp total | Divide | 1 Tbsp marinade; 2 Tbsp stew base |
-| Ginger | 2 Tbsp total | Divide | 1 Tbsp marinade; 1 Tbsp stew aromatic bowl |
-| Garlic | 5 to 6 cloves total | Minced and divided | 3-4 cloves marinade; 2 cloves stew aromatic bowl |
-| Lemongrass paste | 2 Tbsp total | Divide | 1 Tbsp marinade; 1 Tbsp stew aromatic bowl |
-| Chinese five-spice | 1 to 1 1/2 tsp total | Divide carefully | 1 tsp marinade; optional 1/2 tsp stew spice bowl |
-| Paprika | 1 to 1 1/2 tsp total | Divide | 1 tsp marinade; optional 1/2 tsp stew spice bowl |
-| Onion | 1 medium | Sliced or diced | Stew Aromatic Bowl 1 |
-| Beef broth | 4 cups | Measured | Braise Bowl 1 |
-| Water | 1 1/4 cups for bread plus 1-2 cups for stew plus 1 cup hot water for steam | Temperature-specific where needed | Bread dough, stew adjustment, oven steam |
-| Hoisin | 1 Tbsp | Measured | Braise Bowl 1 |
-| Sriracha | 1-2 tsp optional plus table bottle | Divide | Optional stew warmth; table option |
-| Carrots for stew | 3 large | Thick diagonal pieces | Vegetable Bowl 1 |
-| Zucchini | 1 | Thinly sliced | Pickle Bowl 1 |
-| Yellow squash | 1 | Thinly sliced | Pickle Bowl 1 |
-| Carrot for pickles | 1 | Ribbons or julienned | Pickle Bowl 1 |
-| Green onions | 2 for pickles plus extra for garnish | Sliced | Pickle Bowl 1 and Garnish Bowl 1 |
-| Rice vinegar | 1/4 cup plus optional stew finish | Measured | Pickle brine; optional stew brightness |
-| Sugar | 2 Tbsp plus 1 tsp for bread | Divide | Pickle brine; bread yeast bloom |
-| Kosher salt | 1 tsp plus final seasoning if needed | Measured | Pickle brine and final adjustment |
-| All-purpose flour | 2 cups | Measured | Bread Bowl 2 |
-| Bread flour | 1 cup | Measured | Bread Bowl 2 |
-| Active dry yeast | 2 tsp | Bloom in 105°F-108°F water | Bread Bowl 1 |
-| Fine salt | 1 1/2 tsp | Measured | Bread Bowl 2 |
-| Fresh lime juice | 1 tsp for bread plus more for pickle/stew/garnish | Divide | Bread Bowl 3, Pickle Finish Bowl, stew final balance, garnish plate |
-| Cilantro | Small bunch | Cut close to service | Pickle Finish Bowl and Garnish Bowl 1 |
-| Serrano | 1 or as desired | Thin-sliced close to service | Pickle Finish Bowl and Garnish Bowl 1 |
-| Lime wedges | As needed | Cut close to service | Garnish Bowl 1 |
+Quick-glance ingredient check for the full plate. Detailed measurements and division points are handled in the component ingredient sections, prep map, prep bowls, and cooking timeline.
+
+### Stew
+
+- Brisket stew meat
+- Fish sauce
+- Soy sauce
+- Neutral oil
+- Brown sugar
+- Tomato paste
+- Ginger
+- Garlic
+- Lemongrass paste
+- Chinese five-spice
+- Paprika
+- Black pepper
+- Onion
+- Bay leaves
+- Star anise
+- Beef broth
+- Water
+- Hoisin
+- Sriracha, optional
+- Carrots
+
+### Bread
+
+- All-purpose flour
+- Bread flour
+- Active dry yeast
+- Sugar
+- Warm water
+- Fine salt
+- Neutral oil
+- Fresh lime juice
+- Hot water for oven steam
+
+### Pickles
+
+- Zucchini
+- Yellow squash
+- Carrot
+- Green onions
+- Rice vinegar
+- Sugar
+- Kosher salt
+- Water
+- Red pepper flakes, optional
+
+### Fresh Finish / Table
+
+- Lime wedges
+- Cilantro
+- Sliced green onion
+- Serrano
+- Black pepper
+- Sriracha
 
 ## Measured Ingredients by Component
 
@@ -213,6 +246,14 @@ These collapsible reference sections are for checking component quantities only.
 | Pickle Bowl 2 — Vietnamese / Bò Kho Finish | Drained pickled vegetables; fresh lime juice to taste; cilantro to taste; optional thin-sliced serrano | 15 minutes before service; no sesame |
 | Garnish Bowl 1 — Table Finish | Lime wedges; cilantro; sliced green onion; thin-sliced serrano; black pepper; sriracha | At service |
 
+## Do Not Forget
+
+- Remove the bay leaves and star anise before serving.
+- Do not add sesame oil or sesame seeds to the Bò Kho pickles.
+- Finish the pickles only near service with lime, cilantro, and optional serrano.
+- Bake the rolls close to serving so the crust stays crisp.
+- Taste the stew before plating and adjust salt, acid, sweetness, heat, and black pepper.
+
 ## Full Cooking Timeline and Instructions
 
 1. **Before cooking day or early cooking day, marinate the brisket.** Combine **2 to 2 1/2 lb brisket chunks** with **1 1/2 Tbsp fish sauce**, **1 Tbsp soy sauce**, **1 Tbsp neutral oil**, **1 Tbsp brown sugar**, **1 Tbsp tomato paste**, **1 Tbsp ginger**, **3 to 4 minced garlic cloves**, **1 Tbsp lemongrass paste**, **1 tsp Chinese five-spice**, **1 tsp paprika**, and **1/2 tsp black pepper**. Cover and marinate at least **2 hours**, or overnight for deeper flavor.
@@ -245,11 +286,11 @@ These collapsible reference sections are for checking component quantities only.
 
 15. **During the final 35 to 45 minutes of stew cooking, add Vegetable Bowl 1 — Carrots.** Add **3 large carrots cut into thick diagonal pieces** to the stew and simmer until tender but not collapsing.
 
-16. **About 1 hour 15 minutes before serving, shape the rolls.** Divide the dough into **4 pieces** and shape into short baguette-style rolls. Let rise **35 to 45 minutes**, until puffy.
+16. **About 1 hour 15 minutes before serving, shape the rolls.** Divide the dough into **4 pieces** and shape into short baguette-style rolls. Place the shaped rolls on parchment or a lightly floured baking sheet. Let rise **35 to 45 minutes**, until puffy.
 
 17. **About 35 minutes before serving, preheat the oven for the rolls.** Heat the oven to **450°F** with an empty metal steam pan on the lower rack.
 
-18. **Bake the rolls close to service.** Slash the rolls, place them in the oven, pour **1 cup hot water** into the steam pan, and bake **18 to 22 minutes**, until deeply golden and crisp. Cool **10 to 15 minutes** before tearing.
+18. **Bake the rolls close to service.** Slash the rolls just before baking. Place them in the oven, carefully pour **1 cup hot water** into the steam pan, and bake **18 to 22 minutes**, until deeply golden, crisp, and firm. Vent steam carefully when opening the oven. Cool **10 to 15 minutes** before tearing.
 
 19. **About 15 minutes before service, finish Pickle Bowl 2 — Vietnamese / Bò Kho Finish.** Drain the pickled vegetables lightly. Finish with fresh lime juice to taste, cilantro to taste, and optional thin-sliced serrano. Do not add sesame oil or sesame seeds for this Bò Kho plate.
 
@@ -258,6 +299,10 @@ These collapsible reference sections are for checking component quantities only.
 21. **Finish the stew.** Remove the **2 bay leaves** and **1 star anise pod**. Taste and adjust with fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift. Rest **10 minutes**.
 
 22. **Serve the full plate.** Serve hot Bò Kho brisket stew in bowls with fresh dipping rolls, pickled vegetables beside the stew, lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, and sriracha at the table.
+
+## Final Taste Target
+
+The finished plate should taste savory, beefy, tomato-rich, lightly sweet, and aromatic with lemongrass and star anise. It should be bright enough from lime or rice vinegar, freshened by herbs and pickles, and not dominated by five-spice.
 
 ## Chef's Notes
 
@@ -276,3 +321,4 @@ For the pickled vegetables, skip sesame oil and sesame seeds for this plate.
 - Collapsible measured ingredient sections are reference only; the full execution is contained in the main prep bowls and instructions.
 - Required components remain in frontmatter/sidebar only, not as a main-panel section.
 - Full Cooking Timeline and Instructions must remain a complete cross-recipe execution flow, not a compressed summary.
+- Full Plate Ingredient Roll-Up is a quick-glance shopping/ingredient check, not a prep-allocation table.

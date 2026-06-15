@@ -59,6 +59,8 @@ last_updated: 2026-06-15
 
 ## Required Component Recipes
 
+Full recipes remain linked here for reference. The master recipe below includes the measured ingredients, prep bowls, and instructions needed to cook the full plate without opening the component files.
+
 | Amount | Component | Source Recipe | Role on the Plate |
 |---:|---|---|---|
 | 1 batch | Vietnamese Bò Kho-Style Brisket Stew | This recipe | Rich aromatic main: tender brisket, carrots, tomato-rich broth, lemongrass, star anise, and fish sauce depth |
@@ -116,6 +118,107 @@ last_updated: 2026-06-15
 | Cilantro | Small bunch | Torn or chopped close to service | Pickle Finish Bowl and Garnish Bowl 1 |
 | Serrano | 1 or as desired | Thin-sliced close to service | Pickle Finish Bowl and Garnish Bowl 1 |
 | Lime wedges | As needed | Cut close to service | Garnish Bowl 1 |
+
+## Measured Ingredients by Component
+
+These are collapsible reference sections only. The cook should not need to open the standalone component recipes to prepare this plate.
+
+<details>
+<summary>Bò Kho Brisket Stew Ingredients</summary>
+
+### Marinade
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 2 to 2 1/2 lb | Brisket stew meat | Cut into 1 1/2-inch chunks |
+| 1 1/2 Tbsp | Fish sauce | Marinade |
+| 1 Tbsp | Soy sauce | Marinade |
+| 1 Tbsp | Neutral oil | Marinade |
+| 1 Tbsp | Brown sugar | Marinade |
+| 1 Tbsp | Tomato paste | Marinade |
+| 1 Tbsp | Ginger | Fresh grated or paste |
+| 3 to 4 cloves | Garlic | Minced |
+| 1 Tbsp | Lemongrass paste | Marinade |
+| 1 tsp | Chinese five-spice | Marinade |
+| 1 tsp | Paprika | Marinade |
+| 1/2 tsp | Black pepper | Marinade |
+
+### Stew Base
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 Tbsp | Neutral oil | For searing/stew |
+| 1 medium | Onion | Sliced or diced |
+| 2 cloves | Garlic | Minced |
+| 1 Tbsp | Ginger | Fresh grated or paste |
+| 1 Tbsp | Lemongrass paste | Aromatic bowl |
+| 2 Tbsp | Tomato paste | Toast in pot |
+| 1/2 tsp | Paprika | Optional |
+| 1/2 tsp | Chinese five-spice | Optional, if more depth is needed |
+| 2 | Bay leaves | Remove before serving |
+| 1 pod | Star anise | Remove before serving |
+| 4 cups | Beef broth | Braise liquid |
+| 1 to 2 cups | Water | As needed |
+| 1 Tbsp | Fish sauce | Braise liquid |
+| 1 Tbsp | Hoisin | Restrained house depth |
+| 1 to 2 tsp | Brown sugar | Optional balance |
+| 1 to 2 tsp | Sriracha | Optional warmth |
+| 3 large | Carrots | Thick diagonal pieces |
+
+</details>
+
+<details>
+<summary>Bánh Mì Không-Style Dipping Rolls Ingredients</summary>
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 2 cups | All-purpose flour | Lighter crumb |
+| 1 cup | Bread flour | Dipping structure |
+| 2 tsp | Active dry yeast | Bloom first |
+| 1 tsp | Sugar | Yeast bloom |
+| 1 cup | Water | 105°F-108°F for bloom |
+| Up to 1/4 cup | Additional warm water | Add only as needed |
+| 1 1/2 tsp | Fine salt | Dough |
+| 1 Tbsp | Neutral oil | Dough |
+| 1 tsp | Fresh lime juice | Dough |
+| 1 cup | Hot water | Oven steam |
+
+</details>
+
+<details>
+<summary>Asian Pickled Garden Vegetables — Bò Kho Mode Ingredients</summary>
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 | Zucchini | Thinly sliced |
+| 1 | Yellow squash | Thinly sliced |
+| 1 | Carrot | Ribbons or julienne |
+| 2 | Green onions | Sliced |
+| 1/4 cup | Rice vinegar | Pickle brine |
+| 2 Tbsp | Sugar | Pickle brine |
+| 1 tsp | Kosher salt | Pickle brine |
+| 1 Tbsp | Water | Pickle brine |
+| 1/4 tsp | Red pepper flakes | Optional |
+| To taste | Lime juice | Finish at service |
+| To taste | Cilantro | Finish at service |
+| Optional | Serrano | Thin-sliced, finish at service |
+| Omit | Sesame oil and sesame seeds | Do not use for this Bò Kho plate |
+
+</details>
+
+<details>
+<summary>Fresh Garnish / Table Finish Ingredients</summary>
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| As needed | Lime wedges | Cut close to service |
+| As needed | Cilantro | Fresh, torn or chopped close to service |
+| As needed | Green onion | Sliced close to service |
+| As needed | Serrano | Thin-sliced close to service |
+| To taste | Black pepper | Freshly ground |
+| For table | Sriracha | Adjustable heat option |
+
+</details>
 
 ## Cross-Component Prep Map
 
@@ -255,13 +358,6 @@ last_updated: 2026-06-15
 | Bread is behind schedule | Keep stew warm gently and bake rolls fresh before serving. |
 | Pickles feel too Korean for the plate | Skip sesame oil/seeds and finish with lime, cilantro, and serrano. |
 
-## Required Components
-
-| Component | Role |
-|---|---|
-| [Bánh Mì Không-Style Dipping Rolls](../breads/banh-mi-khong-style-dipping-rolls.md) | Fresh, crackly bread for dipping into the broth; fully integrated into this execution card |
-| [Asian Pickled Garden Vegetables](../../asian-inspired/condiments/asian-pickled-garden-vegetables.md) | Crisp acid side; fully integrated here using Vietnamese / Bò Kho mode |
-
 ## Chef's Notes
 
 This is the bread-dipping Bò Kho lane, not a noodle bowl. Keep the plate focused: aromatic beef stew, fresh rolls, pickled vegetables, herbs, lime, serrano, and sriracha at the table.
@@ -277,6 +373,7 @@ Five-spice should support the stew. Star anise should perfume it. Neither should
 - Built from the Amy & Don marinade and stew meal draft.
 - Refined as a chef-tier bread-dipping Bò Kho plate with lemongrass, star anise, fish sauce layering, controlled five-spice, fresh herbs, lime, serrano, and pickled vegetable contrast.
 - Updated so the main recipe card covers the complete plate execution: stew, bread, pickles, garnish, and service timing.
+- Collapsible measured ingredient sections are reference only; the full execution is contained in the main prep bowls and instructions.
 
 ## Testing Notes
 

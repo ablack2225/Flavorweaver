@@ -20,23 +20,30 @@
 }
 
 @media print {
-  @page { margin: 0.55in; }
+  @page {
+    size: auto;
+    margin: 0.35in;
+  }
 
   * {
     box-shadow: none !important;
     text-shadow: none !important;
+    background-image: none !important;
   }
 
+  html,
   body {
     background: #fff !important;
     color: #111 !important;
-    font-size: 11pt;
+    font-size: 9.5pt !important;
+    line-height: 1.25 !important;
   }
 
   .site-topbar,
   .recipe-sidebar-card,
   .print-recipe-button,
-  .nav-links {
+  .nav-links,
+  .recipe-tag-row {
     display: none !important;
   }
 
@@ -66,60 +73,109 @@
   .premium-chef-notes,
   .premium-chef-notes p,
   .recipe-meta-item,
-  .recipe-tag,
   details,
   summary,
   li,
-  p {
+  p,
+  strong {
     color: #111 !important;
   }
 
   .recipe-title {
-    font-size: 22pt !important;
-    margin-bottom: 8pt !important;
+    font-size: 18pt !important;
+    line-height: 1.1 !important;
+    margin: 0 0 4pt !important;
+  }
+
+  .recipe-kicker {
+    font-size: 8.5pt !important;
+    margin: 0 0 3pt !important;
   }
 
   .recipe-summary {
-    font-size: 11pt !important;
+    font-size: 9.5pt !important;
+    margin: 0 0 6pt !important;
   }
 
   .recipe-meta-grid,
   .premium-component-grid {
-    display: block !important;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 4pt !important;
+    margin: 4pt 0 !important;
   }
 
   .recipe-meta-item,
   .premium-component-card,
   .premium-chef-notes,
   details {
-    margin: 0 0 10pt !important;
-    padding: 8pt !important;
+    margin: 0 0 4pt !important;
+    padding: 4pt !important;
     border: 1px solid #bbb !important;
     border-radius: 0 !important;
     background: #fff !important;
   }
 
-  .recipe-tag-row {
+  .premium-component-card h3,
+  .recipe-section h3 {
+    font-size: 10pt !important;
+    margin: 0 0 2pt !important;
+  }
+
+  .premium-component-card p,
+  .premium-chef-notes p,
+  p,
+  li {
+    margin-top: 0 !important;
+    margin-bottom: 3pt !important;
+  }
+
+  .premium-chef-notes::before,
+  .premium-component-card::before {
     display: none !important;
   }
 
   .recipe-section {
-    break-inside: avoid;
-    page-break-inside: avoid;
-    margin-top: 18pt !important;
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+    margin-top: 8pt !important;
   }
 
   .recipe-section h2 {
+    font-size: 12pt !important;
+    margin: 0 0 4pt !important;
+    padding-bottom: 2pt !important;
     border-bottom: 1px solid #999 !important;
-    padding-bottom: 4pt !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  .instruction-list,
+  ol,
+  ul {
+    margin-top: 0 !important;
+    padding-left: 15pt !important;
+  }
+
+  .instruction-list li {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+    margin-bottom: 4pt !important;
   }
 
   details {
     display: block !important;
+    break-inside: auto !important;
+    page-break-inside: auto !important;
   }
 
   details > summary {
     font-weight: 700 !important;
+    margin-bottom: 3pt !important;
+  }
+
+  details:not([open]) > *:not(summary) {
+    display: block !important;
   }
 
   a,

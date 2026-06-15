@@ -1,0 +1,130 @@
+.print-recipe-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  margin: 18px 0 8px;
+  padding: 0.75rem 1.05rem;
+  border: 1px solid rgba(255, 196, 93, 0.55);
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(255, 196, 93, 0.18), rgba(76, 204, 232, 0.08)), rgba(42, 30, 27, 0.64);
+  color: #fff7ea;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.print-recipe-button:hover,
+.print-recipe-button:focus-visible {
+  border-color: rgba(255, 196, 93, 0.85);
+  outline: none;
+}
+
+@media print {
+  @page { margin: 0.55in; }
+
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    color: #111 !important;
+    font-size: 11pt;
+  }
+
+  .site-topbar,
+  .recipe-sidebar-card,
+  .print-recipe-button,
+  .nav-links {
+    display: none !important;
+  }
+
+  .page-shell,
+  .recipe-page,
+  .recipe-page-card,
+  .premium-recipe {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #fff !important;
+    border: 0 !important;
+    color: #111 !important;
+  }
+
+  .recipe-title,
+  .recipe-kicker,
+  .recipe-summary,
+  .recipe-section,
+  .recipe-section h2,
+  .recipe-section h3,
+  .premium-component-card,
+  .premium-component-card h3,
+  .premium-component-card p,
+  .premium-chef-notes,
+  .premium-chef-notes p,
+  .recipe-meta-item,
+  .recipe-tag,
+  details,
+  summary,
+  li,
+  p {
+    color: #111 !important;
+  }
+
+  .recipe-title {
+    font-size: 22pt !important;
+    margin-bottom: 8pt !important;
+  }
+
+  .recipe-summary {
+    font-size: 11pt !important;
+  }
+
+  .recipe-meta-grid,
+  .premium-component-grid {
+    display: block !important;
+  }
+
+  .recipe-meta-item,
+  .premium-component-card,
+  .premium-chef-notes,
+  details {
+    margin: 0 0 10pt !important;
+    padding: 8pt !important;
+    border: 1px solid #bbb !important;
+    border-radius: 0 !important;
+    background: #fff !important;
+  }
+
+  .recipe-tag-row {
+    display: none !important;
+  }
+
+  .recipe-section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin-top: 18pt !important;
+  }
+
+  .recipe-section h2 {
+    border-bottom: 1px solid #999 !important;
+    padding-bottom: 4pt !important;
+  }
+
+  details {
+    display: block !important;
+  }
+
+  details > summary {
+    font-weight: 700 !important;
+  }
+
+  a,
+  a:visited {
+    color: #111 !important;
+    text-decoration: none !important;
+  }
+}

@@ -29,6 +29,7 @@ tags:
   - Full Plate Ingredient Roll-Up
   - Cross-Component Prep Map
   - Grouped Numbered Prep Bowls
+  - Measured Prep Bowls
 
 last_updated:
 ---
@@ -149,13 +150,22 @@ Call out what should be done immediately before cooking and what must stay fresh
 
 Prep bowls must preserve cooking order. Do not group by recipe when ingredients enter the pan, bowl, oven, or service flow at different times.
 
+Prep bowls must be measured. A prep bowl without amounts is not cook-ready; it is only an ingredient reminder.
+
+Canon rule:
+
+> Stage-based prep bowls must include measurements whenever the recipe has measured amounts.
+
 Canon format:
 
 ```text
 Workflow Area Bowls
 Bowl 1 — First item or stage
+- measured ingredient, prep state
+- measured ingredient, prep state
+
 Bowl 2 — Second item or stage
-Bowl 3 — Third item or stage
+- measured ingredient, prep state
 ```
 
 The numbering follows the cooking sequence, not the ingredient category alone.
@@ -165,50 +175,63 @@ Example:
 ```text
 Aromatic Bowls
 Bowl 1 — Onion
+- 1 medium onion, sliced or diced
+- Cook first, 5-7 minutes
+
 Bowl 2 — Garlic, Ginger & Lemongrass
+- 2 cloves garlic, minced
+- 1 Tbsp ginger, grated or paste
+- 1 Tbsp lemongrass paste
+- Add after onion softens; cook 30-60 seconds
+
 Bowl 3 — Tomato Paste & Spices
+- 2 Tbsp tomato paste
+- 1/2 tsp paprika
+- 1/2 tsp five-spice, if using
+- 2 bay leaves
+- 1 star anise pod
 ```
 
 ### Bread / Starch Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — Yeast Bloom / Starter / First Step |  |  |
-| Bowl 2 — Dry Ingredients |  |  |
-| Bowl 3 — Dough Additions / Finish |  |  |
+| Bowl 1 — Yeast Bloom / Starter / First Step | 1 cup water at 105°F-108°F; 1 tsp sugar; 2 tsp active dry yeast | Start bread or starch workflow |
+| Bowl 2 — Dry Ingredients | 2 cups all-purpose flour; 1 cup bread flour; 1 1/2 tsp fine salt | Add after yeast blooms |
+| Bowl 3 — Dough Additions / Finish | 1 Tbsp neutral oil; 1 tsp lime juice; up to 1/4 cup extra warm water as needed | Finish dough |
 
 ### Main Protein / Central Dish Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — Protein / First Cooking Stage |  |  |
+| Bowl 1 — Protein / First Cooking Stage | Measured protein and marinade or seasoning details | First protein cooking step |
 
 ### Aromatic Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — First Aromatic Stage |  |  |
-| Bowl 2 — Fast Aromatics |  |  |
-| Bowl 3 — Tomato Paste / Spices / Bloom Stage |  |  |
+| Bowl 1 — First Aromatic Stage | Measured ingredient and prep state | First aromatic cooking step |
+| Bowl 2 — Fast Aromatics | Measured ingredients and prep states | Add only after Bowl 1 reaches its cue |
+| Bowl 3 — Tomato Paste / Spices / Bloom Stage | Measured tomato paste, spices, herbs, whole aromatics | Add after fast aromatics bloom |
 
 ### Braise / Sauce / Liquid Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — Liquids and Seasoning |  |  |
+| Bowl 1 — Liquids and Seasoning | Measured broth, water, sauces, reserved marinade, sugar, heat, or acids | Add at sauce or braise stage |
 
 ### Vegetable / Side Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — Vegetable Stage |  |  |
+| Bowl 1 — Vegetable Stage | Measured vegetables and cut style | Add at the proper cooking stage |
 
 ### Fresh Finish / Garnish Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — Fresh Finish |  |  |
-| Bowl 2 — Table Garnish |  |  |
+| Bowl 1 — Fresh Finish | Measured or to-taste acids, herbs, chiles, seasoning | Near service |
+| Bowl 2 — Table Garnish | Fresh garnish items and serving notes | At plating / table service |
 
 ## Full Cooking Timeline and Instructions
 

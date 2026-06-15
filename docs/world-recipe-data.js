@@ -26,8 +26,8 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     culture: 'Asian Inspired',
     category: 'Condiment',
     status: 'Working Recipe',
-    ingredients: ['zucchini', 'yellow squash', 'cucumber', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt'],
-    tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy', 'cucumber alternative']
+    ingredients: ['zucchini', 'yellow squash', 'cucumber', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt', 'lime', 'cilantro', 'serrano', 'sesame oil', 'sesame seeds'],
+    tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy', 'cucumber alternative', 'house staple', 'service modes', 'bo kho mode']
   },
   {
     title: 'Lemongrass Chicken Bowls',
@@ -38,6 +38,36 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Hall of Fame Candidate',
     ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews', 'ginger nuoc cham', 'asian pickled vegetables'],
     tags: ['top 10 meal', 'chicken bowl', 'lemongrass chicken', 'ginger nuoc cham', 'napa cabbage', 'sauce-driven']
+  },
+  {
+    title: 'Vietnamese Bò Kho-Style Brisket Stew',
+    path: 'recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew.html',
+    collection: 'House Recipes',
+    culture: 'Vietnamese Inspired',
+    category: 'Main Dish',
+    status: 'Working Recipe',
+    ingredients: ['brisket', 'fish sauce', 'soy sauce', 'tomato paste', 'ginger', 'garlic', 'lemongrass', 'five-spice', 'star anise', 'beef broth', 'carrots', 'lime', 'serrano', 'sriracha'],
+    tags: ['bo kho', 'bò kho', 'brisket', 'beef stew', 'lemongrass', 'star anise', 'bread dipping meal', 'project meal']
+  },
+  {
+    title: 'Bánh Mì Không-Style Dipping Rolls',
+    path: 'recipes/vietnamese/banh-mi-khong-style-dipping-rolls.html',
+    collection: 'House Recipes',
+    culture: 'Vietnamese Inspired',
+    category: 'Bread',
+    status: 'Working Recipe',
+    ingredients: ['all-purpose flour', 'bread flour', 'active dry yeast', 'sugar', 'water', 'salt', 'neutral oil', 'lime juice'],
+    tags: ['banh mi', 'bánh mì', 'bread', 'dipping rolls', 'active dry yeast', 'bo kho pairing']
+  },
+  {
+    title: 'Vietnamese Bò Kho-Style Brisket Stew Meal',
+    path: 'recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-meal.html',
+    collection: 'House Recipes',
+    culture: 'Vietnamese Inspired',
+    category: 'Featured Meal',
+    status: 'Working Recipe',
+    ingredients: ['brisket stew', 'banh mi rolls', 'asian pickled garden vegetables', 'lime', 'cilantro', 'green onion', 'serrano', 'sriracha', 'lemongrass', 'star anise', 'fish sauce'],
+    tags: ['bo kho', 'bò kho', 'featured meal', 'project meal', 'bread dipping meal', 'complete plate']
   },
   {
     title: 'Fresh Vegetable Spring Rolls',

@@ -127,15 +127,37 @@ last_updated: 2026-06-15
 
 ## Stage-Based Prep Bowls
 
+### Protein Bowls
+
 | Bowl | Contents | When Used |
 |---|---|---|
-| Beef Bowl | Marinated brisket, lightly scraped if needed | Searing stage |
-| Onion Bowl | 1 medium sliced or diced onion | After beef is browned; cook 5-7 minutes |
-| Aromatic Bowl | 2 minced garlic cloves, 1 Tbsp ginger, 1 Tbsp lemongrass paste | After onion softens; cook 30-60 seconds |
-| Spice Bowl | 2 Tbsp tomato paste, 1/2 tsp paprika, 1/2 tsp five-spice if using, 2 bay leaves, 1 star anise pod | After aromatics bloom |
-| Braise Bowl | 4 cups beef broth, 1 Tbsp fish sauce, 1 Tbsp hoisin, 1-2 tsp brown sugar, 1-2 tsp sriracha, saved marinade, 1-2 cups water as needed | After tomato paste toasts |
-| Vegetable Bowl | 3 large carrots, cut thick | Last 35-45 minutes |
-| Finish Tray | Lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, sriracha | At serving |
+| Bowl 1 — Marinated Brisket | Marinated brisket, lightly scraped if needed | Searing stage |
+
+### Aromatic Bowls
+
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Onion | 1 medium sliced or diced onion | After beef is browned; cook 5-7 minutes |
+| Bowl 2 — Garlic, Ginger & Lemongrass | 2 minced garlic cloves, 1 Tbsp ginger, 1 Tbsp lemongrass paste | After onion softens; cook 30-60 seconds |
+| Bowl 3 — Tomato Paste & Spices | 2 Tbsp tomato paste, 1/2 tsp paprika, 1/2 tsp five-spice if using, 2 bay leaves, 1 star anise pod | After Bowl 2 blooms |
+
+### Braise Bowls
+
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Broth, Reserved Marinade & Seasoning Liquids | 4 cups beef broth, 1 Tbsp fish sauce, 1 Tbsp hoisin, 1-2 tsp brown sugar, 1-2 tsp sriracha, saved marinade, 1-2 cups water as needed | After tomato paste and spices toast |
+
+### Vegetable Bowls
+
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Carrots | 3 large carrots, cut thick | Last 35-45 minutes |
+
+### Finish Bowls
+
+| Bowl | Contents | When Used |
+|---|---|---|
+| Bowl 1 — Lime, Herbs, Serrano & Table Finish | Lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, sriracha | At serving |
 
 ## Instructions
 
@@ -145,17 +167,17 @@ last_updated: 2026-06-15
 
 3. **Sear the beef.** Heat **1 Tbsp neutral oil** in a Dutch oven over medium-high heat. Sear the marinated brisket in batches until deeply browned on multiple sides. Do not crowd the pot. Adjust heat if the marinade begins to scorch. Transfer browned beef to a bowl.
 
-4. **Cook the onion first.** Lower heat to medium. Add **1 medium sliced or diced onion** by itself and cook **5-7 minutes**, scraping up browned bits, until softened and lightly golden.
+4. **Cook Aromatic Bowl 1 — Onion.** Lower heat to medium. Add **1 medium sliced or diced onion** by itself and cook **5-7 minutes**, scraping up browned bits, until softened and lightly golden.
 
-5. **Bloom the fast aromatics.** Add **2 minced garlic cloves**, **1 Tbsp ginger**, and **1 Tbsp lemongrass paste** to the softened onion. Cook **30-60 seconds**, just until fragrant. Do not let the garlic burn.
+5. **Bloom Aromatic Bowl 2 — Garlic, Ginger & Lemongrass.** Add **2 minced garlic cloves**, **1 Tbsp ginger**, and **1 Tbsp lemongrass paste** to the softened onion. Cook **30-60 seconds**, just until fragrant. Do not let the garlic burn.
 
-6. **Toast tomato paste and spices.** Add **2 Tbsp tomato paste** and cook **1-2 minutes** until slightly darkened and aromatic. Stir in **1/2 tsp paprika**, **1/2 tsp Chinese five-spice if using**, **2 bay leaves**, and **1 star anise pod**.
+6. **Toast Aromatic Bowl 3 — Tomato Paste & Spices.** Add **2 Tbsp tomato paste** and cook **1-2 minutes** until slightly darkened and aromatic. Stir in **1/2 tsp paprika**, **1/2 tsp Chinese five-spice if using**, **2 bay leaves**, and **1 star anise pod**.
 
 7. **Start the braise.** Return brisket and juices to the pot. Add **4 cups beef broth**, the reserved marinade, **1 Tbsp fish sauce**, **1 Tbsp hoisin**, **1-2 tsp brown sugar if needed**, **1-2 tsp sriracha if using**, and enough of the **1-2 cups water** to cover the beef comfortably. Bring to a simmer, then reduce to low.
 
 8. **Cook until tender.** Simmer gently for **2 1/2 to 3 1/2 hours**, partially covered, until the brisket is tender. Add more water as needed so the broth stays stew-like and does not reduce into a heavy sauce.
 
-9. **Add carrots late.** Add **3 large carrots, cut into thick diagonal pieces**, during the final **35-45 minutes** of cooking. Continue simmering until carrots are tender but not collapsing.
+9. **Add Vegetable Bowl 1 — Carrots late.** Add **3 large carrots, cut into thick diagonal pieces**, during the final **35-45 minutes** of cooking. Continue simmering until carrots are tender but not collapsing.
 
 10. **Finish the stew.** Remove the **2 bay leaves** and **1 star anise pod**. Taste carefully. Add fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift.
 

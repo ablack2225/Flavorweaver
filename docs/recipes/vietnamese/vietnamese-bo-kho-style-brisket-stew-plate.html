@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="../../site.css?v=20260613-01" />
   <link rel="stylesheet" href="../../readability.css?v=20260613-01" />
   <link rel="stylesheet" href="../../premium-recipe.css?v=20260613-05" />
+  <link rel="stylesheet" href="../../recipe-print.css?v=20260616-01" />
 </head>
 <body>
   <header class="site-topbar">
@@ -25,6 +26,7 @@
 
       <div class="recipe-meta-grid"><div class="recipe-meta-item"><strong>Meal Type</strong>Project Meal</div><div class="recipe-meta-item"><strong>Total</strong>4 1/2 hr-overnight</div><div class="recipe-meta-item"><strong>Serves</strong>4 hearty servings</div><div class="recipe-meta-item"><strong>Heat</strong>Serrano + sriracha table option</div></div>
       <div class="recipe-tag-row"><span class="recipe-tag">bò kho</span><span class="recipe-tag">brisket stew plate</span><span class="recipe-tag">bánh mì rolls</span><span class="recipe-tag">pickled vegetables</span><span class="recipe-tag">complete plate</span></div>
+      <button class="print-recipe-button" type="button" onclick="printRecipeCard()">🖨️ Print Recipe</button>
 
       <section class="recipe-section"><h2>Kitchen Execution Summary</h2><div class="premium-component-grid"><div class="premium-component-card"><h3>Complete Plate</h3><p>This card covers the full dish: stew, dipping rolls, pickled vegetables, and garnish/table finish.</p></div><div class="premium-component-card"><h3>Bò Kho Stew</h3><p>Tomato-rich brisket with lemongrass, ginger, garlic, star anise, fish sauce, and carrots.</p></div><div class="premium-component-card"><h3>Bánh Mì Không Rolls</h3><p>Fresh crackly rolls baked close to service for dipping into the broth.</p></div><div class="premium-component-card"><h3>Pickles + Finish</h3><p>Asian Pickled Garden Vegetables in Vietnamese / Bò Kho mode: lime, cilantro, optional serrano, no sesame.</p></div></div></section>
 
@@ -51,5 +53,13 @@
 
     <aside class="recipe-sidebar-card"><h2>Required Components</h2><ul class="pairing-menu"><li><strong><a href="vietnamese-bo-kho-style-brisket-stew.html">Vietnamese Bò Kho-Style Brisket Stew</a></strong><span>Rich aromatic main.</span></li><li><strong><a href="banh-mi-khong-style-dipping-rolls.html">Bánh Mì Không-Style Dipping Rolls</a></strong><span>Reference recipe; execution is integrated into this page.</span></li><li><strong><a href="../condiments/asian-pickled-garden-vegetables.html">Asian Pickled Garden Vegetables</a></strong><span>Reference recipe; Bò Kho mode is integrated into this page.</span></li></ul></aside>
   </main>
+  <script>
+    function printRecipeCard() {
+      document.querySelectorAll('details').forEach(function(detail) {
+        detail.setAttribute('open', 'open');
+      });
+      window.print();
+    }
+  </script>
 </body>
 </html>

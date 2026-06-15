@@ -56,8 +56,8 @@
     "cuisine": "Vietnamese Inspired",
     "category": "Main Dish",
     "status": "Working Recipe",
-    "ingredients": ["brisket", "fish sauce", "soy sauce", "tomato paste", "ginger", "garlic", "lemongrass", "five-spice", "paprika", "onion", "star anise", "bay leaves", "beef broth", "hoisin", "carrots", "lime", "cilantro", "green onion", "serrano", "sriracha"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket", "beef stew", "lemongrass", "star anise", "five spice", "tomato rich", "bread dipping meal", "project meal", "html page"]
+    "ingredients": ["brisket", "fish sauce", "soy sauce", "tomato paste", "ginger", "garlic", "lemongrass", "five-spice", "paprika", "onion", "star anise", "bay leaves", "beef broth", "hoisin", "carrots"],
+    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket", "beef stew", "lemongrass", "star anise", "five spice", "tomato rich", "component recipe", "html page"]
   },
   {
     "title": "Bánh Mì Không-Style Dipping Rolls",
@@ -70,14 +70,14 @@
     "tags": ["vietnamese-inspired", "banh mi", "bánh mì", "bread", "dipping rolls", "active dry yeast", "crisp crust", "airy crumb", "bo kho pairing", "html page"]
   },
   {
-    "title": "Vietnamese Bò Kho-Style Brisket Stew Meal",
-    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-meal.html",
-    "sourcePath": "recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-meal.md",
+    "title": "Vietnamese Bò Kho-Style Brisket Stew Plate",
+    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html",
+    "sourcePath": "recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-plate.md",
     "cuisine": "Vietnamese Inspired",
     "category": "Featured Meal",
     "status": "Working Recipe",
     "ingredients": ["brisket stew", "banh mi rolls", "asian pickled garden vegetables", "lime", "cilantro", "green onion", "serrano", "sriracha", "carrots", "lemongrass", "star anise", "fish sauce"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew", "featured meal", "project meal", "bread dipping meal", "complete plate", "amy and don kitchen", "html page"]
+    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew plate", "featured meal", "project meal", "bread dipping meal", "complete plate", "plate recipe", "html page"]
   },
   {
     "title": "Peanut Sauce",

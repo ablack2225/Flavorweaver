@@ -57,6 +57,12 @@ last_updated: 2026-06-15
 | Critical Balance | Rich stew needs fresh bread, acidic pickles, herbs, lime, and fresh serrano to become the full plate |
 | Do Not Do | Do not treat required components as links only; do not let five-spice dominate; do not add sesame to the pickles for this plate |
 
+## Before Cooking Day / Advance Prep
+
+- **Marinate Brisket** — 2 hours to overnight.
+- **Make Pickle Base** — 2 hours to overnight.
+- **Confirm Bread Setup** — day before or morning of.
+
 ## Required Component Recipes
 
 Full recipes remain linked here for reference. The master recipe below includes the measured ingredients, prep bowls, and instructions needed to cook the full plate without opening the component files.
@@ -235,15 +241,6 @@ These are collapsible reference sections only. The cook should not need to open 
 | Cilantro | No, cut close to service | Pickle finish; garnish plate | Do not chop far ahead unless necessary. |
 | Bread dough | Separate workflow | Bread Bowls 1-3 | Must be integrated into the master timeline, not left as a link. |
 
-## Before Cooking Day / Advance Prep
-
-| Task | Advance Timing | Quality Rule |
-|---|---|---|
-| Marinate brisket | 2 hours to overnight | Do not rinse before cooking; save flavor |
-| Make Asian Pickled Garden Vegetables base | 2 hours to overnight | Keep base neutral; do not add lime/cilantro/serrano until service |
-| Confirm bread ingredients | Day before or morning of | Active dry yeast, flour, and thermometer ready |
-| Prep garnish mentally, not physically | Day of | Fresh herbs, lime, and serrano should be cut close to service |
-
 ## Stage-Based Prep Bowls
 
 ### Bread Bowls
@@ -374,6 +371,7 @@ Five-spice should support the stew. Star anise should perfume it. Neither should
 - Refined as a chef-tier bread-dipping Bò Kho plate with lemongrass, star anise, fish sauce layering, controlled five-spice, fresh herbs, lime, serrano, and pickled vegetable contrast.
 - Updated so the main recipe card covers the complete plate execution: stew, bread, pickles, garnish, and service timing.
 - Collapsible measured ingredient sections are reference only; the full execution is contained in the main prep bowls and instructions.
+- Advance prep is placed directly under the Kitchen Execution Summary as a quick decision block.
 
 ## Testing Notes
 

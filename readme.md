@@ -160,6 +160,8 @@ World-culture recipes are chef-level developed recipes from the Amy & Don Kitche
 
 For cultural and world-cuisine recipes, especially cuisines that are new or still being learned, do not treat the first simple internet recipe as canon.
 
+Flavorweaver development should search for the best version of a dish that can be found: top-tier, chef-level, cookbook-quality, restaurant-quality, and Michelin-star mindset where applicable. Amy and Don are not spending multi-hour project-meal effort to produce a mediocre dish. The goal is to study excellent patterns first, then build an Amy & Don version that is practical, repeatable, and worth the work.
+
 The development path should be:
 
 ```text
@@ -175,12 +177,15 @@ Before revising or canon-locking a world-cuisine recipe, look for:
 - restaurant-connected recipes
 - reputable food publications
 - multiple traditional or common versions
+- award-winning, destination, or top-10 style interpretations when useful
 
 Then compare the shared structure before creating or revising the Amy & Don house version.
 
 Do not jump straight from a test result such as “this was bland” to generic fixes. First ask whether the tested recipe was underbuilt compared with stronger source patterns.
 
-For example, the Ethiopian platter test showed that the Timatim and Atakilt Wat were not merely short on random additions. They needed to be compared against stronger Ethiopian recipe patterns before canon-locking. The correction was not just fixing blandness; it was upgrading the source standard.
+Do not destabilize components that tested at a very high level just because the full plate needs improvement. If a component tests around 9.5/10, preserve it unless there is a clear reason to change it. Improve the weaker supporting components, contrast, workflow, plating, or make-ahead structure instead.
+
+For example, the Ethiopian platter test showed that the Doro Wat-style chicken and eggs, Split Pea Alicha, and naan were each approximately 9.5/10 and should not be casually changed. The lower-performing components were the Timatim and Atakilt Wat, which needed comparison against stronger Ethiopian recipe patterns before canon-locking. The correction was not just fixing blandness; it was upgrading the source standard and improving plate balance.
 
 The goal is not random authenticity and not random adjustment.
 
@@ -767,18 +772,19 @@ When adding world-culture recipes:
 1. Determine the culture/path and category.
 2. Create the Markdown source file.
 3. Create the public HTML page.
-4. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, and common/traditional patterns before canon-locking an Amy & Don adaptation.
-5. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
-6. Break out substantial required components into their own source and public pages.
-7. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
-8. Use Required Components to explain component roles on the plate.
-9. Add Plating & Serving Architecture for complete meal plates.
-10. Integrate preparation order directly into Instructions for complex complete plates.
-11. Update active and legacy search/index files.
-12. Add new search tags for new cultures, dishes, components, and major concepts.
-13. Update category/path pages and cache query strings as needed.
-14. Verify links and discovery paths.
-15. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
+4. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, top-tier, and common/traditional patterns before canon-locking an Amy & Don adaptation.
+5. Preserve 9.5/10-level tested components unless there is a clear reason to change them; improve weaker components, contrast, workflow, or plating instead.
+6. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
+7. Break out substantial required components into their own source and public pages.
+8. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
+9. Use Required Components to explain component roles on the plate.
+10. Add Plating & Serving Architecture for complete meal plates.
+11. Integrate preparation order directly into Instructions for complex complete plates.
+12. Update active and legacy search/index files.
+13. Add new search tags for new cultures, dishes, components, and major concepts.
+14. Update category/path pages and cache query strings as needed.
+15. Verify links and discovery paths.
+16. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
 
 ---
 
@@ -796,6 +802,8 @@ When adding world-culture recipes:
 10. Keep curiosity alive.
 11. Preserve the real cooking workflow, not just the ingredient list.
 12. Research stronger world-cuisine patterns before turning test feedback into recipe changes.
+13. Build toward top-tier, chef-quality plates; do not spend project-meal effort on mediocre results.
+14. Protect high-scoring components and focus refinement where the plate actually failed.
 
 ---
 

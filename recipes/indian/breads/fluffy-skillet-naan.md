@@ -26,7 +26,6 @@ tags:
 pairs_well_with:
   - Ethiopian-Inspired Doro Wat Platter
   - Indian curries
-  - Teff Starter & Real Injera
 last_updated: 2026-06-14
 ---
 
@@ -121,11 +120,8 @@ last_updated: 2026-06-14
 |---|---|---|
 | Practical substitute | [Ethiopian-Inspired Doro Wat Platter](../../ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md) | Used as scoop bread for the practical platter version. |
 | Traditional Indian pairing | Curries | Natural Indian bread pairing. |
-| Traditional Ethiopian option | [Teff Starter & Real Injera](../../ethiopian/breads/teff-starter-and-real-injera.md) | Use injera instead of naan for the traditional Ethiopian-style version. |
 
 ## Chef's Notes
-
-This recipe belongs under Indian breads. It can still be linked from the Ethiopian-inspired Doro Wat platter as a practical scoop-bread substitute.
 
 For best texture, use room-temperature milk and egg, keep the dough soft, measure the warm water so the yeast activates reliably, and cook the naan in a very hot cast iron skillet so it bubbles and chars quickly without drying out.
 

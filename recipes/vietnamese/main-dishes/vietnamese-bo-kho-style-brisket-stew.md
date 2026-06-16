@@ -44,7 +44,7 @@ last_updated: 2026-06-16
 
 | Element | Notes |
 |---|---|
-| Recipe Role | Stew-only component for the Bò Kho-style brisket stew plate |
+| Recipe Role | Stew-only component for the Bò Kho-style brisket stew bowl |
 | Best Texture | Tender brisket chunks, glossy broth, carrots tender but not collapsing |
 | Key Aromatics | Lemongrass, ginger, garlic, onion, bay, controlled five-spice |
 | Critical Balance | Rich beef + tomato depth needs fish sauce/salt first, required water for dilution/balance, then lime or rice vinegar for brightness |
@@ -159,7 +159,7 @@ last_updated: 2026-06-16
 
 ## Chef's Notes
 
-This is the stew-only component for the Vietnamese Bò Kho-Style Brisket Stew Plate.
+This is the stew-only component for the Vietnamese Bò Kho-Style Brisket Stew Bowl.
 
 Five-spice should support the stew, not dominate it. If the five-spice blend already contains anise and star anise, do not add a whole star anise pod to the pot.
 

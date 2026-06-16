@@ -1,5 +1,5 @@
 ---
-name: Vietnamese Bò Kho-Style Brisket Stew Plate
+name: Vietnamese Bò Kho-Style Brisket Stew Bowl
 category: Featured Meal
 status: Working Recipe
 featured_meal: true
@@ -16,22 +16,27 @@ primary_category: featured-meals
 categories:
   - featured-meals
   - main-dishes
-  - complete-meal-plate
+  - noodle-bowls
+  - complete-meal-bowl
 required_components:
   - vietnamese-bo-kho-style-brisket-stew
+  - wide-rice-noodles
   - asian-pickled-garden-vegetables
 
 tags:
   - vietnamese-inspired
   - bo kho
-  - brisket stew plate
+  - brisket stew bowl
+  - wide rice noodles
   - featured meal
   - project meal
-  - complete plate
+  - noodle bowl
+  - complete bowl
   - kitchen execution system
 
 pairs_well_with:
   - vietnamese-bo-kho-style-brisket-stew
+  - wide-rice-noodles
   - asian-pickled-garden-vegetables
 
 last_updated: 2026-06-16
@@ -39,37 +44,40 @@ last_updated: 2026-06-16
 
 <!-- recipe-card:start -->
 
-# Vietnamese Bò Kho-Style Brisket Stew Plate
+# Vietnamese Bò Kho-Style Brisket Stew Bowl
 
-> A complete Vietnamese-inspired Bò Kho-style brisket stew plate with sesame-free pickled garden vegetables finished with lime, cilantro, and optional serrano, plus lime, herbs, serrano, black pepper, and sriracha at the table.
+> A complete Vietnamese-inspired Bò Kho-style brisket stew bowl with wide rice noodles, sesame-free pickled garden vegetables finished with lime, cilantro, and optional serrano, plus lime, herbs, serrano, black pepper, and sriracha at the table.
 
 ## Kitchen Execution Summary
 
 | Element | Notes |
 |---|---|
-| Meal Role | Complete Bò Kho plate |
+| Meal Role | Complete Bò Kho bowl |
 | Main Dish | Vietnamese Bò Kho-Style Brisket Stew: tomato-rich brisket with lemongrass, ginger, garlic, controlled Chinese five-spice, fish sauce, required water, and carrots |
+| Noodle Base | Wide rice noodles cooked according to package instructions |
 | Fresh Side | Asian Pickled Garden Vegetables in Vietnamese / Bò Kho mode: lime, cilantro, optional serrano, no sesame |
 | Table Finish | Lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, sriracha |
-| Critical Balance | Rich stew needs required water in the braise, acidic pickles, herbs, lime, and fresh serrano to become the full plate |
+| Critical Balance | Rich stew needs required water in the braise, wide rice noodles, acidic pickles, herbs, lime, and fresh serrano to become the full bowl |
 | Live-Test Correction | Do not add whole star anise when the five-spice blend already contains anise/star anise. Do not add leftover marinade back into the pot. Add the required water even if broth already covers the meat. |
 
 ## Before Cooking Day / Advance Prep
 
 - **Marinate Brisket** — 2 hours to overnight.
 - **Make Pickle Base** — 2 hours to overnight.
+- **Confirm Noodle Setup** — day before or morning of.
 
 ## Service Countdown
 
-- **Day before or morning of** — marinate brisket, make pickle base, confirm garnish supplies.
+- **Day before or morning of** — marinate brisket, make pickle base, confirm wide rice noodles and garnish supplies.
 - **4 hours before serving** — start the stew.
 - **45 minutes before serving** — add carrots to stew.
+- **20 minutes before serving** — cook wide rice noodles according to package instructions.
 - **15 minutes before serving** — finish pickles and garnish.
-- **At service** — finish stew and plate hot stew with pickles and fresh table finish.
+- **At service** — finish stew and plate hot stew over wide rice noodles with pickles and fresh table finish.
 
-## Full Plate Ingredient Roll-Up
+## Full Bowl Ingredient Roll-Up
 
-Quick-glance ingredient check for the full plate. Detailed measurements and division points are handled in the component ingredient sections, prep map, prep bowls, and cooking timeline.
+Quick-glance ingredient check for the full bowl. Detailed measurements and division points are handled in the component ingredient sections, prep map, prep bowls, and cooking timeline.
 
 ### Stew
 
@@ -92,6 +100,11 @@ Quick-glance ingredient check for the full plate. Detailed measurements and divi
 - Hoisin
 - Sriracha, optional
 - Carrots
+
+### Noodle Base
+
+- Wide rice noodles
+- Water for cooking or soaking noodles, according to package instructions
 
 ### Pickles
 
@@ -143,6 +156,14 @@ These collapsible reference sections are for checking component quantities only.
 </details>
 
 <details>
+<summary>Wide Rice Noodle Base Ingredients</summary>
+
+- Wide rice noodles
+- Cook according to package instructions
+
+</details>
+
+<details>
 <summary>Asian Pickled Garden Vegetables — Bò Kho Mode Ingredients</summary>
 
 - 1 zucchini, thinly sliced
@@ -155,7 +176,7 @@ These collapsible reference sections are for checking component quantities only.
 - 1 Tbsp water
 - 1/4 tsp red pepper flakes, optional
 - Lime juice, cilantro, and optional thin-sliced serrano for service
-- Sesame oil and sesame seeds omitted for this plate
+- Sesame oil and sesame seeds omitted for this bowl
 
 </details>
 
@@ -166,10 +187,11 @@ These collapsible reference sections are for checking component quantities only.
 | Garlic | Yes, if used same day | 3-4 cloves for marinade; 2 cloves for Stew Aromatic Bowl 2 | Mince all, then keep measured portions separate. |
 | Ginger | Yes, if used same day | 1 Tbsp marinade; 1 Tbsp Stew Aromatic Bowl 2 | Measure portions before cooking. |
 | Lemongrass | Yes, if using paste | 1 Tbsp marinade; 1 Tbsp Stew Aromatic Bowl 2 | Keep measured portions separate. |
+| Wide rice noodles | No, cook close to service | Noodle base | Cook according to package instructions. |
 | Lime | Partially | Pickle finish; stew finish; garnish wedges | Wedges and fresh finish stay close to service. |
 | Green onion | Partially | 2 sliced into pickle base; extra sliced fresh for garnish | Pickle green onion can be cut ahead; garnish green onion should be fresh. |
-| Serrano | No, or close to service | Pickle finish; garnish plate | Thin-slice near service for best freshness. |
-| Cilantro | No, cut close to service | Pickle finish; garnish plate | Do not chop far ahead unless necessary. |
+| Serrano | No, or close to service | Pickle finish; garnish bowl | Thin-slice near service for best freshness. |
+| Cilantro | No, cut close to service | Pickle finish; garnish bowl | Do not chop far ahead unless necessary. |
 
 ## Stage-Based Prep Bowls
 
@@ -193,11 +215,12 @@ These collapsible reference sections are for checking component quantities only.
 |---|---|---|
 | Bowl 1 — Broth & Seasoning Liquids | 4 cups beef broth; 1 1/2 cups water; 1 Tbsp fish sauce; 1 Tbsp hoisin; 1-2 tsp brown sugar if needed; 1-2 tsp sriracha if using | After tomato paste and spices toast |
 
-### Vegetable, Pickle & Garnish Bowls
+### Vegetable, Noodle, Pickle & Garnish Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
 | Vegetable Bowl 1 — Carrots | 3 large carrots, cut into thick diagonal pieces | Final 35-45 minutes of stew cooking |
+| Noodle Bowl 1 — Wide Rice Noodles | Wide rice noodles, cooked according to package instructions | 20 minutes before service |
 | Pickle Bowl 1 — Pickle Base | 1 thin-sliced zucchini; 1 thin-sliced yellow squash; 1 carrot, ribbons or julienne; 2 sliced green onions; 1/4 cup rice vinegar; 2 Tbsp sugar; 1 tsp kosher salt; 1 Tbsp water; optional 1/4 tsp red pepper flakes | 2 hours to overnight before serving |
 | Pickle Bowl 2 — Vietnamese / Bò Kho Finish | Drained pickled vegetables; fresh lime juice to taste; cilantro to taste; optional thin-sliced serrano | 15 minutes before service; no sesame |
 | Garnish Bowl 1 — Table Finish | Lime wedges; cilantro; sliced green onion; thin-sliced serrano; black pepper; sriracha | At service |
@@ -208,6 +231,7 @@ These collapsible reference sections are for checking component quantities only.
 - Do not add whole star anise when the five-spice blend already contains anise/star anise.
 - Do not add leftover marinade back into the pot.
 - Add the required water even if the broth already covers the meat.
+- Cook wide rice noodles according to package instructions.
 - Do not add sesame oil or sesame seeds to the Bò Kho pickles.
 - Finish the pickles only near service with lime, cilantro, and optional serrano.
 - Taste the stew before plating and adjust salt, acid, sweetness, heat, and black pepper.
@@ -234,36 +258,39 @@ These collapsible reference sections are for checking component quantities only.
 
 10. **During the final 35 to 45 minutes of stew cooking, add Vegetable Bowl 1 — Carrots.** Add **3 large carrots cut into thick diagonal pieces** to the stew and simmer until tender but not collapsing.
 
-11. **About 15 minutes before service, finish Pickle Bowl 2 — Vietnamese / Bò Kho Finish.** Drain the pickled vegetables lightly. Finish with fresh lime juice to taste, cilantro to taste, and optional thin-sliced serrano. Do not add sesame oil or sesame seeds for this Bò Kho plate.
+11. **About 20 minutes before service, prepare Noodle Bowl 1 — Wide Rice Noodles.** Cook wide rice noodles according to package instructions. Drain well and divide among serving bowls.
 
-12. **Prepare Garnish Bowl 1 — Table Finish.** Cut lime wedges, slice green onion, thin-slice serrano, gather cilantro, set out fresh black pepper, and place sriracha on the table.
+12. **About 15 minutes before service, finish Pickle Bowl 2 — Vietnamese / Bò Kho Finish.** Drain the pickled vegetables lightly. Finish with fresh lime juice to taste, cilantro to taste, and optional thin-sliced serrano. Do not add sesame oil or sesame seeds for this Bò Kho bowl.
 
-13. **Finish the stew.** Remove the **2 bay leaves**. Taste and adjust with fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift. Rest **10 minutes**.
+13. **Prepare Garnish Bowl 1 — Table Finish.** Cut lime wedges, slice green onion, thin-slice serrano, gather cilantro, set out fresh black pepper, and place sriracha on the table.
 
-14. **Serve the full plate.** Serve hot Bò Kho brisket stew in bowls with pickled vegetables beside the stew, lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, and sriracha at the table.
+14. **Finish the stew.** Remove the **2 bay leaves**. Taste and adjust with fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift. Rest **10 minutes**.
+
+15. **Serve the full bowl.** Ladle hot Bò Kho brisket stew and carrots over wide rice noodles with pickled vegetables beside or over the bowl, lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, and sriracha at the table.
 
 ## Final Taste Target
 
-The finished plate should taste savory, beefy, tomato-rich, lightly sweet, and aromatic with lemongrass, ginger, garlic, and controlled five-spice. It should be bright enough from lime or rice vinegar, freshened by herbs and pickles, and never dominated by anise, star anise, or five-spice.
+The finished bowl should taste savory, beefy, tomato-rich, lightly sweet, and aromatic with lemongrass, ginger, garlic, and controlled five-spice. The wide rice noodles should absorb broth and soften the spice intensity. It should be bright enough from lime or rice vinegar, freshened by herbs and pickles, and never dominated by anise, star anise, or five-spice.
 
 ## Chef's Notes
 
-This is the Bò Kho plate, not a noodle bowl. The complete plate is stew + pickled vegetables + fresh garnish/table finish.
+This is the Bò Kho bowl, not a noodle-free plate. The complete bowl is stew + wide rice noodles + pickled vegetables + fresh garnish/table finish.
 
 Thai basil is optional when fresh is available. If fresh Thai basil is not available, omit it rather than substituting dried basil.
 
-For the pickled vegetables, skip sesame oil and sesame seeds for this plate.
+For the pickled vegetables, skip sesame oil and sesame seeds for this bowl.
 
 <!-- recipe-card:end -->
 
 ## Source / Research Notes
 
-- Created as the complete-plate execution version of the Bò Kho meal.
-- The standalone stew recipe remains a required component, separate from this plate card.
+- Created as the complete-bowl execution version of the Bò Kho meal.
+- The standalone stew recipe remains a required component, separate from this bowl card.
+- Wide rice noodles are cooked according to package instructions and used as the bowl base.
 - Collapsible measured ingredient sections are reference only; the full execution is contained in the main prep bowls and instructions.
 - Required components remain in frontmatter/sidebar only, not as a main-panel section.
 - Full Cooking Timeline and Instructions must remain a complete cross-recipe execution flow, not a compressed summary.
-- Full Plate Ingredient Roll-Up is a quick-glance shopping/ingredient check, not a prep-allocation table.
+- Full Bowl Ingredient Roll-Up is a quick-glance shopping/ingredient check, not a prep-allocation table.
 - Live test correction: if the five-spice blend contains anise and star anise, do not add whole star anise to the stew.
 - Live test correction: water is required for balance even when broth already covers the meat.
 - Live test correction: do not add leftover marinade back into the braise because it carries concentrated five-spice/anise flavor.

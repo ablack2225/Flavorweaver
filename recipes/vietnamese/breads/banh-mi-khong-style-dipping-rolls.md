@@ -44,7 +44,7 @@ last_updated: 2026-06-15
 |---|---|
 | Meal Role | Fresh dipping bread for Vietnamese Bò Kho-style brisket stew |
 | Best Texture | Thin crisp crust, airy interior, light chew |
-| Key Technique | Active dry yeast bloom at 105°F-108°F, gentle shaping, hot oven, steam |
+| Key Technique | Active dry yeast bloom at 105°F-108°F, gentle shaping, covered final proof, hot oven, steam |
 | Critical Timing | Start dough early; bake close to serving |
 | Do Not Do | Do not make dense dinner rolls; do not add herbs or dried basil to the dough |
 
@@ -53,7 +53,7 @@ last_updated: 2026-06-15
 | Component | Ingredients |
 |---|---|
 | Dough | All-purpose flour, bread flour, active dry yeast, sugar, water, salt, neutral oil, lime juice |
-| Baking Setup | Parchment, flour for shaping, hot water for steam |
+| Baking Setup | Parchment, flour for shaping, cover for shaped rise, sharp knife, hot water for steam |
 
 ## Measured Ingredients
 
@@ -78,7 +78,8 @@ For the best active dry yeast bloom, use water between **105°F and 108°F**. Ch
 
 - Use active dry yeast as the default yeast for Amy & Don bread recipes unless another yeast is specifically requested.
 - The dough should be soft and slightly tacky, not stiff.
-- Shape lightly. Compressing the dough too much makes the rolls dense.
+- Shape lightly on the counter. Do not roll the dough like a meatball in your hands.
+- Cover shaped rolls during the final rise so the surface does not dry out.
 - Bake close to serving so the crust stays crisp.
 
 ## Stage-Based Prep Bowls
@@ -88,7 +89,7 @@ For the best active dry yeast bloom, use water between **105°F and 108°F**. Ch
 | Yeast Bowl | 1 cup water at 105°F-108°F, sugar, active dry yeast | Blooming stage |
 | Dry Bowl | All-purpose flour, bread flour, salt | Dough mixing stage |
 | Dough Additions | Neutral oil, lime juice, remaining water as needed | Dough mixing stage |
-| Bake Setup | Parchment, sharp knife, metal steam pan, hot water | Baking stage |
+| Bake Setup | Parchment, sharp knife, cover for shaped rise, metal steam pan, hot water | Shaping, proofing, and baking stage |
 
 ## Instructions
 
@@ -100,13 +101,13 @@ For the best active dry yeast bloom, use water between **105°F and 108°F**. Ch
 
 4. **First rise.** Place the dough in a lightly oiled bowl. Cover and let rise 60-90 minutes, until doubled.
 
-5. **Divide and shape.** Turn dough onto a lightly floured surface. Divide into 4 pieces. Shape each piece into a short baguette-style roll about 5-6 inches long, keeping the dough light rather than tightly compressed.
+5. **Divide and shape.** Turn dough onto a lightly floured surface and divide into 4 pieces. Shape each piece on the counter, not like rolling a meatball in your hands: gently flatten it into a small oval or rectangle, fold the top third down toward the center and press the seam lightly, fold the bottom third up over it, pinch the seam closed, then place it seam-side down. With both hands, gently roll from the center outward on the counter until it forms a short baguette or torpedo shape, about 5-6 inches long. If the dough springs back, rest it 5-10 minutes, then finish shaping.
 
-6. **Second rise.** Place rolls on a parchment-lined baking sheet. Cover lightly and let rise 35-45 minutes, until puffy.
+6. **Second rise.** Place rolls on a parchment-lined baking sheet. Cover loosely with lightly oiled plastic wrap, or use a clean kitchen towel if the kitchen is not dry. Use a lightly damp towel if the air is dry. Let rise 35-45 minutes, until puffy and slightly expanded. The rolls do not need to fully double after shaping.
 
 7. **Preheat with steam setup.** While the rolls rise, preheat oven to 450°F. Place an empty metal pan on the lower rack for steam.
 
-8. **Slash and steam.** Slash each roll lengthwise with a sharp knife. Place rolls in the oven, then carefully pour 1 cup hot water into the empty pan to create steam. Close the oven immediately.
+8. **Slash and steam.** Uncover the rolls. Slash each roll lengthwise with a sharp knife just before baking. Place rolls in the oven, then carefully pour 1 cup hot water into the empty pan to create steam. Close the oven immediately and vent steam carefully when opening later.
 
 9. **Bake.** Bake at 450°F for 18-22 minutes, until the rolls are deeply golden, crisp, and light-feeling when lifted.
 
@@ -118,7 +119,9 @@ For the best active dry yeast bloom, use water between **105°F and 108°F**. Ch
 |---|---|
 | Yeast does not foam | Restart with fresh yeast and water between 105°F and 108°F. |
 | Dough feels stiff | Add warm water 1 Tbsp at a time until soft and slightly tacky. |
+| Dough springs back during shaping | Rest 5-10 minutes, then continue shaping. |
 | Rolls are dense | Shape more gently next time and avoid over-flouring. |
+| Roll surface dries during final rise | Cover with lightly oiled plastic wrap or a lightly damp towel. |
 | Crust is dull or soft | Use steam at the start of baking and bake until deeply golden. |
 | Rolls finish too early | Let them cool, then briefly refresh in a hot oven before serving if needed. |
 
@@ -138,6 +141,7 @@ All-purpose flour keeps the interior light. Bread flour adds enough structure fo
 
 - Built as the Vietnamese-style bread component for the Amy & Don Bò Kho plate.
 - Active dry yeast bloom temperature locked at 105°F-108°F as an Amy & Don bread standard.
+- Shaping and covered proofing instructions expanded after live cooking questions.
 
 ## Testing Notes
 

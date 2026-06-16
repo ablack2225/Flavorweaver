@@ -72,17 +72,41 @@ last_updated: 2026-06-16
 | To taste | Salt | Add near the end |
 | Optional | Lemon juice | Small squeeze only if heavy or flat |
 
+## Stage-Based Prep Bowls
+
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — Split Peas | 1 cup yellow split peas | Rinse until the water runs mostly clear and check for debris. |
+| Bowl 2 — Cooking Liquid | 3 to 3 1/2 cups water or broth | Start with 3 cups; keep the remaining 1/2 cup nearby and add only as needed. |
+| Bowl 3 — Aromatics | 1 small finely diced onion; 2 minced garlic cloves; 1 tsp fresh grated ginger or ginger paste | Onion starts first; garlic and ginger go in after onion softens. |
+| Bowl 4 — Spice Bloom | 1/2 tsp turmeric; 1/2 tsp cumin; 1/2 tsp coriander; 1/4 tsp black pepper; optional small pinch cayenne or berbere | Bloom briefly in the fat and aromatics. Do not burn. |
+| Bowl 5 — Cooking Fat | 1 to 2 Tbsp unsalted butter or oil | Used to cook the onion and bloom the spices. |
+| Bowl 6 — Finish | Salt to taste; optional small squeeze lemon juice | Add salt near the end. Use lemon only if heavy or flat. |
+
+## Do Not Forget
+
+- Prep bowls must include measurements so the cook does not have to return to the ingredient list mid-cook.
+- Timeline and instructions must repeat measurements when ingredients are added.
+- Rinse the split peas well before cooking.
+- Yellow split peas are preferred; green split peas are backup only.
+- Cook the onion long enough to soften, reduce, and lightly golden before adding garlic, ginger, and spices.
+- Bloom the spices briefly, but do not burn them.
+- Start with 3 cups water or broth and add more only as needed while the peas soften.
+- Mash 1/3 to 1/2 of the peas for a creamier stew body.
+- Add salt near the end, then use lemon only if the stew tastes heavy or flat.
+
 ## Instructions
 
 | Step | Action |
 |---:|---|
-| 1 | Rinse the split peas in a fine mesh strainer until the water runs mostly clear. Pick out debris or damaged pieces. |
-| 2 | Melt butter or heat oil in a saucepan or small Dutch oven. Add onion and cook 8-12 minutes until softened, reduced, and lightly golden. Add tiny splashes of water if needed to prevent sticking. |
-| 3 | Add garlic, ginger, turmeric, cumin, coriander, black pepper, and optional cayenne or berbere. Cook 30-60 seconds, stirring constantly, until fragrant. Do not burn the spices. |
-| 4 | Add rinsed split peas and 3 cups water or broth. Stir well and scrape the bottom of the pot. Bring to a simmer. |
-| 5 | Simmer uncovered or partially covered for 40-60 minutes, stirring occasionally, until the peas are very tender and beginning to break down. Add more liquid as needed. |
-| 6 | Mash some peas against the side of the pot to create a creamy body. For a creamier stew, mash 1/3 to 1/2 of the mixture. |
-| 7 | Continue simmering until thick, spoonable, and stew-like. Season with salt. Add lemon only if the stew tastes heavy or flat. |
+| 1 | Rinse **1 cup yellow split peas** in a fine mesh strainer until the water runs mostly clear. Pick out debris or damaged pieces. |
+| 2 | Melt **1 to 2 Tbsp unsalted butter or oil** in a saucepan or small Dutch oven. Add **1 small finely diced onion** and cook **8-12 minutes** until softened, reduced, and lightly golden. Add tiny splashes of water if needed to prevent sticking. |
+| 3 | Add **2 minced garlic cloves**, **1 tsp fresh grated ginger or ginger paste**, **1/2 tsp turmeric**, **1/2 tsp cumin**, **1/2 tsp coriander**, **1/4 tsp black pepper**, and optional small pinch cayenne or berbere. Cook **30-60 seconds**, stirring constantly, until fragrant. Do not burn the spices. |
+| 4 | Add the rinsed **1 cup yellow split peas** and **3 cups water or broth**. Stir well and scrape the bottom of the pot. Bring to a simmer. |
+| 5 | Simmer uncovered or partially covered for **40-60 minutes**, stirring occasionally, until the peas are very tender and beginning to break down. Add the remaining **1/2 cup water or broth**, or more as needed, only if the peas need more liquid to soften. |
+| 6 | Mash some peas against the side of the pot to create a creamy body. For a creamier stew, mash **1/3 to 1/2** of the mixture. |
+| 7 | Continue simmering until thick, spoonable, and stew-like. |
+| 8 | Season with **salt to taste** near the end. Add optional **small squeeze lemon juice** only if the stew tastes heavy or flat. |
 
 <!-- recipe-card:end -->
 
@@ -142,7 +166,7 @@ This is the accessible platter side. Use it in the main Doro Wat platter card wh
 <details>
 <summary>Timing Notes</summary>
 
-Optional soaking can reduce cooking time and help the peas soften more evenly. Quick soak 2-4 hours, then drain and rinse. No-soak works but may need more simmering time and liquid.
+Optional soaking can reduce cooking time and help the peas soften more evenly. Quick soak **1 cup yellow split peas** in water for **2-4 hours**, then drain and rinse. No-soak works but may need more simmering time and additional liquid beyond the listed **3 to 3 1/2 cups water or broth**.
 
 </details>
 
@@ -180,5 +204,6 @@ If the peas stay firm, keep simmering and add more water or broth. If watery, si
 |---|---|
 | 2026-06-14 | Created source file from Ethiopian Split Pea Alicha handoff. |
 | 2026-06-16 | Removed Misir Wat from Pairs Well With; substitution context belongs in the main Doro Wat platter note. |
+| 2026-06-16 | Added measured prep bowls and measured instruction steps to match the current canon format. |
 
 </details>

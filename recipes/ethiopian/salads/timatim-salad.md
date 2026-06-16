@@ -2,15 +2,15 @@
 name: Timatim Salad
 culture: Ethiopian Inspired
 category: Salads, Slaws & Dips
-status: V2 Test Version
+status: Working Recipe
 difficulty: Easy
 prep_time: 15m
 cook_time: 0m
 rest_time: 20-30m
 total_time: 35-45m
 servings: 2 as part of a larger Ethiopian-inspired platter
-measurement_status: documented-v2-test
-rating_note: Upgraded bright, sharp, lightly spicy salad for the Doro Wat platter
+measurement_status: documented
+rating_note: Bright, sharp, lightly spicy salad for the Doro Wat platter
 repeat_worthy: yes
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -25,7 +25,6 @@ tags:
   - fresh
   - acidic
   - doro-wat-platter
-  - v2-test
   - intentionally-seasoned
 pairs_well_with:
   - Ethiopian-Inspired Doro Wat Platter
@@ -36,17 +35,17 @@ last_updated: 2026-06-16
 
 # Timatim Salad
 
-> Upgraded V2 Ethiopian-inspired tomato-cucumber salad with measured salt, more acid, garlic, vinegar, berbere, serrano, cilantro, and parsley for the Doro Wat platter.
+> Bright Ethiopian-inspired tomato-cucumber salad with measured salt, sharp acid, garlic, vinegar, berbere, serrano, cilantro, and parsley for the Doro Wat platter.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| V2 Test Version | 35-45m | 2 as part of a larger platter | Easy |
+| Working Recipe | 35-45m | 2 as part of a larger platter | Easy |
 
 | Prep Time | Cook Time | Rest Time | Measurement Status |
 |---:|---:|---:|---|
-| 15m | 0m | 20-30m | Documented V2 test |
+| 15m | 0m | 20-30m | Documented |
 
 ## Ingredient List
 
@@ -92,14 +91,16 @@ last_updated: 2026-06-16
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Vegetables | Diced tomato, diced cucumber, red onion | Keep cuts small enough to spoon onto a plate. |
-| Bowl 2 — Heat & Herbs | Minced serrano, chopped cilantro, chopped parsley | Serrano is part of V2, not optional garnish. |
-| Bowl 3 — Dressing | Lemon juice, vinegar, oil, garlic, berbere, kosher salt, black pepper | Whisk separately before adding to vegetables. |
-| Bowl 4 — Final Adjustment | Extra lemon juice and a small pinch of kosher salt | Use only after the salad rests and is tasted. |
+| Bowl 1 — Vegetables | 1 large or 2 Roma tomatoes, diced; 1/2 large cucumber or 2 to 3 mini cucumbers, diced; 2 to 3 Tbsp red onion, finely diced or thinly sliced | Keep cuts small enough to spoon onto a plate. |
+| Bowl 2 — Heat & Herbs | 1 serrano, finely minced; 1 Tbsp fresh cilantro, chopped; 1 Tbsp fresh parsley, chopped | Serrano is part of the recipe, not optional garnish. |
+| Bowl 3 — Dressing | 1 1/2 Tbsp fresh lemon juice; 1 Tbsp white vinegar or rice vinegar; 1 1/2 Tbsp olive oil or neutral oil; 1 small grated or very finely minced garlic clove; 1/4 tsp berbere; 1/2 tsp kosher salt; 1/4 tsp black pepper | Whisk separately before adding to vegetables. |
+| Bowl 4 — Final Adjustment | Additional lemon juice only if needed after resting; additional small pinch kosher salt only if needed after resting | Use only after the salad rests and is tasted. |
 
 ## Do Not Forget
 
-- This V2 is intentionally brighter, sharper, and more seasoned than the first version.
+- This recipe is intentionally bright, sharp, and well-seasoned.
+- Prep bowls must include measurements so the cook does not have to return to the ingredient list mid-cook.
+- Timeline and instructions must repeat measurements when ingredients are added.
 - Do not remove the measured salt. This salad needs enough salt to draw flavor from the tomatoes and cucumbers.
 - Whisk the dressing separately before adding it to the vegetables and herbs.
 - Let the salad rest for 20 to 30 minutes before serving.
@@ -111,11 +112,11 @@ last_updated: 2026-06-16
 
 | Step | Action |
 |---:|---|
-| 1 | Add the diced tomato, cucumber, red onion, serrano, cilantro, and parsley to a mixing bowl. |
-| 2 | In a separate small bowl, whisk together lemon juice, vinegar, oil, garlic, berbere, kosher salt, and black pepper. |
-| 3 | Pour the dressing over the vegetables and herbs. |
+| 1 | Add **1 large or 2 Roma diced tomatoes**, **1/2 large diced cucumber or 2 to 3 diced mini cucumbers**, **2 to 3 Tbsp finely diced or thinly sliced red onion**, **1 finely minced serrano**, **1 Tbsp chopped fresh cilantro**, and **1 Tbsp chopped fresh parsley** to a mixing bowl. |
+| 2 | In a separate small bowl, whisk together **1 1/2 Tbsp fresh lemon juice**, **1 Tbsp white vinegar or rice vinegar**, **1 1/2 Tbsp olive oil or neutral oil**, **1 small grated or very finely minced garlic clove**, **1/4 tsp berbere**, **1/2 tsp kosher salt**, and **1/4 tsp black pepper**. |
+| 3 | Pour the measured dressing over the vegetables and herbs. |
 | 4 | Toss well so everything is evenly coated. |
-| 5 | Let the salad rest for 20 to 30 minutes before serving. |
+| 5 | Let the salad rest for **20 to 30 minutes** before serving. |
 | 6 | Stir again before plating. |
 | 7 | Taste after resting, because cucumber and tomato will release water and dilute the seasoning. |
 | 8 | Adjust only if needed with a small pinch of kosher salt or a little more lemon juice. |
@@ -138,7 +139,7 @@ The salad should not taste like plain cucumber and tomato.
 
 ## Chef's Notes
 
-This V2 strengthens the dressing with measured salt, more acid, garlic, vinegar, and berbere because the first version was too bland even with serrano, cilantro, and parsley.
+This dressing is intentionally measured with salt, acid, garlic, vinegar, and berbere so the tomato and cucumber do not taste flat.
 
 Do not remove the measured salt. Unsalted butter standards do not apply to raw salad seasoning; this salad needs enough salt to draw flavor from the tomatoes and cucumbers.
 
@@ -162,15 +163,13 @@ Taste only after resting before adjusting, because cucumber and tomato will rele
 </details>
 
 <details>
-<summary>Testing Notes</summary>
+<summary>Recipe Development Notes</summary>
 
-## V2 Test Version
+Earlier testing was too bland even with serrano, cilantro, and parsley.
 
-**Reason for update:** First version was too bland even with serrano, cilantro, and parsley.
+This current version strengthens the dressing with measured salt, more acid, garlic, vinegar, and berbere.
 
-**What changed:** Strengthened the dressing with measured salt, more acid, garlic, vinegar, and berbere.
-
-**Important:** Do not remove the measured salt. Unsalted butter standards do not apply to raw salad seasoning; this salad needs enough salt to draw flavor from the tomatoes and cucumbers.
+Important: Do not remove the measured salt. Unsalted butter standards do not apply to raw salad seasoning; this salad needs enough salt to draw flavor from the tomatoes and cucumbers.
 
 </details>
 
@@ -180,6 +179,7 @@ Taste only after resting before adjusting, because cucumber and tomato will rele
 | Date | Change |
 |---|---|
 | 2026-06-14 | Created standalone Timatim Salad component recipe from the Doro Wat platter. |
-| 2026-06-16 | Updated to V2 test version with stronger dressing, measured salt, vinegar, garlic, berbere, serrano, cilantro, and parsley. |
+| 2026-06-16 | Updated to current working version with stronger dressing, measured salt, vinegar, garlic, berbere, serrano, cilantro, and parsley. |
+| 2026-06-16 | Added measured prep bowls and measured method steps to match the current canon format. |
 
 </details>

@@ -60,14 +60,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['banh mi', 'bánh mì', 'bread', 'dipping rolls', 'active dry yeast', 'optional bread service']
   },
   {
-    title: 'Vietnamese Bò Kho-Style Brisket Stew Plate',
+    title: 'Vietnamese Bò Kho-Style Brisket Stew Bowl',
     path: 'recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html',
     collection: 'House Recipes',
     culture: 'Vietnamese Inspired',
     category: 'Featured Meal',
     status: 'Working Recipe',
-    ingredients: ['brisket stew', 'asian pickled garden vegetables', 'lime', 'cilantro', 'green onion', 'serrano', 'sriracha', 'lemongrass', 'fish sauce'],
-    tags: ['bo kho', 'bò kho', 'brisket stew plate', 'featured meal', 'project meal', 'complete plate']
+    ingredients: ['brisket stew', 'wide rice noodles', 'asian pickled garden vegetables', 'lime', 'cilantro', 'green onion', 'serrano', 'sriracha', 'lemongrass', 'fish sauce'],
+    tags: ['bo kho', 'bò kho', 'brisket stew bowl', 'wide rice noodles', 'featured meal', 'project meal', 'noodle bowl', 'complete bowl']
   },
   {
     title: 'Fresh Vegetable Spring Rolls',

@@ -180,13 +180,13 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 
 ## Cross-Component Prep Map
 
-- **House Berbere-Style Spice Blend:** make once. Reserve **1 Tbsp** for the overnight chicken marinade and **1 Tbsp** for the Doro Wat-style sauce base.
-- **Garlic total:** stage **2 minced cloves** for the chicken marinade, **2 minced cloves** for the Doro sauce, **2 cloves** for Split Pea Alicha, **2 to 3 cloves** for Atakilt Wat, and **1 small grated clove** for Timatim Salad.
-- **Ginger total:** stage **1 tsp** for Doro sauce, **1 tsp** for Split Pea Alicha, and **1 Tbsp** for Atakilt Wat.
-- **Onion split:** use **1 large finely diced onion** for Doro sauce, **1 small finely diced onion** for Split Pea Alicha, **1 sliced onion** for Atakilt Wat, and **2 to 3 Tbsp red onion** for Timatim Salad.
-- **Acid split:** use **1 Tbsp lemon juice** for the chicken marinade, optional lemon only as a final correction for Doro/Atakilt/Split Pea, and the measured Timatim dressing acid of **1 1/2 Tbsp lemon juice** plus **1 Tbsp vinegar**.
-- **Salt discipline:** keep measured salt in the chicken marinade, Atakilt Wat, and Timatim Salad. Split Pea Alicha and Doro sauce are salted near the end after simmering.
-- **Bread:** prepare naan or injera from its own recipe so it is ready for final plating.
+- **Berbere / spice blend total:** **2 Tbsp + 1/4 tsp prepared berbere-style blend total** — **1 Tbsp** for the overnight chicken marinade, **1 Tbsp** for the Doro Wat-style sauce base, and **1/4 tsp** for the Timatim dressing. Add only an optional small pinch to Split Pea Alicha if extra warmth is wanted.
+- **Garlic total:** **9 to 10 cloves total** — **2 cloves** for the chicken marinade, **2 cloves** for the Doro sauce, **2 cloves** for Split Pea Alicha, **2 to 3 cloves** for Atakilt Wat, and **1 small clove** for Timatim Salad.
+- **Ginger total:** **5 tsp total** / **1 Tbsp + 2 tsp** — **1 tsp** for Doro sauce, **1 tsp** for Split Pea Alicha, and **1 Tbsp** for Atakilt Wat.
+- **Onion total:** **1 large onion + 1 small onion + 1 sliced onion + 2 to 3 Tbsp red onion** — large finely diced onion for Doro sauce, small finely diced onion for Split Pea Alicha, sliced onion for Atakilt Wat, and red onion for Timatim Salad.
+- **Acid total:** **2 1/2 Tbsp fresh lemon juice + 1 Tbsp vinegar**, plus optional lemon for final corrections — **1 Tbsp lemon juice** for the chicken marinade, **1 1/2 Tbsp lemon juice** and **1 Tbsp vinegar** for Timatim Salad, and optional tiny lemon only if Doro, Split Pea, or Atakilt tastes flat.
+- **Measured salt total:** **1 3/4 tsp kosher salt plus final seasoning to taste** — **1/2 tsp** in the chicken marinade, **3/4 tsp** in Atakilt Wat, and **1/2 tsp** in Timatim Salad. Split Pea Alicha and Doro sauce are salted near the end after simmering.
+- **Prepared bread:** prepare naan or injera from its own recipe so it is ready for final plating.
 - **Traditional red-lentil option:** choose Misir Wat when intentionally making the traditional red-lentil version instead of this Split Pea Alicha working plate.
 
 ## Stage-Based Prep Bowls
@@ -299,5 +299,6 @@ Do not remove the measured salt from Atakilt Wat or Timatim Salad. Unsalted butt
 |---|---|
 | 2026-06-16 | Converted to integrated current recipe-card format. Added Cross-Component Prep Map, integrated Split Pea Alicha, Atakilt Wat, and Timatim Salad, and kept Misir Wat/Naan/Injera as linked recipes. |
 | 2026-06-16 | Removed internal build-note language from public-facing recipe source. |
+| 2026-06-16 | Updated Cross-Component Prep Map to show total needed across the plate before the component breakdown. |
 
 </details>

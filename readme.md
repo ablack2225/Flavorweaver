@@ -18,7 +18,7 @@ The goal is not merely to preserve recipes.
 
 The goal is to preserve what was learned along the way.
 
-Flavorweaver documents what happens after a recipe, restaurant meal, family memory, cultural tradition, or ingredient idea enters the Amy & Don Kitchen.
+Flavorweaver documents what happens after a recipe, restaurant meal, family memory, cultural tradition, ingredient idea, source image, or kitchen test enters the Amy & Don Kitchen.
 
 The final question is always:
 
@@ -36,11 +36,12 @@ Meals that consistently succeed tend to share:
 * Strong sauces and condiments
 * Layered flavor
 * Interactive assembly
-* Homemade elements
+* Homemade elements when they improve the meal
 * Pickles, herbs, or acid for balance
 * Comfort elevated through complexity
 * Bold but balanced seasoning
 * Components that work together rather than compete
+* A workflow that can actually be cooked without chaos
 
 The goal is not merely authenticity.
 
@@ -69,8 +70,10 @@ Flavorweaver/
 │   ├── styles.css
 │   ├── readability.css
 │   ├── premium-recipe.css
+│   ├── recipe-print.css
 │   ├── templates/
-│   │   ├── README.md
+│   │   ├── complete-meal-creation-canon.md
+│   │   ├── featured-meal-master-template.md
 │   │   ├── world-culture-recipe-canon-template.html
 │   │   ├── world-culture-recipe-source-template.md
 │   │   └── family-recipe-source-template.md
@@ -110,12 +113,50 @@ docs/templates/
 
 Root-level `templates/` is not the active template location. Do not create new recipe templates there.
 
-Active recipe templates:
+## Active Template System
+
+Use these templates together. Do not add another world-culture recipe template unless Amy explicitly approves a new template category.
+
+| File | Purpose |
+|---|---|
+| `docs/templates/complete-meal-creation-canon.md` | Rules and standards for complete meal cards. This is the canon/rules document, not a copy-paste recipe body. |
+| `docs/templates/featured-meal-master-template.md` | Markdown source template for Don & Amy featured meals, complete bowls, complete plates, platters, and project meals. |
+| `docs/templates/world-culture-recipe-canon-template.html` | Public HTML layout template for Don & Amy world-culture recipe pages. |
+| `docs/templates/world-culture-recipe-source-template.md` | Markdown source template for standalone world-culture recipes and reusable components. |
+| `docs/templates/family-recipe-source-template.md` | Markdown source template for family archive recipes. |
+
+## Canonical Live World-Culture Layout Reference
+
+The current canonical live public HTML reference for the world-culture premium recipe layout is:
 
 ```text
-docs/templates/world-culture-recipe-canon-template.html
-docs/templates/world-culture-recipe-source-template.md
-docs/templates/family-recipe-source-template.md
+docs/recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html
+```
+
+This file currently represents the active complete-meal layout standard, even though the historical file slug still contains `plate`. Use the rendered structure as the live reference for:
+
+- premium recipe shell
+- public recipe header/kicker/title/summary
+- meta grid
+- recipe tag row
+- print button and print behavior
+- Kitchen Execution Summary
+- Before Cooking Day / Advance Prep
+- Service Countdown
+- Full Bowl / Full Plate Ingredient Roll-Up
+- Measured Ingredients by Component
+- Cross-Component Prep Map
+- Stage-Based Prep Bowls
+- Do Not Forget
+- Full Cooking Timeline and Instructions
+- Final Taste Target
+- Chef's Notes
+- Required Components sidebar
+
+The matching Markdown source reference is:
+
+```text
+recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-plate.md
 ```
 
 ---
@@ -152,7 +193,7 @@ Preferred public HTML pattern:
 docs/recipes/<culture-or-path>/<category>/<recipe-slug>.html
 ```
 
-Some older pages may exist at a flatter path while the site is being aligned, but new world-culture recipe work should use the category-aware pattern unless Amy explicitly approves another structure.
+Some older public pages may exist at a flatter path while the site is being aligned. Do not move or rename an established public page only for neatness unless links, search data, and page references are updated together.
 
 World-culture recipes are chef-level developed recipes from the Amy & Don Kitchen. They may be inspired by restaurants, cultures, flavor memories, research, experiments, substitutions, ingredient access limitations, or printed/source recipes, but the final recipe should reflect what Amy and Don would want to make again.
 
@@ -160,7 +201,7 @@ World-culture recipes are chef-level developed recipes from the Amy & Don Kitche
 
 For cultural and world-cuisine recipes, especially cuisines that are new or still being learned, do not treat the first simple internet recipe as canon.
 
-Flavorweaver development should search for the best version of a dish that can be found: top-tier, chef-level, cookbook-quality, restaurant-quality, and Michelin-star mindset where applicable. Amy and Don are not spending multi-hour project-meal effort to produce a mediocre dish. The goal is to study excellent patterns first, then build an Amy & Don version that is practical, repeatable, and worth the work.
+Flavorweaver development should search for the best version of a dish that can be found: top-tier, chef-level, cookbook-quality, restaurant-quality, and Michelin-star mindset where applicable. Amy and Don are not spending multi-hour project-meal effort to produce a mediocre dish.
 
 The development path should be:
 
@@ -183,15 +224,9 @@ Then compare the shared structure before creating or revising the Amy & Don hous
 
 Do not jump straight from a test result such as “this was bland” to generic fixes. First ask whether the tested recipe was underbuilt compared with stronger source patterns.
 
-Do not destabilize components that tested at a very high level just because the full plate needs improvement. If a component tests around 9.5/10, preserve it unless there is a clear reason to change it. Improve the weaker supporting components, contrast, workflow, plating, or make-ahead structure instead.
+Do not destabilize components that tested at a very high level just because the full bowl, plate, or platter needs improvement. If a component tests around 9.5/10, preserve it unless there is a clear reason to change it. Improve the weaker supporting components, contrast, workflow, plating, or make-ahead structure instead.
 
-For example, the Ethiopian platter test showed that the Doro Wat-style chicken and eggs, Split Pea Alicha, and naan were each approximately 9.5/10 and should not be casually changed. The lower-performing components were the Timatim and Atakilt Wat, which needed comparison against stronger Ethiopian recipe patterns before canon-locking. The correction was not just fixing blandness; it was upgrading the source standard and improving plate balance.
-
-The goal is not random authenticity and not random adjustment.
-
-The goal is chef-quality Flavorweaver adaptation.
-
-When documenting this research, clearly distinguish between:
+When documenting research, clearly distinguish between:
 
 - what comes from stronger sourced patterns,
 - what appears across multiple traditional/common versions,
@@ -217,44 +252,66 @@ World-culture recipes do not use the family recipe renderer as their primary pub
 
 # 🧾 World-Culture Markdown Source Format
 
-New world-culture Markdown recipes should begin from:
+Use the correct source template for the recipe type.
+
+## Standalone / Component Recipe Source
+
+Use this template when the recipe is a standalone dish or reusable component:
 
 ```text
 docs/templates/world-culture-recipe-source-template.md
 ```
 
-Supporting structure reference:
+Examples:
+
+- stew-only component
+- sauce
+- bread
+- condiment
+- side
+- salad
+- pickle
+- reusable garnish or table finish
+
+Standalone source files include recipe development sections such as Final Verdict, Flavor Architecture, Flavorweaver Direction, Timing Notes, Testing Notes, Kitchen Notes, and Change Log when useful.
+
+## Featured Meal / Complete Meal Source
+
+Use this template when the recipe is the complete eating experience:
 
 ```text
-docs/main-flavorweaver-recipe-structure.md
+docs/templates/featured-meal-master-template.md
 ```
 
-Required Markdown structure:
+Examples:
+
+- complete bowl
+- complete plate
+- platter
+- project meal
+- featured meal master card
+
+Complete meal source files must integrate all required components into one cookable workflow.
+
+They should include:
 
 1. YAML frontmatter.
 2. `<!-- recipe-card:start -->`.
 3. Recipe title.
-4. Short recipe summary.
-5. Recipe Dashboard.
-6. Ingredient List by component.
-7. Measured Ingredients with cook-ready amounts and notes.
-8. Instructions.
-9. `<!-- recipe-card:end -->`.
-10. Pairs Well With.
-11. Chef's Notes.
-12. Final Verdict.
-13. Collapsible Flavorweaver sections.
-
-Recommended collapsible sections:
-
-```text
-Flavor Architecture
-Flavorweaver Direction
-Timing Notes
-Testing Notes
-Kitchen Notes
-Change Log
-```
+4. Short complete-meal summary.
+5. Kitchen Execution Summary.
+6. Before Cooking Day / Advance Prep.
+7. Service Countdown.
+8. Full Bowl / Full Plate / Full Platter Ingredient Roll-Up.
+9. Measured Ingredients by Component.
+10. Cross-Component Prep Map.
+11. Stage-Based Prep Bowls.
+12. Do Not Forget.
+13. Full Cooking Timeline and Instructions.
+14. Final Taste Target.
+15. Chef's Notes.
+16. `<!-- recipe-card:end -->`.
+17. Source / Research Notes and testing notes when useful.
 
 YAML frontmatter should include practical searchable metadata such as:
 
@@ -266,14 +323,12 @@ status:
 difficulty:
 prep_time:
 cook_time:
+marinate_time:
 total_time:
-servings:
 yield:
 measurement_status:
-rating_note:
-repeat_worthy:
-hall_of_fame_candidate:
-hall_of_fame:
+primary_category:
+categories:
 tags:
 required_components:
 pairs_well_with:
@@ -314,19 +369,16 @@ If not, keep refining.
 
 # 🌐 World-Culture Public HTML Format
 
-World-culture HTML pages should mirror the premium recipe page design already used by canon examples such as:
-
-```text
-docs/recipes/korean/bowls-and-mains/bold-bulgogi-bowls.html
-docs/recipes/vietnamese/bowls-and-mains/lemongrass-chicken-bowls.html
-docs/recipes/vietnamese/appetizers/fresh-vegetable-spring-rolls.html
-docs/recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html
-```
-
-The locked public HTML template is:
+World-culture HTML pages should use the active premium recipe page design and the public HTML template:
 
 ```text
 docs/templates/world-culture-recipe-canon-template.html
+```
+
+The canonical live reference is:
+
+```text
+docs/recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html
 ```
 
 The HTML page should use the existing site shell and premium recipe layout rather than inventing a new design.
@@ -338,24 +390,29 @@ Required stylesheet pattern should be adjusted for the HTML page depth:
 <link rel="stylesheet" href="../../../site.css?v=..." />
 <link rel="stylesheet" href="../../../readability.css?v=..." />
 <link rel="stylesheet" href="../../../premium-recipe.css?v=..." />
+<link rel="stylesheet" href="../../../recipe-print.css?v=..." />
 ```
 
 Use `../../` instead of `../../../` only when a public recipe page is intentionally placed one folder shallower.
 
-Public HTML pages should show the cook-facing recipe content:
+Public HTML pages should show cook-facing recipe content:
 
 - title and summary
-- culture / category / status kicker
+- culture / category / status or complete-meal kicker
 - prep, cook, total, marinate, rest, yield, or servings as appropriate
 - tags
-- ingredient list by component
-- measured ingredients
-- required components and their role on the plate, when applicable
-- plating and serving architecture for complete meal plates
-- integrated preparation order inside instructions for complete meal plates
-- complete cook-critical workflow when converted from images or printouts
+- print button when the page should print cleanly
+- Kitchen Execution Summary
+- ingredient list / full bowl or plate roll-up
+- measured ingredients by component
+- prep notes / service countdown when applicable
+- cross-component prep map when applicable
+- stage-based prep bowls
+- do-not-forget reminders
+- full cooking timeline and instructions for complete meals
+- final taste target
 - chef notes
-- pairs-well-with sidebar
+- required components sidebar when applicable
 
 Public HTML pages should not render internal development sections by default:
 
@@ -368,184 +425,70 @@ Public HTML pages should not render internal development sections by default:
 - Kitchen Notes
 - Tasting Notes
 - Change Log
+- internal live-test decision sections
 
-Those sections stay in the Markdown source file for kitchen development, testing history, and future automation.
+Those sections stay in the Markdown source file for kitchen development, testing history, and future automation unless Amy explicitly wants them surfaced publicly.
 
 ---
 
-# 🍽️ Complete Meal Plate Rule
+# 🍽️ Complete Meal Bowl / Plate Rule
 
-Some Don & Amy world-culture recipes represent a complete restaurant-style meal plate rather than a single isolated dish.
+Some Don & Amy world-culture recipes represent a complete restaurant-style eating experience rather than a single isolated dish.
 
-In those cases, the main dish recipe should keep the full meal build together as the canonical recipe. This may include the protein or central dish, rice, noodles, bread, vegetables, sauces, pickles, garnishes, assembly instructions, and any other required elements needed to make the plate feel complete.
+This may be a complete bowl, plate, platter, or project meal.
 
-The complete meal recipe must allow the cook to visualize the finished plate before cooking and understand the order of work while cooking.
+In those cases, the master recipe should keep the full meal build together as the canonical recipe. This may include the protein or central dish, rice, noodles, bread, vegetables, sauces, pickles, garnishes, assembly instructions, and any other required elements needed to make the meal feel complete.
 
-A complete meal plate recipe should contain four distinct layers:
+The complete meal recipe must allow the cook to visualize the finished bowl or plate before cooking and understand the order of work while cooking.
 
-## 1. Ingredient List = Full Plate Shopping and Prep View
-
-The Ingredient List should show everything required to make the whole plate, even when some required elements also exist as standalone reusable component recipes.
-
-When a required element has its own recipe, link it by name while still listing the ingredients needed for that component.
-
-Correct pattern:
-
-```markdown
-| Atakilt Wat | [Atakilt Wat](../sides/atakilt-wat.md): cabbage, carrot, potato, onion, butter or oil, garlic, ginger, turmeric, cumin, coriander |
-```
-
-Do not replace full-plate ingredient visibility with only a link.
-
-## 2. Linked Required Components = Role on the Plate
-
-The Linked Required Components section should explain how each component functions in the final dish.
-
-This section should not repeat the full ingredient list.
-
-Correct pattern:
-
-```markdown
-| 1 batch | [Atakilt Wat](../sides/atakilt-wat.md) | Soft vegetable component that rounds out the plate and adds gentle sweetness |
-```
-
-Use this section to explain balance, contrast, texture, sauce role, freshness, scoopability, richness, acidity, heat, crunch, or comfort.
-
-## 3. Plating & Serving Architecture = Story of the Finished Plate
-
-Complete meal plates should include a Plating & Serving Architecture section.
-
-This section should describe:
-
-- serving size and per-plate portioning
-- where each component goes visually
-- what gets spooned over what
-- what should remain fresh, cool, bright, crispy, saucy, or scoopable
-- how the components should be eaten together
-- what the final plate should feel like to the eater
-
-The goal is the holy grail of instruction: the cook should be able to envision the plate in their mind.
-
-These main plate recipes tell a story.
-
-## 4. Instructions = Integrated Preparation Order and Cook Flow
-
-For complete meal plates, preparation order belongs inside the Instructions section, not as an isolated note that the cook may miss.
-
-The Instructions should answer the chef's practical timing questions:
-
-- what must be done the day before
-- what starts first on cooking day
-- what can simmer or hold warm
-- what must stay fresh until the end
-- what should be prepared earlier but cooked or reheated close to serving
-- when sauces, breads, pickles, salads, garnishes, and other required components enter the flow
-- when final assembly and plating happen
-
-Do not imply a required component is quick or last-minute when it is not. For example, homemade naan dough, injera, long-simmering legumes, marinades, fermented components, and chilled components must be timed honestly.
-
-The cook should be able to follow the Instructions from start to finish without needing to build a separate prep schedule.
-
-## Component Breakout Rule
-
-Reusable components may be broken out into separate recipes when they are useful beyond the original meal.
-
-Required components should not be listed as required unless they have enough recipe content to cook them. If the component is substantial or reusable, create and link a separate source Markdown file and public HTML page for it.
-
-Current complete-meal test cases:
+Use the complete meal canon for detailed standards:
 
 ```text
-Bold Bulgogi Bowls
-Lemongrass Chicken Bowls
-Ethiopian-Inspired Doro Wat Platter
+docs/templates/complete-meal-creation-canon.md
 ```
 
-The Ethiopian-Inspired Doro Wat Platter is the first expanded test case showing a full meal card with linked required component recipes, component role notes, plating architecture, and integrated preparation order.
+Use the featured meal master template for the Markdown source:
 
-Bold Bulgogi Bowls and Lemongrass Chicken Bowls should be normalized to this complete-meal layer so the pattern remains consistent.
+```text
+docs/templates/featured-meal-master-template.md
+```
 
-`Pairs Well With` is reserved for optional companion dishes, add-ons, sides, drinks, or menu-style pairings that would go well beside the meal but are not required for the identity of the main dish.
+Use the world-culture HTML canon template for the public page:
 
----
+```text
+docs/templates/world-culture-recipe-canon-template.html
+```
 
-# 🧠 Kitchen Execution Systems
+## Required Component Integration
 
-Flavorweaver recipes must become pleasant to cook from, not merely accurate to read.
+Required components must be integrated into the master card.
 
-For individual component recipes, the recipe should teach how to cook that one component clearly.
+Do not list required components only as links.
 
-For complete plates and featured meals, the recipe must function as a kitchen execution system. It must read every component recipe as if the cook is actually making the whole plate, then rebuild the work into the correct sequence.
+Required component ingredients must appear in the full bowl or full plate ingredient roll-up, including bread, rice, noodles, sauces, pickles, garnishes, salads, sides, and any other component necessary to make the meal complete.
 
-Core rule:
+For noodle, pasta, or rice components that vary by product, write:
 
-> Echo must interpret the recipes as a cook, not just format them as files.
+```text
+Cook according to package instructions.
+```
 
-A featured meal master card is the sequenced cooking brain for the whole plate. Component recipes are references, but the master card must make the kitchen workflow clear enough to cook without chaos.
-
-## Complete Capture Before Design
-
-Before improving layout or usability, all usable source information must be captured.
-
-Do not flatten meaningful information into generic steps. Preserve:
-
-- ingredient amounts and total quantities
-- cut sizes and cut styles
-- ingredient temperature requirements
-- prep timing and holding limits
-- cooking order
-- which ingredients must stay separate
-- equipment needs and warnings
-- visual doneness cues
-- simmer, reduction, rest, bloom, proof, marinate, and hold timing
-- troubleshooting and rescue notes
-- live test notes and ratings
-- what worked and should not be casually changed
-- what failed and needs research or redesign
-
-If the recipe or test note contains a detail that would prevent confusion in the kitchen, capture it.
+Then state how to drain, hold, divide, or serve.
 
 ## Full Ingredient Roll-Up
 
-Complete plates and featured meals need a total prep view before cooking begins.
-
-The roll-up should combine shared ingredients across all component recipes so the cook can prep once and divide intentionally.
-
-Examples of roll-up ingredients:
-
-- onions
-- garlic
-- ginger
-- tomatoes
-- cucumbers
-- herbs
-- potatoes
-- carrots
-- cabbage
-- spices
-- broth
-- eggs
-- butter or oil
-- lemon, lime, or vinegar
+Complete bowls, plates, platters, and featured meals need a total prep view before cooking begins.
 
 The roll-up should show:
 
 ```text
-Ingredient
-Total amount needed
-Prep style
-Which component receives which portion
+Component
+Ingredients needed
+Prep style when relevant
+Where the component appears in final service
 ```
 
 If the same ingredient needs different cuts, list each cut separately.
-
-Example:
-
-```text
-Onion total: ___
-- Doro Wat: finely diced for sauce reduction
-- Atakilt Wat: thin half-moons for onion base
-- Timatim Salad: fine raw onion presence
-```
 
 Do not invent missing quantities. If component recipes do not provide enough measured information to calculate a total, flag the missing data before canon-locking.
 
@@ -555,110 +498,27 @@ Prep bowls must preserve cooking order.
 
 Do not combine ingredients merely because they belong to the same component recipe.
 
-Group prep by when ingredients enter the pan.
-
-Correct Atakilt Wat logic:
-
-```text
-Stage 1 — Onion Base
-- sliced onion
-
-Stage 2 — Aromatics & Spices
-- garlic
-- ginger
-- turmeric
-- cumin
-- coriander
-- optional chile or researched aromatic direction
-
-Stage 3 — Bulk Vegetables
-- cabbage
-- carrot
-- Yukon potatoes
-
-Stage 4 — Finish / Adjustment
-- salt
-- black pepper
-- water or broth
-- optional acid if flat
-```
-
-Incorrect logic:
-
-```text
-Atakilt Bowl
-- onion
-- cabbage
-- carrot
-- potato
-```
-
-That breaks the cooking order because the onion needs to cook first.
+Group prep by when ingredients enter the pan, pot, oven, bowl, or service flow.
 
 Canon rule:
 
-> Prep ahead, but do not combine ingredients that enter the pan at different stages.
-
-## Advance Prep Quality Standard
-
-Advance prep should reduce chaos, not reduce standards.
-
-Make-ahead is not automatically better. For Amy & Don, quality comes first; the master timeline exists so high-quality day-of cooking is possible.
-
-Advance prep is allowed only when it preserves or improves final quality.
-
-Good advance prep may include:
-
-- spice blends
-- marinades
-- doughs that require fermentation, rise, or rest timing
-- dry equipment setup
-- ingredient verification
-- printed or written prep maps
-- soaking legumes only when the recipe or technique calls for it
-
-Do not prep ahead when quality, texture, freshness, flavor, or appearance would suffer.
-
-For the Ethiopian platter test case:
-
-- do not cut potatoes the day before; they can oxidize or brown
-- do not cut tomatoes, cucumbers, herbs, or raw-salad onions the day before
-- do not boil eggs the day before if the refrigerator will dull texture or flavor
-- do not cook Split Pea Alicha ahead unless a future test proves quality is preserved or improved
-- do not rely on microwave reheating or leftover-style treatment for main dishes
-- naan should start first on cooking day if made from scratch, but cook close to serving so it is fresh, soft, bubbly, and scoopable
-
-Canon lines:
-
-> The Featured Meal Master Card should reduce chaos, not reduce standards.
-
-> Advance prep should never turn fresh components into leftover components.
+> Prep ahead, but do not combine ingredients that enter the recipe at different stages.
 
 ## Full Cooking Timeline
 
-A complete plate must have one full cooking timeline that sequences all components together.
+A complete meal must have one full cooking timeline that sequences all components together.
 
 The timeline should answer:
 
 - what begins before cooking day
 - what begins first on cooking day
-- what starts while another item rises, simmers, reduces, or rests
+- what starts while another item rises, simmers, reduces, soaks, drains, or rests
 - what can hold warm without quality loss
 - what must be made fresh near service
 - what cooks last for best quality
 - when to reduce sauces
-- when to add delicate items such as eggs, herbs, salad dressing, or fresh bread
-- when final plating begins
-
-For example:
-
-```text
-Naan starts first if made from scratch, because the dough needs time.
-Naan cooks last because it is best fresh.
-Eggs are boiled day-of during a simmer window.
-Timatim is dressed near the end so it stays bright.
-Atakilt is cooked fresh with onion first, aromatics second, bulk vegetables third.
-```
+- when to add delicate items such as herbs, salad dressing, noodles, fresh bread, or garnish
+- when final assembly begins
 
 ## Paragraph-Style Instructions With Measurements
 
@@ -666,19 +526,7 @@ Ingredient lists are for shopping, planning, and prep.
 
 Instructions are for cooking.
 
-For cook-facing recipes, especially project meals and full plates, instructions should repeat enough measurements that the cook does not need to constantly scroll back to the ingredient list.
-
-Weak pattern:
-
-```text
-Add garlic, ginger, turmeric, cumin, and coriander.
-```
-
-Preferred pattern:
-
-```text
-Add 1 clove minced garlic, 1 tsp grated ginger, 1/2 tsp turmeric, 1/4 tsp cumin, and 1/4 tsp coriander. Cook 30-45 seconds, stirring constantly, until fragrant. Do not let the garlic burn.
-```
+For cook-facing recipes, especially project meals and complete bowls/plates, instructions should repeat enough measurements that the cook does not need to constantly scroll back to the ingredient list.
 
 Each step should include, when useful:
 
@@ -695,13 +543,13 @@ This is especially important for recipes cooked from a phone or tablet in the ki
 
 ## Protect High-Scoring Components
 
-A full plate can score lower because one component, contrast layer, or workflow failed.
+A full bowl, plate, or platter can score lower because one component, contrast layer, or workflow failed.
 
 Do not automatically revise every component.
 
 If a component tests around 9.5/10, preserve it unless Amy identifies a specific reason to change it.
 
-Focus refinement where the plate actually failed:
+Focus refinement where the meal actually failed:
 
 - underbuilt supporting component
 - lack of contrast
@@ -711,8 +559,6 @@ Focus refinement where the plate actually failed:
 - unclear instructions
 - plating imbalance
 - missing make-ahead or day-of timeline guidance
-
-The Ethiopian platter test case preserved the Doro Wat-style chicken and eggs, Split Pea Alicha, and naan as high-performing components while identifying Timatim, Atakilt Wat, and workflow as the refinement targets.
 
 ---
 
@@ -790,7 +636,9 @@ Timatim Salad
 Injera
 Teff
 Naan
-Complete Meal Plate
+Complete Bowl
+Complete Plate
+Complete Meal
 Kitchen Execution System
 Featured Meal Master Card
 Stage-Based Prep Bowls
@@ -911,7 +759,7 @@ Current examples include:
 
 House staples should be linked through metadata, category pages, and generated site search rather than duplicated.
 
-When a house staple is also required for a complete meal plate, link it from the main recipe while keeping the whole plate readable and cookable.
+When a house staple is also required for a complete bowl or plate, link it from the main recipe while keeping the whole meal readable and cookable.
 
 ---
 
@@ -1003,12 +851,7 @@ Flavorweaver preserves:
 * Flavor notes
 * Culinary research
 * Kitchen execution failures and fixes
-* Full-plate workflow lessons
-
-Current active investigations include:
-
-* Chinese Comfort Chicken Identification
-* Frank's Fig & Pig Recreation Project
+* Full-bowl and full-plate workflow lessons
 
 ---
 
@@ -1025,27 +868,29 @@ When editing the repository:
 When adding world-culture recipes:
 
 1. Determine the culture/path and category.
-2. Create the Markdown source file.
-3. Create the public HTML page.
-4. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, top-tier, and common/traditional patterns before canon-locking an Amy & Don adaptation.
-5. Preserve 9.5/10-level tested components unless there is a clear reason to change them; improve weaker components, contrast, workflow, or plating instead.
-6. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
-7. For complete plates and featured meals, read every component recipe as if cooking the whole plate and build one sequenced kitchen execution system.
-8. Build a full ingredient roll-up for shared prep items across all components.
-9. Create stage-based prep bowls that preserve cooking order.
-10. Separate advance prep from day-of prep, and only recommend advance prep that preserves or improves quality.
-11. Write a full cooking timeline showing what starts first, what waits, what holds, what cooks last, and when plating begins.
-12. Use paragraph-style instruction steps with ingredient amounts repeated when it prevents scrolling or confusion.
-13. Break out substantial required components into their own source and public pages.
-14. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire plate.
-15. Use Required Components to explain component roles on the plate.
-16. Add Plating & Serving Architecture for complete meal plates.
-17. Integrate preparation order directly into Instructions for complex complete plates.
-18. Update active and legacy search/index files.
-19. Add new search tags for new cultures, dishes, components, and major concepts.
-20. Update category/path pages and cache query strings as needed.
-21. Verify links and discovery paths.
-22. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
+2. Decide whether this is a standalone/component recipe or a complete meal master card.
+3. For standalone/component recipes, begin from `docs/templates/world-culture-recipe-source-template.md`.
+4. For complete bowls, plates, platters, project meals, and featured meals, begin from `docs/templates/featured-meal-master-template.md`.
+5. Use `docs/templates/world-culture-recipe-canon-template.html` for the public HTML page.
+6. Use `docs/recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html` as the canonical live public layout reference.
+7. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, top-tier, and common/traditional patterns before canon-locking an Amy & Don adaptation.
+8. Preserve 9.5/10-level tested components unless there is a clear reason to change them; improve weaker components, contrast, workflow, or plating instead.
+9. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
+10. For complete meals and featured meals, read every component recipe as if cooking the whole meal and build one sequenced kitchen execution system.
+11. Build a full ingredient roll-up for shared prep items across all components.
+12. Create stage-based prep bowls that preserve cooking order.
+13. Separate advance prep from day-of prep, and only recommend advance prep that preserves or improves quality.
+14. Write a full cooking timeline showing what starts first, what waits, what holds, what cooks last, and when plating/assembly begins.
+15. Use paragraph-style instruction steps with ingredient amounts repeated when it prevents scrolling or confusion.
+16. Break out substantial reusable required components into their own source and public pages when useful.
+17. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire bowl, plate, or platter.
+18. Use Required Components to explain component roles.
+19. Integrate preparation order directly into Instructions for complex complete meals.
+20. Update active and legacy search/index files.
+21. Add new search tags for new cultures, dishes, components, and major concepts.
+22. Update category/path pages and cache query strings as needed.
+23. Verify links and discovery paths.
+24. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
 
 ---
 
@@ -1063,14 +908,15 @@ When adding world-culture recipes:
 10. Keep curiosity alive.
 11. Preserve the real cooking workflow, not just the ingredient list.
 12. Research stronger world-cuisine patterns before turning test feedback into recipe changes.
-13. Build toward top-tier, chef-quality plates; do not spend project-meal effort on mediocre results.
-14. Protect high-scoring components and focus refinement where the plate actually failed.
+13. Build toward top-tier, chef-quality meals; do not spend project-meal effort on mediocre results.
+14. Protect high-scoring components and focus refinement where the meal actually failed.
 15. Recipes should be pleasant to cook from, not just accurate to read.
-16. Featured meals need one master cooking brain, not five separate recipe brains.
+16. Featured meals need one master cooking brain, not several disconnected recipe brains.
 17. Reduce chaos, not standards.
 18. Make-ahead is only useful when it preserves or improves final quality.
 19. Stage bowls must preserve cooking order.
 20. Instructions should carry enough measurements and cues to cook without constant scrolling.
+21. Public HTML should stay cook-facing unless Amy explicitly asks for internal notes to appear publicly.
 
 ---
 

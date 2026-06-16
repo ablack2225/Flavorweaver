@@ -55,7 +55,6 @@ last_updated: 2026-06-16
 | Default Base | Wide rice noodles |
 | Fresh Side | Asian Pickled Garden Vegetables in Bò Kho mode |
 | Table Finish | Lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, sriracha |
-| Live-Test Decision | Bread is no longer the preferred default service; wide rice noodles are the preferred base for future cooks. |
 
 ## Before Cooking Day / Advance Prep
 
@@ -125,10 +124,10 @@ last_updated: 2026-06-16
 
 Use 1 batch of the linked standalone stew recipe.
 
-Current live-test corrections for the stew:
+Current stew corrections:
 
-- do not add whole star anise when the five-spice blend already contains anise or star anise
-- do not add leftover marinade back into the pot
+- omit whole star anise when the five-spice blend already contains anise or star anise
+- discard leftover marinade after lifting out the beef
 - add the required water even if broth already covers the meat
 
 </details>
@@ -167,17 +166,16 @@ Finish near service with:
 
 ## Do Not Forget
 
-- Bread is not a required component for this recipe.
 - Wide rice noodles are the default base.
 - Cook wide rice noodles according to package directions.
 - Finish pickles near service with lime and cilantro.
 - Do not add sesame oil or sesame seeds to the pickles for this bowl.
-- Use the corrected stew formula: no whole star anise, no leftover marinade in the pot, required water included.
+- Use the corrected stew formula: omit whole star anise, discard leftover marinade, and include the required water.
 - Taste the stew before plating and adjust salt, acid, sweetness, heat, and black pepper.
 
 ## Full Cooking Timeline and Instructions
 
-1. **Make the Bò Kho stew.** Follow the linked Vietnamese Bò Kho-Style Brisket Stew recipe. Use the corrected version: no whole star anise if the five-spice blend contains anise or star anise, no leftover marinade added to the pot, and required water included in the braise.
+1. **Make the Bò Kho stew.** Follow the linked Vietnamese Bò Kho-Style Brisket Stew recipe. Use the corrected version: omit whole star anise if the five-spice blend contains anise or star anise, discard leftover marinade after lifting out the beef, and include required water in the braise.
 
 2. **Make the pickle base ahead.** Prepare Asian Pickled Garden Vegetables at least **2 hours** before serving or the day before.
 
@@ -199,16 +197,13 @@ The finished bowl should taste savory, beefy, tomato-rich, lightly sweet, and ar
 
 ## Chef's Notes
 
-This is now the preferred Bò Kho noodle bowl version, not a bread-dipping plate. The complete bowl is stew + wide rice noodles + pickled vegetables + fresh garnish/table finish.
-
-Bread may remain an alternate service idea, but it is no longer the default required component for this recipe.
+This is the preferred Bò Kho noodle bowl version. The complete bowl is stew + wide rice noodles + pickled vegetables + fresh garnish/table finish.
 
 <!-- recipe-card:end -->
 
 ## Source / Research Notes
 
-- Live test correction: wide rice noodles are preferred over bread for future cooks.
-- Bread is no longer a required component; it is optional alternate service only.
-- Live test correction: if the five-spice blend contains anise and star anise, do not add whole star anise to the stew.
-- Live test correction: water is required for balance even when broth already covers the meat.
-- Live test correction: do not add leftover marinade back into the braise because it carries concentrated five-spice/anise flavor.
+- Wide rice noodles are the preferred serving base for future cooks.
+- If the five-spice blend contains anise and star anise, omit whole star anise from the stew.
+- Water is required for balance even when broth already covers the meat.
+- Discard leftover marinade after lifting out the beef because it carries concentrated five-spice/anise flavor.

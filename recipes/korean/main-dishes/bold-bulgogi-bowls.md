@@ -7,7 +7,7 @@ difficulty: Moderate
 prep_time: 35m
 cook_time: 40m
 total_time: 1h 15m
-servings: 4
+servings: 2 bowls
 measurement_status: documented
 
 rating_note: Top 10 Meal
@@ -54,7 +54,7 @@ last_updated: 2026-06-16
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Hall of Fame Candidate | 1 hr 15 min | 4 | Moderate |
+| Hall of Fame Candidate | 1 hr 15 min | 2 bowls | Moderate |
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
@@ -107,7 +107,7 @@ last_updated: 2026-06-16
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 4 | Large eggs | One egg per bowl; halve for serving |
+| 2 | Large eggs | Two egg halves per bowl |
 | As needed | Water | For boiling |
 | As needed | Ice bath | For chilling and easier peeling |
 
@@ -158,7 +158,7 @@ last_updated: 2026-06-16
 | Bowl | Contents | Notes |
 |---|---|---|
 | Bowl 1 — Gochujang Crema | 1/4 cup sour cream; 2 tsp gochujang; 1 to 2 tsp fresh lime juice; pinch sugar; 1 to 3 tsp water | Stir smooth before adding water. Add water 1 tsp at a time. |
-| Bowl 2 — Jammy Eggs | 4 large eggs; boiling water; ice bath | Required bowl finish; peel and halve before assembly. |
+| Bowl 2 — Jammy Eggs | 2 large eggs; boiling water; ice bath | Required bowl finish; peel and halve before assembly. Each bowl gets two egg halves. |
 | Bowl 3 — Pickled Vegetable Service Finish | 1 to 1 1/2 cups Asian Pickled Garden Vegetables; 1 tsp sesame oil; 1 tsp sesame seeds | Pull from house staple, drain lightly, then finish for Bulgogi bowl mode. |
 
 ### Beef and Sauce Bowls
@@ -181,7 +181,7 @@ last_updated: 2026-06-16
 
 - Asian Pickled Garden Vegetables are a house staple. For this bowl, use Korean / Bulgogi Bowl mode: drain lightly and add 1 tsp sesame oil plus 1 tsp sesame seeds to the portion being served.
 - Gochujang Crema is required and its full recipe is embedded in this bowl card.
-- Jammy eggs are required, not optional. Make 4 so each bowl gets one halved egg.
+- Jammy eggs are required, not optional. Make 2 so each bowl gets two egg halves.
 - Prep bowls must include measurements so the cook does not have to return to the ingredient list mid-cook.
 - Timeline and instructions must repeat measurements when ingredients are added.
 - Start the rice first so it is warm and ready when the beef and vegetables finish.
@@ -196,13 +196,13 @@ last_updated: 2026-06-16
 | 2 | **Make the required Gochujang Crema.** In one small bowl, stir together **1/4 cup sour cream**, **2 tsp gochujang**, **1 to 2 tsp fresh lime juice**, and a **pinch of sugar** until smooth. Add **1 to 3 tsp water**, **1 tsp at a time**, until drizzle-ready. Refrigerate if made early; stir before using. |
 | 3 | **Start the rice first.** Rinse **1 cup basmati rice** until the water runs mostly clear. Melt **1 Tbsp butter** in a skillet, saute **2 Tbsp finely diced onion** until translucent, then toast the rice for **2 to 3 minutes**. |
 | 4 | **Cook the rice.** Transfer toasted rice to a rice cooker with **1 3/4 cups chicken broth**, **1 bay leaf**, and a **pinch of salt**. Cook according to rice cooker directions. Remove bay leaf and fluff. Keep warm for bowl assembly. |
-| 5 | **Make the required jammy eggs.** Lower **4 large eggs** into boiling water and cook until jammy, about **6 1/2 to 7 minutes**. Transfer to an ice bath, peel, and halve before assembly. |
+| 5 | **Make the required jammy eggs.** Lower **2 large eggs** into boiling water and cook until jammy, about **6 1/2 to 7 minutes**. Transfer to an ice bath, peel, and halve before assembly. |
 | 6 | **Whisk the bulgogi sauce.** Combine **3 Tbsp soy sauce**, **1 Tbsp dark soy sauce**, **2 Tbsp brown sugar**, **1 Tbsp honey**, **1 Tbsp sesame oil**, **3 Tbsp mashed canned pear**, **1 Tbsp ginger paste**, **4 minced garlic cloves**, **1 tsp rice vinegar**, and **1 Tbsp gochujang**. |
 | 7 | **Prep the toppings while the rice cooks.** Slice **4 green onions**, separating whites from greens. Shred **2 cups napa cabbage** and **1 cup carrots**. Keep the crema, jammy eggs, sesame-finished pickles, green onion tops, and sesame seeds ready for assembly. |
 | 8 | **Brown the beef.** Cook **1 lb ground beef** over medium-high heat, breaking it into crumbles, until thoroughly browned. Add the green onion whites and cook **1 minute**. |
 | 9 | **Glaze the beef.** Add the bulgogi sauce to the browned beef and simmer until glossy and slightly thickened, about **3 to 5 minutes**. Stir in **1 Tbsp sesame seeds**. Keep warm while the vegetables finish. |
 | 10 | **Stir-fry the vegetables.** Cook **2 cups shredded napa cabbage** and **1 cup shredded carrots** in **1 tsp sesame oil** for **2 to 3 minutes**, keeping some crunch. Season lightly with a **pinch of salt**. |
-| 11 | **Assemble the bowls.** Per bowl, add one quarter of the toasted rice, one quarter of the stir-fried vegetables, one quarter of the glossy bulgogi beef, a bright spoon of sesame-finished Asian Pickled Garden Vegetables, green onion tops, Gochujang Crema, sesame seeds, and one halved jammy egg. |
+| 11 | **Assemble the bowls.** Per bowl, add one half of the toasted rice, one half of the stir-fried vegetables, one half of the glossy bulgogi beef, a bright spoon of sesame-finished Asian Pickled Garden Vegetables, green onion tops, Gochujang Crema, sesame seeds, and two egg halves. |
 | 12 | **Finish and serve immediately.** Optional: add a light drizzle of sesame oil. Serve right away so the rice is warm, the beef is glossy, the pickles stay bright, the egg stays jammy, and the crema still reads as a finishing sauce. |
 
 ## Final Taste Target
@@ -273,5 +273,6 @@ The recipe may feel faster once the pickled vegetables are already in the refrig
 |---|---|
 | 2026-06-14 | Created Bold Bulgogi Bowls source card. |
 | 2026-06-16 | Embedded full Gochujang Crema recipe, made jammy eggs required, and clarified Asian Pickled Garden Vegetables as a house staple with Korean / Bulgogi Bowl service finish. |
+| 2026-06-16 | Updated serving size to 2 bowls and egg portion to 2 egg halves per bowl. |
 
 </details>

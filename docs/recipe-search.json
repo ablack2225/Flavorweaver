@@ -70,14 +70,14 @@
     "tags": ["vietnamese-inspired", "banh mi", "bánh mì", "bread", "dipping rolls", "active dry yeast", "crisp crust", "airy crumb", "optional bread service", "html page"]
   },
   {
-    "title": "Vietnamese Bò Kho-Style Brisket Stew Noodle Bowl",
+    "title": "Vietnamese Bò Kho-Style Brisket Stew Plate",
     "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html",
     "sourcePath": "recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-plate.md",
     "cuisine": "Vietnamese Inspired",
     "category": "Featured Meal",
     "status": "Working Recipe",
-    "ingredients": ["brisket stew", "wide rice noodles", "asian pickled garden vegetables", "lime", "cilantro", "green onion", "serrano", "sriracha", "carrots", "lemongrass", "fish sauce"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew noodle bowl", "wide rice noodles", "featured meal", "project meal", "noodle bowl", "complete bowl", "html page"]
+    "ingredients": ["brisket stew", "asian pickled garden vegetables", "lime", "cilantro", "green onion", "serrano", "sriracha", "carrots", "lemongrass", "fish sauce"],
+    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew plate", "featured meal", "project meal", "complete plate", "html page"]
   },
   {
     "title": "Peanut Sauce",

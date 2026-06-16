@@ -26,7 +26,7 @@ tags:
 pairs_well_with:
   - bold-bulgogi-bowls
 
-last_updated: 2026-06-13
+last_updated: 2026-06-16
 ---
 
 <!-- recipe-card:start -->
@@ -74,14 +74,30 @@ last_updated: 2026-06-13
 | Few drops | Sesame oil | For a stronger Korean-inspired flavor |
 | Extra | Gochujang | For more heat and depth |
 
+## Stage-Based Prep Bowl
+
+| Bowl | Contents | Notes |
+|---|---|---|
+| One Bowl — Crema Base | 1/4 cup sour cream; 2 tsp gochujang; 1 to 2 tsp fresh lime juice; pinch sugar; 1 to 3 tsp water | Stir the sour cream, gochujang, lime juice, and sugar smooth first. Add water 1 tsp at a time only after the base is smooth. |
+
+## Do Not Forget
+
+- This is a one-bowl sauce, not a multi-bowl prep recipe.
+- Prep bowl must include measurements so the cook does not have to return to the ingredient list mid-recipe.
+- Instructions must repeat measurements when ingredients are added.
+- Stir the sour cream, gochujang, lime juice, and sugar completely smooth before thinning.
+- Add water slowly, 1 tsp at a time, so the crema does not become too loose.
+- Taste before adding optional adjustments.
+
 ## Instructions
 
 | Step | Action |
 |---:|---|
-| 1 | Add sour cream, gochujang, lime juice, and sugar to a small bowl. |
+| 1 | Add **1/4 cup sour cream**, **2 tsp gochujang**, **1 to 2 tsp fresh lime juice**, and a **pinch of sugar** to a small bowl. |
 | 2 | Stir until completely smooth and evenly colored. |
-| 3 | Add water 1 teaspoon at a time until the sauce reaches drizzle consistency. |
-| 4 | Taste and adjust. |
+| 3 | Add **1 to 3 tsp water**, **1 tsp at a time**, until the sauce reaches drizzle consistency. |
+| 4 | Taste and adjust only as needed with more lime juice, a tiny pinch more sugar, more sour cream, or extra gochujang. |
+| 5 | Use immediately, or refrigerate until serving. Stir before drizzling. |
 
 <!-- recipe-card:end -->
 
@@ -175,5 +191,6 @@ For dipping or spreading, leave thicker and adjust only after tasting.
 | 2026-06-12 | Filled placeholder condiment file from Amy & Don Gochujang Crema recipe and marked as House Staple / Flavorweaver Canon. |
 | 2026-06-13 | Reduced public pairing relationship to Bold Bulgogi Bowls as the current attached dish. |
 | 2026-06-13 | Relocated source to recipes/korean/condiments/ under the culture-first source canon. |
+| 2026-06-16 | Corrected to one measured prep bowl and added measured instruction steps. |
 
 </details>

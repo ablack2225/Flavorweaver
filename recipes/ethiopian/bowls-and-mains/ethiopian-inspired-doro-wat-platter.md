@@ -9,9 +9,9 @@ cook_time: 1h 30m
 total_time: Overnight marinade + 2h 30m
 servings: 2 generous plates
 measurement_status: documented
-rating_note: Practical repeatable platter with linked traditional paths
+rating_note: Practical repeatable platter with possible Top 10 potential
 repeat_worthy: yes
-hall_of_fame_candidate: false
+hall_of_fame_candidate: true
 hall_of_fame: false
 tags:
   - ethiopian-inspired
@@ -25,23 +25,20 @@ tags:
   - atakilt-wat
   - timatim-salad
   - palate-cleanser
-  - naan-linked-only
-  - injera-linked-only
-  - traditional-upgrade-path
+  - naan
+  - bulk-prep-map
 required_components:
   - House Berbere-Style Spice Blend
   - Doro Wat-Style Chicken & Eggs
   - Split Pea Alicha
   - Atakilt Wat
   - Timatim Salad
-linked_recipes:
   - Fluffy Skillet Naan
-  - Teff Starter & Real Injera
-  - Misir Wat
 pairs_well_with:
-  - Misir Wat
-  - Teff Starter & Real Injera
   - Ethiopian coffee
+  - Spiced black tea
+  - Citrus-honey yogurt cups
+  - Fresh orange slices
 last_updated: 2026-06-16
 ---
 
@@ -49,7 +46,7 @@ last_updated: 2026-06-16
 
 # Ethiopian-Inspired Doro Wat Platter
 
-> A practical complete Ethiopian-inspired plate with berbere-style whole chicken thighs and eggs, Split Pea Alicha, Atakilt Wat, prepared scoop bread for the warm sauced components, and Timatim Salad served on the side as a cool palate cleanser.
+> A practical complete Ethiopian-inspired plate with berbere-style whole chicken thighs and eggs, Split Pea Alicha, Atakilt Wat, warm naan for the sauced components, and Timatim Salad served on the side as a cool palate cleanser.
 
 ## Recipe Dashboard
 
@@ -59,30 +56,30 @@ last_updated: 2026-06-16
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
-| 1h | 1h 30m | Practical repeatable platter with linked traditional paths | Yes |
+| 1h | 1h 30m | Practical repeatable platter with possible Top 10 potential | Yes |
 
 ## Kitchen Execution Summary
 
 | Area | Notes |
 |---|---|
-| Working plate | This platter is built from Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, prepared scoop bread, and Timatim Salad served separately as the cool acidic palate cleanser. |
-| Scoop bread | Serve with prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared [Real Injera](../breads/teff-starter-and-real-injera.md). Use the bread for the warm sauced components: chicken, eggs, Doro sauce, Split Pea Alicha, and Atakilt Wat. Keep Timatim separate unless you intentionally want a fresh bite. |
-| Traditional red-lentil path | [Misir Wat](../sides/misir-wat.md) remains the traditional red-lentil option for a future or alternate version of the plate. |
-| Practical substitution | This working plate uses Split Pea Alicha in place of Misir Wat because yellow split peas are more practical for price and availability. |
+| Working plate | Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, warm naan, and Timatim Salad served separately as the cool acidic palate cleanser. |
+| Scoop bread | Use prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) for the warm sauced components: chicken, eggs, Doro sauce, Split Pea Alicha, and Atakilt Wat. |
+| Palate cleanser | Keep Timatim Salad on the side so it stays cool, crisp, acidic, and refreshing between rich bites. |
+| Practical substitution | Split Pea Alicha is the working plate legume because yellow split peas are practical, affordable, creamy, and a strong balance to the spicy chicken. |
 
 ## Required Components
 
 | Component | Role |
 |---|---|
 | Doro Wat-Style Chicken & Eggs | Whole marinated chicken thighs and hard-boiled eggs simmered in a berbere-style onion sauce. |
-| Split Pea Alicha | The mild, creamy yellow split pea side used in place of Misir Wat for this working version. |
-| Atakilt Wat | The warm cabbage, carrot, and red potato vegetable component. |
-| Timatim Salad | The cool acidic tomato-cucumber palate cleanser. Serve it on the side, separate from the warm sauced components. |
-| Scoop Bread | Use prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared [Real Injera](../breads/teff-starter-and-real-injera.md) for the warm sauced components. |
+| Split Pea Alicha | Mild, creamy yellow split pea side that balances the rich, spicy sauce. |
+| Atakilt Wat | Warm cabbage, carrot, and red potato vegetable component. |
+| Timatim Salad | Cool acidic tomato-cucumber palate cleanser; serve on the side, separate from the warm sauced components. |
+| Naan | Prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) for scooping the warm sauced components. |
 
 ## Full Plate Ingredient Roll-Up
 
-This roll-up covers the working plate components: Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, and Timatim Salad. Prepare scoop bread separately from its linked recipe.
+This roll-up covers the working plate components: Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, Timatim Salad, and prepared naan.
 
 | Component | Ingredients |
 |---|---|
@@ -91,7 +88,7 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 | Doro Wat-Style Chicken & Eggs | 2 whole marinated chicken thighs; 4 hard-boiled eggs; 1 large finely diced onion; 1 to 2 Tbsp unsalted butter or oil; 1 Tbsp House Berbere-Style Spice Blend; 2 minced garlic cloves; 1 tsp ginger; 1 tsp tomato paste; 1 to 1 1/2 cups chicken broth; optional bay leaf; salt, black pepper, and optional lemon correction. |
 | Split Pea Alicha | 1 cup yellow split peas; 3 to 3 1/2 cups water or broth; 1 small onion; 1 to 2 Tbsp unsalted butter or oil; 2 garlic cloves; 1 tsp ginger; 1/2 tsp turmeric; 1/2 tsp cumin; 1/2 tsp coriander; 1/4 tsp black pepper; optional cayenne or berbere; salt; optional lemon. |
 | Atakilt Wat | 2 medium or 3 small red potatoes; 2 carrots; 1/4 to 1/3 small green cabbage; 1 onion; 2 to 3 garlic cloves; 1 Tbsp ginger; optional jalapeño or serrano; 2 Tbsp oil or unsalted butter; turmeric, cumin, black pepper, fenugreek, cardamom or korarima, optional cinnamon/clove, 3/4 tsp kosher salt, and 2 to 4 Tbsp water or broth. |
-| Timatim Salad | 1 large tomato or 2 Roma tomatoes; 1/2 large cucumber or 2 to 3 mini cucumbers; 2 to 3 Tbsp red onion; 1 serrano; 1 Tbsp cilantro; 1 Tbsp parsley; lemon juice, vinegar, oil, garlic, berbere, kosher salt, and black pepper. |
+| Timatim Salad | 1 large tomato or 2 Roma tomatoes; 1/2 large cucumber or 2 to 3 mini cucumbers; 2 to 3 Tbsp red onion; 1 serrano; 1 Tbsp cilantro; 1 Tbsp parsley; lemon juice, rice vinegar, oil, garlic, berbere, kosher salt, and black pepper. |
 
 ## Measured Ingredients by Component
 
@@ -99,84 +96,84 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 2 Tbsp | Paprika | Base color and warmth |
-| 1 to 2 tsp | Cayenne or ground chile | Adjust to heat preference |
+| 2 Tbsp | Paprika | Base color and warmth. |
+| 1 to 2 tsp | Cayenne or ground chile | Adjust to heat preference. |
 | 1 tsp | Ground coriander |  |
-| Optional 1 tsp | Ground ginger | Use if available |
-| 1/2 tsp each | Fenugreek, cumin, garlic powder, onion powder | Use fenugreek lightly |
-| 1/4 tsp each | Ground cardamom, black pepper | Go light if cardamom reads strong |
-| 1/8 tsp each | Ground clove, cinnamon | Use clove lightly |
+| Optional 1 tsp | Ground ginger | Use if available. |
+| 1/2 tsp each | Fenugreek, cumin, garlic powder, onion powder | Use fenugreek lightly. |
+| 1/4 tsp each | Ground cardamom, black pepper | Go light if cardamom reads strong. |
+| 1/8 tsp each | Ground clove, cinnamon | Use clove lightly. |
 | Optional | 1/8 tsp allspice; 1/4 tsp turmeric |  |
 
 ### Doro Wat-Style Chicken & Eggs
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 2 small | Whole chicken thighs | Leave whole |
-| 4 large | Hard-boiled eggs | 2 per plate |
-| 2 Tbsp total | House Berbere-Style Spice Blend | 1 Tbsp for marinade; 1 Tbsp for sauce base |
-| 1 Tbsp | Oil | For marinade |
-| 1 Tbsp | Lemon juice | For marinade |
-| 4 cloves total | Garlic | 2 cloves for marinade; 2 cloves for sauce |
-| 1/2 tsp | Salt | For marinade |
-| 1/4 tsp | Black pepper | For marinade; add more to sauce only if needed |
-| 1 large | Onion | Finely diced for sauce body |
-| 1 to 2 Tbsp | Unsalted butter or oil | For sauce base |
+| 2 small | Whole chicken thighs | Leave whole. |
+| 4 large | Hard-boiled eggs | 2 per plate. |
+| 2 Tbsp total | House Berbere-Style Spice Blend | 1 Tbsp for marinade; 1 Tbsp for sauce base. |
+| 1 Tbsp | Oil | For marinade. |
+| 1 Tbsp | Lemon juice | For marinade. |
+| 4 cloves total | Garlic | 2 cloves for marinade; 2 cloves for sauce. |
+| 1/2 tsp | Salt | For marinade. |
+| 1/4 tsp | Black pepper | For marinade; add more to sauce only if needed. |
+| 1 large | Onion | Finely diced for sauce body. |
+| 1 to 2 Tbsp | Unsalted butter or oil | For sauce base. |
 | 1 tsp | Fresh ginger or ginger paste |  |
-| 1 tsp | Tomato paste | Optional but recommended |
-| 1 to 1 1/2 cups | Chicken broth | Start with 1 cup; add more as needed |
-| Optional | 1 bay leaf; small squeeze lemon | Use lemon only as a final correction |
+| 1 tsp | Tomato paste | Optional but recommended. |
+| 1 to 1 1/2 cups | Chicken broth | Start with 1 cup; add more as needed. |
+| Optional | 1 bay leaf; small squeeze lemon | Use lemon only as a final correction. |
 
 ### Split Pea Alicha
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 cup | Yellow split peas | Rinsed well |
-| 3 to 3 1/2 cups | Water or broth | Start with 3 cups |
-| 1 small | Onion | Finely diced |
+| 1 cup | Yellow split peas | Rinsed well. |
+| 3 to 3 1/2 cups | Water or broth | Start with 3 cups. |
+| 1 small | Onion | Finely diced. |
 | 1 to 2 Tbsp | Unsalted butter or oil |  |
-| 2 cloves | Garlic | Minced |
+| 2 cloves | Garlic | Minced. |
 | 1 tsp | Fresh ginger or ginger paste |  |
 | 1/2 tsp each | Turmeric, cumin, coriander |  |
 | 1/4 tsp | Black pepper |  |
-| Optional | Small pinch cayenne or berbere; lemon juice | Use lemon only if heavy or flat |
-| To taste | Salt | Add near the end |
+| Optional | Small pinch cayenne or berbere; lemon juice | Use lemon only if heavy or flat. |
+| To taste | Salt | Add near the end. |
 
 ### Atakilt Wat
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 2 medium or 3 small | Red potatoes | Unpeeled, scrubbed, cut into 3/4-inch chunks or thick half-moons |
-| 2 | Carrots | Bias-sliced 1/4-inch thick |
-| 1/4 to 1/3 small | Green cabbage | Chopped |
-| 1 | Onion | Thin half-moons |
-| 2 to 3 cloves | Garlic | Minced |
+| 2 medium or 3 small | Red potatoes | Unpeeled, scrubbed, cut into 3/4-inch chunks or thick half-moons. |
+| 2 | Carrots | Bias-sliced 1/4-inch thick. |
+| 1/4 to 1/3 small | Green cabbage | Chopped. |
+| 1 | Onion | Thin half-moons. |
+| 2 to 3 cloves | Garlic | Minced. |
 | 1 Tbsp | Fresh ginger or ginger paste |  |
-| Optional 1 | Jalapeño or serrano | Finely minced |
+| Optional 1 | Jalapeño or serrano | Finely minced. |
 | 2 Tbsp | Oil, unsalted butter, or both |  |
 | 1 tsp | Turmeric |  |
 | 1/2 tsp | Cumin |  |
 | 1/4 tsp | Black pepper |  |
-| 1/8 tsp each | Fenugreek; green cardamom or korarima | Use measured amounts |
+| 1/8 tsp each | Fenugreek; green cardamom or korarima | Use measured amounts. |
 | Optional | Tiny pinch cinnamon; tiny pinch clove; tiny squeeze lemon |  |
-| 3/4 tsp | Kosher salt | Measured salt; do not remove |
+| 3/4 tsp | Kosher salt | Measured salt; do not remove. |
 | 2 to 4 Tbsp | Water or broth |  |
 
 ### Timatim Salad
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 large or 2 Roma | Tomato | Diced |
-| 1/2 large or 2 to 3 mini | Cucumber | Diced |
-| 2 to 3 Tbsp | Red onion | Finely diced or thinly sliced |
-| 1 | Serrano | Finely minced |
-| 1 Tbsp each | Fresh cilantro and parsley | Chopped |
+| 1 large or 2 Roma | Tomato | Diced. |
+| 1/2 large or 2 to 3 mini | Cucumber | Diced. |
+| 2 to 3 Tbsp | Red onion | Finely diced or thinly sliced. |
+| 1 | Serrano | Finely minced. |
+| 1 Tbsp each | Fresh cilantro and parsley | Chopped. |
 | 1 1/2 Tbsp | Fresh lemon juice |  |
-| 1 Tbsp | White vinegar or rice vinegar |  |
+| 1 Tbsp | Rice vinegar |  |
 | 1 1/2 Tbsp | Olive oil or neutral oil |  |
-| 1 small clove | Garlic | Grated or very finely minced |
+| 1 small clove | Garlic | Grated or very finely minced. |
 | 1/4 tsp | Berbere |  |
-| 1/2 tsp | Kosher salt | Measured salt; do not remove |
+| 1/2 tsp | Kosher salt | Measured salt; do not remove. |
 | 1/4 tsp | Black pepper |  |
 
 ## Cross-Component Bulk Prep Map
@@ -187,8 +184,7 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 - **Vegetables to cut:** prep **2 medium or 3 small red potatoes**, **2 carrots**, **1/4 to 1/3 small green cabbage**, **1 large or 2 Roma tomatoes**, and **1/2 large cucumber or 2 to 3 mini cucumbers**. Keep potato/carrot/cabbage for Atakilt Wat separate from tomato/cucumber for Timatim Salad.
 - **Chiles and herbs:** prep **1 serrano** for Timatim Salad, optional **1 jalapeño or serrano** for Atakilt Wat, **1 Tbsp chopped cilantro**, and **1 Tbsp chopped parsley**.
 - **Eggs:** cook, chill, peel, and lightly score or prick **4 large eggs** so they are ready to stain in the Doro sauce.
-- **Prepared bread:** prepare or rewarm naan or injera from its own recipe so it is ready for final plating.
-- **Traditional red-lentil option:** choose Misir Wat when intentionally making the traditional red-lentil version instead of this Split Pea Alicha working plate.
+- **Naan:** prepare or rewarm naan so it is ready for final plating.
 
 ## Stage-Based Prep Bowls
 
@@ -226,13 +222,12 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 |---|---|---|
 | Bowl 1 — Vegetables | 1 large or 2 Roma tomatoes; 1/2 large cucumber or 2 to 3 mini cucumbers; 2 to 3 Tbsp red onion | Dice small enough to spoon. |
 | Bowl 2 — Heat & Herbs | 1 serrano; 1 Tbsp cilantro; 1 Tbsp parsley | Serrano is part of the recipe. |
-| Bowl 3 — Dressing | 1 1/2 Tbsp lemon juice; 1 Tbsp vinegar; 1 1/2 Tbsp oil; 1 grated garlic clove; 1/4 tsp berbere; 1/2 tsp kosher salt; 1/4 tsp black pepper | Whisk separately. |
+| Bowl 3 — Dressing | 1 1/2 Tbsp lemon juice; 1 Tbsp rice vinegar; 1 1/2 Tbsp oil; 1 grated garlic clove; 1/4 tsp berbere; 1/2 tsp kosher salt; 1/4 tsp black pepper | Whisk separately. |
 
 ## Do Not Forget
 
-- Use Split Pea Alicha for the working plate. Choose Misir Wat only when intentionally making the traditional red-lentil version.
-- Prepare naan or injera separately and have it ready before final plating.
-- Use the bread for the warm sauced components: chicken, eggs, Doro sauce, Split Pea Alicha, and Atakilt Wat.
+- Prepare naan separately and have it ready before final plating.
+- Use the naan for the warm sauced components: chicken, eggs, Doro sauce, Split Pea Alicha, and Atakilt Wat.
 - Keep Timatim Salad on the side as the cool acidic palate cleanser. It can be eaten as a fresh bite, but it is not meant to be mixed into the Doro sauce or warm sides.
 - Start Split Pea Alicha first because it needs the longest steady simmer and can hold warm.
 - Atakilt Wat should be tender but not watery; add only small splashes of water or broth as needed.
@@ -245,7 +240,7 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 |---:|---|
 | 1 | **Day before — make the spice blend.** Measure the House Berbere-Style Spice Blend. Reserve **1 Tbsp** for the chicken marinade and **1 Tbsp** for the Doro sauce base. |
 | 2 | **Day before — marinate the chicken.** Coat **2 whole chicken thighs** with **1 Tbsp berbere blend**, **1 Tbsp oil**, **1 Tbsp lemon juice**, **2 minced garlic cloves**, **1/2 tsp salt**, and **1/4 tsp black pepper**. Cover and refrigerate overnight. |
-| 3 | **Bread planning.** Prepare [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or [Real Injera](../breads/teff-starter-and-real-injera.md) from its own recipe so it is ready before final plating. |
+| 3 | **Bread planning.** Prepare [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) from its own recipe so it is ready before final plating. |
 | 4 | **Start Split Pea Alicha first.** Rinse **1 cup yellow split peas**. Cook **1 small onion** in **1 to 2 Tbsp butter or oil** until softened. Add **2 minced garlic cloves**, **1 tsp ginger**, **1/2 tsp turmeric**, **1/2 tsp cumin**, **1/2 tsp coriander**, **1/4 tsp black pepper**, and optional cayenne or berbere. Add split peas and **3 cups water or broth**; simmer **40 to 60 minutes**, adding up to **1/2 cup more liquid** as needed. |
 | 5 | **Finish Split Pea Alicha.** Mash **1/3 to 1/2** of the peas for creamy body. Season with salt near the end; add lemon only if heavy or flat. Hold warm. |
 | 6 | **Hard-boil eggs.** Cook **4 large eggs**, chill in an ice bath, peel, and lightly score or prick so sauce can cling. |
@@ -256,54 +251,56 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 | 11 | **Finish Atakilt Wat.** Add **2 medium or 3 small red potatoes** and **2 carrots**. Add **2 to 4 Tbsp water or broth**, cover, and cook **8 to 12 minutes**. Add **1/4 to 1/3 small chopped cabbage**, cover again, and cook **8 to 12 more minutes** until tender but not watery. |
 | 12 | **Sauce the eggs.** During the last **10 to 15 minutes** of the Doro sauce, nestle the **4 peeled eggs** into the sauce. Spoon sauce over them and turn gently so they stain evenly. |
 | 13 | **Thicken Doro sauce.** Uncover and simmer **5 to 10 minutes** until the sauce clings to the whole thighs and eggs. Adjust with salt, black pepper, lemon, or tiny sugar only if needed. |
-| 14 | **Make Timatim Salad near the end.** Combine **1 large or 2 Roma diced tomatoes**, **1/2 large cucumber or 2 to 3 mini cucumbers**, **2 to 3 Tbsp red onion**, **1 serrano**, **1 Tbsp cilantro**, and **1 Tbsp parsley**. Whisk **1 1/2 Tbsp lemon juice**, **1 Tbsp vinegar**, **1 1/2 Tbsp oil**, **1 grated garlic clove**, **1/4 tsp berbere**, **1/2 tsp kosher salt**, and **1/4 tsp black pepper**. Toss and rest **20 to 30 minutes**. Hold on the side as the cool palate cleanser. |
-| 15 | **Rewarm prepared bread.** Warm naan or keep injera covered and flexible for the warm sauced components. |
+| 14 | **Make Timatim Salad near the end.** Combine **1 large or 2 Roma diced tomatoes**, **1/2 large cucumber or 2 to 3 mini cucumbers**, **2 to 3 Tbsp red onion**, **1 serrano**, **1 Tbsp cilantro**, and **1 Tbsp parsley**. Whisk **1 1/2 Tbsp lemon juice**, **1 Tbsp rice vinegar**, **1 1/2 Tbsp oil**, **1 grated garlic clove**, **1/4 tsp berbere**, **1/2 tsp kosher salt**, and **1/4 tsp black pepper**. Toss and rest **20 to 30 minutes**. Hold on the side as the cool palate cleanser. |
+| 15 | **Rewarm prepared naan.** Warm naan for the warm sauced components. |
 
 ## Building the Final Plate
 
 | Layer | Build Detail |
 |---|---|
-| 1. Scoop Bread | Place prepared naan or injera beside the warm sauced components. Use it to scoop the chicken, eggs, Doro sauce, Split Pea Alicha, and Atakilt Wat. |
+| 1. Naan | Place prepared naan beside the warm sauced components. Use it to scoop the chicken, eggs, Doro sauce, Split Pea Alicha, and Atakilt Wat. |
 | 2. Chicken Anchor | Place **1 whole Doro Wat-style chicken thigh** on each plate. Spoon sauce over the top so the whole thigh stays glossy. |
 | 3. Eggs | Add **2 sauced eggs per plate**, nestled near the chicken with extra sauce spooned over them. |
-| 4. Split Pea Alicha | Add a generous spoon of the warm yellow Split Pea Alicha beside the chicken. This is the working plate substitute for Misir Wat. |
+| 4. Split Pea Alicha | Add a generous spoon of the warm yellow Split Pea Alicha beside the chicken. |
 | 5. Atakilt Wat | Add Atakilt Wat near the alicha so the soft vegetables and creamy stew sit together without mixing completely. |
-| 6. Timatim Salad | Place Timatim Salad on the side of the plate as the cool acidic palate cleanser. Keep it separate from the warm sauced components so it stays crisp, bright, and refreshing. It may be eaten with bread as a fresh bite, but it is not meant to be mixed into the Doro sauce or warm sides. |
+| 6. Timatim Salad | Place Timatim Salad on the side of the plate as the cool acidic palate cleanser. Keep it separate from the warm sauced components so it stays crisp, bright, and refreshing. It may be eaten with naan as a fresh bite, but it is not meant to be mixed into the Doro sauce or warm sides. |
 | 7. Final Sauce Check | Spoon extra Doro sauce over the chicken and eggs only. Keep Timatim bright and do not flood the plate. |
 
 ## Final Taste Target
 
 The plate should move between spicy rich Doro sauce, tender whole-thigh chicken, sauced eggs, mild creamy Split Pea Alicha, warm Atakilt Wat, and sharp fresh Timatim Salad.
 
-The bread should make the warm sauced components scoopable. Timatim should stay cool and separate as the palate cleanser between rich bites.
+Naan makes the warm sauced components scoopable. Timatim should stay cool and separate as the palate cleanser between rich bites.
 
 <!-- recipe-card:end -->
 
-## Linked Recipes
+## Pairs Well With
 
-| Type | Pairing | Notes |
-|---|---|---|
-| Practical scoop bread | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Prepare separately. |
-| Traditional bread path | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Prepare separately. |
-| Traditional red-lentil path | [Misir Wat](../sides/misir-wat.md) | Traditional red-lentil path for an alternate version of the plate. |
+| Pairing | Notes |
+|---|---|
+| Ethiopian coffee | Bitter, aromatic contrast after the rich Doro-style sauce. |
+| Spiced black tea | Warm, cozy pairing that keeps the meal grounded without adding heaviness. |
+| Citrus-honey yogurt cups | Light dessert idea with orange, honey, vanilla yogurt, and a little toasted pistachio or sesame. |
+| Fresh orange slices | Simple bright finish if the plate feels rich. |
 
 ## Chef's Notes
 
 This is intentionally Ethiopian-inspired because the working version uses practical substitutions for ingredients that can be expensive, delayed, or hard to source.
 
-Split Pea Alicha is used in place of Misir Wat in this working plate due to price and availability. Misir Wat remains linked as the traditional red-lentil direction.
-
 Do not remove the measured salt from Atakilt Wat or Timatim Salad. Unsalted butter is for salt control, not salt omission.
+
+For a more traditional Ethiopian-style version, replace Split Pea Alicha with Misir Wat and replace naan with real injera. That version requires separate planning because injera is a fermentation project.
 
 <details>
 <summary>Change Log</summary>
 
 | Date | Change |
 |---|---|
-| 2026-06-16 | Converted to integrated current recipe-card format. Added Cross-Component Prep Map, integrated Split Pea Alicha, Atakilt Wat, and Timatim Salad, and kept Misir Wat/Naan/Injera as linked recipes. |
+| 2026-06-16 | Converted to integrated current recipe-card format. Added Cross-Component Prep Map, integrated Split Pea Alicha, Atakilt Wat, and Timatim Salad. |
 | 2026-06-16 | Removed internal build-note language from public-facing recipe source. |
 | 2026-06-16 | Updated Cross-Component Prep Map to show total needed across the plate before the component breakdown. |
 | 2026-06-16 | Limited Cross-Component Prep Map to bulk hands-on prep items instead of spice or seasoning totals. |
 | 2026-06-16 | Clarified Timatim Salad as a side palate cleanser, not part of the warm sauced scoop. |
+| 2026-06-16 | Simplified working plate to naan only, changed Timatim to rice vinegar, and moved Misir Wat/Injera to Chef's Notes only. |
 
 </details>

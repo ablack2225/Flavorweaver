@@ -32,6 +32,25 @@ pairs_well_with:
 last_updated:
 ---
 
+<!--
+  WORLD-CULTURE RECIPE SOURCE TEMPLATE
+
+  Use this file for standalone Don & Amy world-culture recipes and reusable components:
+  - main dishes
+  - sauces
+  - breads
+  - condiments
+  - sides
+  - salads
+  - pickles
+  - component recipes used inside complete meals
+
+  Do not use this template for complete bowls, complete plates, platters, or featured project meals.
+  Use docs/templates/featured-meal-master-template.md for those.
+
+  Public HTML pages should use docs/templates/world-culture-recipe-canon-template.html.
+-->
+
 <!-- recipe-card:start -->
 
 # Recipe Title
@@ -50,7 +69,7 @@ last_updated:
 
 ## Kitchen Execution Summary
 
-Use this section to describe how the recipe behaves in the kitchen.
+Use this section to describe how the standalone recipe behaves in the kitchen.
 
 | Execution Point | Notes |
 |---|---|
@@ -141,7 +160,9 @@ Use paragraph-style instructions. Repeat measurements in the step when doing so 
 
 ## Required Components
 
-Use this section only when the recipe requires another reusable recipe to be complete.
+Use this section only when the standalone recipe requires another reusable recipe to be complete.
+
+Do not use this section to build a full complete meal; use `featured-meal-master-template.md` instead.
 
 | Amount | Component | Role in this recipe |
 |---:|---|---|
@@ -257,6 +278,6 @@ Add kitchen observations, practical tips, missing-detail discoveries, and future
 
 | Date | Change |
 |---|---|
-|  | Created recipe file. |
+|  | Created standalone world-culture recipe source file. |
 
 </details>

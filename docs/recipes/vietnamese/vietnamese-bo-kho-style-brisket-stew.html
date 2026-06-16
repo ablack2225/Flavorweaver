@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="../../site.css?v=20260613-01" />
   <link rel="stylesheet" href="../../readability.css?v=20260613-01" />
   <link rel="stylesheet" href="../../premium-recipe.css?v=20260613-05" />
+  <link rel="stylesheet" href="../../recipe-print.css?v=20260616-01" />
 </head>
 <body>
   <header class="site-topbar">
@@ -24,6 +25,7 @@
       <p class="recipe-summary">A tomato-rich, deeply aromatic Vietnamese-inspired brisket stew with lemongrass, ginger, garlic, controlled Chinese five-spice, fish sauce depth, required water for balance, and tender carrots.</p>
 
       <div class="recipe-meta-grid"><div class="recipe-meta-item"><strong>Prep</strong>35 min</div><div class="recipe-meta-item"><strong>Cook</strong>3 hr 15 min–4 hr</div><div class="recipe-meta-item"><strong>Marinate</strong>2 hr–overnight</div><div class="recipe-meta-item"><strong>Serves</strong>4 hearty servings</div></div>
+      <button class="print-recipe-button" type="button" onclick="printRecipeCard()">🖨️ Print Recipe</button>
 
       <section class="recipe-section"><h2>Kitchen Execution Summary</h2><div class="premium-component-grid"><div class="premium-component-card"><h3>Recipe Role</h3><p>Stew-only component for the Bò Kho-style brisket stew bowl.</p></div><div class="premium-component-card"><h3>Best Texture</h3><p>Tender brisket chunks, glossy broth, carrots tender but not collapsing.</p></div><div class="premium-component-card"><h3>Key Aromatics</h3><p>Lemongrass, ginger, garlic, onion, bay, controlled five-spice.</p></div><div class="premium-component-card"><h3>Critical Balance</h3><p>Rich beef and tomato depth need fish sauce/salt first, required water for dilution and balance, then lime or rice vinegar for brightness.</p></div></div><div class="premium-chef-notes"><p><strong>Live-test correction:</strong> Do not use whole star anise in the pot when the five-spice blend already contains anise/star anise. Do not add leftover marinade back to the braise. Add the required water even if broth already covers the meat.</p></div></section>
 
@@ -40,5 +42,13 @@
       <section class="recipe-section"><h2>Chef's Notes</h2><div class="premium-chef-notes"><p>This is the stew-only component for the Vietnamese Bò Kho-Style Brisket Stew Bowl.</p><p>Five-spice should support the stew, not dominate it. If the five-spice blend already contains anise and star anise, do not add a whole star anise pod to the pot.</p><p>Do not add leftover marinade to the braise; it carries concentrated five-spice/anise flavor. Add the required water even when broth coverage looks sufficient because the water prevents over-concentrated spice and salt.</p></div></section>
     </article>
   </main>
+  <script>
+    function printRecipeCard() {
+      document.querySelectorAll('details').forEach(function(detail) {
+        detail.setAttribute('open', 'open');
+      });
+      window.print();
+    }
+  </script>
 </body>
 </html>

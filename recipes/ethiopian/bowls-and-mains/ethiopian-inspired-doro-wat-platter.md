@@ -178,15 +178,15 @@ This roll-up covers the working plate components: Doro Wat-style chicken and egg
 | 1/2 tsp | Kosher salt | Measured salt; do not remove |
 | 1/4 tsp | Black pepper |  |
 
-## Cross-Component Prep Map
+## Cross-Component Bulk Prep Map
 
-- **Berbere / spice blend total:** **2 Tbsp + 1/4 tsp prepared berbere-style blend total** — **1 Tbsp** for the overnight chicken marinade, **1 Tbsp** for the Doro Wat-style sauce base, and **1/4 tsp** for the Timatim dressing. Add only an optional small pinch to Split Pea Alicha if extra warmth is wanted.
-- **Garlic total:** **9 to 10 cloves total** — **2 cloves** for the chicken marinade, **2 cloves** for the Doro sauce, **2 cloves** for Split Pea Alicha, **2 to 3 cloves** for Atakilt Wat, and **1 small clove** for Timatim Salad.
-- **Ginger total:** **5 tsp total** / **1 Tbsp + 2 tsp** — **1 tsp** for Doro sauce, **1 tsp** for Split Pea Alicha, and **1 Tbsp** for Atakilt Wat.
-- **Onion total:** **1 large onion + 1 small onion + 1 sliced onion + 2 to 3 Tbsp red onion** — large finely diced onion for Doro sauce, small finely diced onion for Split Pea Alicha, sliced onion for Atakilt Wat, and red onion for Timatim Salad.
-- **Acid total:** **2 1/2 Tbsp fresh lemon juice + 1 Tbsp vinegar**, plus optional lemon for final corrections — **1 Tbsp lemon juice** for the chicken marinade, **1 1/2 Tbsp lemon juice** and **1 Tbsp vinegar** for Timatim Salad, and optional tiny lemon only if Doro, Split Pea, or Atakilt tastes flat.
-- **Measured salt total:** **1 3/4 tsp kosher salt plus final seasoning to taste** — **1/2 tsp** in the chicken marinade, **3/4 tsp** in Atakilt Wat, and **1/2 tsp** in Timatim Salad. Split Pea Alicha and Doro sauce are salted near the end after simmering.
-- **Prepared bread:** prepare naan or injera from its own recipe so it is ready for final plating.
+- **Garlic total:** prep **9 to 10 cloves total** at once — **2 minced cloves** for the chicken marinade, **2 minced cloves** for the Doro sauce, **2 minced cloves** for Split Pea Alicha, **2 to 3 minced cloves** for Atakilt Wat, and **1 small grated or very finely minced clove** for Timatim Salad.
+- **Ginger total:** prep **1 Tbsp + 2 tsp ginger total** — **1 tsp** for Doro sauce, **1 tsp** for Split Pea Alicha, and **1 Tbsp** for Atakilt Wat.
+- **Onion / allium total:** prep **1 large yellow onion, 1 small yellow onion, 1 sliced onion, and 2 to 3 Tbsp red onion** — large finely diced onion for Doro sauce, small finely diced onion for Split Pea Alicha, sliced onion for Atakilt Wat, and red onion for Timatim Salad.
+- **Vegetables to cut:** prep **2 medium or 3 small red potatoes**, **2 carrots**, **1/4 to 1/3 small green cabbage**, **1 large or 2 Roma tomatoes**, and **1/2 large cucumber or 2 to 3 mini cucumbers**. Keep potato/carrot/cabbage for Atakilt Wat separate from tomato/cucumber for Timatim Salad.
+- **Chiles and herbs:** prep **1 serrano** for Timatim Salad, optional **1 jalapeño or serrano** for Atakilt Wat, **1 Tbsp chopped cilantro**, and **1 Tbsp chopped parsley**.
+- **Eggs:** cook, chill, peel, and lightly score or prick **4 large eggs** so they are ready to stain in the Doro sauce.
+- **Prepared bread:** prepare or rewarm naan or injera from its own recipe so it is ready for final plating.
 - **Traditional red-lentil option:** choose Misir Wat when intentionally making the traditional red-lentil version instead of this Split Pea Alicha working plate.
 
 ## Stage-Based Prep Bowls
@@ -300,5 +300,6 @@ Do not remove the measured salt from Atakilt Wat or Timatim Salad. Unsalted butt
 | 2026-06-16 | Converted to integrated current recipe-card format. Added Cross-Component Prep Map, integrated Split Pea Alicha, Atakilt Wat, and Timatim Salad, and kept Misir Wat/Naan/Injera as linked recipes. |
 | 2026-06-16 | Removed internal build-note language from public-facing recipe source. |
 | 2026-06-16 | Updated Cross-Component Prep Map to show total needed across the plate before the component breakdown. |
+| 2026-06-16 | Limited Cross-Component Prep Map to bulk hands-on prep items instead of spice or seasoning totals. |
 
 </details>

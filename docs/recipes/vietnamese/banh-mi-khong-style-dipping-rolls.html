@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="../../site.css?v=20260613-01" />
   <link rel="stylesheet" href="../../readability.css?v=20260613-01" />
   <link rel="stylesheet" href="../../premium-recipe.css?v=20260613-05" />
+  <link rel="stylesheet" href="../../recipe-print.css?v=20260616-01" />
 </head>
 <body>
   <header class="site-topbar">
@@ -26,6 +27,7 @@
       <div class="recipe-meta-grid"><div class="recipe-meta-item"><strong>Prep</strong>20 min</div><div class="recipe-meta-item"><strong>Rise</strong>1 hr 35 min-2 hr 15 min</div><div class="recipe-meta-item"><strong>Bake</strong>18-22 min</div><div class="recipe-meta-item"><strong>Yield</strong>4 small rolls</div></div>
 
       <div class="recipe-tag-row"><span class="recipe-tag">bánh mì</span><span class="recipe-tag">active dry yeast</span><span class="recipe-tag">crisp crust</span><span class="recipe-tag">airy crumb</span><span class="recipe-tag">bò kho pairing</span></div>
+      <button class="print-recipe-button" type="button" onclick="printRecipeCard()">🖨️ Print Recipe</button>
 
       <section class="recipe-section"><h2>Kitchen Execution Summary</h2><div class="premium-component-grid"><div class="premium-component-card"><h3>Meal Role</h3><p>Fresh dipping bread for Vietnamese Bò Kho-style brisket stew.</p></div><div class="premium-component-card"><h3>Best Texture</h3><p>Thin crisp crust, airy interior, light chew.</p></div><div class="premium-component-card"><h3>Key Technique</h3><p>Active dry yeast bloom at 105°F-108°F, gentle counter shaping, covered final proof, hot oven, steam.</p></div><div class="premium-component-card"><h3>Timing Rule</h3><p>Start dough early; bake close to serving.</p></div></div></section>
 
@@ -46,5 +48,13 @@
 
     <aside class="recipe-sidebar-card"><h2>Pairs Well With</h2><ul class="pairing-menu"><li><strong><a href="vietnamese-bo-kho-style-brisket-stew.html">Vietnamese Bò Kho-Style Brisket Stew</a></strong><span>The intended stew pairing for these dipping rolls.</span></li></ul></aside>
   </main>
+  <script>
+    function printRecipeCard() {
+      document.querySelectorAll('details').forEach(function(detail) {
+        detail.setAttribute('open', 'open');
+      });
+      window.print();
+    }
+  </script>
 </body>
 </html>

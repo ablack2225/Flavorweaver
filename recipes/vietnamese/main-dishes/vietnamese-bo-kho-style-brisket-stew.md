@@ -28,7 +28,6 @@ tags:
   - component recipe
 
 pairs_well_with:
-  - banh-mi-khong-style-dipping-rolls
   - asian-pickled-garden-vegetables
   - vietnamese-bo-kho-style-brisket-stew-plate
 

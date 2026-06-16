@@ -251,6 +251,7 @@ These collapsible reference sections are for checking component quantities only.
 - Remove the bay leaves and star anise before serving.
 - Do not add sesame oil or sesame seeds to the Bò Kho pickles.
 - Finish the pickles only near service with lime, cilantro, and optional serrano.
+- Cover shaped rolls during their final rise so the surface does not dry out.
 - Bake the rolls close to serving so the crust stays crisp.
 - Taste the stew before plating and adjust salt, acid, sweetness, heat, and black pepper.
 
@@ -286,19 +287,21 @@ These collapsible reference sections are for checking component quantities only.
 
 15. **During the final 35 to 45 minutes of stew cooking, add Vegetable Bowl 1 — Carrots.** Add **3 large carrots cut into thick diagonal pieces** to the stew and simmer until tender but not collapsing.
 
-16. **About 1 hour 15 minutes before serving, shape the rolls.** Divide the dough into **4 pieces** and shape into short baguette-style rolls. Place the shaped rolls on parchment or a lightly floured baking sheet. Let rise **35 to 45 minutes**, until puffy.
+16. **About 1 hour 15 minutes before serving, shape the rolls.** Divide the dough into **4 pieces**. Shape each piece on the counter, not like rolling a meatball in your hands: gently flatten it into a small oval or rectangle, fold the top third down toward the center and press the seam lightly, fold the bottom third up over it, pinch the seam closed, then place it seam-side down. With both hands, gently roll from the center outward on the counter until it forms a short baguette or torpedo shape. If the dough springs back, rest it **5 to 10 minutes**, then finish shaping. Place the shaped rolls on parchment or a lightly floured baking sheet.
 
-17. **About 35 minutes before serving, preheat the oven for the rolls.** Heat the oven to **450°F** with an empty metal steam pan on the lower rack.
+17. **Cover the shaped rolls for their final rise.** Cover loosely with lightly oiled plastic wrap, or use a clean kitchen towel if the kitchen is not dry. Use a lightly damp towel if the air is dry. Let rise **35 to 45 minutes**, until puffy and slightly expanded. They do not need to fully double after shaping.
 
-18. **Bake the rolls close to service.** Slash the rolls just before baking. Place them in the oven, carefully pour **1 cup hot water** into the steam pan, and bake **18 to 22 minutes**, until deeply golden, crisp, and firm. Vent steam carefully when opening the oven. Cool **10 to 15 minutes** before tearing.
+18. **About 35 minutes before serving, preheat the oven for the rolls.** Heat the oven to **450°F** with an empty metal steam pan on the lower rack.
 
-19. **About 15 minutes before service, finish Pickle Bowl 2 — Vietnamese / Bò Kho Finish.** Drain the pickled vegetables lightly. Finish with fresh lime juice to taste, cilantro to taste, and optional thin-sliced serrano. Do not add sesame oil or sesame seeds for this Bò Kho plate.
+19. **Bake the rolls close to service.** Uncover the rolls, slash them just before baking, place them in the oven, carefully pour **1 cup hot water** into the steam pan, and bake **18 to 22 minutes**, until deeply golden, crisp, and firm. Vent steam carefully when opening the oven. Cool **10 to 15 minutes** before tearing.
 
-20. **Prepare Garnish Bowl 1 — Table Finish.** Cut lime wedges, slice green onion, thin-slice serrano, gather cilantro, set out fresh black pepper, and place sriracha on the table.
+20. **About 15 minutes before service, finish Pickle Bowl 2 — Vietnamese / Bò Kho Finish.** Drain the pickled vegetables lightly. Finish with fresh lime juice to taste, cilantro to taste, and optional thin-sliced serrano. Do not add sesame oil or sesame seeds for this Bò Kho plate.
 
-21. **Finish the stew.** Remove the **2 bay leaves** and **1 star anise pod**. Taste and adjust with fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift. Rest **10 minutes**.
+21. **Prepare Garnish Bowl 1 — Table Finish.** Cut lime wedges, slice green onion, thin-slice serrano, gather cilantro, set out fresh black pepper, and place sriracha on the table.
 
-22. **Serve the full plate.** Serve hot Bò Kho brisket stew in bowls with fresh dipping rolls, pickled vegetables beside the stew, lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, and sriracha at the table.
+22. **Finish the stew.** Remove the **2 bay leaves** and **1 star anise pod**. Taste and adjust with fish sauce or kosher salt if flat, lime juice or rice vinegar if heavy, a small pinch of sugar if sharp, sriracha if more warmth is wanted, and fresh black pepper for lift. Rest **10 minutes**.
+
+23. **Serve the full plate.** Serve hot Bò Kho brisket stew in bowls with fresh dipping rolls, pickled vegetables beside the stew, lime wedges, cilantro, sliced green onion, thin-sliced serrano, black pepper, and sriracha at the table.
 
 ## Final Taste Target
 

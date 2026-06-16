@@ -46,8 +46,8 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     culture: 'Vietnamese Inspired',
     category: 'Main Dish',
     status: 'Working Recipe',
-    ingredients: ['brisket', 'fish sauce', 'soy sauce', 'tomato paste', 'ginger', 'garlic', 'lemongrass', 'five-spice', 'star anise', 'beef broth', 'carrots'],
-    tags: ['bo kho', 'bò kho', 'brisket', 'beef stew', 'lemongrass', 'star anise', 'component recipe']
+    ingredients: ['brisket', 'fish sauce', 'soy sauce', 'tomato paste', 'ginger', 'garlic', 'lemongrass', 'five-spice', 'beef broth', 'water', 'carrots'],
+    tags: ['bo kho', 'bò kho', 'brisket', 'beef stew', 'lemongrass', 'five spice', 'component recipe']
   },
   {
     title: 'Bánh Mì Không-Style Dipping Rolls',
@@ -57,17 +57,17 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Bread',
     status: 'Working Recipe',
     ingredients: ['all-purpose flour', 'bread flour', 'active dry yeast', 'sugar', 'water', 'salt', 'neutral oil', 'lime juice'],
-    tags: ['banh mi', 'bánh mì', 'bread', 'dipping rolls', 'active dry yeast', 'bo kho pairing']
+    tags: ['banh mi', 'bánh mì', 'bread', 'dipping rolls', 'active dry yeast', 'optional bread service']
   },
   {
-    title: 'Vietnamese Bò Kho-Style Brisket Stew Plate',
+    title: 'Vietnamese Bò Kho-Style Brisket Stew Noodle Bowl',
     path: 'recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html',
     collection: 'House Recipes',
     culture: 'Vietnamese Inspired',
     category: 'Featured Meal',
     status: 'Working Recipe',
-    ingredients: ['brisket stew', 'banh mi rolls', 'asian pickled garden vegetables', 'lime', 'cilantro', 'green onion', 'serrano', 'sriracha', 'lemongrass', 'star anise', 'fish sauce'],
-    tags: ['bo kho', 'bò kho', 'featured meal', 'project meal', 'bread dipping meal', 'complete plate', 'plate recipe']
+    ingredients: ['brisket stew', 'wide rice noodles', 'asian pickled garden vegetables', 'lime', 'cilantro', 'green onion', 'serrano', 'sriracha', 'lemongrass', 'fish sauce'],
+    tags: ['bo kho', 'bò kho', 'featured meal', 'project meal', 'wide rice noodles', 'noodle bowl', 'complete bowl', 'complete plate']
   },
   {
     title: 'Fresh Vegetable Spring Rolls',

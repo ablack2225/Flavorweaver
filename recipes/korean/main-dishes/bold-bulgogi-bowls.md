@@ -205,6 +205,18 @@ last_updated: 2026-06-16
 | 11 | **Assemble the bowls.** Per bowl, add one half of the toasted rice, one half of the stir-fried vegetables, one half of the glossy bulgogi beef, a bright spoon of sesame-finished Asian Pickled Garden Vegetables, green onion tops, Gochujang Crema, sesame seeds, and two egg halves. |
 | 12 | **Finish and serve immediately.** Optional: add a light drizzle of sesame oil. Serve right away so the rice is warm, the beef is glossy, the pickles stay bright, the egg stays jammy, and the crema still reads as a finishing sauce. |
 
+## Building the Final Bowl
+
+| Layer | Build Detail |
+|---|---|
+| 1. Warm Rice Foundation | Divide the toasted rice between **2 bowls**, using **one half of the rice per bowl**. Spread it slightly so the beef and vegetables have a warm base. |
+| 2. Vegetable Layer | Add **one half of the stir-fried napa cabbage and carrots** to each bowl, placing them beside or partly over the rice so the bowl looks full and colorful. |
+| 3. Bulgogi Beef Anchor | Spoon **one half of the glossy bulgogi beef** into each bowl as the center anchor. Keep the sauce visible and let some of it settle into the rice. |
+| 4. Pickled Crunch | Add a bright spoonful of the **sesame-finished Asian Pickled Garden Vegetables** to each bowl. Keep them visible and lightly drained so they brighten the bowl without making it watery. |
+| 5. Crema Drizzle | Drizzle the prepared **Gochujang Crema** over the beef, rice, and vegetables. Do not completely bury the pickles; the bowl should still show acid, color, and crunch. |
+| 6. Jammy Egg Placement | Place **two jammy egg halves** on each bowl with the yolks visible. The egg should read as a required rich finish, not a garnish. |
+| 7. Garnish Finish | Finish with green onion tops from the **4 sliced green onions**, sesame seeds, and optional light sesame oil drizzle. Serve immediately while the rice, beef, and vegetables are warm. |
+
 ## Final Taste Target
 
 The ideal finished bowl should be sweet, savory, tangy, spicy, creamy, fresh, and gently rich from the jammy egg.
@@ -230,49 +242,10 @@ The gochujang should be noticeable. For bolder flavor, stir an extra teaspoon in
 This recipe succeeds because it is not just beef over rice. It is built from required components: toasted rice, glossy beef, Asian Pickled Garden Vegetables, fresh vegetables, Gochujang Crema, and jammy egg.
 
 <details>
-<summary>Flavor Architecture</summary>
-
-| Layer | Notes |
-|---|---|
-| Richness | Beef, toasted rice, sesame oil, crema, and jammy egg. |
-| Freshness | Asian Pickled Garden Vegetables, cabbage, carrots, green onion, lime. |
-| Acid / Brightness | Rice vinegar, pickled vegetables, and lime. |
-| Heat | Gochujang, crema, and fermented chile depth. |
-| Sweetness | Brown sugar, honey, and canned pear. |
-| Umami | Soy sauce, dark soy sauce, beef, gochujang, and browning. |
-| Texture | Tender beef, fluffy rice, crisp vegetables, pickled vegetables, creamy drizzle, and jammy egg. |
-| Sauce / Moisture | Bulgogi sauce coats beef; crema finishes the bowl. |
-| Aroma | Garlic, ginger, sesame oil, browned beef, and toasted rice. |
-
-</details>
-
-<details>
-<summary>Flavorweaver Direction</summary>
-
-This recipe succeeds because it is not just beef over rice. It is built from required components: toasted rice, glossy beef, pickled garden vegetables, fresh vegetables, crema, and jammy egg.
-
-The Flavorweaver direction favors bold gochujang presence, strong garlic and ginger, balanced sweetness, fresh acidic lift, creamy heat, and a rich jammy egg finish.
-
-Complete bowl recipes should integrate preparation order directly into the Instructions section so the cook knows what can be made ahead, what starts first, what stays warm, what stays fresh, and when final assembly happens.
-
-</details>
-
-<details>
-<summary>Timing Notes</summary>
-
-This is a multi-component bowl. The total time should account for pulling forward and finishing the house pickled vegetables, making crema, cooking jammy eggs, rinsing and toasting rice, mixing the sauce, prepping vegetables, browning beef, and assembling bowls.
-
-The recipe may feel faster once the pickled vegetables are already in the refrigerator as a house staple.
-
-</details>
-
-<details>
 <summary>Change Log</summary>
 
 | Date | Change |
 |---|---|
-| 2026-06-14 | Created Bold Bulgogi Bowls source card. |
-| 2026-06-16 | Embedded full Gochujang Crema recipe, made jammy eggs required, and clarified Asian Pickled Garden Vegetables as a house staple with Korean / Bulgogi Bowl service finish. |
-| 2026-06-16 | Updated serving size to 2 bowls and egg portion to 2 egg halves per bowl. |
+| 2026-06-16 | Added Building the Final Bowl section with layer-by-layer assembly order. |
 
 </details>

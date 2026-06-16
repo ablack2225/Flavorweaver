@@ -6,29 +6,50 @@
   <title>{{RECIPE_TITLE}} | Flavorweaver</title>
 
   <!--
-    WORLD-CULTURE RECIPE CANON TEMPLATE
-    Locked visual/layout template for public world-culture recipe pages.
+    WORLD-CULTURE PUBLIC RECIPE CANON TEMPLATE
 
     Active template location:
     docs/templates/world-culture-recipe-canon-template.html
 
-    Public recipe pages should remain cook-facing. Internal research,
-    change logs, and Flavorweaver decision notes belong in Markdown unless
-    Amy explicitly wants them surfaced publicly.
+    Purpose:
+    Public HTML layout for Don & Amy world-culture recipe pages.
 
-    This template now supports the Kitchen Execution System standard:
+    Use for:
+    - complete bowls
+    - complete plates
+    - featured meals
+    - component recipe pages
+    - house-staple sauces, breads, sides, pickles, salads, and mains
+
+    Public recipe pages should remain cook-facing.
+    Internal research, test notes, change logs, and Flavorweaver decisions belong
+    in Markdown source files unless Amy explicitly wants them public.
+
+    Match the active premium recipe layout:
+    - header/nav
+    - recipe-page-card shell
+    - recipe kicker, title, summary
+    - meta grid
+    - tag row
+    - print button when the page should print cleanly
     - kitchen execution summary
-    - prep notes
+    - advance prep / service countdown when applicable
+    - full bowl/plate/component ingredient roll-up
+    - measured component details
+    - cross-component prep map when applicable
     - stage-based prep bowls
-    - paragraph-style instructions with measurements repeated
-    - troubleshooting / rescue notes
-    - required component roles
+    - do-not-forget reminders
+    - full cooking timeline and instructions
+    - final taste target
+    - chef's notes
+    - required component sidebar when applicable
   -->
 
   <link rel="stylesheet" href="../../styles.css?v=20260613-01" />
   <link rel="stylesheet" href="../../site.css?v=20260613-01" />
   <link rel="stylesheet" href="../../readability.css?v=20260613-01" />
-  <link rel="stylesheet" href="../../premium-recipe.css?v=20260613-04" />
+  <link rel="stylesheet" href="../../premium-recipe.css?v=20260613-05" />
+  <link rel="stylesheet" href="../../recipe-print.css?v=20260616-01" />
 </head>
 <body>
   <header class="site-topbar">
@@ -40,108 +61,46 @@
 
   <main class="page-shell recipe-page premium-recipe">
     <article class="recipe-page-card">
-      <p class="recipe-kicker">{{CULTURE_OR_PATH}} · {{CATEGORY}} · {{STATUS}}</p>
+      <p class="recipe-kicker">{{CULTURE}} · {{CATEGORY}} · {{COMPLETE_TYPE_OR_STATUS}}</p>
       <h1 class="recipe-title">{{RECIPE_TITLE}}</h1>
       <p class="recipe-summary">{{PUBLIC_RECIPE_SUMMARY}}</p>
 
-      <div class="recipe-meta-grid">
-        <div class="recipe-meta-item"><strong>Prep</strong>{{PREP_TIME}}</div>
-        <div class="recipe-meta-item"><strong>Cook</strong>{{COOK_TIME}}</div>
-        <div class="recipe-meta-item"><strong>Total</strong>{{TOTAL_TIME}}</div>
-        <div class="recipe-meta-item"><strong>{{YIELD_LABEL}}</strong>{{YIELD_VALUE}}</div>
-      </div>
+      <div class="recipe-meta-grid"><div class="recipe-meta-item"><strong>{{META_LABEL_ONE}}</strong>{{META_VALUE_ONE}}</div><div class="recipe-meta-item"><strong>{{META_LABEL_TWO}}</strong>{{META_VALUE_TWO}}</div><div class="recipe-meta-item"><strong>{{META_LABEL_THREE}}</strong>{{META_VALUE_THREE}}</div><div class="recipe-meta-item"><strong>{{META_LABEL_FOUR}}</strong>{{META_VALUE_FOUR}}</div></div>
+      <div class="recipe-tag-row"><span class="recipe-tag">{{TAG_ONE}}</span><span class="recipe-tag">{{TAG_TWO}}</span><span class="recipe-tag">{{TAG_THREE}}</span><span class="recipe-tag">{{TAG_FOUR}}</span><span class="recipe-tag">{{TAG_FIVE}}</span></div>
+      <button class="print-recipe-button" type="button" onclick="printRecipeCard()">🖨️ Print Recipe</button>
 
-      <div class="recipe-tag-row">
-        <span class="recipe-tag">{{TAG_ONE}}</span><span class="recipe-tag">{{TAG_TWO}}</span><span class="recipe-tag">{{TAG_THREE}}</span>
-      </div>
+      <section class="recipe-section"><h2>Kitchen Execution Summary</h2><div class="premium-component-grid"><div class="premium-component-card"><h3>{{SUMMARY_CARD_ONE_TITLE}}</h3><p>{{SUMMARY_CARD_ONE_TEXT}}</p></div><div class="premium-component-card"><h3>{{SUMMARY_CARD_TWO_TITLE}}</h3><p>{{SUMMARY_CARD_TWO_TEXT}}</p></div><div class="premium-component-card"><h3>{{SUMMARY_CARD_THREE_TITLE}}</h3><p>{{SUMMARY_CARD_THREE_TEXT}}</p></div><div class="premium-component-card"><h3>{{SUMMARY_CARD_FOUR_TITLE}}</h3><p>{{SUMMARY_CARD_FOUR_TEXT}}</p></div></div></section>
 
-      <section class="recipe-section">
-        <h2>Kitchen Execution Summary</h2>
-        <div class="premium-component-grid">
-          <div class="premium-component-card"><h3>Best Cooked</h3><p>{{BEST_COOKED_NOTE}}</p></div>
-          <div class="premium-component-card"><h3>Critical Timing</h3><p>{{CRITICAL_TIMING_NOTE}}</p></div>
-          <div class="premium-component-card"><h3>Success Cue</h3><p>{{SUCCESS_CUE_NOTE}}</p></div>
-        </div>
-      </section>
+      <section class="recipe-section"><h2>Before Cooking Day / Advance Prep</h2><div class="premium-chef-notes"><p><strong>{{ADVANCE_PREP_TITLE}}</strong> — {{ADVANCE_PREP_TEXT}}</p><p><strong>{{ADVANCE_PREP_TITLE}}</strong> — {{ADVANCE_PREP_TEXT}}</p></div></section>
 
-      <section class="recipe-section">
-        <h2>Ingredient List</h2>
-        <div class="premium-component-grid">
-          <div class="premium-component-card"><h3>{{COMPONENT_ONE}}</h3><p>{{COMPONENT_ONE_SUMMARY}}</p></div>
-          <div class="premium-component-card"><h3>{{COMPONENT_TWO}}</h3><p>{{COMPONENT_TWO_SUMMARY}}</p></div>
-          <div class="premium-component-card"><h3>{{REQUIRED_COMPONENT_NAME}}</h3><p><a class="recipe-link" href="{{REQUIRED_COMPONENT_HREF}}">{{REQUIRED_COMPONENT_TITLE}}</a>.</p></div>
-        </div>
-      </section>
+      <section class="recipe-section"><h2>Service Countdown</h2><div class="premium-chef-notes"><p><strong>Day before or morning of:</strong> {{COUNTDOWN_NOTE}}</p><p><strong>{{TIME_BEFORE_SERVING}}:</strong> {{COUNTDOWN_NOTE}}</p><p><strong>{{TIME_BEFORE_SERVING}}:</strong> {{COUNTDOWN_NOTE}}</p><p><strong>At service:</strong> {{FINAL_SERVICE_NOTE}}</p></div></section>
 
-      <section class="recipe-section">
-        <h2>Measured Ingredients</h2>
+      <section class="recipe-section"><h2>Full {{BOWL_OR_PLATE_OR_COMPONENT}} Ingredient Roll-Up</h2><p>Quick-glance ingredient check for the full {{bowl_or_plate_or_component}}. Detailed measurements and division points are handled in the component ingredient sections, prep map, prep bowls, and cooking timeline.</p><div class="premium-component-grid"><div class="premium-component-card"><h3>{{COMPONENT_ONE_TITLE}}</h3><p>{{COMPONENT_ONE_INGREDIENTS}}</p></div><div class="premium-component-card"><h3>{{COMPONENT_TWO_TITLE}}</h3><p>{{COMPONENT_TWO_INGREDIENTS}}</p></div><div class="premium-component-card"><h3>{{COMPONENT_THREE_TITLE}}</h3><p>{{COMPONENT_THREE_INGREDIENTS}}</p></div><div class="premium-component-card"><h3>Fresh Finish / Table</h3><p>{{FRESH_FINISH_ITEMS}}</p></div></div></section>
 
-        <div class="premium-ingredient-group"><h3>{{INGREDIENT_GROUP_ONE}}</h3><div class="premium-ingredient-list">
-          <div class="premium-ingredient-row"><span class="premium-ingredient-amount">{{AMOUNT}}</span><span class="premium-ingredient-name">{{INGREDIENT}}</span><span class="premium-ingredient-note">{{NOTE}}</span></div>
-        </div></div>
+      <section class="recipe-section"><h2>Measured Ingredients by Component</h2><p>These collapsible sections are reference only. The cooking flow is handled by the stage-based prep bowls and full timeline below.</p><details><summary>{{COMPONENT_ONE_TITLE}} Ingredients</summary><div class="premium-chef-notes"><p>{{COMPONENT_ONE_MEASURED_INGREDIENTS}}</p></div></details><details><summary>{{COMPONENT_TWO_TITLE}} Ingredients</summary><div class="premium-chef-notes"><p>{{COMPONENT_TWO_MEASURED_INGREDIENTS}}</p></div></details><details><summary>{{COMPONENT_THREE_TITLE}} Ingredients</summary><div class="premium-chef-notes"><p>{{COMPONENT_THREE_MEASURED_INGREDIENTS}}</p></div></details></section>
 
-        <div class="premium-ingredient-group"><h3>{{REQUIRED_COMPONENT_GROUP}}</h3><div class="premium-ingredient-list">
-          <div class="premium-ingredient-row"><span class="premium-ingredient-amount">{{COMPONENT_AMOUNT}}</span><span class="premium-ingredient-name"><a class="recipe-link" href="{{COMPONENT_HREF}}">{{COMPONENT_TITLE}}</a></span><span class="premium-ingredient-note">{{COMPONENT_NOTE}}</span></div>
-        </div></div>
-      </section>
+      <section class="recipe-section"><h2>Cross-Component Prep Map</h2><div class="premium-chef-notes"><p><strong>{{SHARED_INGREDIENT}}:</strong> {{PREP_MAP_NOTE}}</p><p><strong>{{SHARED_INGREDIENT}}:</strong> {{PREP_MAP_NOTE}}</p><p><strong>{{FRESH_FINISH_INGREDIENTS}}:</strong> keep fresh finish and garnish portions close to service.</p></div></section>
 
-      <section class="recipe-section">
-        <h2>Prep Notes</h2>
-        <div class="premium-chef-notes">
-          <p>{{PREP_NOTE_ONE}}</p>
-          <p>{{PREP_NOTE_TWO}}</p>
-        </div>
-      </section>
+      <section class="recipe-section"><h2>Stage-Based Prep Bowls</h2><h3>{{WORKFLOW_GROUP_ONE}}</h3><div class="premium-component-grid"><div class="premium-component-card"><h3>Bowl 1 — {{STAGE_NAME}}</h3><p>{{MEASURED_STAGE_CONTENTS}}</p></div><div class="premium-component-card"><h3>Bowl 2 — {{STAGE_NAME}}</h3><p>{{MEASURED_STAGE_CONTENTS}}</p></div><div class="premium-component-card"><h3>Bowl 3 — {{STAGE_NAME}}</h3><p>{{MEASURED_STAGE_CONTENTS}}</p></div></div><h3 style="margin-top: 2.25rem;">{{WORKFLOW_GROUP_TWO}}</h3><div class="premium-component-grid"><div class="premium-component-card"><h3>Bowl 1 — {{STAGE_NAME}}</h3><p>{{MEASURED_STAGE_CONTENTS}}</p></div><div class="premium-component-card"><h3>Bowl 2 — {{STAGE_NAME}}</h3><p>{{MEASURED_STAGE_CONTENTS}}</p></div><div class="premium-component-card"><h3>Bowl 3 — Table Finish</h3><p>{{TABLE_FINISH_CONTENTS}}</p></div></div></section>
 
-      <section class="recipe-section">
-        <h2>Stage-Based Prep Bowls</h2>
-        <div class="premium-component-grid">
-          <div class="premium-component-card"><h3>{{STAGE_ONE_TITLE}}</h3><p>{{STAGE_ONE_ITEMS}}</p></div>
-          <div class="premium-component-card"><h3>{{STAGE_TWO_TITLE}}</h3><p>{{STAGE_TWO_ITEMS}}</p></div>
-          <div class="premium-component-card"><h3>{{STAGE_THREE_TITLE}}</h3><p>{{STAGE_THREE_ITEMS}}</p></div>
-          <div class="premium-component-card"><h3>{{STAGE_FOUR_TITLE}}</h3><p>{{STAGE_FOUR_ITEMS}}</p></div>
-        </div>
-      </section>
+      <section class="recipe-section"><h2>Do Not Forget</h2><div class="premium-chef-notes"><p>{{CRITICAL_REMINDER}}</p><p>{{CRITICAL_REMINDER}}</p><p>{{CRITICAL_REMINDER}}</p><p>Taste before plating and adjust salt, acid, sweetness, heat, texture, and final freshness.</p></div></section>
 
-      <section class="recipe-section">
-        <h2>Instructions</h2>
-        <ol class="instruction-list">
-          <li>{{INSTRUCTION_STEP_ONE}}</li>
-          <li>{{INSTRUCTION_STEP_TWO}}</li>
-          <li>{{INSTRUCTION_STEP_THREE}}</li>
-          <li>{{INSTRUCTION_STEP_FOUR}}</li>
-          <li>{{INSTRUCTION_STEP_FIVE}}</li>
-        </ol>
-      </section>
+      <section class="recipe-section"><h2>Full Cooking Timeline and Instructions</h2><ol class="instruction-list"><li><strong>{{STEP_TITLE}}.</strong> {{STEP_TEXT_WITH_MEASUREMENTS}}</li><li><strong>{{STEP_TITLE}}.</strong> {{STEP_TEXT_WITH_MEASUREMENTS}}</li><li><strong>{{STEP_TITLE}}.</strong> {{STEP_TEXT_WITH_MEASUREMENTS}}</li><li><strong>{{STEP_TITLE}}.</strong> {{STEP_TEXT_WITH_MEASUREMENTS}}</li><li><strong>{{STEP_TITLE}}.</strong> {{STEP_TEXT_WITH_MEASUREMENTS}}</li><li><strong>Serve the full {{bowl_or_plate_or_component}}.</strong> {{FINAL_ASSEMBLY_TEXT}}</li></ol></section>
 
-      <section class="recipe-section">
-        <h2>Troubleshooting / Rescue Notes</h2>
-        <div class="premium-component-grid">
-          <div class="premium-component-card"><h3>{{ISSUE_ONE}}</h3><p>{{FIX_ONE}}</p></div>
-          <div class="premium-component-card"><h3>{{ISSUE_TWO}}</h3><p>{{FIX_TWO}}</p></div>
-        </div>
-      </section>
+      <section class="recipe-section"><h2>Final Taste Target</h2><div class="premium-chef-notes"><p>{{FINAL_TASTE_TARGET}}</p></div></section>
 
-      <section class="recipe-section">
-        <h2>Chef's Notes</h2>
-        <div class="premium-chef-notes">
-          <p>{{CHEFS_NOTE_ONE}}</p>
-          <p>{{CHEFS_NOTE_TWO}}</p>
-        </div>
-      </section>
+      <section class="recipe-section"><h2>Chef's Notes</h2><div class="premium-chef-notes"><p>{{CHEFS_NOTE_ONE}}</p><p>{{CHEFS_NOTE_TWO}}</p></div></section>
     </article>
 
-    <aside class="recipe-sidebar-card">
-      <h2>Required Components</h2>
-      <ul class="pairing-menu">
-        <li><strong>{{REQUIRED_COMPONENT_TITLE}}</strong><span>{{REQUIRED_COMPONENT_ROLE}}</span></li>
-      </ul>
-
-      <h2>Pairs Well With</h2>
-      <ul class="pairing-menu">
-        <li><strong>{{PAIRING_TITLE}}</strong><span>{{PAIRING_NOTE}}</span></li>
-      </ul>
-    </aside>
+    <aside class="recipe-sidebar-card"><h2>Required Components</h2><ul class="pairing-menu"><li><strong><a href="{{REQUIRED_COMPONENT_HREF}}">{{REQUIRED_COMPONENT_TITLE}}</a></strong><span>{{REQUIRED_COMPONENT_ROLE}}</span></li><li><strong>{{PLAIN_TEXT_COMPONENT_TITLE}}</strong><span>{{PLAIN_TEXT_COMPONENT_ROLE}}</span></li></ul></aside>
   </main>
+  <script>
+    function printRecipeCard() {
+      document.querySelectorAll('details').forEach(function(detail) {
+        detail.setAttribute('open', 'open');
+      });
+      window.print();
+    }
+  </script>
 </body>
 </html>

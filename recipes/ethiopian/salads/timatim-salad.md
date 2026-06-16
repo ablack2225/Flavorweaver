@@ -2,14 +2,15 @@
 name: Timatim Salad
 culture: Ethiopian Inspired
 category: Salads, Slaws & Dips
-status: Working Recipe
+status: V2 Test Version
 difficulty: Easy
 prep_time: 15m
 cook_time: 0m
-total_time: 15m + 10m rest
-servings: 2-4 side servings
-measurement_status: tested-draft
-rating_note: Fresh tomato-cucumber acidity for the Doro Wat platter
+rest_time: 20-30m
+total_time: 35-45m
+servings: 2 as part of a larger Ethiopian-inspired platter
+measurement_status: documented-v2-test
+rating_note: Upgraded bright, sharp, lightly spicy salad for the Doro Wat platter
 repeat_worthy: yes
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -18,63 +19,114 @@ tags:
   - timatim
   - tomato
   - cucumber
+  - serrano
+  - berbere
   - salad
   - fresh
   - acidic
   - doro-wat-platter
+  - v2-test
+  - intentionally-seasoned
 pairs_well_with:
   - Ethiopian-Inspired Doro Wat Platter
-last_updated: 2026-06-14
+last_updated: 2026-06-16
 ---
 
 <!-- recipe-card:start -->
 
 # Timatim Salad
 
-> A fresh tomato-cucumber salad with lemon and onion that brings acidity, brightness, and cooling contrast to the Doro Wat platter.
+> Upgraded V2 Ethiopian-inspired tomato-cucumber salad with measured salt, more acid, garlic, vinegar, berbere, serrano, cilantro, and parsley for the Doro Wat platter.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Working Recipe | 15m + 10m rest | 2-4 side servings | Easy |
+| V2 Test Version | 35-45m | 2 as part of a larger platter | Easy |
 
-| Prep Time | Cook Time | Rating Note | Repeat Worthy |
-|---:|---:|---|---|
-| 15m | 0m | Fresh tomato-cucumber acidity for the Doro Wat platter | Yes |
+| Prep Time | Cook Time | Rest Time | Measurement Status |
+|---:|---:|---:|---|
+| 15m | 0m | 20-30m | Documented V2 test |
 
 ## Ingredient List
 
 | Component | Ingredients |
 |---|---|
-| Salad Base | Tomato, cucumber, onion |
-| Dressing | Lemon juice, olive oil, salt, black pepper |
-| Optional Heat & Herbs | Jalapeno or serrano, parsley or cilantro |
+| Vegetables & Herbs | Tomato, cucumber, red onion, serrano, cilantro, parsley |
+| Dressing | Fresh lemon juice, white vinegar or rice vinegar, olive oil or neutral oil, garlic, berbere, kosher salt, black pepper |
+| Optional Adjustment | Additional lemon juice or small pinch of kosher salt, only if needed after resting |
 
 ## Measured Ingredients
 
-### Timatim Salad
+### Vegetables & Herbs
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 | Tomato | Diced |
-| 1/2 | Cucumber | Diced |
-| 2-3 Tbsp | Onion | Finely sliced |
-| 1 Tbsp | Lemon juice |  |
-| 1 Tbsp | Olive oil |  |
-| To taste | Salt |  |
-| To taste | Black pepper |  |
-| Optional | Jalapeno or serrano | Minced |
-| Optional | Parsley or cilantro | Chopped |
+| 1 large or 2 Roma | Tomato | Diced |
+| 1/2 large or 2 to 3 mini | Cucumber | Diced |
+| 2 to 3 Tbsp | Red onion | Finely diced or thinly sliced |
+| 1 | Serrano | Finely minced |
+| 1 Tbsp | Fresh cilantro | Chopped |
+| 1 Tbsp | Fresh parsley | Chopped |
 
-## Instructions
+### Dressing
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 1/2 Tbsp | Fresh lemon juice | Main bright acid |
+| 1 Tbsp | White vinegar or rice vinegar | Strengthens the dressing so it does not taste bland after resting |
+| 1 1/2 Tbsp | Olive oil or neutral oil |  |
+| 1 small clove | Garlic | Grated or very finely minced |
+| 1/4 tsp | Berbere | Adds light Ethiopian-inspired warmth |
+| 1/2 tsp | Kosher salt | Measured salt; do not remove |
+| 1/4 tsp | Black pepper |  |
+
+### Optional Adjustment
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| As needed | Additional lemon juice | Add only if needed after resting |
+| Small pinch | Kosher salt | Add only if needed after resting |
+
+## Stage-Based Prep Bowls
+
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — Vegetables | Diced tomato, diced cucumber, red onion | Keep cuts small enough to spoon onto a plate. |
+| Bowl 2 — Heat & Herbs | Minced serrano, chopped cilantro, chopped parsley | Serrano is part of V2, not optional garnish. |
+| Bowl 3 — Dressing | Lemon juice, vinegar, oil, garlic, berbere, kosher salt, black pepper | Whisk separately before adding to vegetables. |
+| Bowl 4 — Final Adjustment | Extra lemon juice and a small pinch of kosher salt | Use only after the salad rests and is tasted. |
+
+## Do Not Forget
+
+- This V2 is intentionally brighter, sharper, and more seasoned than the first version.
+- Do not remove the measured salt. This salad needs enough salt to draw flavor from the tomatoes and cucumbers.
+- Whisk the dressing separately before adding it to the vegetables and herbs.
+- Let the salad rest for 20 to 30 minutes before serving.
+- Taste after resting because cucumber and tomato release water and dilute the seasoning.
+- Adjust only if needed with a small pinch of kosher salt or a little more lemon juice.
+- The salad should not taste like plain cucumber and tomato.
+
+## Full Method
 
 | Step | Action |
 |---:|---|
-| 1 | Dice tomato and cucumber. Finely slice onion. |
-| 2 | Toss tomato, cucumber, onion, lemon juice, olive oil, salt, and black pepper together. |
-| 3 | Add optional minced jalapeno or serrano and herbs if using. |
-| 4 | Let sit 10-15 minutes before serving so the flavors settle. |
+| 1 | Add the diced tomato, cucumber, red onion, serrano, cilantro, and parsley to a mixing bowl. |
+| 2 | In a separate small bowl, whisk together lemon juice, vinegar, oil, garlic, berbere, kosher salt, and black pepper. |
+| 3 | Pour the dressing over the vegetables and herbs. |
+| 4 | Toss well so everything is evenly coated. |
+| 5 | Let the salad rest for 20 to 30 minutes before serving. |
+| 6 | Stir again before plating. |
+| 7 | Taste after resting, because cucumber and tomato will release water and dilute the seasoning. |
+| 8 | Adjust only if needed with a small pinch of kosher salt or a little more lemon juice. |
+
+## Flavor Target
+
+The finished Timatim should be bright, sharp, lightly spicy, and well-seasoned.
+
+It should taste fresh and acidic enough to contrast the rich Doro Wat.
+
+The salad should not taste like plain cucumber and tomato.
 
 <!-- recipe-card:end -->
 
@@ -83,48 +135,42 @@ last_updated: 2026-06-14
 | Type | Pairing | Notes |
 |---|---|---|
 | Main plate | [Ethiopian-Inspired Doro Wat Platter](../bowls-and-mains/ethiopian-inspired-doro-wat-platter.md) | Required fresh/acid component for the full plate. |
-| Bread | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Traditional-style future bread path. |
 
 ## Chef's Notes
 
-This salad is the freshness and acid balance for the platter. The Doro Wat-style chicken is rich, spicy, and onion-heavy, so the salad should stay bright and simple.
+This V2 strengthens the dressing with measured salt, more acid, garlic, vinegar, and berbere because the first version was too bland even with serrano, cilantro, and parsley.
 
-## Final Verdict
+Do not remove the measured salt. Unsalted butter standards do not apply to raw salad seasoning; this salad needs enough salt to draw flavor from the tomatoes and cucumbers.
 
-**Worth making again?**
-
-Yes. This belongs as the fresh balancing component in the Ethiopian-inspired platter.
-
-**Flavorweaver Decision:**
-
-- [x] Keep as written
-- [ ] Keep with changes
-- [ ] Move toward Hall of Fame
-- [ ] Mark as House Staple
-- [x] Keep for testing
-- [ ] Do not repeat
+Taste only after resting before adjusting, because cucumber and tomato will release water and dilute the seasoning.
 
 <details>
 <summary>Flavor Architecture</summary>
 
 | Layer | Notes |
 |---|---|
-| Richness | Olive oil only |
-| Freshness | Tomato, cucumber, herbs |
-| Acid / Brightness | Lemon juice |
-| Heat | Optional jalapeno or serrano |
+| Freshness | Tomato, cucumber, cilantro, parsley |
+| Acid / Brightness | Lemon juice and vinegar |
+| Heat | Serrano and berbere |
+| Salt | Measured kosher salt draws flavor from tomato and cucumber |
+| Richness | Olive oil or neutral oil |
 | Sweetness | Tomato |
-| Umami | Minimal |
-| Texture | Juicy, crisp, fresh |
-| Sauce / Moisture | Light lemon-oil dressing |
-| Aroma | Fresh onion and herbs |
+| Texture | Juicy, crisp, spoonable salad |
+| Sauce / Moisture | Bright dressing plus tomato/cucumber juices after resting |
+| Aroma | Red onion, garlic, herbs, berbere |
 
 </details>
 
 <details>
-<summary>Flavorweaver Direction</summary>
+<summary>Testing Notes</summary>
 
-Keep this as a linked required component for the Doro Wat platter because it provides the plate's fresh/acid balancing role.
+## V2 Test Version
+
+**Reason for update:** First version was too bland even with serrano, cilantro, and parsley.
+
+**What changed:** Strengthened the dressing with measured salt, more acid, garlic, vinegar, and berbere.
+
+**Important:** Do not remove the measured salt. Unsalted butter standards do not apply to raw salad seasoning; this salad needs enough salt to draw flavor from the tomatoes and cucumbers.
 
 </details>
 
@@ -134,5 +180,6 @@ Keep this as a linked required component for the Doro Wat platter because it pro
 | Date | Change |
 |---|---|
 | 2026-06-14 | Created standalone Timatim Salad component recipe from the Doro Wat platter. |
+| 2026-06-16 | Updated to V2 test version with stronger dressing, measured salt, vinegar, garlic, berbere, serrano, cilantro, and parsley. |
 
 </details>

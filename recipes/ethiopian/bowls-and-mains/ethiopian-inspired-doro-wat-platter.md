@@ -33,7 +33,7 @@ required_components:
   - Split Pea Alicha
   - Atakilt Wat
   - Timatim Salad
-linked_only:
+linked_recipes:
   - Fluffy Skillet Naan
   - Teff Starter & Real Injera
   - Misir Wat
@@ -48,7 +48,7 @@ last_updated: 2026-06-16
 
 # Ethiopian-Inspired Doro Wat Platter
 
-> A practical complete Ethiopian-inspired plate with berbere-style whole chicken thighs and eggs, integrated Split Pea Alicha, Atakilt Wat, Timatim Salad, and linked scoop bread.
+> A practical complete Ethiopian-inspired plate with berbere-style whole chicken thighs and eggs, Split Pea Alicha, Atakilt Wat, Timatim Salad, and prepared scoop bread.
 
 ## Recipe Dashboard
 
@@ -64,24 +64,24 @@ last_updated: 2026-06-16
 
 | Area | Notes |
 |---|---|
-| Working plate | This master card integrates Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, and Timatim Salad. |
-| Linked bread only | Use prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared [Real Injera](../breads/teff-starter-and-real-injera.md). Do not build either bread recipe into this plate card. |
-| Traditional red-lentil path | [Misir Wat](../sides/misir-wat.md) stays linked as the traditional red-lentil direction. It is not part of this working plate ingredient roll-up, prep map, or integrated cook flow. |
-| Practical substitution note | This working plate uses Split Pea Alicha in place of Misir Wat because yellow split peas are more practical for price and availability. |
+| Working plate | This platter is built from Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, Timatim Salad, and prepared scoop bread. |
+| Scoop bread | Serve with prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared [Real Injera](../breads/teff-starter-and-real-injera.md). Follow the bread recipe separately so the bread is ready before plating. |
+| Traditional red-lentil path | [Misir Wat](../sides/misir-wat.md) remains the traditional red-lentil option for a future or alternate version of the plate. |
+| Practical substitution | This working plate uses Split Pea Alicha in place of Misir Wat because yellow split peas are more practical for price and availability. |
 
 ## Required Components
 
 | Component | Role |
 |---|---|
 | Doro Wat-Style Chicken & Eggs | Whole marinated chicken thighs and hard-boiled eggs simmered in a berbere-style onion sauce. |
-| Split Pea Alicha | Integrated mild, creamy yellow split pea side used in place of Misir Wat for this working version. |
-| Atakilt Wat | Integrated warm cabbage, carrot, and red potato vegetable component. |
-| Timatim Salad | Integrated fresh acidic tomato-cucumber salad that cuts through the rich Doro Wat-style sauce. |
-| Scoop Bread | Linked only: use prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared [Real Injera](../breads/teff-starter-and-real-injera.md). |
+| Split Pea Alicha | The mild, creamy yellow split pea side used in place of Misir Wat for this working version. |
+| Atakilt Wat | The warm cabbage, carrot, and red potato vegetable component. |
+| Timatim Salad | The fresh acidic tomato-cucumber salad that cuts through the rich Doro Wat-style sauce. |
+| Scoop Bread | Use prepared [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared [Real Injera](../breads/teff-starter-and-real-injera.md). |
 
 ## Full Plate Ingredient Roll-Up
 
-This roll-up includes the integrated working plate only. Naan/Injera and Misir Wat remain linked-only paths.
+This roll-up covers the working plate components: Doro Wat-style chicken and eggs, Split Pea Alicha, Atakilt Wat, and Timatim Salad. Prepare scoop bread separately from its linked recipe.
 
 | Component | Ingredients |
 |---|---|
@@ -180,14 +180,14 @@ This roll-up includes the integrated working plate only. Naan/Injera and Misir W
 
 ## Cross-Component Prep Map
 
-- **House Berbere-Style Spice Blend:** make once. Reserve **1 Tbsp** for the overnight chicken marinade and **1 Tbsp** for the Doro Wat-style sauce base. Do not use this blend for Misir Wat inside this working plate card.
+- **House Berbere-Style Spice Blend:** make once. Reserve **1 Tbsp** for the overnight chicken marinade and **1 Tbsp** for the Doro Wat-style sauce base.
 - **Garlic total:** stage **2 minced cloves** for the chicken marinade, **2 minced cloves** for the Doro sauce, **2 cloves** for Split Pea Alicha, **2 to 3 cloves** for Atakilt Wat, and **1 small grated clove** for Timatim Salad.
 - **Ginger total:** stage **1 tsp** for Doro sauce, **1 tsp** for Split Pea Alicha, and **1 Tbsp** for Atakilt Wat.
 - **Onion split:** use **1 large finely diced onion** for Doro sauce, **1 small finely diced onion** for Split Pea Alicha, **1 sliced onion** for Atakilt Wat, and **2 to 3 Tbsp red onion** for Timatim Salad.
 - **Acid split:** use **1 Tbsp lemon juice** for the chicken marinade, optional lemon only as a final correction for Doro/Atakilt/Split Pea, and the measured Timatim dressing acid of **1 1/2 Tbsp lemon juice** plus **1 Tbsp vinegar**.
 - **Salt discipline:** keep measured salt in the chicken marinade, Atakilt Wat, and Timatim Salad. Split Pea Alicha and Doro sauce are salted near the end after simmering.
-- **Bread:** prepare or rewarm naan/injera from its linked recipe. Do not include bread ingredients in this plate roll-up or prep bowls.
-- **Misir Wat:** linked only as the traditional red-lentil path. Do not include it in this prep map or integrated cook flow.
+- **Bread:** prepare naan or injera from its own recipe so it is ready for final plating.
+- **Traditional red-lentil option:** choose Misir Wat when intentionally making the traditional red-lentil version instead of this Split Pea Alicha working plate.
 
 ## Stage-Based Prep Bowls
 
@@ -229,8 +229,8 @@ This roll-up includes the integrated working plate only. Naan/Injera and Misir W
 
 ## Do Not Forget
 
-- Misir Wat is linked only as a traditional red-lentil path. Do not build it into this working plate timeline.
-- Naan or injera is linked only. Prepare or rewarm it from its own recipe and keep it out of the integrated ingredient roll-up.
+- Use Split Pea Alicha for the working plate. Choose Misir Wat only when intentionally making the traditional red-lentil version.
+- Prepare naan or injera separately and have it ready before final plating.
 - Start Split Pea Alicha first because it needs the longest steady simmer and can hold warm.
 - Atakilt Wat should be tender but not watery; add only small splashes of water or broth as needed.
 - Timatim Salad needs its measured salt and resting time. Taste only after the tomato and cucumber release water.
@@ -242,7 +242,7 @@ This roll-up includes the integrated working plate only. Naan/Injera and Misir W
 |---:|---|
 | 1 | **Day before — make the spice blend.** Measure the House Berbere-Style Spice Blend. Reserve **1 Tbsp** for the chicken marinade and **1 Tbsp** for the Doro sauce base. |
 | 2 | **Day before — marinate the chicken.** Coat **2 whole chicken thighs** with **1 Tbsp berbere blend**, **1 Tbsp oil**, **1 Tbsp lemon juice**, **2 minced garlic cloves**, **1/2 tsp salt**, and **1/4 tsp black pepper**. Cover and refrigerate overnight. |
-| 3 | **Bread planning.** Prepare [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or [Real Injera](../breads/teff-starter-and-real-injera.md) from its own recipe. Bread is not integrated into this plate card. |
+| 3 | **Bread planning.** Prepare [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or [Real Injera](../breads/teff-starter-and-real-injera.md) from its own recipe so it is ready before final plating. |
 | 4 | **Start Split Pea Alicha first.** Rinse **1 cup yellow split peas**. Cook **1 small onion** in **1 to 2 Tbsp butter or oil** until softened. Add **2 minced garlic cloves**, **1 tsp ginger**, **1/2 tsp turmeric**, **1/2 tsp cumin**, **1/2 tsp coriander**, **1/4 tsp black pepper**, and optional cayenne or berbere. Add split peas and **3 cups water or broth**; simmer **40 to 60 minutes**, adding up to **1/2 cup more liquid** as needed. |
 | 5 | **Finish Split Pea Alicha.** Mash **1/3 to 1/2** of the peas for creamy body. Season with salt near the end; add lemon only if heavy or flat. Hold warm. |
 | 6 | **Hard-boil eggs.** Cook **4 large eggs**, chill in an ice bath, peel, and lightly score or prick so sauce can cling. |
@@ -254,7 +254,7 @@ This roll-up includes the integrated working plate only. Naan/Injera and Misir W
 | 12 | **Sauce the eggs.** During the last **10 to 15 minutes** of the Doro sauce, nestle the **4 peeled eggs** into the sauce. Spoon sauce over them and turn gently so they stain evenly. |
 | 13 | **Thicken Doro sauce.** Uncover and simmer **5 to 10 minutes** until the sauce clings to the whole thighs and eggs. Adjust with salt, black pepper, lemon, or tiny sugar only if needed. |
 | 14 | **Make Timatim Salad near the end.** Combine **1 large or 2 Roma diced tomatoes**, **1/2 large cucumber or 2 to 3 mini cucumbers**, **2 to 3 Tbsp red onion**, **1 serrano**, **1 Tbsp cilantro**, and **1 Tbsp parsley**. Whisk **1 1/2 Tbsp lemon juice**, **1 Tbsp vinegar**, **1 1/2 Tbsp oil**, **1 grated garlic clove**, **1/4 tsp berbere**, **1/2 tsp kosher salt**, and **1/4 tsp black pepper**. Toss and rest **20 to 30 minutes**. |
-| 15 | **Rewarm linked bread.** Warm prepared naan or keep injera covered and flexible. Do not start bread dough at this stage. |
+| 15 | **Rewarm prepared bread.** Warm naan or keep injera covered and flexible. |
 
 ## Building the Final Plate
 
@@ -272,17 +272,17 @@ This roll-up includes the integrated working plate only. Naan/Injera and Misir W
 
 The plate should move between spicy rich Doro sauce, tender whole-thigh chicken, sauced eggs, mild creamy Split Pea Alicha, warm Atakilt Wat, and sharp fresh Timatim Salad.
 
-The bread should make the meal scoopable, but the bread recipe itself remains linked-only.
+The bread should make the meal scoopable and interactive.
 
 <!-- recipe-card:end -->
 
-## Linked Only
+## Linked Recipes
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Practical scoop bread | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Prepare from linked recipe separately. |
+| Practical scoop bread | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | Prepare separately. |
 | Traditional bread path | [Teff Starter & Real Injera](../breads/teff-starter-and-real-injera.md) | Prepare separately. |
-| Traditional red-lentil path | [Misir Wat](../sides/misir-wat.md) | Linked only; not integrated into this working plate card. |
+| Traditional red-lentil path | [Misir Wat](../sides/misir-wat.md) | Traditional red-lentil path for an alternate version of the plate. |
 
 ## Chef's Notes
 
@@ -297,6 +297,7 @@ Do not remove the measured salt from Atakilt Wat or Timatim Salad. Unsalted butt
 
 | Date | Change |
 |---|---|
-| 2026-06-16 | Converted to integrated current recipe-card format. Added Cross-Component Prep Map, integrated Split Pea Alicha, Atakilt Wat, and Timatim Salad, and kept Misir Wat/Naan/Injera linked only. |
+| 2026-06-16 | Converted to integrated current recipe-card format. Added Cross-Component Prep Map, integrated Split Pea Alicha, Atakilt Wat, and Timatim Salad, and kept Misir Wat/Naan/Injera as linked recipes. |
+| 2026-06-16 | Removed internal build-note language from public-facing recipe source. |
 
 </details>

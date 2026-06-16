@@ -24,7 +24,7 @@ tags:
   - doro-wat-platter
 pairs_well_with:
   - Ethiopian-Inspired Doro Wat Platter
-last_updated: 2026-06-14
+last_updated: 2026-06-16
 ---
 
 <!-- recipe-card:start -->
@@ -91,7 +91,6 @@ last_updated: 2026-06-14
 | Type | Pairing | Notes |
 |---|---|---|
 | Main plate | [Ethiopian-Inspired Doro Wat Platter](../bowls-and-mains/ethiopian-inspired-doro-wat-platter.md) | Designed as the practical mild side for the platter. |
-| Traditional alternate | Misir Wat | Red lentil version should be linked when created. |
 
 ## Chef's Notes
 
@@ -180,5 +179,6 @@ If the peas stay firm, keep simmering and add more water or broth. If watery, si
 | Date | Change |
 |---|---|
 | 2026-06-14 | Created source file from Ethiopian Split Pea Alicha handoff. |
+| 2026-06-16 | Removed Misir Wat from Pairs Well With; substitution context belongs in the main Doro Wat platter note. |
 
 </details>

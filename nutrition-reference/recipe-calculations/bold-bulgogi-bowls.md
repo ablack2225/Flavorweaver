@@ -5,7 +5,7 @@
 **Status:** Hybrid verified-label and calculated-standard recipe estimate  
 **Use:** Flavorweaver recipe nutrition block and Vitalweaver portion planning  
 **Added:** 2026-06-17  
-**Updated:** 2026-06-17 — included standard recipe salt estimate and clarified sesame oil handling
+**Updated:** 2026-06-17 — applied Amy pinch standard of 1/8 tsp per pinch
 
 ---
 
@@ -25,7 +25,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Pickle brine | Approximate partial brine absorption included; actual sugar/sodium may vary after draining |
 | Sesame oil | All measured sesame oil in the recipe is included: 1 Tbsp in sauce, 1 tsp in pickle finish, and 1 tsp in vegetable saute |
 | Sesame seeds | Calories from product label; macro estimate adjusted because label serving rounds fat/carbs/protein to 0g |
-| Recipe salt | Included as a standard estimate: 2 pinches total, about 250–300mg sodium for the full recipe |
+| Recipe salt | Amy pinch standard: 1 pinch = about 1/8 tsp; 2 recipe pinches = about 1/4 tsp salt total = about 575mg sodium |
 | Optional garnish | Extra sesame seeds and any unmeasured optional sesame oil drizzle are not included unless measured |
 
 ---
@@ -45,7 +45,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Net Carbohydrate | about 251g |
 | Total Sugars | about 80g |
 | Added Sugars | about 61g |
-| Sodium | about 4,800mg |
+| Sodium | about 5,100mg |
 | Cholesterol | about 760mg |
 
 ### Per Standard Bowl · Recipe Makes 2 Bowls
@@ -61,7 +61,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Net Carbohydrate | about 125g |
 | Total Sugars | about 40g |
 | Added Sugars | about 30g |
-| Sodium | about 2,400mg |
+| Sodium | about 2,550mg |
 | Cholesterol | about 380mg |
 
 ### Half-Bowl Portion
@@ -77,7 +77,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Net Carbohydrate | about 62g |
 | Total Sugars | about 20g |
 | Added Sugars | about 15g |
-| Sodium | about 1,200mg |
+| Sodium | about 1,275mg |
 | Cholesterol | about 190mg |
 
 ---
@@ -89,7 +89,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Rice | Largest carbohydrate contributor: 1 cup dry rice contributes about 640 calories and 144g carbs to the full recipe. |
 | 80/20 beef | Largest calorie, fat, saturated fat, and protein contributor. |
 | Soy sauce + bouillon | Major sodium drivers. The 4 Tbsp soy sauce plus 1 3/4 cups prepared bouillon contribute about 3,305mg sodium before salt. |
-| Recipe salt | The two recipe pinches add an estimated 250–300mg sodium to the full recipe. |
+| Recipe salt | Amy's two recipe pinches add an estimated 575mg sodium to the full recipe using her 1/8 tsp pinch standard. |
 | Sesame oil | Major fat/calorie contributor. The measured recipe amount is 5 tsp total, about 217 calories and 23g fat. |
 | Sugar, honey, gochujang, pear | Main sweet/carbohydrate sauce contributors. |
 | Eggs and sour cream | Add protein, fat, saturated fat, cholesterol, and richness. |

@@ -4,13 +4,14 @@
 
 **Status:** Hybrid verified-label and calculated-standard recipe estimate  
 **Use:** Flavorweaver recipe nutrition block and Vitalweaver portion planning  
-**Added:** 2026-06-17
+**Added:** 2026-06-17  
+**Updated:** 2026-06-17 — included standard recipe salt estimate and clarified sesame oil handling
 
 ---
 
 ## Calculation Assumptions
 
-This calculation uses the Flavorweaver recipe as written with Amy's kitchen substitutions.
+This calculation uses the Flavorweaver recipe as Amy actually cooks it, preserving the flavor architecture rather than stripping the dish down.
 
 | Assumption | Value Used |
 |---|---|
@@ -22,9 +23,10 @@ This calculation uses the Flavorweaver recipe as written with Amy's kitchen subs
 | Soy sauce | 4 Tbsp Kikkoman Less Sodium Soy Sauce total, replacing both soy sauce and dark soy sauce |
 | Pickled vegetables | 1 cup lightly drained Asian Pickled Garden Vegetables, approximate |
 | Pickle brine | Approximate partial brine absorption included; actual sugar/sodium may vary after draining |
+| Sesame oil | All measured sesame oil in the recipe is included: 1 Tbsp in sauce, 1 tsp in pickle finish, and 1 tsp in vegetable saute |
 | Sesame seeds | Calories from product label; macro estimate adjusted because label serving rounds fat/carbs/protein to 0g |
-| Optional garnish | Extra sesame seeds and optional sesame oil drizzle are not included |
-| Added salt | Pinches of salt are not included; sodium rises with any added salt |
+| Recipe salt | Included as a standard estimate: 2 pinches total, about 250–300mg sodium for the full recipe |
+| Optional garnish | Extra sesame seeds and any unmeasured optional sesame oil drizzle are not included unless measured |
 
 ---
 
@@ -43,7 +45,7 @@ This calculation uses the Flavorweaver recipe as written with Amy's kitchen subs
 | Net Carbohydrate | about 251g |
 | Total Sugars | about 80g |
 | Added Sugars | about 61g |
-| Sodium | about 4,530mg plus any added salt |
+| Sodium | about 4,800mg |
 | Cholesterol | about 760mg |
 
 ### Per Standard Bowl · Recipe Makes 2 Bowls
@@ -59,7 +61,7 @@ This calculation uses the Flavorweaver recipe as written with Amy's kitchen subs
 | Net Carbohydrate | about 125g |
 | Total Sugars | about 40g |
 | Added Sugars | about 30g |
-| Sodium | about 2,265mg plus any added salt |
+| Sodium | about 2,400mg |
 | Cholesterol | about 380mg |
 
 ### Half-Bowl Portion
@@ -75,7 +77,7 @@ This calculation uses the Flavorweaver recipe as written with Amy's kitchen subs
 | Net Carbohydrate | about 62g |
 | Total Sugars | about 20g |
 | Added Sugars | about 15g |
-| Sodium | about 1,130mg plus any added salt |
+| Sodium | about 1,200mg |
 | Cholesterol | about 190mg |
 
 ---
@@ -86,8 +88,9 @@ This calculation uses the Flavorweaver recipe as written with Amy's kitchen subs
 |---|---|
 | Rice | Largest carbohydrate contributor: 1 cup dry rice contributes about 640 calories and 144g carbs to the full recipe. |
 | 80/20 beef | Largest calorie, fat, saturated fat, and protein contributor. |
-| Soy sauce + bouillon | Major sodium drivers. The 4 Tbsp soy sauce plus 1 3/4 cups prepared bouillon contribute about 3,305mg sodium before any added salt. |
-| Sesame oil | Major fat/calorie contributor. The recipe uses 5 tsp total sesame oil, about 217 calories and 23g fat. |
+| Soy sauce + bouillon | Major sodium drivers. The 4 Tbsp soy sauce plus 1 3/4 cups prepared bouillon contribute about 3,305mg sodium before salt. |
+| Recipe salt | The two recipe pinches add an estimated 250–300mg sodium to the full recipe. |
+| Sesame oil | Major fat/calorie contributor. The measured recipe amount is 5 tsp total, about 217 calories and 23g fat. |
 | Sugar, honey, gochujang, pear | Main sweet/carbohydrate sauce contributors. |
 | Eggs and sour cream | Add protein, fat, saturated fat, cholesterol, and richness. |
 
@@ -99,13 +102,13 @@ This is a generous, restaurant-style bowl, not a low-calorie bowl.
 
 For Vitalweaver-style nourishment planning, the full standard bowl provides strong protein and fat but is very calorie-dense and sodium-dense. A half-bowl portion may be more appropriate when Amy needs the flavor and protein but not the full rice-and-sauce load.
 
-Options to reduce the nutrition load without changing the identity of the dish:
+Flavor-preserving ways to lighten a serving without stripping the dish down:
 
-- Use half the rice portion per bowl.
-- Use a smaller amount of sesame oil in the pickle finish or vegetable sauté.
-- Keep the beef portion strong for protein but reduce rice and sweet sauce exposure.
-- Avoid optional sesame oil drizzle.
-- Avoid extra salt; the soy sauce and bouillon already carry the sodium.
+- Keep the beef, egg, vegetables, pickles, crema, sesame seasoning, and salt intact so the bowl still tastes complete.
+- Reduce the rice portion first if a lighter bowl is needed.
+- Keep the glossy beef sauce, but consider serving less rice under it rather than watering down the sauce.
+- Avoid only unmeasured extras if tracking tightly: additional sesame oil drizzle, extra sesame seeds, or extra salt should be counted if used.
+- If adding an optional finishing sesame oil drizzle, add about 43 calories and 4.7g fat per teaspoon used.
 
 ---
 

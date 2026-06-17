@@ -5,6 +5,7 @@
 **Status:** Verified product nutrition provided by Amy  
 **Use:** Flavorweaver recipe macro calculations  
 **Added:** 2026-06-17  
+**Updated:** 2026-06-17 — Bold Bulgogi substitution note added
 
 ---
 
@@ -71,33 +72,35 @@ Quick conversion:
 
 ### Bold Bulgogi Bowls
 
-Bold Bulgogi Bowls use soy sauce in the bulgogi sauce:
+Amy does not keep dark soy sauce on hand. For Bold Bulgogi Bowls, use this Kikkoman Less Sodium Soy Sauce in place of both the regular soy sauce and the dark soy sauce listed in the recipe.
 
 | Recipe Use | Amount |
 |---|---:|
-| Bulgogi sauce | 3 Tbsp |
+| Soy sauce | 3 Tbsp |
+| Dark soy sauce substitute | 1 Tbsp |
+| Total Kikkoman Less Sodium Soy Sauce | 4 Tbsp / 1/4 cup |
 
 Full recipe contribution:
 
 | Nutrient | Full Recipe Contribution |
 |---|---:|
-| Calories | 30 |
+| Calories | 40 |
 | Total Fat | 0g |
-| Sodium | 1770mg |
-| Total Carbohydrate | 3g |
+| Sodium | 2360mg |
+| Total Carbohydrate | 4g |
 | Total Sugars | 0g |
-| Protein | 3g |
+| Protein | 4g |
 
 Per standard 2-bowl serving:
 
 | Nutrient | Per Bowl Contribution |
 |---|---:|
-| Calories | 15 |
+| Calories | 20 |
 | Total Fat | 0g |
-| Sodium | 885mg |
-| Total Carbohydrate | 1.5g |
+| Sodium | 1180mg |
+| Total Carbohydrate | 2g |
 | Total Sugars | 0g |
-| Protein | 1.5g |
+| Protein | 2g |
 
 ---
 

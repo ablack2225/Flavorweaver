@@ -5,7 +5,7 @@
 **Status:** Hybrid verified-label and calculated-standard recipe estimate  
 **Use:** Flavorweaver recipe nutrition block and Vitalweaver portion planning  
 **Added:** 2026-06-17  
-**Updated:** 2026-06-17 — applied Amy sea salt pinch standard of 1/8 tsp per pinch
+**Updated:** 2026-06-17 — adjusted Amy sea salt pinch standard to 1/16 tsp per normal pinch
 
 ---
 
@@ -25,7 +25,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Pickle brine | Approximate partial brine absorption included; actual sugar/sodium may vary after draining |
 | Sesame oil | All measured sesame oil in the recipe is included: 1 Tbsp in sauce, 1 tsp in pickle finish, and 1 tsp in vegetable saute |
 | Sesame seeds | Calories from product label; macro estimate adjusted because label serving rounds fat/carbs/protein to 0g |
-| Recipe salt | Amy sea salt pinch standard: 1 pinch = about 1/8 tsp; 2 recipe pinches = about 1/4 tsp sea salt total = about 575mg sodium |
+| Recipe salt | Amy normal sea salt pinch standard: 1 pinch = about 1/16 tsp; 2 recipe pinches = about 1/8 tsp sea salt total = about 285–290mg sodium |
 | Optional garnish | Extra sesame seeds and any unmeasured optional sesame oil drizzle are not included unless measured |
 
 ---
@@ -45,7 +45,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Net Carbohydrate | about 251g |
 | Total Sugars | about 80g |
 | Added Sugars | about 61g |
-| Sodium | about 5,100mg |
+| Sodium | about 4,820mg |
 | Cholesterol | about 760mg |
 
 ### Per Standard Bowl · Recipe Makes 2 Bowls
@@ -61,7 +61,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Net Carbohydrate | about 125g |
 | Total Sugars | about 40g |
 | Added Sugars | about 30g |
-| Sodium | about 2,550mg |
+| Sodium | about 2,410mg |
 | Cholesterol | about 380mg |
 
 ### Half-Bowl Portion
@@ -77,7 +77,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Net Carbohydrate | about 62g |
 | Total Sugars | about 20g |
 | Added Sugars | about 15g |
-| Sodium | about 1,275mg |
+| Sodium | about 1,205mg |
 | Cholesterol | about 190mg |
 
 ---
@@ -89,7 +89,7 @@ This calculation uses the Flavorweaver recipe as Amy actually cooks it, preservi
 | Rice | Largest carbohydrate contributor: 1 cup dry rice contributes about 640 calories and 144g carbs to the full recipe. |
 | 80/20 beef | Largest calorie, fat, saturated fat, and protein contributor. |
 | Soy sauce + bouillon | Major sodium drivers. The 4 Tbsp soy sauce plus 1 3/4 cups prepared bouillon contribute about 3,305mg sodium before salt. |
-| Recipe sea salt | Amy's two recipe pinches add an estimated 575mg sodium to the full recipe using her 1/8 tsp sea salt pinch standard. |
+| Recipe sea salt | Amy's two normal recipe pinches add an estimated 285–290mg sodium to the full recipe using her 1/16 tsp sea salt pinch standard. |
 | Sesame oil | Major fat/calorie contributor. The measured recipe amount is 5 tsp total, about 217 calories and 23g fat. |
 | Sugar, honey, gochujang, pear | Main sweet/carbohydrate sauce contributors. |
 | Eggs and sour cream | Add protein, fat, saturated fat, cholesterol, and richness. |
@@ -109,6 +109,7 @@ Flavor-preserving ways to lighten a serving without stripping the dish down:
 - Keep the glossy beef sauce, but consider serving less rice under it rather than watering down the sauce.
 - Avoid only unmeasured extras if tracking tightly: additional sesame oil drizzle, extra sesame seeds, or extra sea salt should be counted if used.
 - If adding an optional finishing sesame oil drizzle, add about 43 calories and 4.7g fat per teaspoon used.
+- If using a larger heavy pinch, track it closer to 1/8 tsp per pinch rather than the normal 1/16 tsp standard.
 
 ---
 
@@ -135,6 +136,6 @@ Flavor-preserving ways to lighten a serving without stripping the dish down:
 
 Common ingredients such as eggs, brown sugar, garlic, green onions, napa cabbage, carrots, onion, and lime juice were calculated from common USDA-style ingredient standards.
 
-Sea salt volume can vary by grain size. Amy's household tracking standard is 1 pinch = about 1/8 tsp, so this calculation uses 2 recipe pinches = about 1/4 tsp sea salt total.
+Sea salt volume can vary by grain size. Amy's normal household tracking standard is 1 pinch = about 1/16 tsp, so this calculation uses 2 recipe pinches = about 1/8 tsp sea salt total. A larger heavy pinch can be tracked as closer to 1/8 tsp per pinch.
 
 This estimate should be treated as a planning calculation, not a lab-tested nutrition panel.

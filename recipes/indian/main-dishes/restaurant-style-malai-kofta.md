@@ -6,7 +6,7 @@ status: House Favorite
 difficulty: Project Meal
 prep_time: 30m
 cook_time: 40m
-total_time: 1h 10m
+total_time: 1h 10m, plus paneer if making homemade
 servings: 4 to 6 servings, about 12 koftas
 measurement_status: documented
 
@@ -23,6 +23,9 @@ tags:
   - restaurant-style
   - creamy curry
   - paneer
+  - homemade paneer
+  - whole milk paneer
+  - lemon paneer
   - potato
   - cashews
   - project meal
@@ -42,13 +45,13 @@ last_updated: 2026-06-19
 
 # Restaurant-Style Malai Kofta
 
-> Crisp paneer-potato koftas served in a silky onion-tomato-cashew malai gravy finished with butter, cream, kasuri methi, and fresh coriander. This version is organized for actual kitchen flow: gravy first, kofta mix while the gravy simmers, test-fry before committing, and assemble only when ready to serve.
+> Crisp paneer-potato koftas served in a silky onion-tomato-cashew malai gravy finished with butter, cream, kasuri methi, and fresh coriander. This version is organized for actual kitchen flow: homemade paneer if needed, gravy first, kofta mix while the gravy simmers, test-fry before committing, and assemble only when ready to serve.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| House Favorite | 1 hr 10 min | 4 to 6 servings / about 12 koftas | Project Meal |
+| House Favorite | 1 hr 10 min, plus paneer if making homemade | 4 to 6 servings / about 12 koftas | Project Meal |
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
@@ -58,6 +61,7 @@ last_updated: 2026-06-19
 
 | Component | Ingredients |
 |---|---|
+| Homemade Whole-Milk Paneer | Whole milk, lemon juice, water, cheesecloth |
 | Gravy Saute Base | Oil or ghee, green cardamom, bay leaf, cinnamon, cloves, cumin seeds or shahi jeera, onion, ginger, garlic, tomatoes, cashews, salt |
 | Gravy Spice Bloom | Kashmiri red chili powder, garam masala, coriander powder |
 | Gravy Blend and Finish | Water, unsalted butter, jaggery or sugar, kasuri methi, cream, coriander leaves |
@@ -66,6 +70,15 @@ last_updated: 2026-06-19
 | Fry and Assemble | Oil for deep frying, warm malai gravy, cream, coriander leaves |
 
 ## Measured Ingredients
+
+### Homemade Whole-Milk Paneer — Optional but Best
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1/2 gallon | Whole milk | Yields enough paneer for this recipe, usually about 1 1/2 cups grated after draining |
+| 2 to 3 Tbsp | Lemon juice | Fresh lemon juice preferred; add gradually only until curds separate |
+| 2 Tbsp | Water | Optional, to dilute lemon juice before adding |
+| As needed | Cheesecloth or thin clean towel | For draining curds |
 
 ### Gravy Saute Base
 
@@ -109,7 +122,7 @@ last_updated: 2026-06-19
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 1 medium potato, or 1/2 cup grated | Boiled potato | About 100 grams; cool completely before grating |
-| 1 1/2 cups grated | Paneer | About 200 grams dry gratings; pat dry if needed |
+| 1 1/2 cups grated | Paneer | About 200 grams dry gratings; homemade whole-milk lemon paneer works beautifully |
 | 2 1/2 Tbsp | Cornstarch | Add 1 Tbsp more only if needed |
 | 1/2 tsp | Sea salt | Adjust to taste |
 | 1/2 to 3/4 tsp | Garam masala | Or 1/4 tsp cardamom powder |
@@ -135,6 +148,15 @@ last_updated: 2026-06-19
 
 ## Stage-Based Prep Bowls
 
+### Homemade Paneer Bowls
+
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — Milk | 1/2 gallon whole milk | Use whole milk for richer paneer and better kofta texture. |
+| Bowl 2 — Lemon Juice | 2 to 3 Tbsp lemon juice, optionally diluted with 2 Tbsp water | Add gradually; stop when curds separate from the whey. |
+| Bowl 3 — Drain Setup | Cheesecloth or thin clean towel set over a strainer | Have ready before adding lemon juice to the milk. |
+| Bowl 4 — Press Setup | Wrapped paneer curds with a light weight | Press until firm enough to grate, but not dried into a hard block. |
+
 ### Gravy Prep Bowls
 
 | Bowl | Contents | Notes |
@@ -159,6 +181,9 @@ last_updated: 2026-06-19
 
 ## Do Not Forget
 
+- Homemade paneer should be made with **whole milk and lemon juice**.
+- Add lemon juice gradually and stop once curds clearly separate from the whey.
+- Press homemade paneer until firm enough to grate, then pat dry before mixing into koftas.
 - Make the gravy base first so it can simmer and settle while the koftas are shaped.
 - Discard the bay leaf before blending the gravy.
 - Blend the gravy very smooth, then strain it back into the pan for restaurant-style texture.
@@ -173,20 +198,22 @@ last_updated: 2026-06-19
 
 | Step | Action |
 |---:|---|
-| 1 | **Start the gravy base.** Heat **1 1/2 Tbsp oil or ghee** in a pan. Fry **2 to 3 green cardamoms**, **1 small bay leaf**, **1/2 inch cinnamon**, **2 cloves**, and **3/4 tsp cumin seeds or shahi jeera** for about **1 minute**, until fragrant. |
-| 2 | **Saute onion.** Add **1 1/2 cups sliced onion** and saute **6 to 8 minutes**, until light golden. |
-| 3 | **Add ginger and garlic.** Stir in **1 inch sliced ginger** and **5 to 6 garlic cloves**, or **1 Tbsp ginger-garlic paste**. Saute **1 to 2 minutes**. |
-| 4 | **Cook tomato-cashew base.** Add **2 1/4 cups tomatoes**, **18 raw cashews**, and **3/4 tsp sea salt**. Cook until tomatoes are mushy, about **8 minutes**. Cover if needed. |
-| 5 | **Bloom the ground spices.** Stir in **3/4 tsp Kashmiri chili powder**, **3/4 to 1 tsp garam masala**, and **1 tsp coriander powder**. Saute about **3 minutes**, until aromatic. |
-| 6 | **Cool and blend.** Turn off heat and cool the mixture slightly. Add **1 cup cold water** to the blender. Discard the bay leaf, transfer the onion-tomato-cashew mixture to the blender, and blend until very smooth. |
-| 7 | **Strain and simmer.** Melt **2 Tbsp unsalted butter** in the pan. Strain the blended gravy directly into the pan. Add up to **1/2 cup water** only as needed. Simmer gently about **10 minutes**, stirring every few minutes, until thick and creamy. |
-| 8 | **Finish the gravy.** Taste and adjust salt and garam masala. Crush **1 1/2 tsp kasuri methi** between your palms and add it with **1 Tbsp jaggery or sugar** and **1/4 cup cream**. Cover and keep warm. |
-| 9 | **Prepare potato and paneer.** While the gravy cooks, boil **1 medium potato** until fork tender, cool completely, and finely grate. You want about **1/2 cup finely grated boiled potato**. Pat **1 1/2 cups finely grated paneer** dry if it feels moist. |
-| 10 | **Mix kofta dough.** In a bowl, combine the grated potato, grated paneer, **2 1/2 Tbsp cornstarch**, **1/2 tsp sea salt**, **1/2 to 3/4 tsp garam masala**, **1 Tbsp chopped cashews**, **1 Tbsp chopped raisins**, **1 tsp ginger**, **1 to 2 chopped green chilies or 1/2 tsp black pepper**, and **1 Tbsp chopped coriander leaves**. Mix **2 to 3 minutes** into a smooth, non-sticky dough. |
-| 11 | **Shape koftas.** Divide into **12 to 13 portions**. Roll smooth balls between your palms. If the surface feels sticky, lightly roll in **1 tsp flour or cornstarch**, roll again, and dust off excess. |
-| 12 | **Test-fry one kofta.** Heat **2 cups oil** for deep frying. Drop a small test kofta into the hot oil. It should sizzle and rise without disintegrating or browning too quickly. If it breaks, add a little more flour or cornstarch to the dough and test again. |
-| 13 | **Fry the koftas.** Slide koftas gently into the hot oil one by one. Do not disturb for the first **2 minutes**. Fry over medium flame until crisp and golden. Remove to a rack or steel colander. |
-| 14 | **Assemble only when serving.** Cool the gravy from hot to warm, transfer it to the serving dish, and place the koftas gently into the warm gravy. Garnish with cream and coriander leaves. |
+| 1 | **Make homemade paneer if needed.** Bring **1/2 gallon whole milk** just to a boil, stirring so it does not scorch. Lower heat. Add **2 to 3 Tbsp lemon juice**, optionally diluted with **2 Tbsp water**, a little at a time until the milk separates into curds and pale whey. Turn off heat. |
+| 2 | **Drain and press paneer.** Pour curds into cheesecloth set over a strainer. Rinse lightly with cool water only if the lemon flavor is strong. Gather the cloth and drain. Press with a light weight until firm enough to grate. You need about **1 1/2 cups finely grated paneer** for the koftas. |
+| 3 | **Start the gravy base.** Heat **1 1/2 Tbsp oil or ghee** in a pan. Fry **2 to 3 green cardamoms**, **1 small bay leaf**, **1/2 inch cinnamon**, **2 cloves**, and **3/4 tsp cumin seeds or shahi jeera** for about **1 minute**, until fragrant. |
+| 4 | **Saute onion.** Add **1 1/2 cups sliced onion** and saute **6 to 8 minutes**, until light golden. |
+| 5 | **Add ginger and garlic.** Stir in **1 inch sliced ginger** and **5 to 6 garlic cloves**, or **1 Tbsp ginger-garlic paste**. Saute **1 to 2 minutes**. |
+| 6 | **Cook tomato-cashew base.** Add **2 1/4 cups tomatoes**, **18 raw cashews**, and **3/4 tsp sea salt**. Cook until tomatoes are mushy, about **8 minutes**. Cover if needed. |
+| 7 | **Bloom the ground spices.** Stir in **3/4 tsp Kashmiri chili powder**, **3/4 to 1 tsp garam masala**, and **1 tsp coriander powder**. Saute about **3 minutes**, until aromatic. |
+| 8 | **Cool and blend.** Turn off heat and cool the mixture slightly. Add **1 cup cold water** to the blender. Discard the bay leaf, transfer the onion-tomato-cashew mixture to the blender, and blend until very smooth. |
+| 9 | **Strain and simmer.** Melt **2 Tbsp unsalted butter** in the pan. Strain the blended gravy directly into the pan. Add up to **1/2 cup water** only as needed. Simmer gently about **10 minutes**, stirring every few minutes, until thick and creamy. |
+| 10 | **Finish the gravy.** Taste and adjust salt and garam masala. Crush **1 1/2 tsp kasuri methi** between your palms and add it with **1 Tbsp jaggery or sugar** and **1/4 cup cream**. Cover and keep warm. |
+| 11 | **Prepare potato and paneer.** While the gravy cooks, boil **1 medium potato** until fork tender, cool completely, and finely grate. You want about **1/2 cup finely grated boiled potato**. Finely grate **1 1/2 cups paneer** and pat dry if it feels moist. |
+| 12 | **Mix kofta dough.** In a bowl, combine the grated potato, grated paneer, **2 1/2 Tbsp cornstarch**, **1/2 tsp sea salt**, **1/2 to 3/4 tsp garam masala**, **1 Tbsp chopped cashews**, **1 Tbsp chopped raisins**, **1 tsp ginger**, **1 to 2 chopped green chilies or 1/2 tsp black pepper**, and **1 Tbsp chopped coriander leaves**. Mix **2 to 3 minutes** into a smooth, non-sticky dough. |
+| 13 | **Shape koftas.** Divide into **12 to 13 portions**. Roll smooth balls between your palms. If the surface feels sticky, lightly roll in **1 tsp flour or cornstarch**, roll again, and dust off excess. |
+| 14 | **Test-fry one kofta.** Heat **2 cups oil** for deep frying. Drop a small test kofta into the hot oil. It should sizzle and rise without disintegrating or browning too quickly. If it breaks, add a little more flour or cornstarch to the dough and test again. |
+| 15 | **Fry the koftas.** Slide koftas gently into the hot oil one by one. Do not disturb for the first **2 minutes**. Fry over medium flame until crisp and golden. Remove to a rack or steel colander. |
+| 16 | **Assemble only when serving.** Cool the gravy from hot to warm, transfer it to the serving dish, and place the koftas gently into the warm gravy. Garnish with cream and coriander leaves. |
 
 ## Building the Final Plate
 
@@ -221,6 +248,8 @@ This is a house favorite and should stay organized for smooth kitchen execution.
 
 The gravy can be made ahead and kept warm. Koftas are best fried close to serving so they stay crisp before going into the warm gravy.
 
+Homemade whole-milk paneer can be made earlier in the day. For koftas, press it firm enough to grate cleanly, but not so hard that it becomes dry and crumbly.
+
 <details>
 <summary>Change Log</summary>
 
@@ -228,5 +257,6 @@ The gravy can be made ahead and kept warm. Koftas are best fried close to servin
 |---|---|
 | 2026-06-19 | Added as a Flavorweaver house favorite with gravy-first, kofta-second kitchen flow. |
 | 2026-06-19 | Added practical potato and paneer measurements for easier kitchen use. |
+| 2026-06-19 | Added homemade whole-milk paneer instructions using lemon juice. |
 
 </details>

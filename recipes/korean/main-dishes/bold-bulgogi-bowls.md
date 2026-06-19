@@ -41,7 +41,7 @@ required_components:
   - gochujang-crema
   - jammy-eggs
 
-last_updated: 2026-06-17
+last_updated: 2026-06-19
 ---
 
 <!-- recipe-card:start -->
@@ -83,7 +83,7 @@ last_updated: 2026-06-17
 | 1 Tbsp | Butter | For toasting rice |
 | 2 Tbsp | Finely diced onion | Saute before rice |
 | 1 | Bay leaf | Remove before serving |
-| Pinch | Salt | Included in nutrition estimate as part of the standard two-pinch recipe salt estimate |
+| Pinch | Salt | For seasoning rice |
 
 ### Asian Pickled Garden Vegetables — House Staple Service
 
@@ -100,7 +100,7 @@ last_updated: 2026-06-17
 | 1/4 cup | Sour cream | Base of the crema |
 | 2 tsp | Gochujang | Add more for deeper heat |
 | 1 to 2 tsp | Fresh lime juice | To taste |
-| Pinch | Sugar | Rounds out the gochujang; negligible amount |
+| Pinch | Sugar | Rounds out the gochujang |
 | 1 to 3 tsp | Water | Add 1 tsp at a time until drizzle-ready |
 
 ### Jammy Eggs
@@ -115,9 +115,9 @@ last_updated: 2026-06-17
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 lb | Ground beef | Fresh-ground brisket preferred for Flavorweaver version; nutrition estimate uses 80/20 and assumes fat is retained |
+| 1 lb | Ground beef | Fresh-ground brisket preferred for Flavorweaver version |
 | 4 | Green onions | Sliced; whites and greens separated |
-| 1 Tbsp | Sesame seeds | Plus more for garnish if desired; extra garnish not included in nutrition estimate |
+| 1 Tbsp | Sesame seeds | Plus more for garnish if desired |
 
 ### Bulgogi Sauce
 
@@ -140,7 +140,7 @@ last_updated: 2026-06-17
 | 2 cups | Shredded napa cabbage |  |
 | 1 cup | Shredded carrots |  |
 | 1 tsp | Sesame oil |  |
-| Pinch | Salt | Included in nutrition estimate as part of the standard two-pinch recipe salt estimate |
+| Pinch | Salt | For seasoning vegetables |
 
 ## Stage-Based Prep Bowls
 
@@ -182,7 +182,6 @@ last_updated: 2026-06-17
 - Gochujang Crema is required and its full recipe is embedded in this bowl card.
 - Jammy eggs are required, not optional. Make 2 so each bowl gets two egg halves.
 - Amy's kitchen version uses **4 Tbsp Kikkoman Less Sodium Soy Sauce total** instead of keeping a separate dark soy sauce.
-- The measured sesame oil and recipe salt are part of the dish and are included in the nutrition estimate. Only unmeasured optional extras are excluded unless measured.
 - Prep bowls must include measurements so the cook does not have to return to the ingredient list mid-cook.
 - Timeline and instructions must repeat measurements when ingredients are added.
 - Start the rice first so it is warm and ready when the beef and vegetables finish.
@@ -218,34 +217,6 @@ last_updated: 2026-06-17
 | 6. Jammy Egg Placement | Place **two jammy egg halves** on each bowl with the yolks visible. The egg should read as a required rich finish, not a garnish. |
 | 7. Garnish Finish | Finish with green onion tops from the **4 sliced green onions**, sesame seeds, and optional light sesame oil drizzle. Serve immediately while the rice, beef, and vegetables are warm. |
 
-## Nutrition & Portion Guide
-
-**Reference status:** Hybrid verified-label and calculated-standard estimate. This is a planning calculation, not a lab-tested nutrition panel.
-
-**Assumptions used:** 2 standard bowls; 1 lb home-ground brisket calculated as 80/20 with fat retained; 1 cup dry Royal basmati rice; 1 3/4 cups Knorr bouillon broth; 4 Tbsp Kikkoman Less Sodium Soy Sauce; 1 cup lightly drained Asian Pickled Garden Vegetables; all measured sesame oil included; recipe salt included as an estimated two pinches; unmeasured optional extras are not included unless measured.
-
-| Serving | Calories | Protein | Fat | Sat Fat | Carbs | Fiber | Net Carbs | Sugars | Added Sugars | Sodium |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Full recipe | ~2,950 kcal | ~120g | ~156g | ~58g | ~262g | ~11g | ~251g | ~80g | ~61g | ~4,800mg |
-| 1 standard bowl | ~1,475 kcal | ~60g | ~78g | ~29g | ~131g | ~5.5g | ~125g | ~40g | ~30g | ~2,400mg |
-| 1/2 bowl | ~735 kcal | ~30g | ~39g | ~14g | ~65g | ~3g | ~62g | ~20g | ~15g | ~1,200mg |
-
-### Main Nutrition Drivers
-
-| Driver | Why It Matters |
-|---|---|
-| Rice | Largest carbohydrate contributor. The full 1 cup dry rice contributes about 640 calories and 144g carbs to the recipe. |
-| 80/20 beef | Largest calorie, fat, saturated fat, and protein contributor. |
-| Soy sauce + bouillon | Main sodium drivers. Together they contribute about 3,305mg sodium before recipe salt. |
-| Recipe salt | The two recipe pinches add an estimated 250–300mg sodium to the full recipe. |
-| Sesame oil | Major fat and calorie contributor. The measured recipe amount is 5 tsp total. |
-| Sugar, honey, gochujang, pear | Main sweet sauce contributors. |
-| Eggs and sour cream | Add protein, fat, saturated fat, cholesterol, and richness. |
-
-### Vitalweaver Portion Note
-
-This is a generous, restaurant-style bowl. For Amy's nourishment tracking, a half-bowl portion may be a better planning serving when the full rice-and-sauce load feels too heavy. The dish keeps its identity best by keeping the beef, egg, vegetables, pickles, crema, sesame seasoning, and salt intact, then reducing rice before reducing protein or flavor architecture.
-
 ## Final Taste Target
 
 The ideal finished bowl should be sweet, savory, tangy, spicy, creamy, fresh, and gently rich from the jammy egg.
@@ -276,8 +247,7 @@ This recipe succeeds because it is not just beef over rice. It is built from req
 | Date | Change |
 |---|---|
 | 2026-06-16 | Added Building the Final Bowl section with layer-by-layer assembly order. |
-| 2026-06-17 | Added nutrition and portion guide using verified product references plus calculated standards. |
 | 2026-06-17 | Updated soy sauce handling to reflect Amy's real kitchen substitution: 4 Tbsp Kikkoman Less Sodium Soy Sauce total instead of a separate dark soy sauce. |
-| 2026-06-17 | Clarified measured sesame oil and recipe salt are included in the nutrition estimate. |
+| 2026-06-19 | Removed Nutrition & Portion Guide section and nutrition-estimate references. |
 
 </details>

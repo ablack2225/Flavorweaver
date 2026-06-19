@@ -70,6 +70,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'butter chicken', 'chicken makhani', 'basmati rice', 'tomato cashew sauce', 'cream sauce', 'marinated chicken']
   },
   {
+    title: 'Restaurant-Style Malai Kofta',
+    path: 'recipes/indian/restaurant-style-malai-kofta.html',
+    collection: 'House Recipes',
+    culture: 'Indian Inspired',
+    category: 'Main Dish',
+    status: 'House Favorite',
+    ingredients: ['paneer', 'potato', 'cashews', 'raisins', 'onion', 'tomatoes', 'cream', 'butter', 'kasuri methi', 'garam masala', 'coriander powder', 'Kashmiri chili powder'],
+    tags: ['Indian-Inspired', 'indian-inspired', 'malai kofta', 'paneer kofta', 'restaurant-style', 'creamy curry', 'project meal', 'house favorite']
+  },
+  {
     title: 'Gochujang Crema',
     path: 'recipes/condiments/gochujang-crema.html',
     collection: 'House Recipes',

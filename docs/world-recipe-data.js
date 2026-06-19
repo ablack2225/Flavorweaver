@@ -17,7 +17,37 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Main Dish',
     status: 'Flavorweaver Test Recipe',
     ingredients: ['brisket', 'soy sauce', 'dark soy sauce', 'oyster sauce', 'hoisin sauce', 'brown sugar', 'rice vinegar', 'garlic', 'ginger', 'scallions', 'cornstarch', 'sesame oil'],
-    tags: ['beef', 'brisket', 'mongolian beef', 'stir-fry', 'restaurant-style', 'garlic', 'ginger', 'scallions', 'deep-fried beef', 'test recipe']
+    tags: ['Asian-Inspired', 'asian-inspired', 'Chinese-Inspired', 'chinese-inspired', 'beef', 'brisket', 'mongolian beef', 'stir-fry', 'restaurant-style', 'garlic', 'ginger', 'scallions', 'deep-fried beef', 'test recipe']
+  },
+  {
+    title: 'Chinese Orange Chicken',
+    path: 'recipes/chinese/chinese-orange-chicken.html',
+    collection: 'House Recipes',
+    culture: 'Chinese Inspired',
+    category: 'Main Dish',
+    status: 'Working Recipe',
+    ingredients: ['chicken thighs', 'orange juice', 'orange marmalade', 'soy sauce', 'sesame oil', 'ginger', 'garlic', 'cornstarch', 'flour', 'rice vinegar', 'honey', 'brown sugar'],
+    tags: ['Asian-Inspired', 'asian-inspired', 'Chinese-Inspired', 'chinese-inspired', 'orange chicken', 'crispy chicken', 'double-fried chicken', 'extra sauce', 'takeout-style', 'phenomenal']
+  },
+  {
+    title: 'Restaurant-Style Fried Rice',
+    path: 'recipes/chinese/restaurant-style-fried-rice.html',
+    collection: 'House Recipes',
+    culture: 'Chinese Inspired',
+    category: 'Side Dish',
+    status: 'Working Recipe',
+    ingredients: ['day-old rice', 'eggs', 'onion', 'peas and carrots', 'green onions', 'soy sauce', 'butter', 'neutral oil', 'sesame oil'],
+    tags: ['Asian-Inspired', 'asian-inspired', 'Chinese-Inspired', 'chinese-inspired', 'fried rice', 'restaurant-style', 'rice side', 'orange chicken pairing']
+  },
+  {
+    title: 'Premium Crab Rangoon',
+    path: 'recipes/chinese/premium-crab-rangoon.html',
+    collection: 'House Recipes',
+    culture: 'Chinese Inspired',
+    category: 'Appetizer',
+    status: 'Working Recipe',
+    ingredients: ['cream cheese', 'crab meat', 'green onions', 'wonton wrappers', 'Worcestershire sauce', 'soy sauce', 'garlic powder', 'powdered sugar', 'tomato paste', 'pineapple juice', 'rice vinegar'],
+    tags: ['Asian-Inspired', 'asian-inspired', 'Chinese-Inspired', 'chinese-inspired', 'crab rangoon', 'wontons', 'cream cheese', 'sweet and sour sauce', 'orange chicken pairing']
   },
   {
     title: 'Thai-Inspired Spicy Crispy Tofu Coconut Red Curry Soup Bowls',

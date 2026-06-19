@@ -21,6 +21,7 @@ tags:
   - orange chicken
   - crispy chicken
   - double-fried chicken
+  - extra sauce
   - orange sauce
   - takeout-style
   - phenomenal
@@ -39,7 +40,7 @@ last_updated: 2026-06-19
 
 # Chinese Orange Chicken
 
-> Crispy double-fried chicken thighs tossed in a glossy orange sauce with orange juice, marmalade, garlic, ginger, honey, brown sugar, soy sauce, rice vinegar, sesame oil, and fresh orange zest.
+> Crispy double-fried chicken thighs tossed in an extra-generous glossy orange sauce with orange juice, marmalade, garlic, ginger, honey, brown sugar, soy sauce, rice vinegar, sesame oil, and fresh orange zest.
 
 ## Recipe Dashboard
 
@@ -60,7 +61,7 @@ last_updated: 2026-06-19
 | Velveting | Egg white, cornstarch |
 | Coating | Flour, cornstarch, baking powder, salt |
 | Fry | Neutral oil |
-| Orange Sauce | Premium orange juice, orange marmalade, brown sugar, honey, soy sauce, rice vinegar, garlic, ginger, orange zest, sesame oil |
+| Extra Orange Sauce | Premium orange juice, orange marmalade, brown sugar, honey, soy sauce, rice vinegar, garlic, ginger, orange zest, sesame oil |
 | Slurry | Cornstarch, cold water |
 | Finish | Green onion, sesame seeds, fresh orange zest |
 
@@ -98,27 +99,27 @@ last_updated: 2026-06-19
 | 1/2 tsp | Baking powder | Keeps coating light |
 | 1/2 tsp | Salt | Seasons coating |
 
-### Orange Sauce
+### Extra Orange Sauce
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1/2 cup | Premium orange juice |  |
-| 2 Tbsp | Orange marmalade |  |
-| 2 Tbsp | Brown sugar |  |
-| 1 Tbsp | Honey |  |
-| 2 Tbsp | Soy sauce |  |
-| 1 Tbsp | Rice vinegar |  |
-| 2 cloves | Garlic | Grated |
-| 1 tsp | Grated ginger |  |
-| 1 | Orange | Zested |
-| 1 tsp | Sesame oil |  |
+| 3/4 cup | Premium orange juice | Increased sauce batch |
+| 3 Tbsp | Orange marmalade |  |
+| 3 Tbsp | Brown sugar |  |
+| 1 1/2 Tbsp | Honey |  |
+| 3 Tbsp | Soy sauce |  |
+| 1 1/2 Tbsp | Rice vinegar |  |
+| 3 cloves | Garlic | Grated |
+| 1 1/2 tsp | Grated ginger |  |
+| 1 | Orange | Zested; use generous zest |
+| 1 1/2 tsp | Sesame oil |  |
 
 ### Slurry and Finish
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 Tbsp | Cornstarch | For slurry |
-| 2 Tbsp | Cold water | For slurry |
+| 1 1/2 Tbsp | Cornstarch | For larger sauce batch |
+| 3 Tbsp | Cold water | For slurry |
 | As desired | Green onion | Garnish |
 | As desired | Sesame seeds | Garnish |
 | As desired | Fresh orange zest | Garnish |
@@ -138,18 +139,18 @@ last_updated: 2026-06-19
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Orange Sauce | 1/2 cup orange juice; 2 Tbsp orange marmalade; 2 Tbsp brown sugar; 1 Tbsp honey; 2 Tbsp soy sauce; 1 Tbsp rice vinegar; 2 grated garlic cloves; 1 tsp grated ginger; orange zest; 1 tsp sesame oil | Simmer until cohesive before adding slurry. |
-| Bowl 2 — Slurry | 1 Tbsp cornstarch; 2 Tbsp cold water | Stir smooth before adding to sauce. |
+| Bowl 1 — Extra Orange Sauce | 3/4 cup orange juice; 3 Tbsp orange marmalade; 3 Tbsp brown sugar; 1 1/2 Tbsp honey; 3 Tbsp soy sauce; 1 1/2 Tbsp rice vinegar; 3 grated garlic cloves; 1 1/2 tsp grated ginger; generous orange zest; 1 1/2 tsp sesame oil | Simmer until cohesive before adding slurry. |
+| Bowl 2 — Slurry | 1 1/2 Tbsp cornstarch; 3 Tbsp cold water | Stir smooth before adding to sauce. |
 | Bowl 3 — Garnish | Green onion; sesame seeds; fresh orange zest | Hold for service. |
 
 ## Do Not Forget
 
 - Use **3 boneless skinless chicken thighs**. Six thighs was too much for this recipe card.
+- Don wants the orange sauce increased, so this recipe uses an extra-generous sauce batch even with 3 thighs.
 - Marinate chicken **6 to 24 hours**.
 - Add egg white and cornstarch after marination for the velveting step.
 - Double-fry the chicken: first fry at **350°F**, second fry at **375°F**.
 - Toss chicken with sauce while both are hot.
-- This sauce amount fits the reduced 3-thigh version. Increase sauce only if scaling the chicken up.
 - Crab Rangoon and Fried Rice are separate recipes and should be served as pairings, not embedded in this card.
 - No nutrition panel is needed for this recipe card.
 
@@ -164,8 +165,8 @@ last_updated: 2026-06-19
 | 5 | **First fry.** Fry chicken at **350°F** for **3 to 4 minutes**, until lightly golden and cooked through. Work in batches so the oil temperature stays steady. |
 | 6 | **Rest.** Let fried chicken rest **5 minutes** on a rack. |
 | 7 | **Second fry.** Fry again at **375°F** for **1 to 2 minutes**, until deeply crisp. Drain on a rack. |
-| 8 | **Make the orange sauce.** Simmer **1/2 cup orange juice**, **2 Tbsp orange marmalade**, **2 Tbsp brown sugar**, **1 Tbsp honey**, **2 Tbsp soy sauce**, **1 Tbsp rice vinegar**, **2 grated garlic cloves**, **1 tsp grated ginger**, orange zest, and **1 tsp sesame oil** until cohesive. |
-| 9 | **Thicken the sauce.** Stir together **1 Tbsp cornstarch** and **2 Tbsp cold water**. Add slurry to the simmering sauce and cook until glossy. |
+| 8 | **Make the extra orange sauce.** Simmer **3/4 cup orange juice**, **3 Tbsp orange marmalade**, **3 Tbsp brown sugar**, **1 1/2 Tbsp honey**, **3 Tbsp soy sauce**, **1 1/2 Tbsp rice vinegar**, **3 grated garlic cloves**, **1 1/2 tsp grated ginger**, generous orange zest, and **1 1/2 tsp sesame oil** until cohesive. |
+| 9 | **Thicken the sauce.** Stir together **1 1/2 Tbsp cornstarch** and **3 Tbsp cold water**. Add slurry to the simmering sauce and cook until glossy. |
 | 10 | **Toss and finish.** Toss hot crispy chicken with glossy orange sauce. Garnish with green onion, sesame seeds, and fresh orange zest. Serve immediately. |
 
 ## Building the Final Plate
@@ -181,7 +182,7 @@ last_updated: 2026-06-19
 
 The finished chicken should be crisp, glossy, citrus-forward, lightly sweet, savory, garlicky, gingery, and bright from fresh orange zest.
 
-The sauce should cling to the chicken without making the coating soggy.
+The sauce should be generous enough to coat the chicken and lightly pool without making the coating soggy.
 
 <!-- recipe-card:end -->
 
@@ -205,5 +206,6 @@ Extra double-fried chicken can be frozen for future orange chicken. Keep sauce s
 | Date | Change |
 |---|---|
 | 2026-06-19 | Added as a standalone Flavorweaver orange chicken recipe using 3 chicken thighs. Fried rice and crab rangoon split into separate recipe cards. |
+| 2026-06-19 | Increased orange sauce for the 3-thigh version so the finished dish stays saucy. |
 
 </details>

@@ -59,6 +59,7 @@
       'house staple',
       'Korean Inspired',
       'Vietnamese Inspired',
+      'Chinese Inspired',
       'Ethiopian Inspired',
       'Indian Inspired',
       'Asian Inspired',

@@ -30,6 +30,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Thai-Inspired', 'thai-inspired', 'coconut curry', 'red curry', 'tofu', 'crispy tofu', 'deep-fried tofu', 'curry soup', 'soup bowl', 'spicy', 'v2 test recipe']
   },
   {
+    title: 'Butter Chicken over Basmati Rice',
+    path: 'recipes/indian/butter-chicken-over-basmati-rice.html',
+    collection: 'House Recipes',
+    culture: 'Indian Inspired',
+    category: 'Main Dish',
+    status: 'Excellent First Test',
+    ingredients: ['chicken', 'basmati rice', 'tomatoes', 'cashews', 'butter', 'cream', 'Greek yogurt', 'ginger garlic paste', 'garam masala', 'kasuri methi'],
+    tags: ['Indian-Inspired', 'indian-inspired', 'butter chicken', 'chicken makhani', 'basmati rice', 'tomato cashew sauce', 'excellent first test', 'source adapted']
+  },
+  {
     title: 'Gochujang Crema',
     path: 'recipes/condiments/gochujang-crema.html',
     collection: 'House Recipes',

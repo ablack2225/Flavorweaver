@@ -35,9 +35,9 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     collection: 'House Recipes',
     culture: 'Indian Inspired',
     category: 'Main Dish',
-    status: 'Excellent First Test',
+    status: 'Working Recipe',
     ingredients: ['chicken', 'basmati rice', 'tomatoes', 'cashews', 'butter', 'cream', 'Greek yogurt', 'ginger garlic paste', 'garam masala', 'kasuri methi'],
-    tags: ['Indian-Inspired', 'indian-inspired', 'butter chicken', 'chicken makhani', 'basmati rice', 'tomato cashew sauce', 'excellent first test', 'source adapted']
+    tags: ['Indian-Inspired', 'indian-inspired', 'butter chicken', 'chicken makhani', 'basmati rice', 'tomato cashew sauce', 'cream sauce', 'marinated chicken']
   },
   {
     title: 'Gochujang Crema',

@@ -7,12 +7,13 @@ difficulty: Moderate
 prep_time: 20m
 cook_time: 40m
 total_time: 1h, plus marination
-servings: 4 servings
-yield: 4 bowls
+servings: 4 bowls
 measurement_status: documented
-primary_category: Main Dish
-categories:
-  - Main Dish
+
+rating_note: Served over basmati rice
+repeat_worthy: true
+hall_of_fame_candidate: false
+hall_of_fame: false
 
 tags:
   - Indian-Inspired
@@ -23,14 +24,15 @@ tags:
   - tomato cashew sauce
   - cream sauce
   - marinated chicken
-
-required_components: []
+  - butter-only
+  - cashews
 
 pairs_well_with:
-  - basmati rice
   - turmeric rice
   - cumin rice
   - naan
+
+required_components: []
 
 last_updated: 2026-06-19
 ---
@@ -39,11 +41,11 @@ last_updated: 2026-06-19
 
 # Butter Chicken over Basmati Rice
 
-> Tender marinated chicken in a creamy tomato-cashew butter sauce, served over basmati rice. The sauce should be rich, smooth, lightly sweet, gently spiced, and balanced enough to carry the rice without tasting flat or overly acidic.
+> Tender marinated chicken in a creamy tomato-cashew butter sauce served over basmati rice. The sauce should be smooth, rich, gently spiced, lightly sweet, and balanced enough to carry the rice without tasting flat or overly acidic.
 
 ## Recipe Dashboard
 
-| Status | Total Time | Servings / Yield | Difficulty |
+| Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
 | Working Recipe | 1 hr, plus marination | 4 bowls | Moderate |
 
@@ -51,32 +53,30 @@ last_updated: 2026-06-19
 |---:|---:|---|---|
 | 20 min | 40 min | Served over basmati rice | Yes |
 
-## Kitchen Execution Summary
-
-| Execution Point | Notes |
-|---|---|
-| Best cooked | Sauce and chicken are best finished fresh; marination can happen ahead. |
-| Must be prepped before heat | Chicken marinade, soaked cashews, tomato-cashew puree, rice. |
-| Can hold warm? | Sauce can hold gently on low; add cream at the end. |
-| Should not be prepped early | Final cream finish and fresh garnish. |
-| Critical timing | Do not scorch the spices or overcook the chicken before it finishes in the sauce. |
-| Main risk | Sauce too acidic, too thick, or spices tasting raw. |
-| Success cue | Sauce is smooth, rich, cohesive, and clings to chicken and rice. |
-
 ## Ingredient List
 
 | Component | Ingredients |
 |---|---|
-| First Marinade | Chicken, Kashmiri chili powder or paprika, salt, lemon juice |
-| Second Marinade | Greek yogurt, ginger-garlic paste, turmeric, garam masala, cumin, coriander, kasuri methi, oil |
-| Tomato-Cashew Sauce | Butter, optional whole spices, onion, tomatoes, cashews, water, ginger-garlic paste, optional green chilies, chili powder, garam masala, coriander, cumin, salt, sugar, kasuri methi, hot water, cream |
-| Service | Basmati rice, optional coriander garnish, optional cream drizzle |
+| Basmati Rice | Basmati rice, water or broth, salt, optional butter |
+| First Marinade | Chicken, Kashmiri red chili powder or paprika, salt, lemon juice |
+| Second Marinade | Greek yogurt, ginger-garlic paste, turmeric, garam masala, cumin, coriander, kasuri methi, neutral oil |
+| Tomato-Cashew Puree | Fresh tomatoes, onion, raw cashews, water |
+| Butter Sauce Base | Butter, optional cinnamon, optional cardamom, optional cloves, ginger-garlic paste, optional green chilies, Kashmiri chili powder, garam masala, coriander powder, cumin powder |
+| Sauce Finish | Hot water, salt, sugar, kasuri methi, heavy cream, optional coriander leaves |
 
 ## Measured Ingredients
 
+### Basmati Rice
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| As needed | Cooked basmati rice | Primary bowl base |
+| Optional | Butter | For rice finish if desired |
+| Optional | Salt | For cooking rice |
+
 ### Chicken and First Marinade
 
-| Amount | Ingredient | Prep / Notes |
+| Amount | Ingredient | Notes |
 |---:|---|---|
 | 1.1 lb | Boneless chicken | Cut into 1-inch pieces |
 | 1/2 to 3/4 tsp | Kashmiri red chili powder or paprika | Adjust to heat preference |
@@ -85,7 +85,7 @@ last_updated: 2026-06-19
 
 ### Second Marinade
 
-| Amount | Ingredient | Prep / Notes |
+| Amount | Ingredient | Notes |
 |---:|---|---|
 | 1/3 cup | Greek yogurt | Thick yogurt preferred |
 | 3/4 Tbsp | Ginger-garlic paste | Or 1/2 Tbsp each grated ginger and garlic |
@@ -93,109 +93,126 @@ last_updated: 2026-06-19
 | 3/4 to 1 tsp | Garam masala | Adjust to taste |
 | 1/2 tsp | Cumin powder | Optional |
 | 1 tsp | Coriander powder | Optional |
-| 1 tsp | Kasuri methi | Dried fenugreek leaves; crush lightly before adding |
+| 1 tsp | Kasuri methi | Crush lightly before adding |
 | 3/4 to 1 Tbsp | Neutral oil | Helps coat chicken |
 
-### Tomato-Cashew Sauce
+### Tomato-Cashew Puree
 
-| Amount | Ingredient | Prep / Notes |
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1.3 lb | Fresh tomatoes | Or 1 cup tomato puree / passata, or 1/3 cup double-concentrate tomato paste |
+| 1 1/2 cups | Onion | Sliced; optional but helps round tomato acidity |
+| 1/3 cup | Whole raw cashews | Soak in hot water before blending |
+| 1/2 cup | Water | For blending, plus more if needed |
+
+### Butter Sauce Base
+
+| Amount | Ingredient | Notes |
 |---:|---|---|
 | 2 to 3 Tbsp | Butter | Divided; use butter only, no ghee |
 | 2-inch piece | Cinnamon | Optional |
 | 2 to 4 | Green cardamoms | Optional |
 | 2 to 4 | Cloves | Optional |
-| 1 1/2 cups | Onion | Sliced; optional but helps round tomato acidity |
-| 1.3 lb | Fresh tomatoes | Or 1 cup tomato puree / passata, or 1/3 cup double-concentrate tomato paste |
-| 1/3 cup | Whole raw cashews | Soak in hot water before blending |
-| 1/2 cup | Water | For blending, plus more if needed |
 | 3/4 Tbsp | Ginger-garlic paste | Or 1/2 Tbsp each grated ginger and garlic |
 | 1 to 2 | Green chilies | Optional; deseed for less heat |
 | 1 to 2 tsp | Kashmiri chili powder | Adjust to heat and color preference |
 | 1 to 1 1/2 tsp | Garam masala | Divided, to taste |
 | 1 to 1 1/2 tsp | Coriander powder | Optional |
 | 1/2 tsp | Cumin powder | Optional |
+
+### Sauce Finish
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 to 1 1/2 cups | Hot water | Add gradually to control thickness |
 | 1/2 to 3/4 tsp | Salt | Adjust to taste |
 | 1 tsp | Sugar | Balances tomato acidity |
 | 1/2 Tbsp | Kasuri methi | Crush lightly before adding |
-| 1 to 1 1/2 cups | Hot water | Add gradually to control sauce thickness |
-| 1/3 cup | Heavy cream or whipping cream | Add at the end |
+| 1/3 cup | Heavy cream or whipping cream | Add after heat is turned off |
 | 2 Tbsp | Coriander leaves | Optional garnish |
-
-### Service
-
-| Amount | Ingredient | Prep / Notes |
-|---:|---|---|
-| As needed | Cooked basmati rice | Primary service style |
-| Optional | Extra cream | Light garnish drizzle |
-| Optional | Naan | Side pairing |
-
-## Prep Notes
-
-- Marinate the chicken at least 30 minutes; overnight gives deeper flavor.
-- Soak the cashews in hot water before blending so the sauce turns smooth.
-- Slice onion before starting if using it to soften tomato acidity.
-- Cook basmati rice separately before finishing the sauce.
-- Use butter only; do not use ghee.
-- Use cashews for the sauce base.
-- Use about 1.3 lb fresh tomatoes rather than gram-based measurement.
 
 ## Stage-Based Prep Bowls
 
-### Stage 1 — Chicken Marination
+### Rice Bowls
 
-- Bowl 1: chicken, Kashmiri chili powder or paprika, salt, lemon juice.
-- Bowl 2: Greek yogurt, ginger-garlic paste, turmeric, garam masala, cumin, coriander, kasuri methi, oil.
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — Cooked Rice | Cooked basmati rice | Make separately and keep warm for bowl assembly. |
+| Bowl 2 — Optional Rice Finish | Butter; salt | Use only if finishing the rice separately. |
 
-### Stage 2 — Sauce Base
+### Chicken Marinade Bowls
 
-- Bowl 1: optional sliced onion.
-- Bowl 2: tomatoes, soaked cashews, water.
-- Bowl 3: optional whole spices — cinnamon, cardamom, cloves.
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — First Marinade | 1.1 lb boneless chicken; 1/2 to 3/4 tsp Kashmiri red chili powder or paprika; 1/4 to 1/3 tsp salt; 3/4 to 1 Tbsp lemon juice | Rest 20 minutes before adding the second marinade. |
+| Bowl 2 — Second Marinade | 1/3 cup Greek yogurt; 3/4 Tbsp ginger-garlic paste; optional 1/8 tsp turmeric; 3/4 to 1 tsp garam masala; optional 1/2 tsp cumin; optional 1 tsp coriander; 1 tsp kasuri methi; 3/4 to 1 Tbsp neutral oil | Marinate at least 30 minutes, or overnight for deeper flavor. |
 
-### Stage 3 — Aromatics and Spice Bloom
+### Sauce Prep Bowls
 
-- Bowl 1: ginger-garlic paste and optional green chilies.
-- Bowl 2: Kashmiri chili powder, garam masala, coriander powder, cumin powder.
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — Optional Onion | 1 1/2 cups sliced onion | Cook until softened and lightly golden before blending if using. |
+| Bowl 2 — Cashews | 1/3 cup whole raw cashews | Soak in hot water before blending. |
+| Bowl 3 — Tomato-Cashew Puree | 1.3 lb fresh tomatoes; cooked onion if using; soaked cashews; 1/2 cup water | Blend smooth. Strain if a very smooth sauce is desired. |
+| Bowl 4 — Whole Spices | Optional cinnamon, cardamom, cloves | Bloom briefly in butter; remove later if desired. |
 
-### Stage 4 — Finish and Service
+### Sauce and Finish Bowls
 
-- Bowl 1: salt, sugar, crushed kasuri methi.
-- Bowl 2: heavy cream.
-- Bowl 3: cooked basmati rice and optional garnish.
+| Bowl | Contents | Notes |
+|---|---|---|
+| Bowl 1 — Aromatics | 3/4 Tbsp ginger-garlic paste; optional green chilies | Cook gently until fragrant. |
+| Bowl 2 — Ground Spices | 1 to 2 tsp Kashmiri chili powder; 1 to 1 1/2 tsp garam masala; optional 1 to 1 1/2 tsp coriander; optional 1/2 tsp cumin | Lower heat before adding so spices do not scorch. |
+| Bowl 3 — Gravy Loosener | 1 to 1 1/2 cups hot water | Add gradually. |
+| Bowl 4 — Final Seasoning | 1/2 to 3/4 tsp salt; 1 tsp sugar; 1/2 Tbsp crushed kasuri methi | Add after chicken simmers in sauce. |
+| Bowl 5 — Cream Finish | 1/3 cup heavy cream or whipping cream; optional coriander leaves | Add cream off heat. |
 
-## Instructions
+## Do Not Forget
 
-1. **Marinate the chicken.** Combine 1.1 lb chicken with Kashmiri chili powder or paprika, salt, and lemon juice. Cover and rest for 20 minutes.
+- Use butter only; do not use ghee.
+- Use cashews for the sauce base, not almonds.
+- Use about **1.3 lb fresh tomatoes** instead of gram-based tomato measurement.
+- Marinate the chicken at least 30 minutes; overnight gives deeper flavor.
+- Soak cashews before blending so the sauce turns smooth.
+- Cook the tomato-cashew puree until the raw tomato edge is gone and the sauce looks darker and thicker.
+- Lower the heat before adding ground spices so they bloom without scorching.
+- Cook the chicken separately before finishing it in the sauce.
+- Add cream only after turning off the heat.
+- Serve over basmati rice.
+- No nutrition panel is needed for this recipe card.
 
-2. **Add the second marinade.** Stir in Greek yogurt, ginger-garlic paste, turmeric if using, garam masala, cumin, coriander, kasuri methi, and oil. Cover and marinate at least 30 minutes, or refrigerate overnight.
+## Full Cooking Timeline and Instructions
 
-3. **Prepare the sauce puree.** If using onion, cook sliced onion in a little butter until softened and lightly golden. Blend the onion with fresh tomatoes, soaked cashews, and water until smooth. Strain if a very smooth sauce is desired.
+| Step | Action |
+|---:|---|
+| 1 | **Start the first marinade.** Combine **1.1 lb boneless chicken**, **1/2 to 3/4 tsp Kashmiri red chili powder or paprika**, **1/4 to 1/3 tsp salt**, and **3/4 to 1 Tbsp lemon juice**. Cover and rest **20 minutes**. |
+| 2 | **Add the second marinade.** Add **1/3 cup Greek yogurt**, **3/4 Tbsp ginger-garlic paste**, optional **1/8 tsp turmeric**, **3/4 to 1 tsp garam masala**, optional **1/2 tsp cumin powder**, optional **1 tsp coriander powder**, **1 tsp crushed kasuri methi**, and **3/4 to 1 Tbsp neutral oil**. Cover and marinate at least **30 minutes**, or refrigerate overnight. |
+| 3 | **Cook the rice.** Cook basmati rice separately and keep warm for serving. Butter and salt may be added to the rice if desired. |
+| 4 | **Soak the cashews.** Soak **1/3 cup whole raw cashews** in hot water while prepping the sauce. Drain before blending. |
+| 5 | **Cook onion if using.** Cook **1 1/2 cups sliced onion** in a small amount of butter until softened and lightly golden. Cool slightly before blending. |
+| 6 | **Blend the tomato-cashew puree.** Blend **1.3 lb fresh tomatoes**, the cooked onion if using, soaked cashews, and **1/2 cup water** until smooth. Strain if a very smooth sauce is desired. |
+| 7 | **Start the butter sauce base.** Melt part of the **2 to 3 Tbsp butter** in a wide pan over medium heat. Add optional cinnamon, cardamom, and cloves. Let them sizzle briefly until fragrant. |
+| 8 | **Bloom aromatics and spices.** Add **3/4 Tbsp ginger-garlic paste** and optional green chilies. Cook gently until fragrant. Lower the heat, then add **1 to 2 tsp Kashmiri chili powder**, **garam masala**, optional coriander, and optional cumin. Stir briefly without scorching. |
+| 9 | **Cook down the sauce.** Add the tomato-cashew puree. Cook partially covered, stirring occasionally, until the sauce thickens, deepens in color, and no longer tastes raw. |
+| 10 | **Loosen the gravy.** Add **1 to 1 1/2 cups hot water**, gradually, until the sauce reaches a creamy gravy consistency. Simmer about **10 minutes**. Remove whole spices if desired. |
+| 11 | **Cook the chicken separately.** Heat butter in a separate skillet. Add marinated chicken in batches with space between pieces. Cook until the marinade dries down and the chicken is mostly cooked, but do not overcook it. |
+| 12 | **Finish chicken in the sauce.** Add the cooked chicken to the sauce. Cover and simmer **5 to 7 minutes**, until the chicken is tender and fully cooked. Add a splash of hot water if the sauce becomes too thick. |
+| 13 | **Finish the sauce.** Stir in **salt to taste**, **1 tsp sugar**, and **1/2 Tbsp crushed kasuri methi**. Turn off heat and stir in **1/3 cup heavy cream or whipping cream**. Taste and adjust only if needed. |
+| 14 | **Serve over rice.** Spoon butter chicken over hot basmati rice. Garnish with coriander leaves or a light cream drizzle if desired. |
 
-4. **Start the sauce.** Melt butter in a wide pan over medium heat. Add optional cinnamon, cardamom, and cloves. Let them sizzle briefly until fragrant.
+## Building the Final Bowl
 
-5. **Bloom aromatics and spices.** Add ginger-garlic paste and optional green chilies. Cook gently until fragrant. Lower the heat before adding Kashmiri chili powder, garam masala, coriander, and cumin so the spices bloom without scorching.
-
-6. **Cook down the tomato-cashew base.** Add the blended tomato-cashew puree. Cook partially covered, stirring occasionally, until the sauce thickens, deepens in color, and no longer tastes raw.
-
-7. **Loosen the gravy.** Add hot water gradually until the sauce reaches a creamy gravy consistency. Simmer about 10 minutes. Remove whole spices if desired.
-
-8. **Cook the chicken separately.** Heat butter in a separate skillet. Add marinated chicken in batches with space between pieces. Cook until the marinade dries down and the chicken is mostly cooked, but do not overcook it.
-
-9. **Finish chicken in the sauce.** Add the cooked chicken to the sauce. Cover and simmer 5 to 7 minutes, until the chicken is tender and fully cooked. Add a splash of hot water if the sauce becomes too thick.
-
-10. **Finish and adjust.** Stir in salt to taste, sugar, and crushed kasuri methi. Turn off the heat and stir in heavy cream. Taste and adjust with a little more salt, sugar, or garam masala only if needed.
-
-11. **Serve.** Spoon butter chicken over hot basmati rice. Garnish with coriander leaves or a light cream drizzle if desired.
-
-## Troubleshooting / Rescue Notes
-
-| Issue | Fix |
+| Layer | Build Detail |
 |---|---|
-| Sauce tastes too acidic | Simmer longer, add a small pinch of sugar, or add a little more cream. |
-| Sauce is too thick | Add hot water a splash at a time until creamy and spoonable. |
-| Sauce is too loose | Simmer uncovered until it thickens and clings to the chicken. |
-| Spices taste raw | Cook the sauce longer on low, stirring often. |
-| Chicken is getting tough | Stop simmering once fully cooked and tender. |
+| 1. Warm Rice Foundation | Add hot basmati rice to each bowl. Spread slightly so the sauce can settle into the rice. |
+| 2. Butter Chicken Anchor | Spoon chicken and tomato-cashew butter sauce over the rice. Keep enough sauce visible so the bowl reads rich and saucy. |
+| 3. Sauce Finish | Add extra sauce around the chicken if needed. The rice should be coated but not drowned. |
+| 4. Garnish Finish | Finish with coriander leaves or a light cream drizzle if desired. Serve hot. |
+
+## Final Taste Target
+
+The finished bowl should be creamy, tomato-rich, gently spiced, lightly sweet, and rounded by butter, cashews, cream, and kasuri methi.
+
+The chicken should be tender, the sauce smooth and spoonable, and the basmati rice should carry the sauce without turning soupy.
 
 <!-- recipe-card:end -->
 
@@ -203,100 +220,19 @@ last_updated: 2026-06-19
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Base | Basmati rice | Primary service style. |
-| Base | Turmeric rice | Optional rice pairing. |
-| Base | Cumin rice | Optional rice pairing. |
+| Base | Turmeric Rice | Optional rice pairing. |
+| Base | Cumin Rice | Optional rice pairing. |
 | Bread | Naan | Optional pairing. |
 
 ## Chef's Notes
 
 Butter chicken depends on a smooth sauce, balanced tomato acidity, and chicken that stays tender. Keep the heat controlled when blooming spices, cook the tomato-cashew puree until it tastes rounded, and add cream only at the end.
 
-## Final Verdict
-
-**Worth making again?**
-
-Yes.
-
-**Flavorweaver Decision:**
-
-- [x] Keep as written
-- [ ] Keep with changes
-- [ ] Move toward Hall of Fame
-- [ ] Mark as House Staple
-- [ ] Keep for testing
-- [ ] Do not repeat
-
-<details>
-<summary>Flavor Architecture</summary>
-
-| Layer | Notes |
-|---|---|
-| Richness | Butter, cashews, and cream. |
-| Freshness | Tomato base, optional coriander garnish. |
-| Acid / Brightness | Lemon in the marinade and tomato in the sauce. |
-| Heat | Kashmiri chili powder, paprika, and optional green chilies. |
-| Sweetness | Sugar balances tomato acidity. |
-| Umami | Chicken, butter, spices, and slow-cooked tomato-cashew sauce. |
-| Texture | Tender chicken with smooth gravy over basmati rice. |
-| Sauce / Moisture | Creamy, spoonable tomato-cashew butter sauce. |
-| Aroma | Garam masala, kasuri methi, ginger-garlic, optional whole spices. |
-
-</details>
-
-<details>
-<summary>Flavorweaver Direction</summary>
-
-Keep this as a practical butter chicken recipe built around tender marinated chicken, smooth tomato-cashew sauce, butter, cream, kasuri methi, and basmati rice service.
-
-</details>
-
-<details>
-<summary>Timing Notes</summary>
-
-Marination can be done overnight. Rice can be cooked separately while the sauce simmers. Cream should be added only at the end.
-
-</details>
-
-<details>
-<summary>Testing Notes</summary>
-
-## First Test
-
-**Date:** 2026-06-19
-
-**What worked:**
-
-- Served over basmati rice.
-- Sauce and rice pairing worked well.
-- Butter-only version fits the Flavorweaver kitchen standard.
-
-**What to protect:**
-
-- Butter only, no ghee.
-- Cashew sauce base.
-- 1.3 lb tomato measurement.
-- Basmati rice service.
-
-**What to adjust next time:**
-
-- Confirm final preferred spice level.
-- Confirm preferred sauce thickness.
-
-</details>
-
-<details>
-<summary>Kitchen Notes</summary>
-
-Use cashews, not almonds. Use butter only, not ghee. Keep tomato amount in pounds for practical kitchen use.
-
-</details>
-
 <details>
 <summary>Change Log</summary>
 
 | Date | Change |
 |---|---|
-| 2026-06-19 | Reworked into the active standalone world-culture recipe source format. |
+| 2026-06-19 | Reworked to follow the Bold Bulgogi Bowls source-card structure: measured prep bowls, do-not-forget reminders, timeline table, bowl assembly, and final taste target. Nutrition section intentionally omitted. |
 
 </details>

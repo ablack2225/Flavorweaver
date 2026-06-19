@@ -16,6 +16,8 @@ hall_of_fame_candidate: false
 hall_of_fame: false
 
 tags:
+  - Asian-Inspired
+  - asian-inspired
   - Chinese-Inspired
   - chinese-inspired
   - fried rice
@@ -129,5 +131,6 @@ Leftover fried rice keeps well for another serving. Reheat in a skillet for best
 | Date | Change |
 |---|---|
 | 2026-06-19 | Split fried rice into its own Flavorweaver side recipe from the orange chicken dinner notes. |
+| 2026-06-19 | Added Asian-inspired tags for broader search grouping. |
 
 </details>

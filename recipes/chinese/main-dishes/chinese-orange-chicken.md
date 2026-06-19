@@ -31,7 +31,6 @@ tags:
 pairs_well_with:
   - restaurant-style-fried-rice
   - premium-crab-rangoon
-  - pickled-garden-zucchini-and-squash
 
 required_components: []
 
@@ -105,7 +104,7 @@ last_updated: 2026-06-19
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 3/4 cup | Premium orange juice | Increased sauce batch |
+| 3/4 cup | Premium orange juice | Extra-generous sauce batch |
 | 3 Tbsp | Orange marmalade |  |
 | 3 Tbsp | Brown sugar |  |
 | 1 1/2 Tbsp | Honey |  |
@@ -147,13 +146,11 @@ last_updated: 2026-06-19
 
 ## Do Not Forget
 
-- Use **3 boneless skinless chicken thighs**. Six thighs was too much for this recipe card.
-- Don wants the orange sauce increased, so this recipe uses an extra-generous sauce batch even with 3 thighs.
 - Marinate chicken **6 to 24 hours**.
+- Cut chicken into even bite-size pieces so it fries evenly.
 - Add egg white and cornstarch after marination for the velveting step.
 - Double-fry the chicken: first fry at **350°F**, second fry at **375°F**.
 - Toss chicken with sauce while both are hot.
-- Crab Rangoon and Fried Rice are separate recipes and should be served as pairings, not embedded in this card.
 - No nutrition panel is needed for this recipe card.
 
 ## Full Cooking Timeline and Instructions
@@ -175,10 +172,10 @@ last_updated: 2026-06-19
 
 | Layer | Build Detail |
 |---|---|
-| 1. Rice or Side Base | Serve with Restaurant-Style Fried Rice or steamed rice. |
+| 1. Rice or Side Base | Serve with [Restaurant-Style Fried Rice](../sides/restaurant-style-fried-rice.md) or steamed rice. |
 | 2. Orange Chicken Anchor | Pile the glossy crispy orange chicken as the main dish. |
 | 3. Garnish Finish | Finish with green onion, sesame seeds, and fresh orange zest. |
-| 4. Optional Sides | Add Premium Crab Rangoon and Pickled Garden Zucchini & Squash if serving as a full dinner. |
+| 4. Optional Appetizer | Serve with [Premium Crab Rangoon](../appetizers/premium-crab-rangoon.md) if making the full dinner. |
 
 ## Final Taste Target
 
@@ -192,9 +189,8 @@ The sauce should be generous enough to coat the chicken and lightly pool without
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Side | Restaurant-Style Fried Rice | Split into its own recipe. |
-| Appetizer | Premium Crab Rangoon | Split into its own recipe. |
-| Vegetable | Pickled Garden Zucchini & Squash | Bright, crisp contrast. |
+| Side | [Restaurant-Style Fried Rice](../sides/restaurant-style-fried-rice.md) | Savory rice side for the orange sauce. |
+| Appetizer | [Premium Crab Rangoon](../appetizers/premium-crab-rangoon.md) | Crispy appetizer with homemade sweet and sour sauce. |
 
 ## Chef's Notes
 
@@ -207,8 +203,8 @@ Extra double-fried chicken can be frozen for future orange chicken. Keep sauce s
 
 | Date | Change |
 |---|---|
-| 2026-06-19 | Added as a standalone Flavorweaver orange chicken recipe using 3 chicken thighs. Fried rice and crab rangoon split into separate recipe cards. |
-| 2026-06-19 | Increased orange sauce for the 3-thigh version so the finished dish stays saucy. |
+| 2026-06-19 | Added as a standalone Flavorweaver orange chicken recipe. |
 | 2026-06-19 | Added Asian-inspired tags for broader search grouping. |
+| 2026-06-19 | Cleaned final recipe notes and linked paired recipes. |
 
 </details>

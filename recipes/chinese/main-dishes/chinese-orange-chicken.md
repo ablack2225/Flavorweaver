@@ -16,6 +16,8 @@ hall_of_fame_candidate: true
 hall_of_fame: false
 
 tags:
+  - Asian-Inspired
+  - asian-inspired
   - Chinese-Inspired
   - chinese-inspired
   - orange chicken
@@ -207,5 +209,6 @@ Extra double-fried chicken can be frozen for future orange chicken. Keep sauce s
 |---|---|
 | 2026-06-19 | Added as a standalone Flavorweaver orange chicken recipe using 3 chicken thighs. Fried rice and crab rangoon split into separate recipe cards. |
 | 2026-06-19 | Increased orange sauce for the 3-thigh version so the finished dish stays saucy. |
+| 2026-06-19 | Added Asian-inspired tags for broader search grouping. |
 
 </details>

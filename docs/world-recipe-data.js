@@ -80,6 +80,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'malai kofta', 'paneer kofta', 'restaurant-style', 'creamy curry', 'project meal', 'house favorite']
   },
   {
+    title: 'Palak Paneer',
+    path: 'recipes/indian/palak-paneer.html',
+    collection: 'House Recipes',
+    culture: 'Indian Inspired',
+    category: 'Main Dish',
+    status: 'Working Recipe',
+    ingredients: ['spinach', 'paneer', 'whole milk', 'lemon juice', 'onion', 'tomatoes', 'fenugreek seeds', 'cumin', 'coriander', 'curry powder', 'cream', 'ginger', 'garlic', 'green chili'],
+    tags: ['Indian-Inspired', 'indian-inspired', 'palak paneer', 'spinach curry', 'homemade paneer', 'whole milk paneer', 'lemon paneer', 'pan-fried paneer', 'curry powder', 'vegetarian curry']
+  },
+  {
     title: 'Gochujang Crema',
     path: 'recipes/condiments/gochujang-crema.html',
     collection: 'House Recipes',

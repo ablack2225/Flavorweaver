@@ -108,8 +108,8 @@ last_updated: 2026-06-19
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 100 grams | Boiled potato | About 1 medium potato or 1/2 cup fine grated potato; cool completely |
-| 200 grams | Paneer | About 1 1/2 cups dry gratings; pat dry if needed |
+| 1 medium potato, or 1/2 cup grated | Boiled potato | About 100 grams; cool completely before grating |
+| 1 1/2 cups grated | Paneer | About 200 grams dry gratings; pat dry if needed |
 | 2 1/2 Tbsp | Cornstarch | Add 1 Tbsp more only if needed |
 | 1/2 tsp | Sea salt | Adjust to taste |
 | 1/2 to 3/4 tsp | Garam masala | Or 1/4 tsp cardamom powder |
@@ -151,7 +151,7 @@ last_updated: 2026-06-19
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Dry Paneer and Potato | 100 g boiled potato, cooled and finely grated; 200 g paneer, finely grated and patted dry | Cool potato completely so the dough does not get gummy. |
+| Bowl 1 — Dry Paneer and Potato | 1 medium boiled potato, cooled and finely grated, or 1/2 cup finely grated boiled potato; 1 1/2 cups finely grated paneer | Cool potato completely so the dough does not get gummy. Pat paneer dry if moist. |
 | Bowl 2 — Kofta Seasoning | 2 1/2 Tbsp cornstarch; 1/2 tsp sea salt; 1/2 to 3/4 tsp garam masala or 1/4 tsp cardamom powder | Add 1 Tbsp more cornstarch only if the test kofta needs it. |
 | Bowl 3 — Kofta Flavor Add-Ins | 1 Tbsp chopped cashews; 1 Tbsp chopped raisins; 1 tsp ginger; 1 to 2 green chilies or 1/2 tsp black pepper; 1 Tbsp coriander leaves | Optional cashews and raisins give the koftas restaurant-style texture and sweetness. |
 | Bowl 4 — Test Fry Station | 2 cups oil; one small test kofta | Test before frying the whole batch. |
@@ -162,8 +162,9 @@ last_updated: 2026-06-19
 - Make the gravy base first so it can simmer and settle while the koftas are shaped.
 - Discard the bay leaf before blending the gravy.
 - Blend the gravy very smooth, then strain it back into the pan for restaurant-style texture.
+- Use **1 medium boiled potato**, or measure **1/2 cup finely grated boiled potato** after cooling.
+- Use **1 1/2 cups finely grated paneer** and pat it dry if it feels moist.
 - Cool potato completely before mixing koftas.
-- Pat paneer dry so the kofta dough does not become wet.
 - Test-fry one kofta before frying the full batch.
 - Do not stir or disturb koftas for the first 2 minutes of frying.
 - Add koftas to the gravy only at serving time so they stay intact.
@@ -180,8 +181,8 @@ last_updated: 2026-06-19
 | 6 | **Cool and blend.** Turn off heat and cool the mixture slightly. Add **1 cup cold water** to the blender. Discard the bay leaf, transfer the onion-tomato-cashew mixture to the blender, and blend until very smooth. |
 | 7 | **Strain and simmer.** Melt **2 Tbsp unsalted butter** in the pan. Strain the blended gravy directly into the pan. Add up to **1/2 cup water** only as needed. Simmer gently about **10 minutes**, stirring every few minutes, until thick and creamy. |
 | 8 | **Finish the gravy.** Taste and adjust salt and garam masala. Crush **1 1/2 tsp kasuri methi** between your palms and add it with **1 Tbsp jaggery or sugar** and **1/4 cup cream**. Cover and keep warm. |
-| 9 | **Prepare potato and paneer.** While the gravy cooks, boil **100 g potato** until fork tender, cool completely, and finely grate. Pat **200 g paneer** dry and finely grate. |
-| 10 | **Mix kofta dough.** In a bowl, combine grated potato, grated paneer, **2 1/2 Tbsp cornstarch**, **1/2 tsp sea salt**, **1/2 to 3/4 tsp garam masala**, **1 Tbsp chopped cashews**, **1 Tbsp chopped raisins**, **1 tsp ginger**, **1 to 2 chopped green chilies or 1/2 tsp black pepper**, and **1 Tbsp chopped coriander leaves**. Mix **2 to 3 minutes** into a smooth, non-sticky dough. |
+| 9 | **Prepare potato and paneer.** While the gravy cooks, boil **1 medium potato** until fork tender, cool completely, and finely grate. You want about **1/2 cup finely grated boiled potato**. Pat **1 1/2 cups finely grated paneer** dry if it feels moist. |
+| 10 | **Mix kofta dough.** In a bowl, combine the grated potato, grated paneer, **2 1/2 Tbsp cornstarch**, **1/2 tsp sea salt**, **1/2 to 3/4 tsp garam masala**, **1 Tbsp chopped cashews**, **1 Tbsp chopped raisins**, **1 tsp ginger**, **1 to 2 chopped green chilies or 1/2 tsp black pepper**, and **1 Tbsp chopped coriander leaves**. Mix **2 to 3 minutes** into a smooth, non-sticky dough. |
 | 11 | **Shape koftas.** Divide into **12 to 13 portions**. Roll smooth balls between your palms. If the surface feels sticky, lightly roll in **1 tsp flour or cornstarch**, roll again, and dust off excess. |
 | 12 | **Test-fry one kofta.** Heat **2 cups oil** for deep frying. Drop a small test kofta into the hot oil. It should sizzle and rise without disintegrating or browning too quickly. If it breaks, add a little more flour or cornstarch to the dough and test again. |
 | 13 | **Fry the koftas.** Slide koftas gently into the hot oil one by one. Do not disturb for the first **2 minutes**. Fry over medium flame until crisp and golden. Remove to a rack or steel colander. |
@@ -226,5 +227,6 @@ The gravy can be made ahead and kept warm. Koftas are best fried close to servin
 | Date | Change |
 |---|---|
 | 2026-06-19 | Added as a Flavorweaver house favorite with gravy-first, kofta-second kitchen flow. |
+| 2026-06-19 | Added practical potato and paneer measurements for easier kitchen use. |
 
 </details>

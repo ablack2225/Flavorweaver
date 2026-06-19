@@ -10,6 +10,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal', 'asian pickled vegetables']
   },
   {
+    title: 'Top-Shelf Mongolian Brisket Beef',
+    path: 'recipes/chinese/top-shelf-mongolian-brisket-beef.html',
+    collection: 'House Recipes',
+    culture: 'Chinese Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['brisket', 'soy sauce', 'dark soy sauce', 'oyster sauce', 'hoisin sauce', 'brown sugar', 'rice vinegar', 'garlic', 'ginger', 'scallions', 'cornstarch', 'sesame oil'],
+    tags: ['beef', 'brisket', 'mongolian beef', 'stir-fry', 'restaurant-style', 'garlic', 'ginger', 'scallions', 'deep-fried beef', 'test recipe']
+  },
+  {
     title: 'Gochujang Crema',
     path: 'recipes/condiments/gochujang-crema.html',
     collection: 'House Recipes',

@@ -20,14 +20,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['beef', 'brisket', 'mongolian beef', 'stir-fry', 'restaurant-style', 'garlic', 'ginger', 'scallions', 'deep-fried beef', 'test recipe']
   },
   {
-    title: 'Thai-Inspired Spicy Crispy Tofu Coconut Red Curry Soup Bowls — V2',
+    title: 'Thai-Inspired Spicy Crispy Tofu Coconut Red Curry Soup Bowls',
     path: 'recipes/thai/thai-inspired-spicy-crispy-tofu-coconut-red-curry-soup-bowls-v2.html',
     collection: 'House Recipes',
     culture: 'Thai Inspired',
     category: 'Main Dish',
-    status: 'Flavorweaver V2 Test Recipe',
-    ingredients: ['tofu', 'coconut milk', 'curry powder', 'guajillo chile', 'chili garlic sauce', 'lemongrass paste', 'lime', 'fish sauce', 'soy sauce', 'ginger', 'garlic', 'cabbage', 'carrot', 'rice noodles', 'basmati rice'],
-    tags: ['Thai-Inspired', 'thai-inspired', 'coconut curry', 'red curry', 'tofu', 'crispy tofu', 'deep-fried tofu', 'curry soup', 'soup bowl', 'spicy', 'v2 test recipe']
+    status: 'Working Recipe',
+    ingredients: ['tofu', 'coconut milk', 'red curry paste', 'curry powder', 'guajillo chile', 'chili garlic sauce', 'lemongrass paste', 'lime', 'fish sauce', 'soy sauce', 'ginger', 'garlic', 'cabbage', 'carrot', 'rice noodles', 'basmati rice'],
+    tags: ['Thai-Inspired', 'thai-inspired', 'coconut curry', 'red curry', 'tofu', 'crispy tofu', 'deep-fried tofu', 'curry soup', 'soup bowl', 'spicy']
   },
   {
     title: 'Butter Chicken over Basmati Rice',

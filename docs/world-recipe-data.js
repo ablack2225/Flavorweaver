@@ -90,6 +90,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'palak paneer', 'spinach curry', 'homemade paneer', 'whole milk paneer', 'lemon paneer', 'pan-fried paneer', 'curry powder', 'vegetarian curry']
   },
   {
+    title: 'Onion Bhaji-Inspired Fritters with Quick Green Chutney',
+    path: 'recipes/indian/onion-bhaji-inspired-fritters-with-green-chutney.html',
+    collection: 'House Recipes',
+    culture: 'Indian Inspired',
+    category: 'Appetizer',
+    status: 'Emergency Pantry Version',
+    ingredients: ['onion', 'all-purpose flour', 'cornstarch', 'ginger', 'garlic', 'cilantro', 'serrano', 'coriander', 'garam masala', 'cumin', 'chili powder', 'lemon juice', 'mint'],
+    tags: ['Indian-Inspired', 'indian-inspired', 'onion bhaji', 'onion fritters', 'emergency pantry version', 'ap flour', 'cornstarch', 'green chutney', 'cilantro chutney', 'fried appetizer']
+  },
+  {
     title: "Don's Birthday Top-Shelf Falafel",
     path: 'recipes/middle-eastern/dons-birthday-top-shelf-falafel.html',
     collection: 'House Recipes',

@@ -90,6 +90,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'palak paneer', 'spinach curry', 'homemade paneer', 'whole milk paneer', 'lemon paneer', 'pan-fried paneer', 'curry powder', 'vegetarian curry']
   },
   {
+    title: "Don's Birthday Top-Shelf Falafel",
+    path: 'recipes/middle-eastern/dons-birthday-top-shelf-falafel.html',
+    collection: 'House Recipes',
+    culture: 'Middle Eastern Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Birthday Test Recipe',
+    ingredients: ['dried chickpeas', 'parsley', 'cilantro', 'mint', 'onion', 'scallions', 'garlic', 'carrot', 'cumin', 'coriander', 'cardamom', 'tahini', 'lemon juice', 'serrano', 'pita'],
+    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'falafel', 'birthday dinner', 'dried chickpeas', 'meat grinder', 'deep fried', 'tahini sauce', 'zhug', 'project meal']
+  },
+  {
     title: 'Gochujang Crema',
     path: 'recipes/condiments/gochujang-crema.html',
     collection: 'House Recipes',

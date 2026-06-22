@@ -62,6 +62,7 @@
       'Chinese Inspired',
       'Ethiopian Inspired',
       'Indian Inspired',
+      'Middle Eastern Inspired',
       'Asian Inspired',
       'Main Dish',
       'Side Dish',
@@ -70,6 +71,7 @@
       'Condiment',
       'complete meal plate',
       'doro wat',
+      'falafel',
       'naan',
       'injera',
       'top 10 meal'
@@ -97,7 +99,7 @@
       ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.`
       : `Showing ${items.length} recipe pages.`;
     if (!items.length) {
-      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like pie, cookies, sides, sauce, chicken, Korean, Vietnamese, Ethiopian, or naan.</div>';
+      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like chicken, Korean, Vietnamese, Chinese, Ethiopian, Indian, Middle Eastern, falafel, naan, injera, pie, cookies, sides, or sauce.</div>';
       return;
     }
     resultsEl.innerHTML = items.map((recipe) => {

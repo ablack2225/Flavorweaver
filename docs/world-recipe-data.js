@@ -60,6 +60,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Thai-Inspired', 'thai-inspired', 'coconut curry', 'red curry', 'tofu', 'crispy tofu', 'deep-fried tofu', 'curry soup', 'soup bowl', 'spicy']
   },
   {
+    title: 'Thai-Inspired Bang Bang Shrimp Bowls',
+    path: 'recipes/thai/thai-inspired-bang-bang-shrimp-bowls.html',
+    collection: 'House Recipes',
+    culture: 'Thai Inspired',
+    category: 'Featured Meal',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['shrimp', 'mayonnaise', 'guajillo chiles', 'garlic', 'rice vinegar', 'sugar', 'sweet chili sauce', 'chili garlic paste', 'coconut milk', 'basmati rice', 'lime', 'purple cabbage', 'carrots', 'mint', 'cashews', 'shallots', 'cornstarch', 'green onion'],
+    tags: ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'bang bang shrimp', 'shrimp bowls', 'complete bowl', 'coconut lime rice', 'purple cabbage slaw', 'crispy shallot rings', 'sweet chili sauce', 'crispy shrimp', 'project meal']
+  },
+  {
     title: 'Butter Chicken over Basmati Rice',
     path: 'recipes/indian/butter-chicken-over-basmati-rice.html',
     collection: 'House Recipes',

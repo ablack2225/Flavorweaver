@@ -15,9 +15,9 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     collection: 'House Recipes',
     culture: 'Chinese Inspired',
     category: 'Main Dish',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['brisket', 'soy sauce', 'dark soy sauce', 'oyster sauce', 'hoisin sauce', 'brown sugar', 'rice vinegar', 'garlic', 'ginger', 'scallions', 'cornstarch', 'sesame oil'],
-    tags: ['Asian-Inspired', 'asian-inspired', 'Chinese-Inspired', 'chinese-inspired', 'beef', 'brisket', 'mongolian beef', 'stir-fry', 'restaurant-style', 'garlic', 'ginger', 'scallions', 'deep-fried beef', 'test recipe']
+    status: 'Top 10 Meal',
+    ingredients: ['brisket', 'soy sauce', 'dark soy sauce', 'oyster sauce', 'hoisin sauce', 'brown sugar', 'honey', 'red pepper flakes', 'rice vinegar', 'garlic', 'ginger', 'large onion', 'green onions', 'cornstarch', 'sesame oil'],
+    tags: ['Asian-Inspired', 'asian-inspired', 'Chinese-Inspired', 'chinese-inspired', 'beef', 'brisket', 'mongolian beef', 'stir-fry', 'restaurant-style', 'garlic', 'ginger', 'green onions', 'deep-fried beef', 'top 10 meal', 'hall of fame candidate']
   },
   {
     title: 'Chinese Orange Chicken',

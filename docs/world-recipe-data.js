@@ -130,6 +130,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy', 'cucumber alternative', 'house staple', 'service modes', 'bo kho mode']
   },
   {
+    title: 'Bonefish-Style Bang Bang Shrimp — From Scratch Version',
+    path: 'recipes/asian/bonefish-style-bang-bang-shrimp-from-scratch.html',
+    collection: 'House Recipes',
+    culture: 'Asian Inspired',
+    category: 'Appetizer',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['shrimp', 'mayonnaise', 'guajillo chiles', 'garlic', 'rice vinegar', 'sugar', 'sweet chili sauce', 'chili garlic paste', 'evaporated milk', 'buttermilk substitute', 'cornstarch', 'green onions', 'purple cabbage', 'carrots'],
+    tags: ['Asian-Inspired', 'asian-inspired', 'bang bang shrimp', 'shrimp', 'crispy shrimp', 'sweet chili sauce', 'chili garlic paste', 'homemade sweet chili sauce', 'homemade buttermilk substitute', 'cornstarch coating', 'fried appetizer', 'cabbage slaw', 'test recipe']
+  },
+  {
     title: 'Lemongrass Chicken Bowls',
     path: 'recipes/vietnamese/lemongrass-chicken-bowls.html',
     collection: 'House Recipes',

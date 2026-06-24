@@ -140,6 +140,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Asian-Inspired', 'asian-inspired', 'bang bang shrimp', 'shrimp', 'crispy shrimp', 'sweet chili sauce', 'chili garlic paste', 'homemade sweet chili sauce', 'homemade buttermilk substitute', 'cornstarch coating', 'fried appetizer', 'cabbage slaw', 'test recipe']
   },
   {
+    title: 'Garlic-Oyster Broccoli with Ginger, Lime & White Pepper',
+    path: 'recipes/asian/garlic-oyster-broccoli-with-ginger-lime-and-white-pepper.html',
+    collection: 'House Recipes',
+    culture: 'Asian Inspired',
+    category: 'Vegetable Side',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['frozen broccoli', 'garlic', 'ginger', 'oyster sauce', 'soy sauce', 'rice wine', 'dry sherry', 'fish sauce', 'lime juice', 'white pepper', 'green onion', 'sesame seeds', 'crispy fried shallot rings'],
+    tags: ['Asian-Inspired', 'asian-inspired', 'broccoli', 'frozen broccoli', 'oyster sauce', 'garlic', 'ginger', 'lime', 'white pepper', 'vegetable side', 'stir-fry side', 'bang bang shrimp pairing']
+  },
+  {
     title: 'Lemongrass Chicken Bowls',
     path: 'recipes/vietnamese/lemongrass-chicken-bowls.html',
     collection: 'House Recipes',

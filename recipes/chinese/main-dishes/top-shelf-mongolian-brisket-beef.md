@@ -3,7 +3,7 @@ name: Top-Shelf Mongolian Brisket Beef
 culture: Chinese Inspired
 category: Main Dish
 status: Top 10 Meal
- difficulty: Moderate
+difficulty: Moderate
 prep_time: 45m
 cook_time: 20m
 total_time: 1h 45m to 2h

@@ -2,20 +2,24 @@
 name: Top-Shelf Mongolian Brisket Beef
 culture: Chinese Inspired
 category: Main Dish
-status: Flavorweaver Test Recipe
-difficulty: Moderate
+status: Top 10 Meal
+ difficulty: Moderate
 prep_time: 45m
 cook_time: 20m
 total_time: 1h 45m to 2h
 servings: 2 servings
 measurement_status: documented
 
-rating_note: Needs test
-repeat_worthy: false
-hall_of_fame_candidate: false
+rating_note: Don rated this restaurant-tier and said nothing else could make it better
+repeat_worthy: true
+hall_of_fame_candidate: true
 hall_of_fame: false
 
 tags:
+  - Asian-Inspired
+  - asian-inspired
+  - Chinese-Inspired
+  - chinese-inspired
   - beef
   - brisket
   - mongolian beef
@@ -23,9 +27,10 @@ tags:
   - restaurant-style
   - garlic
   - ginger
-  - scallions
+  - green onions
   - deep-fried beef
-  - test recipe
+  - top 10 meal
+  - hall of fame candidate
 
 pairs_well_with:
   - basmati rice
@@ -34,24 +39,24 @@ pairs_well_with:
   - green beans
   - soft cooked carrots
 
-last_updated: 2026-06-18
+last_updated: 2026-06-24
 ---
 
 <!-- recipe-card:start -->
 
 # Top-Shelf Mongolian Brisket Beef
 
-> Tender thin-sliced brisket with crisp edges, glossy dark sauce, strong garlic-ginger-scallion aroma, balanced sweet-savory depth, and enough heat to keep it lively. This should taste like top-tier restaurant-style Mongolian beef, not a bland brown-sauce stir-fry.
+> Tender thin-sliced brisket with crisp edges, glossy dark sauce, bold garlic-ginger-green onion aroma, balanced sweet-savory depth, honeyed gloss, gentle red pepper heat, and enough restaurant-style character to land as a Flavorweaver Top 10 meal.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Flavorweaver Test Recipe | 1 hr 45 min to 2 hr | 2 servings | Moderate |
+| Top 10 Meal | 1 hr 45 min to 2 hr | 2 servings | Moderate |
 
-| Prep Time | Cook Time | Protein Amount | Primary Method |
+| Prep Time | Cook Time | Protein Amount | Final Rating |
 |---:|---:|---|---|
-| 45 min active, plus rests | 20 min | About 3/4 lb brisket | Deep-fried beef, then sauced |
+| 45 min active, plus rests | 20 min | About 3/4 lb brisket | Don rated it restaurant-tier and perfect |
 
 ## Ingredient List
 
@@ -59,10 +64,10 @@ last_updated: 2026-06-18
 |---|---|
 | Beef Tenderizing | Brisket, baking soda, ice water |
 | Velvet Marinade | Soy sauce, oyster sauce, Shaoxing wine or substitute, dark soy sauce, neutral oil, cornstarch, pepper |
-| Sauce | Hot water or beef broth, soy sauce, dark soy sauce, oyster sauce, hoisin sauce, brown sugar, rice vinegar, chili garlic sauce or sriracha, cornstarch |
-| Aromatics | Garlic, ginger, scallions, dried red chiles, optional onion |
+| Final Sauce | Hot water or beef broth, soy sauce, dark soy sauce, oyster sauce, hoisin sauce, brown sugar, honey, rice vinegar, red pepper flakes, cornstarch |
+| Aromatics | Garlic, ginger, large onion, green onions, dried red chiles if desired |
 | Frying & Finish | Cornstarch, neutral oil, sesame oil |
-| Serving | Basmati rice, cooked vegetables, scallions, optional sesame seeds |
+| Serving | Basmati rice, cooked vegetables, green onions, sesame seeds if desired |
 
 ## Measured Ingredients
 
@@ -87,7 +92,7 @@ last_updated: 2026-06-18
 | 1/2 Tbsp | Cornstarch | For velvet texture |
 | Pinch | Black pepper or white pepper |  |
 
-### Sauce
+### Final Sauce
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
@@ -97,8 +102,9 @@ last_updated: 2026-06-18
 | 1 Tbsp | Oyster sauce | Savory depth |
 | 1/2 Tbsp | Hoisin sauce | Sweet-savory body |
 | 1 Tbsp | Brown sugar | Restaurant-style sweetness |
+| 1 Tbsp | Honey | Final tested addition for gloss and balance |
 | 1/2 tsp | Rice vinegar | Balances sweetness |
-| 1/2 tsp | Chili garlic sauce or sriracha | Optional heat |
+| 1/2 tsp | Red pepper flakes | Final tested heat; use instead of chili garlic sauce or sriracha |
 | 1/2 tsp | Cornstarch | Thickens the sauce |
 
 ### Aromatics & Stir-Fry Ingredients
@@ -107,9 +113,9 @@ last_updated: 2026-06-18
 |---:|---|---|
 | 3 cloves | Garlic | Minced |
 | 2 tsp | Fresh ginger or ginger paste |  |
-| 3 | Scallions | Cut into 2-inch pieces; whites and greens separated |
+| 1 large | Onion | Thinly sliced |
+| 1 bunch | Green onions | Cut into 2-inch pieces; whites and greens separated |
 | 2 to 4 | Dried red chiles | Optional |
-| 1/4 | Onion | Thinly sliced; optional |
 | 1/2 Tbsp | Sesame oil | For finishing |
 | As needed | Neutral oil | For deep frying or shallow frying |
 | About 1/4 cup | Cornstarch | For dredging beef as needed |
@@ -139,11 +145,11 @@ Do not leave the brisket in large cubes for this version. Large cubes will not b
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Sauce | 2 1/2 Tbsp hot water or beef broth; 1 1/2 Tbsp soy sauce; 1/2 Tbsp dark soy sauce; 1 Tbsp oyster sauce; 1/2 Tbsp hoisin sauce; 1 Tbsp brown sugar; 1/2 tsp rice vinegar; optional 1/2 tsp chili garlic sauce or sriracha; 1/2 tsp cornstarch | Whisk smooth before cooking. |
-| Bowl 2 — Scallion Whites | White portions from 3 scallions | Cook with aromatics. |
+| Bowl 1 — Final Sauce | 2 1/2 Tbsp hot water or beef broth; 1 1/2 Tbsp soy sauce; 1/2 Tbsp dark soy sauce; 1 Tbsp oyster sauce; 1/2 Tbsp hoisin sauce; 1 Tbsp brown sugar; 1 Tbsp honey; 1/2 tsp rice vinegar; 1/2 tsp red pepper flakes; 1/2 tsp cornstarch | Whisk smooth before cooking. |
+| Bowl 2 — Green Onion Whites | White portions from 1 bunch green onions | Cook with aromatics. |
 | Bowl 3 — Garlic, Ginger, Chiles | 3 minced garlic cloves; 2 tsp ginger; optional 2 to 4 dried red chiles | Keep close; garlic burns quickly. |
-| Bowl 4 — Optional Onion | 1/4 thinly sliced onion | Optional body and sweetness. |
-| Bowl 5 — Scallion Greens and Finish | Green portions from 3 scallions; 1/2 Tbsp sesame oil | Add at the end. |
+| Bowl 4 — Sliced Onion | 1 large thinly sliced onion | Cook with aromatics for body and sweetness. |
+| Bowl 5 — Green Onion Greens and Finish | Green portions from 1 bunch green onions; 1/2 Tbsp sesame oil | Add at the end. |
 
 ## Do Not Forget
 
@@ -152,6 +158,9 @@ Do not leave the brisket in large cubes for this version. Large cubes will not b
 - Pat the beef very dry before adding the velvet marinade.
 - Dredge lightly in cornstarch; the beef should not be buried in powder.
 - Fry in small batches so the beef crisps instead of steaming.
+- Use **1 large sliced onion** and **1 whole bunch of green onions**.
+- Use **1/2 tsp red pepper flakes** in the sauce instead of chili garlic sauce or sriracha.
+- Use **1 Tbsp honey** in the sauce for the final glossy sweet-savory balance.
 - Build the sauce quickly and do not burn the garlic.
 - Toss the fried beef in the glossy sauce right before serving.
 
@@ -165,13 +174,13 @@ Do not leave the brisket in large cubes for this version. Large cubes will not b
 | 4 | **Refrigerate.** Cover and refrigerate the tenderized beef for **30 to 45 minutes**. |
 | 5 | **Rinse and dry.** Rinse the beef thoroughly under cold water, drain well, and pat very dry with paper towels. The beef must be dry before the cornstarch coating or it will clump and splatter. |
 | 6 | **Velvet the beef.** In a clean bowl, combine the dried beef with **1/2 Tbsp soy sauce**, **1/2 Tbsp oyster sauce**, **1/2 Tbsp Shaoxing wine, Chinese rice wine, or dry sherry**, **1/2 tsp dark soy sauce**, **1/2 Tbsp neutral oil**, **1/2 Tbsp cornstarch**, and a **pinch of pepper**. Mix until evenly coated. Rest **20 to 30 minutes** while preparing sauce and aromatics. |
-| 7 | **Whisk the sauce.** Whisk together **2 1/2 Tbsp hot water or beef broth**, **1 1/2 Tbsp soy sauce**, **1/2 Tbsp dark soy sauce**, **1 Tbsp oyster sauce**, **1/2 Tbsp hoisin sauce**, **1 Tbsp brown sugar**, **1/2 tsp rice vinegar**, optional **1/2 tsp chili garlic sauce or sriracha**, and **1/2 tsp cornstarch** until smooth. Set aside. |
-| 8 | **Prep aromatics.** Mince **3 cloves garlic**, measure **2 tsp ginger**, cut **3 scallions** into 2-inch pieces with whites and greens separated, and stage optional dried red chiles and onion. |
+| 7 | **Whisk the final sauce.** Whisk together **2 1/2 Tbsp hot water or beef broth**, **1 1/2 Tbsp soy sauce**, **1/2 Tbsp dark soy sauce**, **1 Tbsp oyster sauce**, **1/2 Tbsp hoisin sauce**, **1 Tbsp brown sugar**, **1 Tbsp honey**, **1/2 tsp rice vinegar**, **1/2 tsp red pepper flakes**, and **1/2 tsp cornstarch** until smooth. Set aside. |
+| 8 | **Prep aromatics.** Mince **3 cloves garlic**, measure **2 tsp ginger**, thinly slice **1 large onion**, cut **1 bunch green onions** into 2-inch pieces with whites and greens separated, and stage optional dried red chiles if using. |
 | 9 | **Coat the beef.** Add about **1/4 cup cornstarch** to a shallow bowl. Lightly dredge the marinated beef slices in cornstarch and shake off excess. The beef should look lightly coated, not buried in powder. |
 | 10 | **Deep-fry the beef.** Heat oil to **350°F to 375°F**. Fry beef in small batches until edges are crisp and beef is browned, about **45 to 90 seconds** depending on thickness. Do not overcrowd. Transfer fried beef to a rack or paper towel-lined plate. |
-| 11 | **Build the sauce.** Heat a wok, skillet, or Dutch oven over medium-high heat. Add **1 to 2 Tbsp neutral oil**. Add scallion whites, garlic, ginger, optional dried chiles, and optional onion. Stir-fry **30 to 60 seconds** until fragrant. Do not burn the garlic. |
+| 11 | **Build the aromatics.** Heat a wok, skillet, or Dutch oven over medium-high heat. Add **1 to 2 Tbsp neutral oil**. Add the green onion whites, sliced onion, garlic, ginger, and optional dried chiles. Stir-fry **30 to 60 seconds** until fragrant. Do not burn the garlic. |
 | 12 | **Gloss the sauce.** Add the whisked sauce and let it bubble until glossy and slightly thickened, about **30 to 60 seconds**. |
-| 13 | **Finish.** Add fried beef back to the pan and toss quickly until coated in glossy sauce. Add scallion greens, turn off heat, drizzle with **1/2 Tbsp sesame oil**, and toss once more. Serve immediately. |
+| 13 | **Finish.** Add fried beef back to the pan and toss quickly until coated in glossy sauce. Add green onion greens, turn off heat, drizzle with **1/2 Tbsp sesame oil**, and toss once more. Serve immediately. |
 
 ## Backup Cooking Method: Shallow Fry
 
@@ -186,7 +195,7 @@ Use a wide skillet with enough neutral oil to coat the bottom generously. Heat u
 | Broccoli | Classic takeout-style pairing. |
 | Green beans | Works especially well if blistered. |
 | Soft cooked carrots | Gentle sweet vegetable option. |
-| Scallions | Fresh finish. |
+| Green onions | Fresh finish. |
 | Sesame seeds | Optional garnish. |
 
 ## Flavor Adjustments
@@ -194,9 +203,9 @@ Use a wide skillet with enough neutral oil to coat the bottom generously. Heat u
 | If the dish is... | Adjust with... |
 |---|---|
 | Too salty | Add a splash of water or broth, a tiny bit more brown sugar, and serve with plain rice. |
-| Too sweet | Add a splash of rice vinegar, more ginger, or more scallions. |
+| Too sweet | Add a splash of rice vinegar, more ginger, or more green onions. |
 | Too flat | Add 1 tsp oyster sauce, a small splash of soy sauce, more ginger, or a tiny splash of rice vinegar. |
-| Not spicy enough | Add chili garlic sauce, dried red chiles, or chili crisp to Don's portion. |
+| Not spicy enough | Add a pinch more red pepper flakes or chili crisp at the table. |
 
 <!-- recipe-card:end -->
 
@@ -207,58 +216,22 @@ Use a wide skillet with enough neutral oil to coat the bottom generously. Heat u
 | Base | Basmati rice | Simple, fragrant base for the glossy sauce. |
 | Vegetable | Cooked cabbage | More Amy-friendly than a raw salad. |
 | Vegetable | Broccoli or green beans | Classic restaurant-style vegetable support. |
-| Garnish | Sesame seeds and scallions | Optional final texture and aroma. |
+| Garnish | Sesame seeds and green onions | Optional final texture and aroma. |
 
 ## Chef's Notes
 
-This recipe is designed for brisket that has already been cut into chunks, but the chunks still need to be sliced thinly across the grain before cooking. The tenderizing step, velvet marinade, dry cornstarch dredge, and quick fry all work together to make brisket behave more like restaurant-style stir-fry beef.
+This recipe is now a Flavorweaver Top 10 meal. The final tested sauce uses red pepper flakes for heat, honey for gloss and balance, a full large onion, and a full bunch of green onions.
 
-For Amy, keep the serving size moderate, avoid making the sauce greasy, and balance the beef with rice or cooked vegetables as needed.
-
-For Don, reserve extra beef, extra scallions, extra dried chiles, chili crisp, or the crispiest beef pieces.
-
-## Final Verdict
-
-Not yet tested. This is a Flavorweaver test recipe intended to become a high-flavor restaurant-style Mongolian beef using thin-sliced brisket.
+Don rated this with the best high-tier restaurant versions he has had and said there was nothing else that could be done to make it perfect.
 
 <details>
 <summary>Flavor Architecture</summary>
 
 - **Savory depth:** soy sauce, dark soy sauce, oyster sauce, hoisin sauce, and beef broth if used.
-- **Sweet balance:** brown sugar and hoisin create the classic glossy Mongolian beef character.
-- **Aromatic lift:** garlic, ginger, and scallions keep the dish from becoming flat brown sauce.
-- **Heat:** dried red chiles, chili garlic sauce, sriracha, or chili crisp keep the flavor lively.
+- **Sweet balance:** brown sugar, honey, and hoisin create the glossy Mongolian beef character.
+- **Aromatic lift:** garlic, ginger, sliced onion, and a full bunch of green onions keep the dish bold and restaurant-style.
+- **Heat:** red pepper flakes keep the sauce lively without taking over.
 - **Texture:** baking soda tenderizing, velvet marinade, cornstarch dredge, and deep frying create tenderness with crisp edges.
-
-</details>
-
-<details>
-<summary>Flavorweaver Test Notes To Capture</summary>
-
-After cooking, record:
-
-- Did the brisket become tender enough?
-- Was the baking soda step too strong, too weak, or just right?
-- Did the KitchenAid paddle method help or overwork the meat?
-- Did deep frying give the desired crisp edge?
-- Was the sauce too sweet, too salty, or balanced?
-- Did Don consider it restaurant-quality?
-- Would Amy and Don make it again?
-
-</details>
-
-<details>
-<summary>Future Upgrade Ideas</summary>
-
-Possible V2 upgrades:
-
-- Add toasted sesame seeds.
-- Add blistered green beans.
-- Add wok-charred onions.
-- Add a small amount of chili crisp at finish.
-- Try potato starch instead of cornstarch for a lighter crisp.
-- Test Shaoxing wine if available instead of dry sherry.
-- Test brisket flat vs point for texture difference.
 
 </details>
 
@@ -266,5 +239,6 @@ Possible V2 upgrades:
 <summary>Change Log</summary>
 
 - 2026-06-18: Added as a Flavorweaver test recipe from Amy's half-batch Mongolian brisket beef draft.
+- 2026-06-24: Finalized as a Top 10 meal with red pepper flakes, honey, one large onion, one bunch green onions, and Don's perfect restaurant-tier rating.
 
 </details>

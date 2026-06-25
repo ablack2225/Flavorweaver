@@ -110,14 +110,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'onion bhaji', 'onion fritters', 'emergency pantry version', 'ap flour', 'cornstarch', 'green chutney', 'cilantro chutney', 'fried appetizer']
   },
   {
-    title: "Don's Birthday Top-Shelf Falafel",
-    path: 'recipes/middle-eastern/dons-birthday-top-shelf-falafel.html',
+    title: "Don's Food-Truck Memory Falafel Naan Wraps",
+    path: 'recipes/middle-eastern/dons-food-truck-memory-falafel-naan-wraps.html',
     collection: 'House Recipes',
     culture: 'Middle Eastern Inspired',
-    category: 'Main Dish',
-    status: 'Flavorweaver Birthday Test Recipe',
-    ingredients: ['dried chickpeas', 'parsley', 'cilantro', 'mint', 'onion', 'scallions', 'garlic', 'carrot', 'cumin', 'coriander', 'cardamom', 'tahini', 'lemon juice', 'serrano', 'pita'],
-    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'falafel', 'birthday dinner', 'dried chickpeas', 'meat grinder', 'deep fried', 'tahini sauce', 'zhug', 'project meal']
+    category: 'Featured Meal',
+    status: 'Top 10 Candidate · Canon-Lock Candidate',
+    ingredients: ['dried chickpeas', 'naan', 'tomato', 'onion', 'mayonnaise', 'sour cream', 'Greek yogurt', 'dill', 'garlic', 'lemon juice', 'guajillo chiles', 'tomato paste', 'vinegar-style hot sauce', 'chipotle powder', 'tahini', 'cumin', 'coriander', 'parsley', 'cilantro', 'mint'],
+    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'falafel', 'naan wrap', 'food truck memory', 'top 10 candidate', 'canon-lock candidate', 'spot on', 'dried chickpeas', 'meat grinder', 'deep fried', 'ranch white sauce', 'fiery red sauce', 'lemon tahini', 'complete wrap', 'sauce bar']
   },
   {
     title: 'Gochujang Crema',

@@ -4,6 +4,20 @@ This folder is the canon home for active Flavorweaver templates.
 
 Root-level `templates/` is no longer an active template location.
 
+## Recipe Identity Standard
+
+Canon file:
+
+```text
+flavorweaver-recipe-identity-standard.md
+```
+
+Flavorweaver recipes are the working recipes of the Amy & Don Kitchen. Public HTML pages should be clean, confident, cook-facing recipes, not defensive explanations of why a dish was adapted.
+
+Public HTML pages should not add labels such as `Amy & Don House Version`, `pantry bridge version`, `not authentic`, `adapted because`, `substitute version`, `budget version`, or `local-ingredient version` unless Amy explicitly asks for that language.
+
+Research notes, substitution logic, pantry limitations, future upgrade paths, and test verdicts belong in the Markdown source files.
+
 ## Locked Canon: World-Culture Recipe HTML Page
 
 Template file:
@@ -73,7 +87,8 @@ They are not built from the world-culture HTML canon unless Amy approves a speci
 - Pairs Well With is reserved for companion dishes, not required components.
 - Chef's Notes should remain a premium callout inside the main recipe card on public HTML pages.
 - Public HTML pages should use only public recipe-card content from the source Markdown.
-- Do not expose internal owner notes, test notes, flavor architecture details, change logs, or Markdown source paths on public pages.
+- Do not expose internal owner notes, test notes, flavor architecture details, change logs, Markdown source paths, pantry limitation notes, adaptation defenses, or authenticity disclaimers on public pages.
+- Keep adaptation logic and future upgrade notes in the Markdown source unless Amy explicitly wants them surfaced publicly.
 
 ## Canon structural markers
 

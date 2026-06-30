@@ -55,40 +55,40 @@
   ];
 
   const buildQuickFilters = (recipes) => {
-    const priority = [
-      'house staple',
+    const topLevelFilters = [
+      'House Recipes',
+      'House Staple',
       'Korean Inspired',
       'Vietnamese Inspired',
       'Chinese Inspired',
+      'Thai Inspired',
       'Ethiopian Inspired',
       'Indian Inspired',
       'Middle Eastern Inspired',
       'Asian Inspired',
+      'Family Cookbook',
       'Main Dish',
+      'Featured Meal',
       'Side Dish',
+      'Vegetable Side',
       'Bread',
       'Appetizer',
       'Condiment',
-      'complete meal plate',
-      'doro wat',
-      'falafel',
-      'naan',
-      'injera',
-      'top 10 meal'
+      'Salads, Slaws & Dips',
+      'Pie',
+      'Dessert'
     ];
+
     const labels = [];
     recipes.forEach((recipe) => {
-      labels.push(recipe.culture, recipe.category, recipe.status, ...(recipe.tags || []));
+      labels.push(recipe.collection, recipe.culture, recipe.category, recipe.status);
     });
-    const deduped = dedupeLabels(labels);
-    const byKey = new Map(deduped.map((label) => [normalize(label), label]));
-    const ordered = priority
-      .map((label) => byKey.get(normalize(label)))
-      .filter(Boolean);
-    const remaining = deduped
-      .filter((label) => !ordered.some((item) => normalize(item) === normalize(label)))
-      .sort((a, b) => a.localeCompare(b));
-    return [...ordered, ...remaining].slice(0, 28);
+
+    const availableLabels = new Map(dedupeLabels(labels).map((label) => [normalize(label), label]));
+
+    return topLevelFilters
+      .map((label) => availableLabels.get(normalize(label)) || label)
+      .filter((label) => availableLabels.has(normalize(label)) || ['House Recipes', 'Family Cookbook'].some((alwaysShow) => normalize(alwaysShow) === normalize(label)));
   };
 
   const renderRecipes = (items, label = '') => {
@@ -99,7 +99,7 @@
       ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.`
       : `Showing ${items.length} recipe pages.`;
     if (!items.length) {
-      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like chicken, Korean, Vietnamese, Chinese, Ethiopian, Indian, Middle Eastern, falafel, naan, injera, pie, cookies, sides, or sauce.</div>';
+      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like chicken, Korean, Vietnamese, Chinese, Ethiopian, Indian, Middle Eastern, pie, cookies, sides, bread, condiment, or sauce.</div>';
       return;
     }
     resultsEl.innerHTML = items.map((recipe) => {

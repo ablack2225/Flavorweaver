@@ -53,4 +53,17 @@
       tags: ['Indian-Inspired', 'indian-inspired', 'aloo pakora', 'potato pakora', 'potato fritters', 'crispy potato side', 'fried side', 'korma pairing', 'palak paneer pairing']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/indian/bold-carrot-coconut-peanut-chutney.html')) {
+    recipes.push({
+      title: 'Bold Carrot Coconut Peanut Chutney',
+      path: 'recipes/indian/bold-carrot-coconut-peanut-chutney.html',
+      collection: 'House Recipes',
+      culture: 'Indian Inspired',
+      category: 'Condiment',
+      status: 'Live Test',
+      ingredients: ['carrot', 'sweetened coconut flakes', 'peanut butter', 'cashews', 'sesame seeds', 'ginger garlic paste', 'cumin seed', 'garam masala', 'cayenne', 'chili powder', 'kosher salt', 'lime juice', 'lemon juice', 'soy sauce'],
+      tags: ['Indian-Inspired', 'indian-inspired', 'carrot chutney', 'coconut chutney', 'peanut chutney', 'pakora chutney', 'bold chutney', 'spicy chutney', 'aloo pakora pairing', 'korma plate contrast']
+    });
+  }
 })();

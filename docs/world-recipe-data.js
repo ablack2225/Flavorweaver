@@ -80,6 +80,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'butter chicken', 'chicken makhani', 'basmati rice', 'tomato cashew sauce', 'cream sauce', 'marinated chicken']
   },
   {
+    title: 'Mughlai-Style Chicken Korma',
+    path: 'recipes/indian/mughlai-style-chicken-korma.html',
+    collection: 'House Recipes',
+    culture: 'Indian Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['chicken thighs', 'yogurt', 'sour cream substitution', 'cashews', 'onion', 'chicken broth', 'heavy cream', 'ginger garlic paste', 'green cardamom', 'cinnamon', 'cloves', 'bay leaf', 'coriander', 'cumin', 'turmeric', 'garam masala', 'basmati rice', 'naan'],
+    tags: ['Indian-Inspired', 'indian-inspired', 'chicken korma', 'mughlai-style', 'Mughlai-Style', 'brown onion gravy', 'browned onion-cashew gravy', 'cashew gravy', 'yogurt marinade', 'electric skillet', 'extra sauce', 'sauce-driven', 'project meal']
+  },
+  {
     title: 'Restaurant-Style Malai Kofta',
     path: 'recipes/indian/restaurant-style-malai-kofta.html',
     collection: 'House Recipes',

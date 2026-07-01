@@ -48,9 +48,9 @@
       collection: 'House Recipes',
       culture: 'Indian Inspired',
       category: 'Side Dish',
-      status: 'Live Test',
+      status: 'Tested / Rotation Recipe',
       ingredients: ['potatoes', 'all-purpose flour', 'cornstarch', 'ginger garlic paste', 'coriander', 'garam masala', 'paprika', 'chili powder', 'turmeric', 'dried thyme', 'cumin seed', 'neutral oil', 'lemon', 'lime'],
-      tags: ['Indian-Inspired', 'indian-inspired', 'aloo pakora', 'potato pakora', 'potato fritters', 'crispy potato side', 'fried side', 'korma pairing', 'palak paneer pairing']
+      tags: ['Indian-Inspired', 'indian-inspired', 'aloo pakora', 'potato pakora', 'potato fritters', 'crispy potato side', 'fried side', 'korma pairing', 'palak paneer pairing', 'carrot coconut peanut chutney pairing', 'rotation recipe', 'tested favorite']
     });
   }
 

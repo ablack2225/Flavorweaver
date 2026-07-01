@@ -2,7 +2,7 @@
 name: Aloo Pakora-Inspired Potato Fritters
 culture: Indian Inspired
 category: Side Dish
-status: Live Test / Pantry Bridge Version
+status: Tested / Rotation Recipe
 difficulty: Moderate
 prep_time: 20m
 cook_time: 20m
@@ -10,9 +10,9 @@ total_time: 40m
 servings: 2 to 4 side servings
 measurement_status: documented
 
-rating_note: Needs Amy and Don test verdict
-repeat_worthy: false
-hall_of_fame_candidate: false
+rating_note: Don and Amy loved it; pakora and chutney were the highlights of the plate
+repeat_worthy: true
+hall_of_fame_candidate: true
 hall_of_fame: false
 
 tags:
@@ -29,13 +29,16 @@ tags:
   - fried side
   - korma pairing
   - palak paneer pairing
+  - carrot coconut peanut chutney pairing
+  - rotation recipe
+  - tested favorite
 
 pairs_well_with:
   - mughlai-style-chicken-korma
   - palak-paneer
   - fluffy-skillet-naan
   - basmati-rice
-  - carrot-coconut-chutney
+  - bold-carrot-coconut-peanut-chutney
 
 required_components: []
 
@@ -46,17 +49,17 @@ last_updated: 2026-06-30
 
 # Aloo Pakora-Inspired Potato Fritters
 
-> Pantry-modified potato fritters built from the aloo pakora method: thin potato slices, spiced coating batter, and hot frying oil. This version uses AP flour, cornstarch, dried thyme, and crushed cumin seed until besan, rice flour, ajwain, amchur, and kala namak are stocked.
+> Thin potato slices in a spiced AP-cornstarch batter with ginger-garlic, coriander, garam masala, turmeric, dried thyme, and crushed cumin seed. This live-test version became a rotation-worthy favorite with the bold carrot coconut peanut chutney.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Live Test / Pantry Bridge Version | 40 min | 2 to 4 side servings | Moderate |
+| Tested / Rotation Recipe | 40 min | 2 to 4 side servings | Moderate |
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
-| 20 min | 20 min | Needs Amy and Don test verdict | Not yet |
+| 20 min | 20 min | Don and Amy loved it; highlight of the plate with chutney | Yes |
 
 ## Kitchen Execution Summary
 
@@ -70,9 +73,9 @@ last_updated: 2026-06-30
 
 ## Before Cooking Day / Advance Prep
 
-- This is a working pantry version, not the final traditional aloo pakora card.
-- Traditional upgrade ingredients to use later: **besan / gram flour**, **rice flour**, **ajwain / carom seed**, **amchur powder**, and **kala namak / black salt**.
-- Keep this version separate from the future traditional card until tested against the stocked version.
+- This is the tested pantry version that worked with ingredients currently available.
+- Traditional upgrade ingredients to test later: **besan / gram flour**, **rice flour**, **ajwain / carom seed**, **amchur powder**, and **kala namak / black salt**.
+- Keep the current version because Don and Amy scored the meal very high and the pakora was one of the highlights.
 - Best served immediately; AP flour batters do not hold as crisply as besan-rice flour batters.
 
 ## Service Countdown
@@ -111,7 +114,7 @@ last_updated: 2026-06-30
 | 3 Tbsp | Cornstarch | Temporary crisping substitute for rice flour. |
 | 1/2 tsp | Kosher salt | Reduce if using table salt. |
 | 1/2 tsp | Ginger-garlic paste | Or equal parts grated ginger and minced garlic. |
-| 1/2 tsp | Ground coriander | Optional but recommended for Indian-spice backbone. |
+| 1/2 tsp | Ground coriander | Recommended for Indian-spice backbone. |
 | 1/4 tsp | Garam masala | Warm finish in the batter. |
 | 1/4 tsp | Paprika or chili powder | Use chili powder if more heat is wanted. |
 | 1/8 tsp | Turmeric | Color and earthy warmth. |
@@ -145,8 +148,8 @@ last_updated: 2026-06-30
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Dry Batter | AP flour, cornstarch, salt, coriander, garam masala, paprika or chili powder, turmeric, thyme, crushed cumin seed, optional cayenne | Whisk before adding water. |
-| Bowl 2 — Wet Additions | Ginger-garlic paste and water | Start with 1/3 cup water, then adjust by teaspoons. |
+| Bowl 1 — Dry Batter | 1/2 cup AP flour; 3 Tbsp cornstarch; 1/2 tsp salt; 1/2 tsp coriander; 1/4 tsp garam masala; 1/4 tsp paprika or chili powder; 1/8 tsp turmeric; 1/8 tsp dried thyme; 1/8 tsp crushed cumin seed; optional pinch cayenne | Whisk before adding water. |
+| Bowl 2 — Wet Additions | 1/2 tsp ginger-garlic paste and about 1/3 cup water | Start with 1/3 cup water, then adjust by teaspoons. |
 | Bowl 3 — Hot Oil Addition | 1 tsp hot frying oil | Stir into batter once frying oil is hot. |
 | Bowl 4 — Finish | Salt, tiny garam masala, tiny cumin, optional citrus | Use while fritters are hot. |
 
@@ -160,6 +163,7 @@ last_updated: 2026-06-30
 - Add **1 tsp hot frying oil** to the batter after the oil heats.
 - Fry in batches and do not overcrowd.
 - Serve hot.
+- Serve with **Bold Carrot Coconut Peanut Chutney**; this pairing was the highlight of the tested meal.
 
 ## Full Cooking Timeline and Instructions
 
@@ -175,23 +179,31 @@ last_updated: 2026-06-30
 
 ## Final Taste Target
 
-The finished fritters should be golden and crisp outside, tender inside, savory and gently spiced, with enough crunch to contrast creamy curries.
+The finished fritters should be golden outside, tender inside, savory and gently spiced, with enough fried potato comfort to contrast creamy curries. The tested version had a smoother bajji-style coating rather than a craggy pakora coating, and it worked very well with the chutney.
 
 ## Pairs Well With
 
 | Type | Pairing | Notes |
 |---|---|---|
+| Chutney | Bold Carrot Coconut Peanut Chutney | Tested highlight pairing. |
 | Main | Mughlai-Style Chicken Korma | Crispy contrast beside rich browned onion-cashew gravy. |
 | Main | Palak Paneer | Potato crunch against creamy spinach curry. |
 | Base | Basmati Rice | Works as part of a full Indian-inspired plate. |
 | Bread | Fluffy Skillet Naan | Serve alongside curry and fritters. |
-| Chutney | Carrot Coconut Chutney | Bright-sweet contrast to fried potato. |
 
 ## Chef's Notes
 
 This version exists because the proper ingredients were not yet stocked. It is designed to keep dinner moving while preserving the role of aloo pakora on the plate: crispy potato, spiced batter, fried texture, and curry contrast.
 
 The AP flour and cornstarch combination is a temporary bridge. It can make a good crispy potato fritter, but it will not have the nutty flavor, color, or traditional texture of besan-based pakora.
+
+## Live Test Notes
+
+- Tested with Mughlai-style chicken korma, palak paneer, basmati rice, naan, and Bold Carrot Coconut Peanut Chutney.
+- Don and Amy both scored the full meal very high and want it added to the rotation.
+- The pakora and chutney were the highlights of the meal.
+- Coating presented more smooth and bajji-like than craggy, but the result was highly successful.
+- Keep this version available even after a future besan/rice flour version is tested.
 
 ## Future Traditional Upgrade Notes
 
@@ -216,6 +228,7 @@ Future test should compare:
 | Date | Change |
 |---|---|
 | 2026-06-30 | Created pantry-modified live test version using AP flour, cornstarch, dried thyme, and crushed cumin seed until traditional ingredients are stocked. |
+| 2026-06-30 | Captured high-scoring live test verdict: rotation-worthy; pakora and chutney were the meal highlights. |
 
 </details>
 

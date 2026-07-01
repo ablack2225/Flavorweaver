@@ -66,4 +66,17 @@
       tags: ['Indian-Inspired', 'indian-inspired', 'carrot chutney', 'coconut chutney', 'peanut chutney', 'pakora chutney', 'bold chutney', 'spicy chutney', 'aloo pakora pairing', 'korma plate contrast', 'naan pairing', 'rotation recipe', 'tested favorite']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/southern/pecan-fried-chicken-makers-mark-french-toast-bourbon-sauce.html')) {
+    recipes.push({
+      title: "Pecan Fried Chicken with Maker's Mark French Toast Bourbon Sauce",
+      path: 'recipes/southern/pecan-fried-chicken-makers-mark-french-toast-bourbon-sauce.html',
+      collection: 'House Recipes',
+      culture: 'Southern Inspired',
+      category: 'Main Dish',
+      status: 'Recreation Candidate / Don Memory Plate',
+      ingredients: ['chicken breast', 'buttermilk', 'egg', 'pecans', 'all-purpose flour', 'cornstarch', 'paprika', 'garlic powder', 'onion powder', 'neutral oil', 'butter', 'maple syrup', 'brown sugar', "Maker's Mark bourbon", 'vanilla', 'cinnamon', 'Honeycrisp apples', 'Granny Smith apples', 'sweet potatoes', 'honey', 'broccoli', 'garlic', 'lemon'],
+      tags: ['Southern-Inspired', 'southern-inspired', 'pecan fried chicken', 'fried chicken', 'bourbon sauce', "Maker's Mark", 'French toast sauce', 'fried apples', 'Southern cinnamon fried apples', 'honey butter sweet potatoes', 'garlic broccoli', 'Don memory plate', 'special treat dinner', 'project meal']
+    });
+  }
 })();

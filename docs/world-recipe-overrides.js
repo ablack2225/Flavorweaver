@@ -79,4 +79,17 @@
       tags: ['Southern-Inspired', 'southern-inspired', 'pecan fried chicken', 'fried chicken', 'bourbon sauce', "Maker's Mark", 'French toast sauce', 'fried apples', 'Southern cinnamon fried apples', 'honey butter sweet potatoes', 'garlic broccoli', 'Don memory plate', 'special treat dinner', 'project meal']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/german/pork-loin-schnitzel-with-rotkohl.html')) {
+    recipes.push({
+      title: 'Pork Loin Schnitzel with Rotkohl',
+      path: 'recipes/german/pork-loin-schnitzel-with-rotkohl.html',
+      collection: 'House Recipes',
+      culture: 'German Inspired',
+      category: 'Main Dish',
+      status: 'Recreation Candidate / Don Comfort Plate',
+      ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'breadcrumbs', 'panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'Dijon mustard'],
+      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'comfort food', 'plate recipe']
+    });
+  }
 })();

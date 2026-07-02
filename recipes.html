@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flavorweaver Recipe Search</title>
+  <style>
+    body { margin: 0; font-family: Georgia, serif; background: #21160f; color: #f8ead7; }
+    a { color: #f1c27d; }
+    .page-shell { max-width: 1100px; margin: 0 auto; padding: 2rem; }
+    .site-nav { display: flex; justify-content: flex-end; gap: 1rem; padding: 1rem 2rem; background: #140d09; }
+    .site-nav a { text-decoration: none; font-weight: 700; }
+    .hero-card, .search-panel, .result-card { background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.16); border-radius: 18px; padding: 1.5rem; margin-bottom: 1.5rem; }
+    .eyebrow { text-transform: uppercase; letter-spacing: .12em; color: #e0aa66; }
+    .search-input { width: 100%; padding: 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,.25); background: #fff8ed; color: #21160f; font-size: 1rem; }
+    .quick-searches { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
+    .quick-searches button { border: 1px solid rgba(255,255,255,.25); border-radius: 999px; background: #3a2518; color: #f8ead7; padding: .5rem .8rem; cursor: pointer; }
+    .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+    .meta, .tag-row { display: flex; flex-wrap: wrap; gap: .4rem .75rem; font-size: .9rem; opacity: .92; }
+    .tag { border: 1px solid rgba(255,255,255,.2); border-radius: 999px; padding: .25rem .55rem; text-decoration: none; }
+    .result-link { display: inline-block; margin-top: .75rem; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <header class="site-topbar"><nav class="site-nav" aria-label="Flavorweaver navigation"><a href="index.html">Home</a><a aria-current="page" href="recipes.html">Search</a><a href="docs/index.html#featured">Featured</a><a href="docs/index.html#categories">Categories</a><a href="docs/dedication.html">Dedication</a></nav></header>
+  <main class="page-shell">
+    <section class="hero-card hero-card--archive"><p class="eyebrow">Recipe Archive</p><h1>Search Recipes</h1><p class="lead">Root fallback search page. If you are seeing this page, GitHub Pages is not serving from /docs. This page still searches the current Flavorweaver data.</p></section>
+    <section class="search-panel" aria-label="Recipe search controls"><label class="search-label" for="recipe-search">Search recipes</label><input class="search-input" id="recipe-search" type="search" placeholder="Try bratkartoffeln, German fried potatoes, schnitzel, chicken korma, aloo pakora, Thai bang bang shrimp, Mongolian beef..." autocomplete="off" /><div class="quick-searches" id="quick-searches" aria-label="Quick searches"></div></section>
+    <section class="results-panel" aria-live="polite"><div class="result-count" id="result-count">Loading recipe pages...</div><div class="results-grid" id="results"></div></section>
+  </main>
+  <script src="docs/world-recipe-data.js?v=20260702-03"></script>
+  <script src="docs/world-recipe-overrides.js?v=20260702-03"></script>
+  <script src="docs/family-recipe-data.js?v=20260613-04"></script>
+  <script>
+    (() => {
+      const normalize = (value) => String(value || '').toLowerCase().trim();
+      const encodeQuery = (value) => encodeURIComponent(value);
+      const tokenize = (value) => normalize(value).match(/[a-z0-9]+/g) || [];
+      const dedupeLabels = (labels) => { const seen = new Set(); return labels.filter((label) => { const key = normalize(label); if (!key || seen.has(key)) return false; seen.add(key); return true; }); };
+      const searchableFields = (recipe) => [recipe.title, recipe.collection, recipe.culture, recipe.category, recipe.status, ...(recipe.ingredients || []), ...(recipe.tags || [])].filter(Boolean);
+      const termMatchesRecipe = (recipe, term) => { const normalizedTerm = normalize(term); if (!normalizedTerm) return true; return searchableFields(recipe).some((field) => { const normalizedField = normalize(field); const fieldTokens = tokenize(field); const termTokens = tokenize(normalizedTerm); if (normalizedField === normalizedTerm) return true; if (termTokens.length > 1 && normalizedField.includes(normalizedTerm)) return true; return termTokens.every((token) => fieldTokens.includes(token)); }); };
+      const recipes = [...(window.FLAVORWEAVER_WORLD_RECIPES || []), ...(window.FLAVORWEAVER_FAMILY_RECIPES || [])];
+      const searchInput = document.getElementById('recipe-search');
+      const resultsEl = document.getElementById('results');
+      const countEl = document.getElementById('result-count');
+      const quickMount = document.getElementById('quick-searches');
+      const filters = ['House Recipes','Korean Inspired','Vietnamese Inspired','Chinese Inspired','Thai Inspired','Ethiopian Inspired','Indian Inspired','Middle Eastern Inspired','German Inspired','Asian Inspired','Family Cookbook','Main Dish','Featured Meal','Side Dish','Bread','Appetizer','Condiment'];
+      quickMount.innerHTML = filters.map((label) => `<button type="button" data-search="${label}">${label}</button>`).join('');
+      const publicTagsForRecipe = (recipe) => dedupeLabels(recipe.tags || []).slice(0, 8);
+      const renderRecipes = (items, label = '') => { countEl.textContent = label ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.` : `Showing ${items.length} recipe pages.`; resultsEl.innerHTML = items.map((recipe) => { const tags = publicTagsForRecipe(recipe).map((tag) => `<a class="tag" href="recipes.html?q=${encodeQuery(tag)}" data-filter="${tag}">${tag}</a>`).join(''); const ingredients = (recipe.ingredients || []).slice(0, 8).join(', '); const href = recipe.path && recipe.path.startsWith('docs/') ? recipe.path : `docs/${recipe.path}`; return `<article class="result-card"><h3>${recipe.title}</h3><div class="meta"><span><strong>Collection:</strong> ${recipe.collection || ''}</span><span><strong>Culture:</strong> ${recipe.culture || ''}</span><span><strong>Category:</strong> ${recipe.category || ''}</span></div>${ingredients ? `<p><strong>Key ingredients:</strong> ${ingredients}</p>` : ''}${tags ? `<div class="tag-row">${tags}</div>` : ''}<a class="result-link" href="${href}">Open recipe</a></article>`; }).join('') || '<div class="result-card">No matches yet. Try German, schnitzel, bratkartoffeln, chicken, Korean, Vietnamese, or Indian.</div>'; };
+      const runSearch = () => { const query = searchInput.value.trim(); const terms = tokenize(query); const filtered = terms.length ? recipes.filter((recipe) => terms.every((term) => termMatchesRecipe(recipe, term))) : recipes; window.history.replaceState({}, '', query ? `recipes.html?q=${encodeQuery(query)}` : 'recipes.html'); renderRecipes(filtered, query); };
+      quickMount.addEventListener('click', (event) => { const button = event.target.closest('[data-search]'); if (!button) return; searchInput.value = button.dataset.search; runSearch(); });
+      searchInput.addEventListener('input', runSearch);
+      const params = new URLSearchParams(window.location.search); searchInput.value = params.get('q') || ''; runSearch();
+    })();
+  </script>
+</body>
+</html>

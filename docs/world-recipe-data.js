@@ -298,5 +298,25 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'House Staple',
     ingredients: ['yeast', 'warm water', 'sugar', 'milk', 'room-temperature egg', 'salt', 'bread flour', 'all-purpose flour', 'ghee', 'butter', 'garlic'],
     tags: ['Indian-Inspired', 'indian-inspired', 'Naan', 'naan', 'skillet bread', 'scoop bread', 'house staple', 'doro wat platter substitute']
+  },
+  {
+    title: 'Pork Loin Schnitzel with Rotkohl',
+    path: 'recipes/german/pork-loin-schnitzel-with-rotkohl.html',
+    collection: 'House Recipes',
+    culture: 'German Inspired',
+    category: 'Main Dish',
+    status: 'Recreation Candidate / Don Comfort Plate',
+    ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'breadcrumbs', 'panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'Dijon mustard'],
+    tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'comfort food', 'plate recipe']
+  },
+  {
+    title: 'Bratkartoffeln-Style German Fried Potatoes',
+    path: 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html',
+    collection: 'House Recipes',
+    culture: 'German Inspired',
+    category: 'Side Dish',
+    status: 'Recreation Candidate / Schnitzel Side',
+    ingredients: ['cubed hashbrown potatoes', 'bacon', 'onion', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'],
+    tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'bacon onion potatoes', 'hashbrown shortcut', 'schnitzel side', 'rotkohl pairing', 'electric skillet']
   }
 ];

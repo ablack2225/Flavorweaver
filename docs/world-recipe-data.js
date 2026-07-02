@@ -318,5 +318,15 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Recreation Candidate / Schnitzel Side',
     ingredients: ['cubed hashbrown potatoes', 'bacon', 'onion', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'],
     tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'bacon onion potatoes', 'hashbrown shortcut', 'schnitzel side', 'rotkohl pairing', 'electric skillet']
+  },
+  {
+    title: 'Soft Buttery Steakhouse-Style Dinner Rolls',
+    path: 'recipes/american/soft-buttery-steakhouse-style-dinner-rolls.html',
+    collection: 'House Recipes',
+    culture: 'American Inspired',
+    category: 'Bread',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['whole milk', 'active dry yeast', 'granulated sugar', 'honey', 'unsalted butter', 'egg', 'kosher salt', 'all-purpose flour', 'bread flour', 'powdered sugar', 'cinnamon'],
+    tags: ['American-Inspired', 'american-inspired', 'dinner rolls', 'yeast rolls', 'soft rolls', 'buttery rolls', 'honey butter', 'whipped honey butter', 'bread service', 'steakhouse-style']
   }
 ];

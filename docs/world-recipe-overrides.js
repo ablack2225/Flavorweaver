@@ -92,4 +92,17 @@
       tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'comfort food', 'plate recipe']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html')) {
+    recipes.push({
+      title: 'Bratkartoffeln-Style German Fried Potatoes',
+      path: 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html',
+      collection: 'House Recipes',
+      culture: 'German Inspired',
+      category: 'Side Dish',
+      status: 'Recreation Candidate / Schnitzel Side',
+      ingredients: ['cubed hashbrown potatoes', 'bacon', 'onion', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'],
+      tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'bacon onion potatoes', 'hashbrown shortcut', 'schnitzel side', 'rotkohl pairing', 'electric skillet']
+    });
+  }
 })();

@@ -24,7 +24,7 @@ required_components:
   - lemon tahini sauce
   - crispy potato tuck-in
   - pickle and fresh vegetable finish
-rating_note: First live test planned
+rating_note: Unrated test recipe
 repeat_worthy: false
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -65,14 +65,14 @@ last_updated: 2026-07-03
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
-| 1h active | 45m | First live test planned | Not yet |
+| 1h active | 45m | Unrated test recipe | Not yet |
 
 ## Ingredient List
 
 | Component | Ingredients |
 |---|---|
 | Shawarma Chicken | Chicken thighs, olive oil, lemon, garlic, cumin, coriander, smoked paprika, turmeric, allspice, cardamom, cinnamon, ginger, nutmeg, black pepper, cayenne, salt, honey |
-| Required Naan Wrap Base | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared naan for the first test |
+| Required Naan Wrap Base | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) or prepared naan if needed |
 | Toum-Style Garlic Sauce | Mayonnaise, Greek yogurt or sour cream, garlic, lemon juice, olive oil, salt, sugar or honey |
 | Lemon Tahini Sauce | Tahini, lemon juice, garlic, kosher salt, cumin, ice-cold water, honey if needed |
 | Crispy Potato Tuck-In | Potatoes or frozen fries, neutral oil, salt, paprika, garlic powder |
@@ -90,25 +90,25 @@ last_updated: 2026-07-03
 | Fresh Side | Tomato, cucumber, onion, and herbs balance the rich chicken and sauces. |
 | Critical Balance | Charred edges, juicy chicken, warm bread, bright acid, garlic sauce, light tahini, pickles, and crisp potatoes. |
 
-## Before Cooking Day / Advance Prep
+## Before Cooking / Advance Prep
 
-- **Chicken timing for Sunday** — If serving Sunday, wait until **Saturday evening** to marinate. A 12 to 18 hour marinade is ideal for this version.
-- **Do not marinate Friday for Sunday** — The lemon and garlic are best held back until Saturday so the chicken stays juicy and clean-tasting.
-- **Friday prep option** — Mix the dry shawarma spice blend now and keep it covered. Make sauces now or Saturday; both improve after chilling.
-- **Required naan component** — If making [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md), make the dough Saturday and refrigerate after the first rise; bring it out Sunday before shaping and cooking.
-- **Potato prep** — Potatoes can be cut and held in cold water Sunday morning, then dried very well before cooking.
+- **Marinade timing** — Marinate the chicken **12 to 18 hours before cooking**. Do not extend the lemon-garlic marinade beyond 24 hours.
+- **Dry spice blend** — The shawarma spice blend can be mixed 1 to 2 days ahead and kept covered.
+- **Sauces** — Garlic sauce and lemon tahini can be made up to 1 day ahead and refrigerated.
+- **Required naan component** — If making [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md), the dough can be refrigerated after the first rise, then brought to room temperature before shaping and cooking.
+- **Potato prep** — Potatoes can be cut and held in cold water the day of cooking, then dried very well before cooking.
 
 ## Service Countdown
 
 | Time | Task |
 |---|---|
-| Friday or Saturday morning | Mix the dry shawarma spice blend: 1 tsp kosher salt, 2 tsp cumin, 1 tsp coriander, 1 tsp smoked paprika, 1/2 tsp turmeric, 1/2 tsp allspice, 1/4 tsp cardamom, 1/4 tsp cinnamon, 1/4 tsp ginger, tiny pinch nutmeg, 1/2 tsp black pepper, and 1/8 to 1/4 tsp cayenne. |
-| Friday or Saturday morning | Make garlic sauce and lemon tahini. Chill both sauces. |
-| Saturday evening | Marinate 1 lb chicken thighs with the full measured marinade. Refrigerate covered. |
-| Sunday, 2 to 3 hours before serving | Bring naan dough out if refrigerated; prep 2 medium potatoes and fresh wrap vegetables. |
-| Sunday, 60 minutes before serving | Start crispy potatoes or fries; stir garlic sauce and tahini and adjust texture. |
-| Sunday, 35 minutes before serving | Cook chicken thighs hot; rest 5 to 10 minutes; thin-slice. |
-| Sunday, 15 minutes before serving | Re-crisp sliced chicken in a hot pan with its juices. Warm 3 to 4 naan. |
+| 1 to 2 days ahead | Mix the dry shawarma spice blend: 1 tsp kosher salt, 2 tsp cumin, 1 tsp coriander, 1 tsp smoked paprika, 1/2 tsp turmeric, 1/2 tsp allspice, 1/4 tsp cardamom, 1/4 tsp cinnamon, 1/4 tsp ginger, tiny pinch nutmeg, 1/2 tsp black pepper, and 1/8 to 1/4 tsp cayenne. |
+| Up to 1 day ahead | Make garlic sauce and lemon tahini. Chill both sauces. |
+| 12 to 18 hours before cooking | Marinate 1 lb chicken thighs with the full measured marinade. Refrigerate covered. |
+| 2 to 3 hours before serving | Bring naan dough to room temperature if refrigerated; prep 2 medium potatoes and fresh wrap vegetables. |
+| 60 minutes before serving | Start crispy potatoes or fries; stir garlic sauce and tahini and adjust texture. |
+| 35 minutes before serving | Cook chicken thighs hot; rest 5 to 10 minutes; thin-slice. |
+| 15 minutes before serving | Re-crisp sliced chicken in a hot pan with its juices. Warm 3 to 4 naan. |
 | At service | Build wraps with garlic sauce, chicken, potatoes, pickles, fresh vegetables, lemon tahini stripe, and herbs. Griddle seam-side down if desired. |
 
 ## Required Components
@@ -116,10 +116,10 @@ last_updated: 2026-07-03
 | Component | Required? | Link / Embedded Handling | Notes |
 |---|---|---|---|
 | Chicken Shawarma Thighs | Yes | Embedded in this card | Main protein for 3 to 4 wraps. |
-| Fluffy Skillet Naan | Yes | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | House naan is the preferred wrap base. Prepared naan can be used for the first test if needed. |
+| Fluffy Skillet Naan | Yes | [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) | House naan is the preferred wrap base. Prepared naan may be used if needed. |
 | Toum-Style Garlic Sauce | Yes | Embedded in this card | Primary sauce for chicken shawarma. |
 | Lemon Tahini Sauce | Yes | Embedded in this card | Thin stripe or side dip; do not use as the main sauce. |
-| Crispy Potato Tuck-In | Strongly recommended | Embedded in this card | Street-wrap texture and Don-style satisfaction. |
+| Crispy Potato Tuck-In | Strongly recommended | Embedded in this card | Street-wrap texture and satisfaction. |
 | Pickled Finish | Yes | Pickles or pickled onions | Acid and crunch are required for balance. |
 
 ## Full Wrap Ingredient Roll-Up
@@ -202,7 +202,7 @@ These component sections are reference only. The cooking flow is handled by the 
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 3 to 4 | Warm naan | Required component: [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md), or prepared naan for first test. |
+| 3 to 4 | Warm naan | Required component: [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md), or prepared naan if needed. |
 | 1 medium | Tomato | Thin slices or small wedges. |
 | 1/2 | Cucumber | Thin slices, matchsticks, or small dice. |
 | 1/4 to 1/2 | Small onion | Thin slices. Soak in cold water 10 minutes if sharp. |
@@ -227,7 +227,7 @@ These component sections are reference only. The cooking flow is handled by the 
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 — Chicken | **1 lb boneless skinless chicken thighs**, left whole | Marinate Saturday evening; cook Sunday. |
+| Bowl 1 — Chicken | **1 lb boneless skinless chicken thighs**, left whole | Marinate 12 to 18 hours before cooking. |
 | Bowl 2 — Marinade Wet Base | **2 Tbsp olive oil or neutral oil**; **1 Tbsp lemon juice**; **1 tsp lemon zest**; **4 cloves garlic, grated**; **1 tsp honey or brown sugar**; optional **1 Tbsp Greek yogurt** | Whisk with Bowl 3, then coat Bowl 1 chicken. |
 | Bowl 3 — Shawarma Spice Blend | **1 tsp kosher salt**; **2 tsp cumin**; **1 tsp coriander**; **1 tsp smoked paprika**; **1/2 tsp turmeric**; **1/2 tsp allspice**; **1/4 tsp cardamom**; **1/4 tsp cinnamon**; **1/4 tsp ground ginger**; **tiny pinch nutmeg**; **1/2 tsp black pepper**; **1/8 to 1/4 tsp cayenne** | Whisk into Bowl 2 before coating chicken. |
 | Bowl 4 — Re-Crisp Chicken | Cooked rested chicken, sliced thin, plus saved pan juices | Re-crisp just before assembly. |
@@ -250,9 +250,9 @@ These component sections are reference only. The cooking flow is handled by the 
 
 ## Do Not Forget
 
-- For Sunday, marinate Saturday evening, not Friday.
+- Marinate the chicken **12 to 18 hours before cooking**.
 - Keep the lemon juice controlled at **1 Tbsp** for the overnight chicken marinade.
-- [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) is the required house bread component unless using prepared naan for the first test.
+- [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md) is the required house bread component unless using prepared naan.
 - Cook chicken thighs whole, rest them, slice thin, then re-crisp for shawarma-style edges.
 - Do not drown the wrap in tahini. Use lemon tahini as a thin stripe.
 - Garlic sauce is the main chicken-shawarma sauce.
@@ -264,19 +264,19 @@ These component sections are reference only. The cooking flow is handled by the 
 
 | Step | Action |
 |---:|---|
-| 1 | **Friday or Saturday morning: mix the dry spice blend.** In Bowl 3, combine **1 tsp kosher salt**, **2 tsp cumin**, **1 tsp coriander**, **1 tsp smoked paprika**, **1/2 tsp turmeric**, **1/2 tsp allspice**, **1/4 tsp cardamom**, **1/4 tsp cinnamon**, **1/4 tsp ground ginger**, a **tiny pinch nutmeg**, **1/2 tsp black pepper**, and **1/8 to 1/4 tsp cayenne**. Cover and hold until Saturday evening. |
-| 2 | **Saturday evening: make the marinade.** In Bowl 2, whisk **2 Tbsp oil**, **1 Tbsp lemon juice**, **1 tsp lemon zest**, **4 grated garlic cloves**, **1 tsp honey or brown sugar**, and optional **1 Tbsp Greek yogurt**. Whisk in all of Bowl 3 spice blend. |
-| 3 | **Saturday evening: marinate the chicken.** Coat **1 lb boneless skinless chicken thighs** in the full marinade. Cover and refrigerate **12 to 18 hours**. |
+| 1 | **Mix the dry spice blend.** In Bowl 3, combine **1 tsp kosher salt**, **2 tsp cumin**, **1 tsp coriander**, **1 tsp smoked paprika**, **1/2 tsp turmeric**, **1/2 tsp allspice**, **1/4 tsp cardamom**, **1/4 tsp cinnamon**, **1/4 tsp ground ginger**, a **tiny pinch nutmeg**, **1/2 tsp black pepper**, and **1/8 to 1/4 tsp cayenne**. Cover and hold until ready to marinate. |
+| 2 | **Make the marinade.** In Bowl 2, whisk **2 Tbsp oil**, **1 Tbsp lemon juice**, **1 tsp lemon zest**, **4 grated garlic cloves**, **1 tsp honey or brown sugar**, and optional **1 Tbsp Greek yogurt**. Whisk in all of Bowl 3 spice blend. |
+| 3 | **Marinate the chicken.** Coat **1 lb boneless skinless chicken thighs** in the full marinade. Cover and refrigerate **12 to 18 hours**. |
 | 4 | **Make the toum-style garlic sauce.** Stir together **1/4 cup mayonnaise**, **2 Tbsp Greek yogurt or sour cream**, **1 to 2 grated garlic cloves**, **1 to 2 tsp lemon juice**, **1 tsp olive oil**, a **pinch kosher salt**, and a **tiny pinch sugar or honey**. Thin with **1 to 2 tsp cold water** only if needed. Chill. |
 | 5 | **Make the lemon tahini.** Whisk **1/4 cup tahini**, **1 1/2 Tbsp lemon juice**, **1 small grated garlic clove**, **1/4 tsp kosher salt**, and **1/8 tsp cumin**. It will thicken first. Whisk in **3 to 5 Tbsp ice-cold water**, **1 Tbsp at a time**, until pale, creamy, and pourable. Add a tiny drizzle honey only if bitter. |
-| 6 | **Prepare the required naan component.** Make or warm **3 to 4 naan**. For the house version, use [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md). If the dough was refrigerated after the first rise, bring it out Sunday **2 to 3 hours before serving**, then shape, proof, roll, and cook according to the naan recipe. |
-| 7 | **Sunday: prepare potatoes.** Cut **2 medium potatoes** into 1/4-inch fries or small wedges, or use frozen fries. If using fresh potatoes, rinse or soak briefly, dry very well, then toss with **1 to 2 Tbsp neutral oil**, **1/2 tsp kosher salt**, optional **1/2 tsp paprika**, and optional **1/4 tsp garlic powder**. Roast, air-fry, or fry until crisp. Hold warm. |
+| 6 | **Prepare the required naan component.** Make or warm **3 to 4 naan**. For the house version, use [Fluffy Skillet Naan](../../indian/breads/fluffy-skillet-naan.md). If the dough was refrigerated after the first rise, bring it to room temperature before shaping, proofing, rolling, and cooking according to the naan recipe. |
+| 7 | **Prepare potatoes.** Cut **2 medium potatoes** into 1/4-inch fries or small wedges, or use frozen fries. If using fresh potatoes, rinse or soak briefly, dry very well, then toss with **1 to 2 Tbsp neutral oil**, **1/2 tsp kosher salt**, optional **1/2 tsp paprika**, and optional **1/4 tsp garlic powder**. Roast, air-fry, or fry until crisp. Hold warm. |
 | 8 | **Prep the fresh and pickled fill.** Slice **1 medium tomato**, **1/2 cucumber**, and **1/4 to 1/2 small onion**. Chop a **small handful parsley or cilantro** if using. Drain **1/2 cup pickles or pickled onions** very well. |
 | 9 | **Cook the chicken.** Remove marinated chicken from the refrigerator **20 to 30 minutes** before cooking. Heat a cast iron skillet, griddle, broiler, grill pan, or electric skillet until hot. Cook whole marinated thighs until deeply browned at the edges and cooked through, about **4 to 6 minutes per side** depending on thickness. |
 | 10 | **Rest and slice.** Rest cooked chicken **5 to 10 minutes** so juices settle. Slice very thin across the grain into shawarma-style strips. Save the juices. |
 | 11 | **Re-crisp the sliced chicken.** Return thin-sliced chicken and saved juices to a hot skillet for **1 to 2 minutes**, tossing just until edges pick up color and the spices smell toasted again. Do not dry it out. |
 | 12 | **Warm the naan.** Warm **3 to 4 naan** until soft and flexible. If desired, lightly griddle each naan before assembly. |
-| 13 | **Build each wrap with measured components.** For each warm naan, spread about **1 Tbsp toum-style garlic sauce**, add about **1/3 to 1/4 of the hot sliced chicken**, a small line of crispy potatoes, **1 to 2 Tbsp drained pickles or pickled onions**, tomato, cucumber, onion, herbs, another **1 to 2 tsp garlic sauce**, and a thin **1 to 2 tsp stripe lemon tahini**. |
+| 13 | **Build each wrap with measured components.** For each warm naan, spread about **1 Tbsp toum-style garlic sauce**, add about **1/3 to 1/4 of the hot sliced chicken**, about **1/4 cup crispy potatoes**, **1 to 2 Tbsp drained pickles or pickled onions**, tomato, cucumber, onion, herbs, another **1 to 2 tsp garlic sauce**, and a thin **1 to 2 tsp stripe lemon tahini**. |
 | 14 | **Set the wrap.** Fold or roll the naan. Optional: griddle seam-side down for **30 to 60 seconds** so the wrap holds together. Serve immediately with extra garlic sauce, tahini, pickles, and lemon at the table. |
 
 ## Building the Final Wrap
@@ -315,16 +315,12 @@ The chicken should have browned edges and a sliced shawarma texture, not large b
 
 Tahini is useful here, but it should not replace the garlic sauce. For chicken shawarma, the garlic sauce is the main sauce; lemon tahini is a nutty finishing stripe.
 
-For best Sunday results, marinate Saturday evening. The dry spice blend and sauces can be made earlier, but the lemon-garlic chicken marinade should not sit on the chicken for two full days.
-
-If the chicken was fully thawed earlier than Friday, cook it Saturday, chill the cooked chicken, and re-crisp the sliced meat Sunday before assembly.
+For best results, marinate the chicken 12 to 18 hours before cooking. The dry spice blend and sauces can be made earlier, but the lemon-garlic chicken marinade should not sit on the chicken for more than 24 hours.
 
 <details>
 <summary>Testing Notes</summary>
 
-## First Test
-
-**Date:** Sunday 2026-07-05  
+## Test Notes
 
 **What worked:**
 
@@ -352,7 +348,8 @@ If the chicken was fully thawed earlier than Friday, cook it Saturday, chill the
 
 | Date | Change |
 |---|---|
-| 2026-07-03 | Created chicken shawarma naan wrap test recipe for 1 lb thawed chicken thighs and Sunday service. |
+| 2026-07-03 | Created chicken shawarma naan wrap test recipe. |
 | 2026-07-03 | Added linked required Fluffy Skillet Naan component, measured prep bowls, and measured instruction flow to match the Bulgogi-style template expectation. |
+| 2026-07-03 | Removed date-specific meal-planning notes so the recipe reads as a reusable public archive card. |
 
 </details>

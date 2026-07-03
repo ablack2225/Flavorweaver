@@ -140,6 +140,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'falafel', 'naan wrap', 'food truck memory', 'top 10 candidate', 'canon-lock candidate', 'spot on', 'dried chickpeas', 'meat grinder', 'deep fried', 'ranch white sauce', 'fiery red sauce', 'lemon tahini', 'complete wrap', 'sauce bar']
   },
   {
+    title: 'Chicken Shawarma Naan Wraps with Garlic Sauce and Lemon Tahini',
+    path: 'recipes/middle-eastern/chicken-shawarma-naan-wraps.html',
+    collection: 'House Recipes',
+    culture: 'Middle Eastern Inspired',
+    category: 'Featured Meal',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['chicken thighs', 'naan', 'tahini', 'mayonnaise', 'Greek yogurt', 'sour cream', 'lemon juice', 'garlic', 'cumin', 'coriander', 'smoked paprika', 'turmeric', 'allspice', 'cardamom', 'cinnamon', 'ginger', 'nutmeg', 'cayenne', 'potatoes', 'pickles', 'tomato', 'cucumber', 'onion'],
+    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'chicken shawarma', 'shawarma wraps', 'naan wrap', 'chicken thighs', 'garlic sauce', 'toum-style garlic sauce', 'lemon tahini', 'crispy potatoes', 'pickles', 'complete wrap', 'sauce bar', 'first live test']
+  },
+  {
     title: 'Gochujang Crema',
     path: 'recipes/condiments/gochujang-crema.html',
     collection: 'House Recipes',

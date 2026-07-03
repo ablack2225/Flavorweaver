@@ -60,6 +60,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Thai-Inspired', 'thai-inspired', 'coconut curry', 'red curry', 'tofu', 'crispy tofu', 'deep-fried tofu', 'curry soup', 'soup bowl', 'spicy']
   },
   {
+    title: 'Thai-Inspired Drunken Noodles with Chicken Thighs',
+    path: 'recipes/thai/thai-inspired-drunken-noodles-with-chicken-thighs.html',
+    collection: 'House Recipes',
+    culture: 'Thai Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Working Recipe / First Live Test',
+    ingredients: ['chicken thighs', 'wide rice noodles', 'oyster sauce', 'soy sauce', 'dark soy sauce', 'fish sauce', 'brown sugar', 'honey', 'garlic', 'Thai chiles', 'onion', 'bell pepper', 'green onion', 'Thai basil', 'lime', 'cornstarch'],
+    tags: ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'drunken noodles', 'pad kee mao inspired', 'wide rice noodles', 'chicken thighs', 'Thai basil', 'Thai chiles', 'dark glossy sauce', 'high-heat stir-fry', 'first live test']
+  },
+  {
     title: 'Thai-Inspired Bang Bang Shrimp Bowls',
     path: 'recipes/thai/thai-inspired-bang-bang-shrimp-bowls.html',
     collection: 'House Recipes',

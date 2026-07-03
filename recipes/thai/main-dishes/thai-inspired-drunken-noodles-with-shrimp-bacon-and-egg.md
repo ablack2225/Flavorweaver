@@ -69,7 +69,7 @@ last_updated: 2026-07-03
 |---|---|
 | Meal Role | Complete noodle dish / high-heat stir-fry |
 | Main Protein | Shrimp with soft egg curds. Bacon pieces removed from final direction. |
-| Noodle Base | **Fresh wide rice noodles are preferred** for the final version. Dry wide rice noodles are a fallback only and must be fully hydrated before stir-frying. |
+| Noodle Base | **Fresh wide rice noodles are preferred** for the final version. Dry wide rice noodles are a fallback only and should be cooked separately according to package directions, drained well, then tossed in with sauce at the very end. |
 | Aromatic Backbone | 8 large garlic cloves, Thai chiles, and shallot kept chunky and visible. |
 | Vegetable Structure | Red bell pepper and onion give sweetness, color, and crunch. |
 | Fresh Finish | Vine tomato and Thai basil go in at the end. |
@@ -77,7 +77,7 @@ last_updated: 2026-07-03
 
 ## Before Cooking Day / Advance Prep
 
-- **Noodle correction** - Fresh wide rice noodles are the preferred final method. The dry-noodle test stayed underdone, so dry noodles should only be used as a fallback with a longer hydration or brief blanch correction.
+- **Noodle correction** - Fresh wide rice noodles are the preferred final method. The dry-noodle hot-soak test caused sticking and underdone centers in the electric skillet, so dry noodles should be cooked separately according to package directions and tossed in with the sauce at the very end.
 - **Sauce correction** - The sauce has been doubled from the first draft because the live test needed double sauce to hit the correct Flavorweaver glossy/saucy balance.
 - **Bacon correction** - Do not use bacon pieces in the final dish. Use **1 Tbsp bacon drippings** as the preferred cooking fat if available, or neutral oil as backup.
 - **Confirm basil** - Thai basil is the available house version. Holy basil is the future ideal.
@@ -87,22 +87,22 @@ last_updated: 2026-07-03
 
 ## Service Countdown
 
-- **45-50 minutes before serving, only if using dry noodles** - Start hydrating dry wide rice noodles. They must become fully pliable with no hard center before stir-frying.
+- **45-50 minutes before serving, only if using dry noodles** - Cook dry wide rice noodles according to package directions, drain very well, and toss with a tiny drizzle of neutral oil only if they must sit before the stir-fry.
 - **35 minutes before serving** - Cut garlic, Thai chiles, shallot, onion, red bell pepper, tomato, and basil.
 - **25 minutes before serving** - Mix doubled sauce and beat eggs.
 - **15 minutes before serving** - Toss shrimp with marinade.
-- **At service** - Heat bacon drippings or oil, stir-fry aromatics, eggs, shrimp, vegetables, noodles, and doubled sauce. Finish with tomato and Thai basil.
+- **At service** - Heat bacon drippings or oil, stir-fry aromatics, eggs, shrimp, and vegetables. Add noodles with doubled sauce at the very end and fold only until coated, glossy, and hot. Finish with tomato and Thai basil.
 
 ## Full Noodle Dish Ingredient Roll-Up
 
 | Component | Ingredients Needed | Prep Style | Where It Appears |
 |---|---|---|---|
-| Noodle Base | 1 lb fresh wide rice noodles preferred; or 8 oz dry wide rice noodles fallback | Fresh noodles separated; dry noodles fully hydrated or briefly blanched | Main noodle body |
+| Noodle Base | 1 lb fresh wide rice noodles preferred; or 8 oz dry wide rice noodles fallback | Fresh noodles separated; dry noodles cooked per package directions, drained, and held carefully | Main noodle body |
 | Protein Set | 8 oz to 1 lb shrimp; 2 eggs | Shrimp marinated briefly; eggs beaten | Main stir-fry |
 | Cooking Fat | 1 Tbsp bacon drippings preferred; neutral oil if needed | Heat before aromatics | Smoky stir-fry fat |
 | Aromatics | 8 large garlic cloves; 2-5 Thai chiles; 1 large shallot | Garlic/chiles chunky; shallot thin half-moons | First wok flavor base |
 | Vegetables | 1/2 onion; 1 red bell pepper | Onion strips; pepper strips | Stir-fry body |
-| Doubled Sauce | Oyster sauce; fish sauce; soy; dark soy; honey or brown sugar; water | Mixed before cooking | Added with noodles |
+| Doubled Sauce | Oyster sauce; fish sauce; soy; dark soy; honey or brown sugar; water | Mixed before cooking | Added with noodles at the end |
 | Finish | Vine tomato; Thai basil | Tomato wedges; basil leaves | Added off heat |
 
 ## Measured Ingredients by Component
@@ -112,8 +112,8 @@ last_updated: 2026-07-03
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 1 lb | Fresh wide rice noodles | Preferred final version. Separate gently before cooking. |
-| 8 oz | Dry wide rice noodles | Fallback only. Hydrate until fully pliable with no hard center, or briefly blanch after soaking if needed. |
-| Tiny drizzle | Neutral oil | Use only if drained noodles stick badly. |
+| 8 oz | Dry wide rice noodles | Fallback only. Cook separately according to package directions, drain very well, and add with sauce at the very end. |
+| Tiny drizzle | Neutral oil | Use only if cooked dry noodles must sit before stir-frying and begin sticking. |
 
 ### Shrimp Marinade
 
@@ -180,14 +180,14 @@ last_updated: 2026-07-03
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 1 - Fresh Noodles | **1 lb fresh wide rice noodles**, gently separated | Added after protein and vegetables |
-| Bowl 1A - Dry Noodle Fallback | **8 oz dry wide rice noodles**, fully hydrated until pliable with no hard center, drained well, rested 10-15 minutes; tiny drizzle oil only if needed | Use only if fresh noodles are unavailable |
+| Bowl 1 - Fresh Noodles | **1 lb fresh wide rice noodles**, gently separated | Added at the end with doubled sauce |
+| Bowl 1A - Dry Noodle Fallback | **8 oz dry wide rice noodles**, cooked separately according to package directions, drained very well, and tossed with a tiny drizzle neutral oil only if holding | Added at the end with doubled sauce |
 
 ### Sauce and Protein Bowls
 
 | Bowl | Contents | When Used |
 |---|---|---|
-| Bowl 2 - Doubled Glossy Sauce | **4 Tbsp oyster sauce**; **2 Tbsp fish sauce**; **2 Tbsp soy sauce**; **2 tsp dark soy sauce**; **3 Tbsp honey or brown sugar**; **2 Tbsp water**; optional tiny pinch black pepper | Added with noodles |
+| Bowl 2 - Doubled Glossy Sauce | **4 Tbsp oyster sauce**; **2 Tbsp fish sauce**; **2 Tbsp soy sauce**; **2 tsp dark soy sauce**; **3 Tbsp honey or brown sugar**; **2 Tbsp water**; optional tiny pinch black pepper | Added with noodles at the end |
 | Bowl 3 - Shrimp | **8 oz to 1 lb shrimp**; **1 tsp fish sauce**; **1 small garlic clove**; tiny pinch honey or sugar; **1 tsp oil** | Added after eggs |
 | Bowl 4 - Eggs | **2 large eggs**, lightly beaten; optional **1 tsp water** | Added after aromatics |
 | Bowl 5 - Cooking Fat | **1 Tbsp bacon drippings**, plus neutral oil only if needed | Heated before aromatics |
@@ -205,7 +205,7 @@ last_updated: 2026-07-03
 - Use the full **8 large cloves garlic** in the aromatic bowl.
 - Keep garlic and Thai chiles **chunky, not pasted**.
 - **Fresh wide rice noodles are preferred** for the final version.
-- If using dry noodles, do not stop at bendy-but-firm. Hydrate until fully pliable with no hard center, or briefly blanch after soaking if needed.
+- If using dry noodles, **cook them separately according to package directions** and add them with sauce at the very end. Do not rely on hot-water soaking for this recipe.
 - Use **1 Tbsp bacon drippings** for flavor, but do **not** add bacon pieces to the finished noodles.
 - Keep egg curds large and soft.
 - The sauce is now **doubled** from the first draft.
@@ -216,7 +216,7 @@ last_updated: 2026-07-03
 
 | Step | Action |
 |---:|---|
-| 1 | **Prepare the noodles.** Preferred: gently separate **1 lb fresh wide rice noodles** and keep them ready. Fallback: soak **8 oz dry wide rice noodles** in very warm water until fully pliable with no hard center; if they still feel underdone after soaking, briefly blanch **30-60 seconds**, drain very well, and rest **10-15 minutes**. |
+| 1 | **Prepare the noodles.** Preferred: gently separate **1 lb fresh wide rice noodles** and keep them ready. Fallback: cook **8 oz dry wide rice noodles** separately according to package directions, drain very well, and toss with a tiny drizzle of neutral oil only if they must sit before stir-frying. Do not rely on hot-water soaking for this recipe. |
 | 2 | **Mix the doubled sauce.** Stir together **4 Tbsp oyster sauce**, **2 Tbsp fish sauce**, **2 Tbsp soy sauce**, **2 tsp dark soy sauce**, **3 Tbsp honey or brown sugar**, **2 Tbsp water**, and an optional tiny pinch black pepper. |
 | 3 | **Marinate the shrimp briefly.** Toss **8 oz to 1 lb shrimp** with **1 tsp fish sauce**, **1 small finely chopped or grated garlic clove**, a **tiny pinch honey or sugar**, and **1 tsp neutral oil**. Rest **10 minutes only**. |
 | 4 | **Heat the cooking fat.** Heat **1 Tbsp bacon drippings** in a hot wok or wide skillet. If the pan looks dry, add a small splash of neutral oil. Do not add bacon pieces to the finished dish. |
@@ -224,8 +224,8 @@ last_updated: 2026-07-03
 | 6 | **Add the eggs.** Push aromatics aside. Add **2 lightly beaten eggs**, let set briefly, then fold into large soft curds. |
 | 7 | **Add the shrimp.** Add marinated shrimp and toss until just starting to turn pink. |
 | 8 | **Add onion and red bell pepper.** Add **1/2 sliced onion** and **1 sliced red bell pepper**. Stir-fry **45-75 seconds**. |
-| 9 | **Add noodles and doubled sauce.** Add prepared noodles and the doubled sauce. Fold and toss gently for **2-4 minutes**, until noodles are glossy, darker, saucy, and tender. |
-| 10 | **Adjust only if needed.** If noodles need help finishing, add water **1 Tbsp at a time** and keep folding. Fresh noodles should need little to no extra water. |
+| 9 | **Add noodles and doubled sauce at the end.** Add the prepared noodles and the doubled sauce only after the shrimp, egg, onion, and red bell pepper are ready. Fold and toss gently for **30-90 seconds**, just until noodles are coated, glossy, hot, and tender. Do not overwork the noodles. |
+| 10 | **Adjust only if needed.** If noodles need help loosening, add water **1 Tbsp at a time** and keep folding gently. Fresh noodles should need little to no extra water. |
 | 11 | **Finish off heat.** Turn heat low or off. Add **1 medium or 2 small vine tomatoes** and **1 1/2 to 2 packed cups Thai basil**. Fold gently for **30-60 seconds**. |
 | 12 | **Serve immediately.** Transfer to bowls or a wide platter while hot, glossy, and saucy. |
 
@@ -243,7 +243,7 @@ last_updated: 2026-07-03
 
 The finished noodles should be glossy, spicy, garlicky, savory-sweet, basil-heavy, and saucy enough to coat every noodle. The shrimp should be tender, the egg should stay in soft curds, the red bell pepper should keep a little crispness, and the tomato should brighten the sauce without watering it down.
 
-The live-test flavor profile was excellent and should be protected. The final corrections are texture and structure: use fresh wide rice noodles when possible, double the sauce, and use bacon drippings instead of bacon pieces.
+The live-test flavor profile was excellent and should be protected. The final corrections are texture and structure: use fresh wide rice noodles when possible, double the sauce, use bacon drippings instead of bacon pieces, and cook dry noodles separately according to package directions if fresh noodles are unavailable.
 
 <!-- recipe-card:end -->
 
@@ -263,7 +263,7 @@ Red bell pepper is the preferred pantry vegetable because it brings color and sw
 
 The tomato belongs at the end with Thai basil. It should release a little juice into the hot noodles, not cook down into a sauce.
 
-The first live test proved the flavor profile, but it also proved that the original dry noodle hydration method was not reliable enough for this kitchen. Fresh wide rice noodles are now the preferred final direction.
+The first live test proved the flavor profile, but it also proved that the original dry noodle hydration method was not reliable enough for this kitchen. Fresh wide rice noodles are now the preferred final direction. If dry noodles are used, they should be cooked separately according to package directions, drained well, and tossed in with the sauce at the very end.
 
 <details>
 <summary>Change Log</summary>
@@ -273,5 +273,6 @@ The first live test proved the flavor profile, but it also proved that the origi
 | 2026-07-03 | Rebuilt from the superseded chicken-thigh version into the shrimp, bacon, egg, red bell pepper, vine tomato, and Thai basil live-test version. |
 | 2026-07-03 | Reformatted to follow the Bulgogi Bowls / premium Flavorweaver structure. |
 | 2026-07-03 | Applied live-test corrections: doubled sauce, removed finished bacon pieces, kept bacon drippings as optional cooking fat, made fresh wide rice noodles the preferred final method, and documented dry noodle fallback correction. |
+| 2026-07-03 | Corrected dry noodle fallback again: dry noodles should be cooked separately according to package directions and tossed with sauce at the end, not hot-soaked for skillet finishing. |
 
 </details>

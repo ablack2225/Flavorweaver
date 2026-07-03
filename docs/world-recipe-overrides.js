@@ -67,6 +67,13 @@
     });
   }
 
+  const pecanChicken = recipes.find((item) => item.path === 'recipes/southern/pecan-fried-chicken-makers-mark-french-toast-bourbon-sauce.html');
+  if (pecanChicken) {
+    pecanChicken.status = 'Don Hall of Fame / Canon-Lock Candidate';
+    pecanChicken.ingredients = ['chicken breast', 'buttermilk', 'egg', 'pecans', 'all-purpose flour', 'cornstarch', 'paprika', 'garlic powder', 'onion powder', 'neutral oil', 'butter', 'maple syrup', 'brown sugar', "Maker's Mark bourbon", 'vanilla', 'cinnamon', 'Honeycrisp apples', 'Granny Smith apples', 'Southern cinnamon fried apples', 'yeast rolls', 'honey butter', 'broccoli', 'garlic', 'lemon'];
+    pecanChicken.tags = ['Southern-Inspired', 'southern-inspired', 'pecan fried chicken', 'fried chicken', 'bourbon sauce', "Maker's Mark", 'French toast sauce', 'fried apples', 'Southern cinnamon fried apples', 'yeast rolls', 'honey butter rolls', 'house yeast rolls', 'garlic broccoli', 'Don memory plate', 'Don Hall of Fame', 'canon-lock candidate', 'best food Don has ever had', 'Amy surpassed chef skill', 'special treat dinner', 'project meal'];
+  }
+
   if (!recipes.some((item) => item.path === 'recipes/southern/pecan-fried-chicken-makers-mark-french-toast-bourbon-sauce.html')) {
     recipes.push({
       title: "Pecan Fried Chicken with Maker's Mark French Toast Bourbon Sauce",
@@ -74,9 +81,9 @@
       collection: 'House Recipes',
       culture: 'Southern Inspired',
       category: 'Main Dish',
-      status: 'Recreation Candidate / Don Memory Plate',
-      ingredients: ['chicken breast', 'buttermilk', 'egg', 'pecans', 'all-purpose flour', 'cornstarch', 'paprika', 'garlic powder', 'onion powder', 'neutral oil', 'butter', 'maple syrup', 'brown sugar', "Maker's Mark bourbon", 'vanilla', 'cinnamon', 'Honeycrisp apples', 'Granny Smith apples', 'sweet potatoes', 'honey', 'broccoli', 'garlic', 'lemon'],
-      tags: ['Southern-Inspired', 'southern-inspired', 'pecan fried chicken', 'fried chicken', 'bourbon sauce', "Maker's Mark", 'French toast sauce', 'fried apples', 'Southern cinnamon fried apples', 'honey butter sweet potatoes', 'garlic broccoli', 'Don memory plate', 'special treat dinner', 'project meal']
+      status: 'Don Hall of Fame / Canon-Lock Candidate',
+      ingredients: ['chicken breast', 'buttermilk', 'egg', 'pecans', 'all-purpose flour', 'cornstarch', 'paprika', 'garlic powder', 'onion powder', 'neutral oil', 'butter', 'maple syrup', 'brown sugar', "Maker's Mark bourbon", 'vanilla', 'cinnamon', 'Honeycrisp apples', 'Granny Smith apples', 'Southern cinnamon fried apples', 'yeast rolls', 'honey butter', 'broccoli', 'garlic', 'lemon'],
+      tags: ['Southern-Inspired', 'southern-inspired', 'pecan fried chicken', 'fried chicken', 'bourbon sauce', "Maker's Mark", 'French toast sauce', 'fried apples', 'Southern cinnamon fried apples', 'yeast rolls', 'honey butter rolls', 'house yeast rolls', 'garlic broccoli', 'Don memory plate', 'Don Hall of Fame', 'canon-lock candidate', 'best food Don has ever had', 'Amy surpassed chef skill', 'special treat dinner', 'project meal']
     });
   }
 

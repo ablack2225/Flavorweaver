@@ -60,14 +60,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Thai-Inspired', 'thai-inspired', 'coconut curry', 'red curry', 'tofu', 'crispy tofu', 'deep-fried tofu', 'curry soup', 'soup bowl', 'spicy']
   },
   {
-    title: 'Thai-Inspired Drunken Noodles with Chicken Thighs',
-    path: 'recipes/thai/thai-inspired-drunken-noodles-with-chicken-thighs.html',
+    title: 'Thai-Inspired Drunken Noodles with Shrimp, Bacon & Egg',
+    path: 'recipes/thai/thai-inspired-drunken-noodles-with-shrimp-bacon-and-egg.html',
     collection: 'House Recipes',
     culture: 'Thai Inspired',
     category: 'Main Dish',
-    status: 'Flavorweaver Working Recipe / First Live Test',
-    ingredients: ['chicken thighs', 'wide rice noodles', 'oyster sauce', 'soy sauce', 'dark soy sauce', 'fish sauce', 'brown sugar', 'honey', 'garlic', 'Thai chiles', 'onion', 'bell pepper', 'green onion', 'Thai basil', 'lime', 'cornstarch'],
-    tags: ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'drunken noodles', 'pad kee mao inspired', 'wide rice noodles', 'chicken thighs', 'Thai basil', 'Thai chiles', 'dark glossy sauce', 'high-heat stir-fry', 'first live test']
+    status: 'Flavorweaver Live Test Recipe',
+    ingredients: ['shrimp', 'bacon', 'eggs', 'wide rice noodles', 'oyster sauce', 'soy sauce', 'dark soy sauce', 'fish sauce', 'honey', 'brown sugar', 'garlic', 'Thai chiles', 'shallot', 'onion', 'red bell pepper', 'vine tomato', 'Thai basil'],
+    tags: ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'drunken noodles', 'pad kee mao inspired', 'wide rice noodles', 'dry wide rice noodles', 'shrimp', 'bacon', 'egg', 'Thai basil', 'Thai chiles', 'red bell pepper', 'vine tomato', 'chunky garlic', 'high-heat stir-fry', 'first live test']
   },
   {
     title: 'Thai-Inspired Bang Bang Shrimp Bowls',

@@ -41,6 +41,55 @@
     ];
   }
 
+  const drunkenNoodles = recipes.find((item) => item.path === 'recipes/thai/thai-inspired-drunken-noodles-with-shrimp-bacon-and-egg.html');
+  if (drunkenNoodles) {
+    drunkenNoodles.title = 'Thai-Inspired Drunken Noodles with Shrimp & Egg';
+    drunkenNoodles.status = 'Flavorweaver Successful Live Test';
+    drunkenNoodles.ingredients = [
+      'shrimp',
+      'eggs',
+      'fresh wide rice noodles',
+      'dry wide rice noodles fallback',
+      'oyster sauce',
+      'soy sauce',
+      'dark soy sauce',
+      'fish sauce',
+      'honey',
+      'brown sugar',
+      'garlic',
+      'Thai chiles',
+      'shallot',
+      'onion',
+      'red bell pepper',
+      'vine tomato',
+      'Thai basil',
+      'bacon drippings'
+    ];
+    drunkenNoodles.tags = [
+      'Thai-Inspired',
+      'thai-inspired',
+      'Asian-Inspired',
+      'asian-inspired',
+      'drunken noodles',
+      'pad kee mao inspired',
+      'wide rice noodles',
+      'fresh wide rice noodles',
+      'dry noodle fallback',
+      'package-cooked dry noodles',
+      'shrimp',
+      'egg',
+      'Thai basil',
+      'Thai chiles',
+      'red bell pepper',
+      'vine tomato',
+      'chunky garlic',
+      'bacon drippings',
+      'doubled sauce',
+      'successful live test',
+      'high-heat stir-fry'
+    ];
+  }
+
   if (!recipes.some((item) => item.path === 'recipes/indian/aloo-pakora-inspired-potato-fritters.html')) {
     recipes.push({
       title: 'Aloo Pakora-Inspired Potato Fritters',

@@ -136,6 +136,20 @@
     });
   }
 
+  const schnitzel = recipes.find((item) => item.path === 'recipes/german/pork-loin-schnitzel-with-rotkohl.html');
+  if (schnitzel) {
+    schnitzel.status = 'Recreation Candidate / Don Comfort Plate';
+    schnitzel.ingredients = ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'Dijon mustard', 'bratkartoffeln', 'fresh baking potatoes', 'bacon', 'green onion', 'optional cucumber dill palate reset'];
+    schnitzel.tags = ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'bratkartoffeln', 'fresh potato side', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity'];
+  }
+
+  const bratkartoffeln = recipes.find((item) => item.path === 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html');
+  if (bratkartoffeln) {
+    bratkartoffeln.status = 'Recreation Candidate / Schnitzel Side';
+    bratkartoffeln.ingredients = ['baking potatoes', 'russet potatoes', 'fresh potatoes', 'bacon', 'onion', 'bacon drippings', 'neutral oil', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'];
+    bratkartoffeln.tags = ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'fresh potatoes', 'russet potatoes', 'baking potatoes', 'bacon onion potatoes', 'schnitzel side', 'rotkohl pairing', 'electric skillet', 'fresh potato upgrade'];
+  }
+
   if (!recipes.some((item) => item.path === 'recipes/german/pork-loin-schnitzel-with-rotkohl.html')) {
     recipes.push({
       title: 'Pork Loin Schnitzel with Rotkohl',
@@ -144,8 +158,8 @@
       culture: 'German Inspired',
       category: 'Main Dish',
       status: 'Recreation Candidate / Don Comfort Plate',
-      ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'breadcrumbs', 'panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'Dijon mustard'],
-      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'comfort food', 'plate recipe']
+      ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'Dijon mustard', 'bratkartoffeln', 'fresh baking potatoes', 'bacon', 'green onion', 'optional cucumber dill palate reset'],
+      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'bratkartoffeln', 'fresh potato side', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity']
     });
   }
 
@@ -157,8 +171,8 @@
       culture: 'German Inspired',
       category: 'Side Dish',
       status: 'Recreation Candidate / Schnitzel Side',
-      ingredients: ['cubed hashbrown potatoes', 'bacon', 'onion', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'],
-      tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'bacon onion potatoes', 'hashbrown shortcut', 'schnitzel side', 'rotkohl pairing', 'electric skillet']
+      ingredients: ['baking potatoes', 'russet potatoes', 'fresh potatoes', 'bacon', 'onion', 'bacon drippings', 'neutral oil', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'],
+      tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'fresh potatoes', 'russet potatoes', 'baking potatoes', 'bacon onion potatoes', 'schnitzel side', 'rotkohl pairing', 'electric skillet', 'fresh potato upgrade']
     });
   }
 })();

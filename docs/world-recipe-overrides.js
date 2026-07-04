@@ -139,9 +139,9 @@
   const schnitzel = recipes.find((item) => item.path === 'recipes/german/pork-loin-schnitzel-with-rotkohl.html');
   if (schnitzel) {
     schnitzel.title = 'Pork Loin Schnitzel with Blackberry Rotkohl, Egg Noodles & Jäger-Style Gravy';
-    schnitzel.status = 'Recreation Candidate / 9.5 Target Plate';
+    schnitzel.status = 'Recreation Candidate / Project Plate';
     schnitzel.ingredients = ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'mushrooms', 'yellow onion', 'garlic', 'beef broth', 'chicken broth', 'Worcestershire sauce', 'soy sauce', 'Dijon mustard', 'heavy cream', 'sour cream', 'wide egg noodles', 'butter', 'nutmeg', 'parsley', 'purple cabbage', 'red cabbage', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'optional cucumber dill palate reset', 'optional pretzel roll', 'optional rye bread'];
-    schnitzel.tags = ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'jager-style gravy', 'jäger-style gravy', 'mushroom onion gravy', 'brown cream gravy', 'spätzle-style egg noodles', 'spaetzle-style egg noodles', 'egg noodles', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity', '9.5 target'];
+    schnitzel.tags = ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'jager-style gravy', 'jäger-style gravy', 'mushroom onion gravy', 'brown cream gravy', 'spätzle-style egg noodles', 'spaetzle-style egg noodles', 'egg noodles', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'project plate', 'flavorweaver intensity'];
   }
 
   const bratkartoffeln = recipes.find((item) => item.path === 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html');
@@ -158,9 +158,9 @@
       collection: 'House Recipes',
       culture: 'German Inspired',
       category: 'Main Dish',
-      status: 'Recreation Candidate / 9.5 Target Plate',
+      status: 'Recreation Candidate / Project Plate',
       ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'mushrooms', 'yellow onion', 'garlic', 'beef broth', 'chicken broth', 'Worcestershire sauce', 'soy sauce', 'Dijon mustard', 'heavy cream', 'sour cream', 'wide egg noodles', 'butter', 'nutmeg', 'parsley', 'purple cabbage', 'red cabbage', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'optional cucumber dill palate reset', 'optional pretzel roll', 'optional rye bread'],
-      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'jager-style gravy', 'jäger-style gravy', 'mushroom onion gravy', 'brown cream gravy', 'spätzle-style egg noodles', 'spaetzle-style egg noodles', 'egg noodles', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity', '9.5 target']
+      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'jager-style gravy', 'jäger-style gravy', 'mushroom onion gravy', 'brown cream gravy', 'spätzle-style egg noodles', 'spaetzle-style egg noodles', 'egg noodles', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'project plate', 'flavorweaver intensity']
     });
   }
 

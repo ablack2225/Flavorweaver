@@ -138,9 +138,10 @@
 
   const schnitzel = recipes.find((item) => item.path === 'recipes/german/pork-loin-schnitzel-with-rotkohl.html');
   if (schnitzel) {
-    schnitzel.status = 'Recreation Candidate / Don Comfort Plate';
-    schnitzel.ingredients = ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'Dijon mustard', 'bratkartoffeln', 'fresh baking potatoes', 'bacon', 'green onion', 'optional cucumber dill palate reset'];
-    schnitzel.tags = ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'bratkartoffeln', 'fresh potato side', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity'];
+    schnitzel.title = 'Pork Loin Schnitzel with Blackberry Rotkohl, Egg Noodles & Jäger-Style Gravy';
+    schnitzel.status = 'Recreation Candidate / 9.5 Target Plate';
+    schnitzel.ingredients = ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'mushrooms', 'yellow onion', 'garlic', 'beef broth', 'chicken broth', 'Worcestershire sauce', 'soy sauce', 'Dijon mustard', 'heavy cream', 'sour cream', 'wide egg noodles', 'butter', 'nutmeg', 'parsley', 'purple cabbage', 'red cabbage', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'optional cucumber dill palate reset', 'optional pretzel roll', 'optional rye bread'];
+    schnitzel.tags = ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'jager-style gravy', 'jäger-style gravy', 'mushroom onion gravy', 'brown cream gravy', 'spätzle-style egg noodles', 'spaetzle-style egg noodles', 'egg noodles', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity', '9.5 target'];
   }
 
   const bratkartoffeln = recipes.find((item) => item.path === 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html');
@@ -152,14 +153,14 @@
 
   if (!recipes.some((item) => item.path === 'recipes/german/pork-loin-schnitzel-with-rotkohl.html')) {
     recipes.push({
-      title: 'Pork Loin Schnitzel with Rotkohl',
+      title: 'Pork Loin Schnitzel with Blackberry Rotkohl, Egg Noodles & Jäger-Style Gravy',
       path: 'recipes/german/pork-loin-schnitzel-with-rotkohl.html',
       collection: 'House Recipes',
       culture: 'German Inspired',
       category: 'Main Dish',
-      status: 'Recreation Candidate / Don Comfort Plate',
-      ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'Dijon mustard', 'bratkartoffeln', 'fresh baking potatoes', 'bacon', 'green onion', 'optional cucumber dill palate reset'],
-      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'bratkartoffeln', 'fresh potato side', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity']
+      status: 'Recreation Candidate / 9.5 Target Plate',
+      ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'plain breadcrumbs', 'crushed panko', 'neutral oil', 'lemon', 'mushrooms', 'yellow onion', 'garlic', 'beef broth', 'chicken broth', 'Worcestershire sauce', 'soy sauce', 'Dijon mustard', 'heavy cream', 'sour cream', 'wide egg noodles', 'butter', 'nutmeg', 'parsley', 'purple cabbage', 'red cabbage', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'bay leaf', 'cinnamon', 'cloves', 'blackberry jelly', 'optional cucumber dill palate reset', 'optional pretzel roll', 'optional rye bread'],
+      tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'feather-crisp schnitzel', 'jager-style gravy', 'jäger-style gravy', 'mushroom onion gravy', 'brown cream gravy', 'spätzle-style egg noodles', 'spaetzle-style egg noodles', 'egg noodles', 'blackberry rotkohl', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'plate recipe', 'flavorweaver intensity', '9.5 target']
     });
   }
 

@@ -2,15 +2,15 @@
 name: Pork Loin Schnitzel with Blackberry Rotkohl, Egg Noodles & Jäger-Style Gravy
 culture: German Inspired
 category: Main Dish
-status: Flavorweaver Recreation Candidate
+status: Successful Live Test
 difficulty: Moderate / Project Plate
 prep_time: 1h
 cook_time: 1h 30m
 total_time: 2h 30m
 servings: 4
-measurement_status: documented
-rating_note: Needs live test verdict
-repeat_worthy: false
+measurement_status: live-tested
+rating_note: Top-tier plate; fresh lemon across all components and 2-minute schnitzel fry time locked from live test
+repeat_worthy: true
 hall_of_fame_candidate: true
 hall_of_fame: false
 tags:
@@ -27,6 +27,7 @@ tags:
   - rotkohl
   - sweet sour red cabbage
   - project plate
+  - successful live test
 pairs_well_with:
   - Tiny cucumber-dill palate reset
   - Optional small pretzel roll or rye bread table service
@@ -38,13 +39,13 @@ last_updated: 2026-07-04
 
 # Pork Loin Schnitzel with Blackberry Rotkohl, Egg Noodles & Jäger-Style Gravy
 
-> Thin pork-loin schnitzel fried feather-crisp and served with buttered spätzle-style egg noodles, mushroom-onion brown cream gravy, bold blackberry Rotkohl, and lemon. Optional bread may be served at the table for extra gravy.
+> Thin pork-loin schnitzel fried feather-crisp and served with buttered spätzle-style egg noodles, mushroom-onion brown cream gravy, bold blackberry Rotkohl, and generous fresh lemon. Optional bread may be served at the table for extra gravy.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Flavorweaver Recreation Candidate | 2 hr 30 min | 4 | Moderate / Project Plate |
+| Successful Live Test | 2 hr 30 min | 4 | Moderate / Project Plate |
 
 ## Kitchen Execution Summary
 
@@ -55,10 +56,11 @@ last_updated: 2026-07-04
 | Jäger-Style Gravy | Browned mushrooms and onions create the savory sauce for the noodles. |
 | Buttered Egg Noodles | Spätzle-style sauce catcher for the gravy. |
 | Blackberry Rotkohl | Red cabbage braised with separately staged onion and apple, then finished with blackberry, Dijon, and butter. |
+| Fresh Lemon | Brightens the schnitzel, gravy, noodles, and Rotkohl at service. |
 
 ## Flavor Target
 
-The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by enough acid to keep the richness alive. Keep gravy mostly on the noodles and leave the schnitzel crust exposed.
+The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by generous fresh lemon so the richness stays alive. Keep gravy mostly on the noodles and leave the schnitzel crust exposed.
 
 ## Advance Prep
 
@@ -79,14 +81,13 @@ The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by en
 | 1/2 tsp | Garlic powder | Savory base. |
 | 1/2 tsp | Plain paprika | Color and mild warmth. |
 | 1/4 tsp | Onion powder | Savory base. |
-| 1/2 cup | All-purpose flour | First dredge. |
-| 2 large | Eggs | Egg wash. |
+| 3/4 cup | All-purpose flour | First dredge; increased for large cutlets. |
+| 2 large | Eggs | Egg wash; add 1 more egg if cutlets are very wide. |
 | 1 Tbsp | Milk or water | Loosens egg wash. |
 | 3/4 cup | Plain breadcrumbs | Classic coverage. |
 | 3/4 cup | Panko, crushed finer | Light crunch. |
-| As needed | Neutral oil | For shallow frying. |
-| 1 Tbsp | Butter | Optional, near the end of frying. |
-| 1 | Lemon | Wedges for serving. |
+| As needed | Neutral oil or brisket tallow | For frying at 350°F. Brisket tallow was excellent in live testing. |
+| 2 large or 3 small | Lemons | Cut into 12 wedges; serve 3 wedges per plate. |
 
 ### Jäger-Style Mushroom-Onion Brown Cream Gravy
 
@@ -96,9 +97,9 @@ The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by en
 | 1 large | Yellow onion, thin sliced | Cook until golden and sweet. |
 | 2 Tbsp | Butter | For browning and roux. |
 | 1 Tbsp | Neutral oil | Helps prevent burning. |
-| 1 to 2 cloves | Garlic, minced | Optional. |
+| 1 to 2 cloves | Garlic, minced | Optional; 1/4 tsp garlic powder may be used instead. |
 | 2 Tbsp | All-purpose flour | Thickens gravy. |
-| 1 1/2 cups | Beef broth or chicken broth | Gravy liquid. |
+| 1 1/2 cups | Beef broth or chicken broth | Beef broth gives deeper gravy flavor. |
 | 1 tsp | Worcestershire sauce or soy sauce | Optional umami boost. |
 | 1 tsp | Dijon mustard | Structure and depth. |
 | 1/2 tsp | Black pepper | Plus more to taste. |
@@ -159,11 +160,12 @@ The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by en
 |---|---|---|
 | Pork Cutlets | Pork loin cutlets | Pound to 1/8 to 3/16 inch. |
 | Pork Seasoning | Salt, pepper, garlic powder, paprika, onion powder | Season before breading. |
-| Breading Station | Flour; egg wash; breadcrumb-panko mix | Keep coating light. |
+| Breading Station | 3/4 cup flour; 2 eggs with 1 Tbsp liquid; 1 1/2 cups breadcrumb-panko mix | Increase egg or crumbs only if cutlets are extra wide. |
 | Gravy Base | Mushrooms and sliced onion | Brown deeply. |
-| Gravy Build | Butter, oil, garlic, flour, broth | Build the brown gravy. |
+| Gravy Build | Butter, oil, garlic or garlic powder, flour, broth | Build the brown gravy. |
 | Gravy Finish | Dijon, Worcestershire or soy, cream or sour cream, butter | Finish glossy. |
 | Egg Noodles | Wide egg noodles, butter, salt, pepper, optional nutmeg | Cook close to service. |
+| Lemon Service | 12 lemon wedges | Serve 3 wedges per plate for all components. |
 
 ## Do Not Forget
 
@@ -174,6 +176,8 @@ The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by en
 - Let breaded schnitzel rest **10 minutes** before frying.
 - Brown mushrooms and onions deeply for the gravy.
 - Keep gravy on the noodles, not over the whole schnitzel.
+- Fry thin schnitzel fast: **350°F, 60 seconds, flip, 60 seconds more**, then check temperature.
+- Serve **3 lemon wedges per plate** and squeeze fresh lemon over the schnitzel, noodles, gravy, and Rotkohl.
 - Finish Rotkohl only after the cabbage is tender.
 
 ## Full Cooking Timeline and Instructions
@@ -185,13 +189,13 @@ The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by en
 | 3 | **Add cabbage and apple.** Add cabbage, apple, salt, pepper, bay, cinnamon, and clove if using. Stir well. |
 | 4 | **Add liquid.** Add cider vinegar, 2 Tbsp brown sugar, and apple juice/cider/broth/water. Stir. Reserve extra brown sugar for adjustment. |
 | 5 | **Braise.** Cover and cook low to medium-low for **45 to 75 minutes**, stirring occasionally, until tender and glossy. Uncover near the end if too liquidy. |
-| 6 | **Build gravy.** Brown mushrooms, then onion, then garlic. Add flour, cook briefly, then add broth, Worcestershire or soy, Dijon, and black pepper. Simmer until glossy. Finish with cream or tempered sour cream and butter. |
+| 6 | **Build gravy.** Brown mushrooms, then onion, then garlic or garlic powder. Add flour, cook briefly, then add broth, Worcestershire or soy, Dijon, and black pepper. Simmer until glossy. Finish with cream or tempered sour cream and butter. |
 | 7 | **Prepare pork.** Slice pork loin into 4 cutlets. Pound to **1/8 to 3/16 inch** and season both sides. |
 | 8 | **Bread pork.** Dredge in flour, dip in egg wash, coat lightly in breadcrumb-panko mix, and rest on a rack for **10 minutes**. |
 | 9 | **Finish Rotkohl.** Remove bay leaf. Stir in blackberry jelly, Dijon, and butter. Balance with salt, sugar, vinegar, or extra blackberry jelly as needed. |
 | 10 | **Cook noodles.** Boil noodles until just shy of tender. Drain and toss with butter, salt, pepper, optional nutmeg, and herbs if using. |
-| 11 | **Fry schnitzel.** Fry in generous shallow oil around **350°F**, about **2 minutes per side** depending on thickness. Salt while hot. |
-| 12 | **Plate.** Spoon gravy over noodles. Keep schnitzel partly exposed and crisp. Add Rotkohl as a glossy mound, plus lemon wedge. |
+| 11 | **Fry schnitzel.** Fry in 350°F oil or brisket tallow for about **2 minutes total**, flipping at **60 seconds**. Pull around **145 to 150°F internal** and salt while hot. |
+| 12 | **Plate.** Spoon gravy over noodles. Keep schnitzel partly exposed and crisp. Add Rotkohl as a glossy mound and serve with **3 lemon wedges per plate**. Squeeze fresh lemon over all components to finish. |
 
 ## Rotkohl Balance Map
 
@@ -207,6 +211,13 @@ The plate should be crisp, rich, savory, dark-fruited, buttery, and lifted by en
 
 ## Final Taste Target
 
-The final plate should land as crisp, rich, savory, dark-fruited, buttery, and deeply comforting without becoming heavy. The schnitzel should stay crisp. The gravy should live mostly on the noodles. The Rotkohl should cut through the richness.
+The final plate should land as crisp, rich, savory, dark-fruited, buttery, bright, and deeply comforting without becoming heavy. The schnitzel should stay crisp. The gravy should live mostly on the noodles. The Rotkohl should cut through the richness. Fresh lemon over all components is part of the final balance.
+
+## Live-Test Lock Notes
+
+- Brisket tallow at **350°F** worked beautifully for the schnitzel.
+- For thin pounded pork loin cutlets, **2 minutes total fry time** was perfect: 60 seconds, flip, 60 seconds more.
+- Internal temperature landed around **150°F** and the pork was perfectly cooked.
+- Fresh lemon juice over the schnitzel, noodles, gravy, and Rotkohl made the plate top-tier.
 
 <!-- recipe-card:end -->

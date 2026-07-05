@@ -176,4 +176,17 @@
       tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'fresh potatoes', 'russet potatoes', 'baking potatoes', 'bacon onion potatoes', 'schnitzel side', 'rotkohl pairing', 'electric skillet', 'fresh potato upgrade']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/american/lemon-cream-cheese-pound-cake.html')) {
+    recipes.push({
+      title: 'Lemon Cream Cheese Pound Cake',
+      path: 'recipes/american/lemon-cream-cheese-pound-cake.html',
+      collection: 'House Recipes',
+      culture: 'American Inspired',
+      category: 'Dessert',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['all-purpose flour', 'cornstarch', 'lemons', 'lemon zest', 'fresh lemon juice', 'sugar', 'butter', 'cream cheese', 'shortening', 'neutral oil', 'eggs', 'sour cream', 'milk', 'heavy cream', 'vanilla', 'powdered sugar'],
+      tags: ['American-Inspired', 'american-inspired', 'lemon pound cake', 'cream cheese pound cake', 'Bundt cake', 'lemon dessert', 'sour cream cake', 'lemon syrup', 'cream cheese glaze', 'no lemon extract', 'AP flour shortcut', 'cornstarch cake flour shortcut', 'Amy and Don canon test']
+    });
+  }
 })();

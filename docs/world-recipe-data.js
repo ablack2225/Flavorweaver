@@ -10,6 +10,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal', 'asian pickled vegetables']
   },
   {
+    title: '48-Hour Peking-Style Duck with Mandarin Pancakes',
+    path: 'recipes/chinese/peking-style-duck-with-mandarin-pancakes.html',
+    collection: 'House Recipes',
+    culture: 'Chinese Inspired',
+    category: 'Featured Meal',
+    status: 'Flavorweaver Project Recipe',
+    ingredients: ['duck', 'honey', 'soy sauce', 'rice vinegar', 'hoisin', 'Chinese five-spice', 'ginger', 'garlic', 'scallions', 'all-purpose flour', 'cucumber', 'plum jam', 'sesame oil'],
+    tags: ['Chinese-Inspired', 'chinese-inspired', 'Peking duck', 'peking-style duck', 'duck', '48 hour dry', 'crispy skin', 'mandarin pancakes', 'hoisin plum sauce', 'project meal', 'Don request', 'restaurant-quality target']
+  },
+  {
     title: 'Top-Shelf Mongolian Brisket Beef',
     path: 'recipes/chinese/top-shelf-mongolian-brisket-beef.html',
     collection: 'House Recipes',
@@ -130,7 +140,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Indian-Inspired', 'indian-inspired', 'onion bhaji', 'onion fritters', 'emergency pantry version', 'ap flour', 'cornstarch', 'green chutney', 'cilantro chutney', 'fried appetizer']
   },
   {
-    title: "Don's Food-Truck Memory Falafel Naan Wraps",
+    title: 'Don\'s Food-Truck Memory Falafel Naan Wraps',
     path: 'recipes/middle-eastern/dons-food-truck-memory-falafel-naan-wraps.html',
     collection: 'House Recipes',
     culture: 'Middle Eastern Inspired',

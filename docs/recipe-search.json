@@ -10,6 +10,16 @@
     "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "ginger", "garlic", "pickled cucumbers", "sauce-driven", "weeknight favorite", "multi-component", "top 10 meal", "html page"]
   },
   {
+    "title": "48-Hour Peking-Style Duck with Mandarin Pancakes",
+    "path": "recipes/chinese/peking-style-duck-with-mandarin-pancakes.html",
+    "sourcePath": "recipes/chinese/main-dishes/peking-style-duck-with-mandarin-pancakes.md",
+    "cuisine": "Chinese Inspired",
+    "category": "Featured Meal",
+    "status": "Flavorweaver Project Recipe",
+    "ingredients": ["duck", "honey", "soy sauce", "rice vinegar", "hoisin", "Chinese five-spice", "ginger", "garlic", "scallions", "all-purpose flour", "cucumber", "plum jam", "sesame oil"],
+    "tags": ["Chinese-Inspired", "chinese-inspired", "Peking duck", "peking-style duck", "duck", "48 hour dry", "crispy skin", "mandarin pancakes", "hoisin plum sauce", "project meal", "Don request", "restaurant-quality target", "html page"]
+  },
+  {
     "title": "Gochujang Crema",
     "path": "recipes/condiments/gochujang-crema.html",
     "sourcePath": "condiments/gochujang-crema.md",

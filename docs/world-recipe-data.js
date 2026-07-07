@@ -30,6 +30,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['North-African-Inspired', 'north-african-inspired', 'harissa chicken', 'guajillo harissa', 'golden couscous', 'crispy chickpeas', 'hot honey glaze', 'chicken thighs', 'complete plate']
   },
   {
+    title: 'Whole-Tamarind Shrimp Pad Thai',
+    path: 'recipes/thai/whole-tamarind-shrimp-pad-thai.html',
+    collection: 'House Recipes',
+    culture: 'Thai Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['shrimp', 'rice stick noodles', 'whole tamarind', 'fish sauce', 'brown sugar', 'shallots', 'garlic', 'eggs', 'bean sprouts', 'green onion', 'cilantro', 'unsalted peanuts', 'lime', 'red pepper flakes', 'neutral oil'],
+    tags: ['Thai-Inspired', 'thai-inspired', 'pad thai', 'shrimp pad thai', 'whole tamarind', 'shrimp-shell concentrate', 'double shallot', 'rice stick noodles', 'bean sprouts', 'warmed peanuts']
+  },
+  {
     title: '48-Hour Peking-Style Duck with Mandarin Pancakes',
     path: 'recipes/chinese/peking-style-duck-with-mandarin-pancakes.html',
     collection: 'House Recipes',

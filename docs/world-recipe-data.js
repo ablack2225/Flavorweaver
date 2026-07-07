@@ -40,6 +40,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Thai-Inspired', 'thai-inspired', 'pad thai', 'shrimp pad thai', 'whole tamarind', 'shrimp-shell concentrate', 'double shallot', 'rice stick noodles', 'bean sprouts', 'warmed peanuts']
   },
   {
+    title: 'Banh Xeo Crispy Crepe Plate',
+    path: 'recipes/vietnamese/banh-xeo-crispy-crepe-plate.html',
+    collection: 'House Recipes',
+    culture: 'Vietnamese Inspired',
+    category: 'Featured Meal',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['rice flour', 'cornstarch', 'turmeric', 'coconut milk', 'sparkling water', 'shrimp', 'pork', 'bean sprouts', 'scallions', 'lettuce', 'herbs', 'cucumber', 'fish sauce', 'lime', 'rice vinegar', 'garlic', 'peanut butter'],
+    tags: ['Vietnamese-Inspired', 'vietnamese-inspired', 'banh xeo', 'bánh xèo', 'crispy crepe', 'shrimp', 'pork', 'bean sprouts', 'nuoc cham', 'nước chấm', 'lettuce wraps']
+  },
+  {
     title: 'Moroccan-Inspired Chicken Tagine',
     path: 'recipes/moroccan/moroccan-inspired-chicken-tagine.html',
     collection: 'House Recipes',

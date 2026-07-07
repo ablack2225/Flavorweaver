@@ -8,6 +8,43 @@
 
 ---
 
+# 🌟 Flavorweaver Standard
+
+Flavorweaver world-cuisine recipes are developed to the highest possible standard.
+
+The default target is **not** “good home cooking,” “restaurant-style,” “high-quality home version,” or “good enough.”
+
+The default target is:
+
+- **Best possible version** within Amy and Don’s actual pantry, budget, equipment, and timing constraints
+- **Michelin-minded / top-tier chef-level** flavor, technique, texture, structure, and service
+- **9.5+ minimum target** before canon lock
+- Bold Amy-and-Don-calibrated flavor intensity
+- Traditional, regional, chef, cookbook, restaurant, and top-tier versions researched before building
+- Ingredient choices, substitutions, and technique decisions justified
+- Recipe architecture discussed with Amy before MD/HTML creation
+- Public recipe pages created only after the high-ceiling version is locked
+
+If a recipe has not gone through this development pass, it remains a draft/test recipe and should not be treated as canon.
+
+## Required Recipe Development Workflow
+
+Before creating or substantially updating MD/HTML for a new world-cuisine recipe:
+
+1. Research traditional, regional, and top-tier chef versions first.
+2. Identify what makes the elite version work: flavor architecture, texture, ingredient quality, cooking method, plating, and service.
+3. Compare the elite version against Amy and Don’s pantry, budget, equipment, time, and taste constraints.
+4. Discuss the proposed architecture with Amy before building.
+5. Confirm the 9.5+ target version.
+6. Only then create or update the Markdown source and public HTML.
+7. Mark as test recipe until live-cooked, rated, and refined.
+
+Canon shorthand:
+
+> **Best possible first. Build second.**
+
+---
+
 # 🌟 What is Flavorweaver?
 
 Flavorweaver is more than a recipe collection.
@@ -869,28 +906,32 @@ When adding world-culture recipes:
 
 1. Determine the culture/path and category.
 2. Decide whether this is a standalone/component recipe or a complete meal master card.
-3. For standalone/component recipes, begin from `docs/templates/world-culture-recipe-source-template.md`.
-4. For complete bowls, plates, platters, project meals, and featured meals, begin from `docs/templates/featured-meal-master-template.md`.
-5. Use `docs/templates/world-culture-recipe-canon-template.html` for the public HTML page.
-6. Use `docs/recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html` as the canonical live public layout reference.
-7. If developing or revising a cultural/world-cuisine recipe, research stronger chef, cookbook, restaurant, reputable publication, top-tier, and common/traditional patterns before canon-locking an Amy & Don adaptation.
-8. Preserve 9.5/10-level tested components unless there is a clear reason to change them; improve weaker components, contrast, workflow, or plating instead.
-9. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
-10. For complete meals and featured meals, read every component recipe as if cooking the whole meal and build one sequenced kitchen execution system.
-11. Build a full ingredient roll-up for shared prep items across all components.
-12. Create stage-based prep bowls that preserve cooking order.
-13. Separate advance prep from day-of prep, and only recommend advance prep that preserves or improves quality.
-14. Write a full cooking timeline showing what starts first, what waits, what holds, what cooks last, and when plating/assembly begins.
-15. Use paragraph-style instruction steps with ingredient amounts repeated when it prevents scrolling or confusion.
-16. Break out substantial reusable required components into their own source and public pages when useful.
-17. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire bowl, plate, or platter.
-18. Use Required Components to explain component roles.
-19. Integrate preparation order directly into Instructions for complex complete meals.
-20. Update active and legacy search/index files.
-21. Add new search tags for new cultures, dishes, components, and major concepts.
-22. Update category/path pages and cache query strings as needed.
-23. Verify links and discovery paths.
-24. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
+3. Research traditional, regional, and top-tier chef versions before building.
+4. Identify the elite version's flavor architecture, texture controls, ingredient quality, technique, plating, and service.
+5. Compare the elite version against Amy and Don's pantry, budget, equipment, timing, and taste constraints.
+6. Discuss the proposed 9.5+ architecture with Amy before MD/HTML creation.
+7. For standalone/component recipes, begin from `docs/templates/world-culture-recipe-source-template.md`.
+8. For complete bowls, plates, platters, project meals, and featured meals, begin from `docs/templates/featured-meal-master-template.md`.
+9. Use `docs/templates/world-culture-recipe-canon-template.html` for the public HTML page.
+10. Use `docs/recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html` as the canonical live public layout reference.
+11. Preserve 9.5/10-level tested components unless there is a clear reason to change them; improve weaker components, contrast, workflow, or plating instead.
+12. If converting from recipe images, printouts, cards, or screenshots, review the entire source before writing and preserve all cook-critical details.
+13. For complete meals and featured meals, read every component recipe as if cooking the whole meal and build one sequenced kitchen execution system.
+14. Build a full ingredient roll-up for shared prep items across all components.
+15. Create stage-based prep bowls that preserve cooking order.
+16. Separate advance prep from day-of prep, and only recommend advance prep that preserves or improves quality.
+17. Write a full cooking timeline showing what starts first, what waits, what holds, what cooks last, and when plating/assembly begins.
+18. Use paragraph-style instruction steps with ingredient amounts repeated when it prevents scrolling or confusion.
+19. Break out substantial reusable required components into their own source and public pages when useful.
+20. Ensure the main complete-meal recipe still shows full ingredient visibility for the entire bowl, plate, or platter.
+21. Use Required Components to explain component roles.
+22. Integrate preparation order directly into Instructions for complex complete meals.
+23. Update active and legacy search/index files.
+24. Add new search tags for new cultures, dishes, components, and major concepts.
+25. Update category/path pages and cache query strings as needed.
+26. Verify links and discovery paths.
+27. Verify the final Markdown and public HTML against the source material before calling the recipe complete.
+28. Mark new world-cuisine recipes as test recipes until live-cooked, rated, and refined.
 
 ---
 
@@ -917,6 +958,8 @@ When adding world-culture recipes:
 19. Stage bowls must preserve cooking order.
 20. Instructions should carry enough measurements and cues to cook without constant scrolling.
 21. Public HTML should stay cook-facing unless Amy explicitly asks for internal notes to appear publicly.
+22. Best possible first. Build second.
+23. Flavorweaver is not a home-version standard; it is a best-possible, 9.5+, Michelin-minded development standard adapted to the Amy & Don Kitchen.
 
 ---
 

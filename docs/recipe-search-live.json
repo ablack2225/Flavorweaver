@@ -40,6 +40,16 @@
     "tags": ["thai-inspired", "pad thai", "shrimp pad thai", "whole tamarind", "shrimp-shell concentrate", "double shallot", "rice stick noodles", "bean sprouts", "warmed peanuts", "html page"]
   },
   {
+    "title": "Banh Xeo Crispy Crepe Plate",
+    "path": "recipes/vietnamese/banh-xeo-crispy-crepe-plate.html",
+    "sourcePath": "recipes/vietnamese/featured-meals/banh-xeo-crispy-crepe-plate.md",
+    "cuisine": "Vietnamese Inspired",
+    "category": "Featured Meal",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": ["rice flour", "cornstarch", "turmeric", "coconut milk", "sparkling water", "shrimp", "pork", "bean sprouts", "scallions", "lettuce", "herbs", "cucumber", "fish sauce", "lime", "rice vinegar", "garlic"],
+    "tags": ["vietnamese-inspired", "banh xeo", "bánh xèo", "crispy crepe", "shrimp", "pork", "bean sprouts", "nuoc cham", "lettuce wraps", "html page"]
+  },
+  {
     "title": "Moroccan-Inspired Chicken Tagine",
     "path": "recipes/moroccan/moroccan-inspired-chicken-tagine.html",
     "sourcePath": "recipes/moroccan/main-dishes/moroccan-inspired-chicken-tagine.md",

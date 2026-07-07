@@ -10,6 +10,16 @@
     "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "sauce-driven", "html page"]
   },
   {
+    "title": "Lebanese-Inspired Brisket Beef Bowls",
+    "path": "recipes/lebanese/lebanese-inspired-brisket-beef-bowls.html",
+    "sourcePath": "recipes/lebanese/main-dishes/lebanese-inspired-brisket-beef-bowls.md",
+    "cuisine": "Lebanese Inspired",
+    "category": "Main Dish",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": ["ground brisket", "basmati rice", "vermicelli", "lemon", "parsley", "tahini", "Greek yogurt", "sour cream", "garlic", "cucumber", "tomato", "pickle brine", "pita", "allspice", "cumin", "coriander", "paprika", "sumac"],
+    "tags": ["lebanese-inspired", "beef bowl", "ground brisket", "vermicelli rice", "lemon herb rice", "garlic lemon sauce", "tahini yogurt sauce", "cucumber tomato salad", "scratch pita chips", "complete bowl", "html page"]
+  },
+  {
     "title": "Gochujang Crema",
     "path": "recipes/condiments/gochujang-crema.html",
     "sourcePath": "condiments/gochujang-crema.md",

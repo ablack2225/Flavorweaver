@@ -70,7 +70,7 @@ last_updated: 2026-07-06
 | Lebanese-Spiced Brisket Patties | Juicy 75/25 ground brisket shaped into small patties for better browning and a more intentional bowl. |
 | Garlic-Lemon Tahini Yogurt Sauce | Creamy, sharp, garlicky binder that should taste slightly bold by itself. |
 | Cucumber-Tomato Parsley Salad | Fresh crunch and tomato-cucumber brightness. |
-| Pickle-Brine Onion-Cucumber Topping | Amy's pickle-brine red onion and cucumber transformed into a deliberate acidic topping. |
+| Pickle-Brine Onion-Cucumber Topping | Pickle-brine red onion and cucumber transformed into a deliberate acidic topping. |
 | Scratch Lemon-Garlic Pita Chips | Homemade dry crunch; preferred over nuts for this bowl. |
 
 ## Before Cooking Day / Advance Prep
@@ -78,7 +78,7 @@ last_updated: 2026-07-06
 - If possible, shape the brisket patties and chill them **20 to 30 minutes** before cooking.
 - The scratch pita dough can rest while the salad, sauce, and rice prep are staged.
 - Sumac is ideal for the final tangy finish. If sumac is unavailable, use a **very light dusting of Tajín** only on the pickled onion-cucumber topping.
-- Amy's electric skillet runs hot. Start the brisket patties at **300°F** and use **325°F only if browning is too slow**.
+- For an electric skillet that runs hot, start the brisket patties at **300°F** and use **325°F only if browning is too slow**.
 
 ## Service Countdown
 
@@ -251,7 +251,7 @@ last_updated: 2026-07-06
 - Do not add lemon juice to the rice before cooking. Add **1 to 2 tsp lemon juice** and **1/2 tsp lemon zest** after the rice is cooked.
 - Squeeze the grated onion very dry before adding **1/4 cup squeezed grated onion** to the beef.
 - Chill shaped patties **20 to 30 minutes** before cooking if time allows.
-- Cook 75/25 brisket patties at **300°F** in Amy's electric skillet. Use **325°F only if browning is too slow**.
+- For hot-running electric skillets, cook 75/25 brisket patties at **300°F**. Use **325°F only if browning is too slow**.
 - Rest/drain cooked patties briefly so the bowl tastes juicy, not greasy.
 - Use sumac if available. If not, use only **1/16 tsp Tajín** on the pickled onion-cucumber topping, not in the beef, rice, sauce, or salad.
 - Scratch pita chips are the preferred crunch element for this bowl.
@@ -268,7 +268,7 @@ last_updated: 2026-07-06
 | 6 | **Cook the toasted vermicelli rice.** Rinse **3/4 cup basmati rice**. In the rice pot or skillet, melt **1 Tbsp butter** with **1 tsp olive oil**. Toast **1/4 cup broken vermicelli** until golden. Add the rinsed **3/4 cup basmati rice** and stir **1 minute**. Add **1 1/2 cups chicken broth or water plus bouillon** and **1/4 tsp kosher salt**. Cook until tender. After cooking, fluff and fold in **1/2 tsp lemon zest**, **1 to 2 tsp lemon juice**, **2 Tbsp chopped parsley**, and optional **1 Tbsp chopped mint**. |
 | 7 | **Cook scratch pita.** Divide rested dough into **3 to 4 balls** and roll about **1/8 inch thick**. Cook on a dry skillet or electric skillet at **275°F**, increasing to **300°F only if needed**, about **1 to 2 minutes per side**, until cooked through and lightly spotted. |
 | 8 | **Turn pita into chips.** Heat oven to **350°F**. Cut or tear cooked pita into chips. Toss with **1 Tbsp olive oil**, **1/4 tsp garlic powder**, **1/4 tsp paprika**, optional **tiny pinch cumin**, and a **pinch kosher salt**. Bake **8 to 12 minutes**, stirring once, until crisp. Finish warm chips with a tiny pinch of lemon zest if using. |
-| 9 | **Sear the brisket patties.** Heat Amy's electric skillet to **300°F**. Add only a thin film of neutral oil if needed. Cook patties **3 to 4 minutes per side**, or until browned and cooked through. If browning is too slow, raise to **325°F**. Transfer to a rack or paper towel and rest **3 to 5 minutes**. |
+| 9 | **Sear the brisket patties.** Heat an electric skillet to **300°F**. Add only a thin film of neutral oil if needed. Cook patties **3 to 4 minutes per side**, or until browned and cooked through. If browning is too slow, raise to **325°F**. Transfer to a rack or paper towel and rest **3 to 5 minutes**. |
 | 10 | **Build the bowls.** Divide the toasted vermicelli lemon-herb rice between **2 bowls**. Add **4 brisket patties per bowl**. Spoon or drizzle garlic-lemon tahini yogurt sauce over the beef and rice. Add cucumber-tomato parsley salad, then a small bright pile of pickled onion-cucumber topping. Finish with scratch pita chips, extra parsley, lemon wedge, and a final tiny olive oil drizzle if desired. |
 
 ## Building the Final Bowl
@@ -314,7 +314,7 @@ This bowl is built around six required contrasts: buttery rice, juicy beef, crea
 <details>
 <summary>Flavorweaver Direction</summary>
 
-Target level is 9.5/10+ Amy-and-Don canon potential after live testing. This first version should remain a **Flavorweaver Test Recipe** until cooked, rated, and adjusted. Sumac is the preferred finish, but a tiny Tajín fallback is documented for the Wednesday no-sumac version.
+Target level is 9.5/10+ house canon potential after live testing. This first version should remain a **Flavorweaver Test Recipe** until cooked, rated, and adjusted. Sumac is the preferred finish, but a tiny Tajín fallback is documented for the no-sumac version.
 
 </details>
 
@@ -328,7 +328,7 @@ Live test pending. Watch for three things: whether the brisket patties need more
 <details>
 <summary>Kitchen Notes</summary>
 
-Amy's electric skillet runs hot. Ground brisket patties should start at **300°F** and only move to **325°F** if browning is too slow. Avoid **350°F+** for this recipe unless a future live test proves it necessary.
+For hot-running electric skillets, ground brisket patties should start at **300°F** and only move to **325°F** if browning is too slow. Avoid **350°F+** for this recipe unless a future live test proves it necessary.
 
 </details>
 
@@ -336,5 +336,6 @@ Amy's electric skillet runs hot. Ground brisket patties should start at **300°F
 <summary>Change Log</summary>
 
 - 2026-07-06: Initial Flavorweaver Test Recipe created with toasted vermicelli lemon-herb basmati rice, 75/25 ground brisket patties, garlic-lemon tahini yogurt sauce, pickle-brine onion-cucumber topping, and scratch pita chips.
+- 2026-07-06: Cleaned public-facing kitchen-specific wording for the source recipe.
 
 </details>

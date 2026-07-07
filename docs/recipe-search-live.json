@@ -30,6 +30,16 @@
     "tags": ["north-african-inspired", "harissa chicken", "guajillo harissa", "golden couscous", "crispy chickpeas", "hot honey glaze", "chicken thighs", "street-food inspired", "complete plate", "html page"]
   },
   {
+    "title": "Whole-Tamarind Shrimp Pad Thai",
+    "path": "recipes/thai/whole-tamarind-shrimp-pad-thai.html",
+    "sourcePath": "recipes/thai/main-dishes/whole-tamarind-shrimp-pad-thai.md",
+    "cuisine": "Thai Inspired",
+    "category": "Main Dish",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": ["shrimp", "rice stick noodles", "whole tamarind", "fish sauce", "brown sugar", "shallots", "garlic", "eggs", "bean sprouts", "green onion", "cilantro", "unsalted peanuts", "lime", "red pepper flakes"],
+    "tags": ["thai-inspired", "pad thai", "shrimp pad thai", "whole tamarind", "shrimp-shell concentrate", "double shallot", "rice stick noodles", "bean sprouts", "warmed peanuts", "html page"]
+  },
+  {
     "title": "Gochujang Crema",
     "path": "recipes/condiments/gochujang-crema.html",
     "sourcePath": "condiments/gochujang-crema.md",

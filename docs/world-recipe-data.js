@@ -50,6 +50,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Moroccan-Inspired', 'moroccan-inspired', 'chicken tagine', 'preserved lemon', 'jammy onion', 'green olives', 'dried apricots', 'golden couscous', 'toasted cashews']
   },
   {
+    title: 'Turkish-Inspired Spiced Lamb Pide',
+    path: 'recipes/turkish/turkish-inspired-spiced-lamb-pide.html',
+    collection: 'House Recipes',
+    culture: 'Turkish Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['ground lamb', 'bread flour', 'all-purpose flour', 'yogurt', 'active dry yeast', 'mozzarella', 'feta', 'garlic', 'tomato paste', 'paprika', 'cumin', 'allspice', 'red pepper flakes', 'sumac', 'onion', 'parsley', 'butter', 'lemon', 'olive oil'],
+    tags: ['Turkish-Inspired', 'turkish-inspired', 'pide', 'lamb pide', 'homemade dough', 'yogurt dough', 'mozzarella', 'feta', 'sumac onion salad', 'garlic yogurt']
+  },
+  {
     title: '48-Hour Peking-Style Duck with Mandarin Pancakes',
     path: 'recipes/chinese/peking-style-duck-with-mandarin-pancakes.html',
     collection: 'House Recipes',

@@ -10,6 +10,16 @@
     "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "ginger", "garlic", "pickled cucumbers", "sauce-driven", "weeknight favorite", "multi-component", "top 10 meal", "html page"]
   },
   {
+    "title": "Lebanese-Inspired Brisket Beef Bowls",
+    "path": "recipes/lebanese/lebanese-inspired-brisket-beef-bowls.html",
+    "sourcePath": "recipes/lebanese/main-dishes/lebanese-inspired-brisket-beef-bowls.md",
+    "cuisine": "Lebanese Inspired",
+    "category": "Main Dish",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": ["ground brisket", "basmati rice", "vermicelli", "lemon", "parsley", "mint", "tahini", "Greek yogurt", "sour cream", "garlic", "cucumber", "tomato", "pickle brine", "pita", "allspice", "cumin", "coriander", "paprika", "sumac"],
+    "tags": ["Lebanese-Inspired", "lebanese-inspired", "beef bowl", "ground brisket", "vermicelli rice", "lemon herb rice", "garlic lemon sauce", "tahini yogurt sauce", "cucumber tomato salad", "scratch pita chips", "complete bowl", "Flavorweaver Test Recipe", "html page"]
+  },
+  {
     "title": "48-Hour Peking-Style Duck with Mandarin Pancakes",
     "path": "recipes/chinese/peking-style-duck-with-mandarin-pancakes.html",
     "sourcePath": "recipes/chinese/main-dishes/peking-style-duck-with-mandarin-pancakes.md",

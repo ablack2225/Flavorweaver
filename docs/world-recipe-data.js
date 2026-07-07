@@ -40,6 +40,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Thai-Inspired', 'thai-inspired', 'pad thai', 'shrimp pad thai', 'whole tamarind', 'shrimp-shell concentrate', 'double shallot', 'rice stick noodles', 'bean sprouts', 'warmed peanuts']
   },
   {
+    title: 'Moroccan-Inspired Chicken Tagine',
+    path: 'recipes/moroccan/moroccan-inspired-chicken-tagine.html',
+    collection: 'House Recipes',
+    culture: 'Moroccan Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['chicken thighs', 'preserved lemon', 'green olives', 'dried apricots', 'couscous', 'cashews', 'onion', 'garlic', 'fresh ginger', 'tomato paste', 'chicken broth', 'cumin', 'coriander', 'paprika', 'turmeric', 'cinnamon', 'parsley', 'cilantro', 'orange marmalade', 'honey'],
+    tags: ['Moroccan-Inspired', 'moroccan-inspired', 'chicken tagine', 'preserved lemon', 'jammy onion', 'green olives', 'dried apricots', 'golden couscous', 'toasted cashews']
+  },
+  {
     title: '48-Hour Peking-Style Duck with Mandarin Pancakes',
     path: 'recipes/chinese/peking-style-duck-with-mandarin-pancakes.html',
     collection: 'House Recipes',

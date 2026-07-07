@@ -50,6 +50,16 @@
     "tags": ["moroccan-inspired", "chicken tagine", "preserved lemon", "jammy onion", "green olives", "dried apricots", "golden couscous", "toasted cashews", "html page"]
   },
   {
+    "title": "Turkish-Inspired Spiced Lamb Pide",
+    "path": "recipes/turkish/turkish-inspired-spiced-lamb-pide.html",
+    "sourcePath": "recipes/turkish/main-dishes/turkish-inspired-spiced-lamb-pide.md",
+    "cuisine": "Turkish Inspired",
+    "category": "Main Dish",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": ["ground lamb", "bread flour", "all-purpose flour", "yogurt", "active dry yeast", "mozzarella", "feta", "garlic", "tomato paste", "paprika", "cumin", "allspice", "red pepper flakes", "sumac", "onion", "parsley", "butter", "lemon"],
+    "tags": ["turkish-inspired", "pide", "lamb pide", "homemade dough", "yogurt dough", "mozzarella", "feta", "sumac onion salad", "garlic yogurt", "html page"]
+  },
+  {
     "title": "Gochujang Crema",
     "path": "recipes/condiments/gochujang-crema.html",
     "sourcePath": "condiments/gochujang-crema.md",

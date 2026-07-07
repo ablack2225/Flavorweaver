@@ -74,13 +74,13 @@ last_updated: 2026-07-06
 
 | Time | Task |
 |---:|---|
-| 1 hr 50 min before serving | Rub chicken and rest while prepping. |
-| 1 hr 30 min before serving | Slice onions, chop garlic/ginger, prep apricots, preserved lemon, olives, herbs, and cashews. |
+| 1 hr 50 min before serving | Rub **4 chicken thighs** with measured spices and rest while prepping. |
+| 1 hr 30 min before serving | Slice **1 very large or 2 medium onions**, mince **4 garlic cloves**, grate **1 Tbsp fresh ginger**, prep apricots, preserved lemon, olives, herbs, and cashews. |
 | 1 hr 10 min before serving | Brown chicken and remove. |
 | 1 hr before serving | Cook onions to jammy stage. |
 | 45 min before serving | Build sauce, return chicken, and braise. |
-| 20 min before serving | Add olives and finish reducing sauce. |
-| 15 min before serving | Make golden couscous and toast cumin cashews. |
+| 20 min before serving | Add **1/3 cup halved green olives** and finish reducing sauce. |
+| 15 min before serving | Make couscous with **1 cup couscous + 1 cup broth** and toast **1/3 cup cashews**. |
 | At service | Correct sauce, plate over couscous, finish with herbs, cashews, and reserved preserved lemon. |
 
 ## Measured Ingredients by Component
@@ -156,27 +156,30 @@ last_updated: 2026-07-06
 
 | Ingredient | Where It Goes | Prep Once |
 |---|---|---|
-| Onion | Tagine sauce | Thinly slice for jammy base. |
-| Garlic | Sauce base | Mince before cooking. |
-| Ginger | Sauce base | Grate fresh. |
-| Preserved lemon | Sauce and garnish | Scrape pulp, mince rind, reserve a little for finishing. |
-| Apricots | Sauce | Slice and soften in hot broth. |
-| Olives | Sauce | Halve and add late. |
-| Cashews | Couscous and topping | Toast with salt and cumin; reserve for finish. |
-| Herbs | Couscous and finish | Chop parsley/cilantro near service. |
+| 1 very large or 2 medium onions | Tagine sauce | Thinly slice for jammy base. |
+| 4 garlic cloves | Sauce base | Mince before cooking. |
+| 1 Tbsp fresh ginger | Sauce base | Grate fresh. |
+| 1 preserved lemon quarter | Sauce and garnish | Scrape pulp, mince rind, reserve a little for finishing. |
+| 1/2 cup dried apricots | Sauce | Slice and soften in **1/2 cup hot broth**. |
+| 1/3 cup green olives | Sauce | Halve and add late. |
+| 1/3 cup cashews | Couscous and topping | Toast with salt and cumin; reserve for finish. |
+| 2 Tbsp parsley + 1 Tbsp cilantro | Couscous and finish | Chop near service. |
 
 ## Stage-Based Prep Bowls
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Chicken Rub | Chicken, salt, pepper, cumin, coriander, paprika, turmeric, cinnamon, oil | Rest 20–30 minutes if time allows. |
-| Bowl 2 — Jammy Onion | Thin-sliced onion | Keep separate; this gets the longest cook. |
-| Bowl 3 — Aromatics | Garlic and fresh ginger | Add after onions soften. |
-| Bowl 4 — Spice Bloom | Cumin, coriander, paprika, turmeric, cinnamon, cayenne/red pepper | Add after garlic/ginger. |
-| Bowl 5 — Apricots | Sliced apricots plus 1/2 cup hot broth | Soften 10 minutes. |
-| Bowl 6 — Preserved Lemon + Olives | Minced preserved lemon rind, halved olives | Preserved lemon goes earlier; olives go late. |
-| Bowl 7 — Couscous | Couscous, butter/oil, turmeric, cumin, herbs | Pour-over method. |
-| Bowl 8 — Finish | Toasted cumin cashews, herbs, optional brine, honey/marmalade, butter | Final correction and plating. |
+| Bowl 1 — Chicken Rub | **4 chicken thighs**, **1 tsp kosher salt**, **1/2 tsp black pepper**, **1 tsp cumin**, **1 tsp coriander**, **1/2 tsp paprika**, **1/4 tsp turmeric**, **tiny pinch cinnamon**, **1 tsp olive oil** | Rest 20–30 minutes if time allows. |
+| Bowl 2 — Jammy Onion | **1 very large or 2 medium yellow onions, thinly sliced**, plus **tiny pinch salt** for the skillet | Keep separate; this gets the longest cook. |
+| Bowl 3 — Aromatics | **4 garlic cloves, minced** + **1 Tbsp fresh ginger, grated** | Add after onions soften. |
+| Bowl 4 — Spice Bloom | **1/2 tsp cumin**, **1/2 tsp coriander**, **1/2 tsp paprika**, **1/4 tsp turmeric**, **1/8 tsp cinnamon**, **pinch to 1/4 tsp cayenne or red pepper flakes** | Add after garlic/ginger. |
+| Bowl 5 — Tomato Paste | **1 Tbsp tomato paste** | Cook 60–90 seconds after spices. |
+| Bowl 6 — Apricots + Broth | **1/2 cup dried apricots, sliced** + **1/2 cup hot chicken broth** | Soften 10 minutes; add both fruit and soaking broth. |
+| Bowl 7 — Sauce Finish | Remaining **1/2 cup chicken broth**, **1 preserved lemon quarter rind, minced**, reserve a small pinch rind for garnish | Add when building sauce. |
+| Bowl 8 — Late Olives | **1/3 cup green olives, halved** | Add during final 10–15 minutes. |
+| Bowl 9 — Couscous | **1 cup couscous**, **1 cup chicken broth**, **1 Tbsp butter or olive oil**, **1/4 tsp turmeric**, **tiny pinch cumin**, **2 Tbsp parsley**, **1 Tbsp cilantro** | Pour-over method. |
+| Bowl 10 — Cashew Finish | **1/3 cup cashews, roughly chopped**, **tiny pinch salt**, **tiny pinch cumin** | Toast 2–4 minutes; use on plate. |
+| Bowl 11 — Final Correction | Optional **1–2 tsp preserved lemon brine or olive brine**, optional **1 tsp honey or orange marmalade**, optional **1 tsp butter**, fresh lemon juice to taste | Use only after tasting sauce. |
 
 ## Do Not Forget
 
@@ -190,21 +193,21 @@ last_updated: 2026-07-06
 
 ## Full Cooking Timeline and Instructions
 
-1. **Rub the chicken.** Combine salt, pepper, cumin, coriander, paprika, turmeric, cinnamon, and olive oil. Rub over the chicken thighs. Rest **20–30 minutes** if possible.
-2. **Soften apricots.** Warm **1/2 cup chicken broth** and pour it over the sliced dried apricots. Let sit **10 minutes**. Save both apricots and soaking broth.
-3. **Prep preserved lemon.** Scrape pulp from **1 preserved lemon quarter**. Finely mince the rind. Reserve a small pinch of rind for garnish.
-4. **Brown chicken.** Heat a large electric skillet around **300°F** with a thin layer of oil. Brown chicken on both sides until golden but not cooked through. Remove to a plate.
-5. **Build jammy onion.** Add sliced onion to the chicken fond with a pinch of salt. Cook **10–12 minutes**, lowering toward **275°F** if needed, until onions are collapsed, glossy, lightly golden, and sweet-smelling.
-6. **Add aromatics.** Stir in garlic and fresh ginger. Cook **45–60 seconds** until fragrant.
-7. **Bloom spices and tomato paste.** Add the sauce spice bloom and cook **30 seconds**. Add tomato paste and cook **60–90 seconds** until darker and fragrant.
-8. **Build sauce.** Add softened apricots with their soaking broth plus the remaining **1/2 cup broth**. Scrape the skillet well. Stir in minced preserved lemon rind.
-9. **Braise chicken.** Return chicken and any juices to the skillet. Cover and simmer gently until chicken is cooked through and tender, about **25–35 minutes** depending on thigh size and whether bone-in or boneless.
-10. **Add olives late.** Add halved green olives during the final **10–15 minutes** of cooking.
+1. **Rub the chicken.** In Bowl 1, combine **1 tsp kosher salt**, **1/2 tsp black pepper**, **1 tsp cumin**, **1 tsp coriander**, **1/2 tsp paprika**, **1/4 tsp turmeric**, **tiny pinch cinnamon**, and **1 tsp olive oil**. Rub over **4 chicken thighs**. Rest **20–30 minutes** if possible.
+2. **Soften apricots.** Warm **1/2 cup chicken broth** and pour it over **1/2 cup sliced dried apricots**. Let sit **10 minutes**. Save both apricots and soaking broth.
+3. **Prep preserved lemon.** Scrape pulp from **1 preserved lemon quarter**. Finely mince the rind. Reserve a small pinch of rind for garnish and keep the rest for the sauce.
+4. **Brown chicken.** Heat a large electric skillet around **300°F** with a thin layer of neutral oil or olive oil. Brown the **4 rubbed chicken thighs** on both sides until golden but not cooked through. Remove to a plate.
+5. **Build jammy onion.** Add **1 very large or 2 medium thin-sliced onions** to the chicken fond with a **tiny pinch salt**. Cook **10–12 minutes**, lowering toward **275°F** if needed, until onions are collapsed, glossy, lightly golden, and sweet-smelling.
+6. **Add aromatics.** Stir in **4 minced garlic cloves** and **1 Tbsp fresh grated ginger**. Cook **45–60 seconds** until fragrant.
+7. **Bloom spices and tomato paste.** Add **1/2 tsp cumin**, **1/2 tsp coriander**, **1/2 tsp paprika**, **1/4 tsp turmeric**, **1/8 tsp cinnamon**, and **pinch to 1/4 tsp cayenne or red pepper flakes**. Cook **30 seconds**. Add **1 Tbsp tomato paste** and cook **60–90 seconds** until darker and fragrant.
+8. **Build sauce.** Add the softened **1/2 cup apricots** with their **1/2 cup soaking broth**, plus the remaining **1/2 cup chicken broth**. Scrape the skillet well. Stir in the minced rind from **1 preserved lemon quarter**, holding back the reserved garnish pinch.
+9. **Braise chicken.** Return the browned chicken and any juices to the skillet. Cover and simmer gently until chicken is cooked through and tender, about **25–35 minutes** depending on thigh size and whether bone-in or boneless.
+10. **Add olives late.** Add **1/3 cup halved green olives** during the final **10–15 minutes** of cooking.
 11. **Reduce sauce.** Uncover and simmer **3–5 minutes** if sauce is too thin. It should be spoonable and glossy, not watery.
-12. **Make couscous.** Bring **1 cup chicken broth** with butter or olive oil, turmeric, and tiny pinch cumin to a boil. Pour over **1 cup couscous**, cover **5 minutes**, then fluff. Fold in herbs and a small amount of toasted cashews if desired.
-13. **Toast cumin cashews.** Toast chopped cashews in a dry pan **2–4 minutes** until fragrant and lightly golden. Season with tiny pinch salt and tiny pinch cumin.
-14. **Final sauce correction.** Taste sauce. Add preserved lemon brine or olive brine for more briny pop, honey or orange marmalade for roundness, lemon juice for lift, or a splash of broth if too intense. Stir in **1 tsp butter** off heat for gloss if desired.
-15. **Plate.** Spoon golden couscous into bowls or plates. Top with chicken and sauce. Finish with toasted cumin cashews, parsley, cilantro, optional tiny mint, and reserved preserved lemon rind.
+12. **Make couscous.** Bring **1 cup chicken broth** with **1 Tbsp butter or olive oil**, **1/4 tsp turmeric**, and **tiny pinch cumin** to a boil. Pour over **1 cup couscous**, cover **5 minutes**, then fluff. Fold in **2 Tbsp chopped parsley**, **1 Tbsp chopped cilantro**, and up to **2 Tbsp toasted cashews** if desired.
+13. **Toast cumin cashews.** Toast **1/3 cup roughly chopped cashews** in a dry pan **2–4 minutes** until fragrant and lightly golden. Season with **tiny pinch salt** and **tiny pinch cumin**.
+14. **Final sauce correction.** Taste sauce. Add **1 tsp preserved lemon brine or olive brine** if it needs briny pop; add **1 tsp honey or orange marmalade** if it needs roundness; add fresh lemon juice if it needs lift; add a splash of broth if too intense. Stir in **1 tsp butter** off heat for gloss if desired.
+15. **Plate.** Spoon golden couscous into bowls or plates. Top with chicken and sauce. Finish with toasted cumin cashews, **2 Tbsp parsley**, **1 Tbsp cilantro**, optional tiny mint, and the reserved preserved lemon rind.
 
 ## Electric Skillet Notes
 

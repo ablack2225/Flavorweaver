@@ -20,6 +20,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Lebanese-Inspired', 'lebanese-inspired', 'beef bowl', 'ground brisket', 'vermicelli rice', 'lemon herb rice', 'garlic lemon sauce', 'tahini yogurt sauce', 'cucumber tomato salad', 'scratch pita chips', 'complete bowl']
   },
   {
+    title: 'Smoky Guajillo-Harissa Chicken over Golden Couscous',
+    path: 'recipes/north-african/smoky-guajillo-harissa-chicken-over-golden-couscous.html',
+    collection: 'House Recipes',
+    culture: 'North African Inspired',
+    category: 'Main Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['chicken thighs', 'dried guajillo chiles', 'couscous', 'chickpeas', 'yogurt', 'tahini', 'garlic', 'lemon', 'honey', 'red pepper flakes', 'cumin', 'coriander', 'caraway', 'smoked paprika', 'cucumber', 'parsley', 'mint', 'olive oil'],
+    tags: ['North-African-Inspired', 'north-african-inspired', 'harissa chicken', 'guajillo harissa', 'golden couscous', 'crispy chickpeas', 'hot honey glaze', 'chicken thighs', 'complete plate']
+  },
+  {
     title: '48-Hour Peking-Style Duck with Mandarin Pancakes',
     path: 'recipes/chinese/peking-style-duck-with-mandarin-pancakes.html',
     collection: 'House Recipes',

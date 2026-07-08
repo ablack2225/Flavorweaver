@@ -90,6 +90,19 @@
     ];
   }
 
+  if (!recipes.some((item) => item.path === 'recipes/indian/chicken-kathi-rolls-with-egg-lacquered-paratha.html')) {
+    recipes.push({
+      title: 'Chicken Kathi Rolls with Egg-Lacquered Paratha',
+      path: 'recipes/indian/chicken-kathi-rolls-with-egg-lacquered-paratha.html',
+      collection: 'House Recipes',
+      culture: 'Indian Inspired',
+      category: 'Featured Meal',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['chicken thighs', 'all-purpose flour', 'yogurt', 'eggs', 'ghee', 'neutral oil', 'ginger garlic paste', 'lime', 'garam masala', 'cumin', 'coriander', 'paprika', 'Kashmiri chile powder', 'turmeric', 'cayenne', 'cilantro', 'mint', 'green chile', 'onion', 'chaat masala'],
+      tags: ['Indian-Inspired', 'indian-inspired', 'kathi roll', 'kati roll', 'chicken kathi rolls', 'egg paratha', 'scratch paratha', 'flaky paratha', 'chicken thighs', 'cilantro mint chutney', 'green chutney', 'onion lime crunch', 'complete wrap', 'project meal', 'Flavorweaver Test Recipe']
+    });
+  }
+
   if (!recipes.some((item) => item.path === 'recipes/indian/aloo-pakora-inspired-potato-fritters.html')) {
     recipes.push({
       title: 'Aloo Pakora-Inspired Potato Fritters',

@@ -9,9 +9,9 @@ cook_time: 1h
 marinade_time: 1h to overnight
 total_time: 3h 20m, including minimum marinade
 servings: 2 generous plates
-measurement_status: rebuilt for boldness
+measurement_status: documented
 
-rating_note: Live test pending; rebuilt only because it now has a 9.5+ Flavorweaver path
+rating_note: Live test pending
 repeat_worthy: false
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -62,35 +62,26 @@ last_updated: 2026-07-09
 
 | Prep Time | Cook Time | Marinade Time | Rating Note |
 |---:|---:|---:|---|
-| 1 hr 20 min | 1 hr | 1 hr to overnight | Live test pending; rebuilt only because it now has a 9.5+ Flavorweaver path |
+| 1 hr 20 min | 1 hr | 1 hr to overnight | Live test pending |
 
-## Flavorweaver Decision Note
+## Flavor Profile
 
-This recipe was rebuilt after the Amy & Don boldness recalibration. The earlier version leaned on golden lemon-herb couscous, yogurt-tahini sauce, cucumber-mint salad, and canned chickpeas. Those pieces were removed because they repeated a bland safe-bowl pattern and did not fit the current Flavorweaver standard.
+This complete plate is built around two bold but distinct lanes. The main plate is smoky, tomato-rich, chile-forward, briny, sweet-hot, and buttery. The side event is crispy, cheesy, eggy, spicy, and paired with a dark sweet-sour tamarind-date chutney.
 
-This version is allowed into the archive only as a **bold rebuilt test** because it now has:
+Target bite:
 
-- smoky chile-garlic chicken
-- spicy tomato-olive couscous that tastes bold before the couscous goes in
-- a generous Thai chili hot honey glaze as the signature finish
-- roasted sweet-hot cashews instead of canned chickpeas
-- crispy egg roll wrapper brik-style triangles as a true side event
-- tamarind-date chutney as a separate sweet-sour showstopper lane
-
-Canon shorthand:
-
-> **No polite components. Every bite has to punch.**
+> smoky chile chicken + spicy tomato-olive couscous + glossy Thai chili hot honey + sweet-hot cashew crunch + crispy pepper jack egg-olive triangles + tangy tamarind-date chutney.
 
 ## Kitchen Execution Summary
 
 | Component | Role |
 |---|---|
 | Smoky Guajillo-Harissa Chicken | Juicy chicken anchor with dried chile body, tomato paste depth, garlic, cumin, coriander, caraway, smoke, acid, and controlled heat. |
-| Spicy Tomato-Olive Couscous | Not a neutral starch. The couscous absorbs tomato-harissa broth, garlic, spices, and olive brine. |
-| Thai Chili Hot Honey | Signature glossy finish. Sweet, smoky, hot, tangy, buttery, and generous enough to drip into the couscous. |
-| Smoky Sweet-Hot Cashews | Crunch layer replacing dried/canned chickpeas; nutty, salty, smoky, lightly sweet, and snackable. |
+| Spicy Tomato-Olive Couscous | A bold couscous base that absorbs tomato-harissa broth, garlic, spices, green olives, and olive brine. |
+| Thai Chili Hot Honey | Signature glossy finish; sweet, smoky, hot, tangy, buttery, and generous enough to drip into the couscous. |
+| Smoky Sweet-Hot Cashews | Nutty crunch layer with smoke, salt, light sweetness, and chile warmth. |
 | Crispy Pepper Jack Egg-Olive Brik Triangles | Street-food side event using egg roll wrappers, soft egg, pepper jack, mozzarella, Thai chili, and olives. |
-| Bold Tamarind-Date Chutney | Separate flavor universe: dark sweet-sour, spicy, warm-spiced, salty, and addictive. |
+| Bold Tamarind-Date Chutney | Separate sweet-sour sauce lane: tangy, dark-fruity, warm-spiced, salty, and addictive. |
 
 ## Equipment Map
 
@@ -137,18 +128,18 @@ Canon shorthand:
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 3 | dried guajillo chiles | Stemmed and seeded; toast briefly. |
-| 3 cloves | garlic | Use all 3 for Flavorweaver boldness. |
+| 3 cloves | garlic |  |
 | 2 Tbsp | olive oil | Carries chile and spice. |
-| 1 Tbsp | tomato paste | Adds savory depth and prevents thin fruity chile flavor. |
-| 1 Tbsp | vinegar or lemon juice | Acid; vinegar is preferred if lemon fatigue is high. |
-| 1 tsp | lemon zest | Optional; do not let lemon dominate. |
+| 1 Tbsp | tomato paste | Adds savory depth. |
+| 1 Tbsp | vinegar or lemon juice | Vinegar keeps the profile less lemon-heavy. |
+| 1 tsp | lemon zest | Optional; use only if wanted. |
 | 1 tsp | ground cumin | Warm backbone. |
 | 1 tsp | ground coriander | Citrus-warm support. |
-| 1/4 tsp | ground caraway | Strongly preferred for harissa direction. |
-| 3/4 tsp | smoked paprika | More smoke and color than the old version. |
+| 1/4 tsp | ground caraway | Strongly preferred. |
+| 3/4 tsp | smoked paprika | Smoke and color. |
 | 3/4 tsp | red pepper flakes | Background heat. |
-| Tiny pinch | cinnamon or allspice | Warm complexity, not sweetness. |
-| 3/4 tsp | kosher salt | Paste should taste awake before marinating. |
+| Tiny pinch | cinnamon or allspice | Warm complexity. |
+| 3/4 tsp | kosher salt | For the paste. |
 | 1–3 Tbsp | chile soaking water | Add only as needed to blend thick. |
 
 ### Chicken Marinade
@@ -172,7 +163,7 @@ Canon shorthand:
 | 1/4 cup | finely diced onion | Softened before paste. |
 | 2 cloves | garlic | Minced or grated. |
 | 1 1/2 Tbsp | tomato paste | Bloom until darkened. |
-| 1 1/2–2 Tbsp | guajillo-harissa paste | Make the broth taste bold before couscous goes in. |
+| 1 1/2–2 Tbsp | guajillo-harissa paste | Make the broth bold before couscous goes in. |
 | 1/2 tsp | cumin |  |
 | 1/2 tsp | coriander |  |
 | 1/2 tsp | smoked paprika |  |
@@ -180,19 +171,19 @@ Canon shorthand:
 | Tiny pinch | cinnamon or allspice |  |
 | 1 cup | chicken broth | Taste before adding couscous. |
 | 2–3 Tbsp | chopped green olives | Fold in after steaming. |
-| 2–3 Tbsp | parsley or cilantro | Optional, but useful. |
-| Tiny splash | olive brine | Use if the broth needs briny punch. |
+| 2–3 Tbsp | parsley or cilantro | Optional. |
+| 1–2 tsp | olive brine | Optional, for briny punch. |
 | To taste | salt | The broth should taste slightly too bold. |
 
-### Increased Thai Chili Hot Honey Glaze
+### Thai Chili Hot Honey Glaze
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 2 1/2 Tbsp | reserved guajillo-harissa paste | Signature glaze base. |
-| 3 Tbsp | honey | Generous, not a tiny drizzle. |
+| 3 Tbsp | honey | Generous glaze amount. |
 | 1 1/2 Tbsp | butter | Gloss and body. |
 | 1–2 | red Thai chiles | Finely minced; use 2 only if heat level allows. |
-| 2 tsp | vinegar or lemon juice | Tang so it does not become candy. |
+| 2 tsp | vinegar or lemon juice | Balances honey. |
 | Generous pinch | salt | Required. |
 | Optional pinch | cayenne or red pepper flakes | Only if needed. |
 
@@ -200,7 +191,7 @@ Canon shorthand:
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1/2 cup | cashews | Replaces chickpeas. |
+| 1/2 cup | cashews |  |
 | 1 tsp | olive oil or melted butter | Coating fat. |
 | 1/2 tsp | smoked paprika |  |
 | 1/4 tsp | cumin |  |
@@ -208,7 +199,7 @@ Canon shorthand:
 | 1/8 tsp | garlic powder |  |
 | Pinch | cayenne or red pepper flakes | To taste. |
 | 1/4 tsp | kosher salt | Adjust after roasting. |
-| 1/2 tsp | honey or brown sugar | Light sweet-hot snack finish. |
+| 1/2 tsp | honey or brown sugar | Light sweet-hot finish. |
 
 ### Crispy Pepper Jack Egg-Olive Brik Triangles
 
@@ -216,17 +207,17 @@ Canon shorthand:
 |---:|---|---|
 | 6–8 | egg roll wrappers | Fold into triangles or sealed packets. |
 | 2 large | eggs | Soft-scrambled before filling. |
-| 1/3 cup | pepper jack | Main cheese; heat and personality. |
+| 1/3 cup | pepper jack | Main cheese. |
 | 2 Tbsp | mozzarella | Melt support. |
-| 2–3 Tbsp | green olives, chopped | Feta-style briny replacement. |
-| 1 | Thai chili, finely minced | Bold heat without repeating harissa. |
+| 2–3 Tbsp | green olives, chopped | Briny accent. |
+| 1 | Thai chili, finely minced | Heat in the filling. |
 | 1–2 Tbsp | parsley or cilantro | Optional. |
 | 1/4 tsp | smoked paprika |  |
 | 1/4 tsp | cumin |  |
 | 1/4 tsp | garlic powder |  |
 | Pinch | black pepper |  |
 | Tiny pinch | salt | Only if needed after tasting. |
-| As needed | flour-water paste or beaten egg | For sealing. |
+| 1 Tbsp flour + 1 Tbsp water | sealing paste | Or use beaten egg. |
 | As needed | oil | For frying. |
 
 ### Bold Tamarind-Date Chutney
@@ -235,7 +226,7 @@ Canon shorthand:
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| Small handful | whole tamarind | Enough to make about 1/2 cup strong extract. |
+| 2 oz / 55 g | whole tamarind pods or pulp | About 1/2 cup loosely packed broken tamarind pieces after shells are removed. |
 | 1 cup | hot water | For soaking. |
 
 #### Chutney
@@ -243,14 +234,25 @@ Canon shorthand:
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 1/2 cup | strong tamarind extract | From whole tamarind. |
-| 4–6 Tbsp | brown sugar or honey | Adjust to balance sourness. |
-| 2–4 Tbsp | chopped dates or raisins | Dark-fruity body. |
+| 4 Tbsp | brown sugar or honey | Start here for sour-first balance. Add more only if too sharp. |
+| 2 Tbsp | chopped dates or raisins | Dark-fruity body. |
 | 1/2 tsp | ground cumin | Warm depth. |
 | 1/2 tsp | ginger powder or 1 tsp fresh ginger | Warm-spicy lift. |
-| To taste | cayenne or red pepper flakes | Sauce should not be polite. |
+| To taste | cayenne or red pepper flakes | Add enough heat to wake it up. |
 | 1/4 tsp | salt | Adjust; salt wakes up tamarind. |
 | Tiny pinch | garlic powder | Optional. |
 | Splash | water | Only as needed for spoonable texture. |
+
+## Cross-Component Prep Map
+
+| Ingredient | Total Prep | Where It Goes |
+|---|---|---|
+| Guajillo-harissa paste | Full paste batch; reserve 2 1/2 Tbsp for hot honey and 1 1/2–2 Tbsp for couscous | Chicken, couscous, hot honey |
+| Garlic | 5 cloves total | 3 cloves paste, 2 cloves couscous |
+| Thai chiles | 2–3 total | 1–2 hot honey, 1 brik filling |
+| Green olives | 4–6 Tbsp chopped total | 2–3 Tbsp couscous, 2–3 Tbsp brik filling |
+| Herbs | 3–5 Tbsp chopped total | 2–3 Tbsp couscous, 1–2 Tbsp brik filling |
+| Tamarind | 2 oz / 55 g whole tamarind plus 1 cup hot water | Chutney extract |
 
 ## Stage-Based Prep Bowls
 
@@ -258,95 +260,103 @@ Canon shorthand:
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Toasted Guajillos | 3 stemmed/seeded guajillos | Toast 10–20 sec per side, soak 10–15 min. |
-| Bowl 2 — Paste Aromatics | 3 garlic cloves, 2 Tbsp olive oil, 1 Tbsp tomato paste, 1 Tbsp vinegar/lemon, optional zest | Blend with softened chiles. |
-| Bowl 3 — Paste Spices | cumin, coriander, caraway, smoked paprika, red pepper flakes, cinnamon/allspice, salt | Paste must taste bold before use. |
-| Bowl 4 — Chicken | chicken thighs, remaining paste, oil, honey, salt, pepper | Reserve paste first for glaze and couscous. |
+| Bowl 1 — Toasted Guajillos | 3 stemmed and seeded dried guajillo chiles | Toast 10–20 seconds per side, then soak. |
+| Bowl 2 — Paste Aromatics | 3 garlic cloves, 2 Tbsp olive oil, 1 Tbsp tomato paste, 1 Tbsp vinegar or lemon juice, optional 1 tsp lemon zest | Blend with softened chiles. |
+| Bowl 3 — Paste Spices | 1 tsp cumin, 1 tsp coriander, 1/4 tsp caraway, 3/4 tsp smoked paprika, 3/4 tsp red pepper flakes, tiny pinch cinnamon/allspice, 3/4 tsp kosher salt | Add to blender with aromatics. |
+| Bowl 4 — Reserved Paste | 2 1/2 Tbsp paste for hot honey; 1 1/2–2 Tbsp paste for couscous | Set aside before coating chicken. |
+| Bowl 5 — Chicken Marinade | 4 chicken thighs, remaining paste, 1 Tbsp olive oil, 1 tsp honey, 1/2 tsp kosher salt, 1/4 tsp black pepper | Marinate at least 1 hour. |
 
 ### Couscous Bowls
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Couscous Dry | 1 cup couscous | Keep dry until broth is bold and simmering. |
-| Bowl 2 — Tomato-Harissa Base | butter, olive oil, onion, garlic, tomato paste, guajillo-harissa paste, spices | Bloom until dark and fragrant. |
-| Bowl 3 — Couscous Finish | chopped green olives, herbs, optional olive brine | Fold in after steaming. |
+| Bowl 1 — Couscous Dry | 1 cup plain couscous | Keep dry until broth is ready. |
+| Bowl 2 — Tomato-Harissa Base | 1 Tbsp butter, 1 Tbsp olive oil, 1/4 cup diced onion, 2 minced garlic cloves, 1 1/2 Tbsp tomato paste, 1 1/2–2 Tbsp guajillo-harissa paste | Cook before adding broth. |
+| Bowl 3 — Couscous Spices | 1/2 tsp cumin, 1/2 tsp coriander, 1/2 tsp smoked paprika, pinch caraway, tiny pinch cinnamon/allspice | Bloom with tomato paste. |
+| Bowl 4 — Couscous Liquid | 1 cup chicken broth, 1–2 tsp olive brine if needed, salt to taste | Liquid should taste slightly too bold. |
+| Bowl 5 — Couscous Finish | 2–3 Tbsp chopped green olives, 2–3 Tbsp parsley or cilantro | Fold in after steaming. |
 
 ### Side Event Bowls
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Tamarind Extract | whole tamarind and hot water | Soak, mash, strain. |
-| Bowl 2 — Chutney | tamarind extract, sugar/honey, dates/raisins, cumin, ginger, chile, salt | Simmer until glossy. |
-| Bowl 3 — Brik Filling | soft egg, pepper jack, mozzarella, olives, Thai chili, spices | Taste before wrapping. |
-| Bowl 4 — Wrapper Station | wrappers, filling, flour paste or egg wash | Do not overfill. |
-| Bowl 5 — Cashews | cashews, fat, spices, salt, sweetener | Roast and taste while warm. |
-| Bowl 6 — Hot Honey | paste, honey, butter, Thai chili, vinegar/lemon, salt | Make while chicken rests. |
+| Bowl 1 — Tamarind Extract | 2 oz / 55 g whole tamarind pods or pulp, 1 cup hot water | Soak, mash, strain; save 1/2 cup extract. |
+| Bowl 2 — Chutney | 1/2 cup tamarind extract, 4 Tbsp brown sugar or honey, 2 Tbsp dates/raisins, 1/2 tsp cumin, 1/2 tsp ginger powder or 1 tsp fresh ginger, cayenne/red pepper to taste, 1/4 tsp salt, optional tiny pinch garlic powder | Simmer 6–10 minutes. |
+| Bowl 3 — Brik Filling | 2 soft-scrambled eggs, 1/3 cup pepper jack, 2 Tbsp mozzarella, 2–3 Tbsp chopped olives, 1 minced Thai chili, 1–2 Tbsp herbs, 1/4 tsp smoked paprika, 1/4 tsp cumin, 1/4 tsp garlic powder, pinch black pepper | Taste before wrapping. |
+| Bowl 4 — Wrapper Station | 6–8 egg roll wrappers, brik filling, 1 Tbsp flour + 1 Tbsp water paste or beaten egg | Use about 1 1/2 Tbsp filling per wrapper. |
+| Bowl 5 — Cashews | 1/2 cup cashews, 1 tsp olive oil or melted butter, 1/2 tsp smoked paprika, 1/4 tsp cumin, 1/4 tsp coriander, 1/8 tsp garlic powder, pinch cayenne, 1/4 tsp salt, 1/2 tsp honey or brown sugar | Roast at 325°F. |
+| Bowl 6 — Hot Honey | 2 1/2 Tbsp reserved paste, 3 Tbsp honey, 1 1/2 Tbsp butter, 1–2 minced Thai chiles, 2 tsp vinegar or lemon juice, generous pinch salt | Warm while chicken rests. |
 
 ## Do Not Forget
 
-- This recipe is only viable as a 9.5+ test if the couscous liquid tastes **slightly too bold** before the couscous goes in.
-- Reserve enough paste: **2 1/2 Tbsp for hot honey** and **1 1/2–2 Tbsp for couscous** before marinating chicken.
-- The Thai chili hot honey is the signature sauce. Make it generous.
-- The brik triangles are the side event; they should not taste like filler.
-- Tamarind chutney must be bold enough to stand up to fried wrappers, egg, cheese, and olives.
-- Cashews burn quickly; roast at 325°F and watch closely.
+- Reserve paste before marinating chicken: **2 1/2 Tbsp for hot honey** and **1 1/2–2 Tbsp for couscous**.
+- The couscous broth must taste slightly too bold before couscous goes in.
+- The Thai chili hot honey is the signature sauce; use it generously.
+- Use about **1 1/2 Tbsp filling per brik wrapper** so the triangles seal cleanly.
+- Cashews burn quickly; roast at **325°F** and watch closely.
 - For the hot-running electric skillet, start chicken around **300°F** and raise only if browning is too slow.
 
 ## Full Cooking Timeline and Instructions
 
 ### 1. Make Tamarind Extract
 
-Break up a small handful of whole tamarind. Cover with 1 cup hot water and soak 15–20 minutes. Mash thoroughly, then strain through a fine mesh strainer, pressing hard. Save about 1/2 cup strong tamarind extract.
+Remove shells and tough strings from **2 oz / 55 g whole tamarind pods or pulp**. You should have about **1/2 cup loosely packed broken tamarind pieces**. Place in a bowl with **1 cup hot water**. Soak **15–20 minutes**, mash thoroughly, then strain through a fine mesh strainer, pressing hard. Save **1/2 cup strong tamarind extract**.
 
-### 2. Make Guajillo-Harissa Paste
+### 2. Toast and Soak Guajillos
 
-Stem and seed 3 guajillo chiles. Toast in a dry skillet 10–20 seconds per side, just until fragrant. Cover with hot water and soak 10–15 minutes. Blend with garlic, olive oil, tomato paste, vinegar or lemon, optional zest, spices, salt, and just enough chile soaking water to make a thick paste.
+Stem and seed **3 dried guajillo chiles**. Toast in a dry skillet **10–20 seconds per side**, just until fragrant. Cover with hot water and soak **10–15 minutes**. Reserve **1–3 Tbsp soaking water** for blending.
 
-Taste the paste. It should be smoky, garlicky, chile-rich, salty, tangy, and slightly hot. If mild, add salt, acid, smoked paprika, or red pepper flakes.
+### 3. Blend Guajillo-Harissa Paste
 
-### 3. Reserve Paste and Marinate Chicken
+Blend the softened guajillos with **3 garlic cloves**, **2 Tbsp olive oil**, **1 Tbsp tomato paste**, **1 Tbsp vinegar or lemon juice**, optional **1 tsp lemon zest**, **1 tsp cumin**, **1 tsp coriander**, **1/4 tsp caraway**, **3/4 tsp smoked paprika**, **3/4 tsp red pepper flakes**, a tiny pinch cinnamon or allspice, **3/4 tsp kosher salt**, and just enough soaking water to make a thick paste.
 
-Reserve about 4 to 4 1/2 Tbsp paste: 2 1/2 Tbsp for hot honey and 1 1/2–2 Tbsp for couscous. Coat chicken with the remaining paste, olive oil, honey, salt, and pepper. Marinate at least 1 hour.
+Taste for smoky, garlicky, chile-rich, salty, tangy impact.
 
-### 4. Simmer Tamarind-Date Chutney
+### 4. Reserve Paste and Marinate Chicken
 
-In a small saucepan, combine tamarind extract, brown sugar or honey, dates or raisins, cumin, ginger, chile heat, salt, and optional garlic powder. Simmer 6–10 minutes until glossy and spoonable. Blend if desired.
+Reserve **2 1/2 Tbsp paste** for the hot honey and **1 1/2–2 Tbsp paste** for the couscous. Coat **4 chicken thighs** with the remaining paste, **1 Tbsp olive oil**, **1 tsp honey**, **1/2 tsp kosher salt**, and **1/4 tsp black pepper**. Marinate at least **1 hour**.
 
-Taste target: dark sweet, sharp sour, warm spice, chile heat, and salty pop.
+### 5. Simmer Tamarind-Date Chutney
 
-### 5. Roast Cashews
+In a small saucepan, combine **1/2 cup tamarind extract**, **4 Tbsp brown sugar or honey**, **2 Tbsp chopped dates or raisins**, **1/2 tsp cumin**, **1/2 tsp ginger powder or 1 tsp fresh ginger**, cayenne or red pepper flakes to taste, **1/4 tsp salt**, and optional tiny pinch garlic powder. Simmer **6–10 minutes**, stirring often, until glossy and spoonable.
 
-Heat oven to 325°F. Toss cashews with oil or melted butter, smoked paprika, cumin, coriander, garlic powder, cayenne/red pepper, salt, and honey or brown sugar. Roast 8–12 minutes, stirring once or twice. Taste while warm and adjust salt or heat.
+Taste target: tangy/sour first, dark sweet second, warm spice, chile heat, and salty pop. Add more sugar only if it is too sharp.
 
-### 6. Make Brik Filling
+### 6. Roast Smoky Sweet-Hot Cashews
 
-Soft-scramble eggs just until barely set. Cool slightly, then mix with pepper jack, mozzarella, olives, Thai chili, herbs if using, smoked paprika, cumin, garlic powder, and black pepper. Taste before wrapping. Add salt only if needed.
+Heat oven to **325°F**. Toss **1/2 cup cashews** with **1 tsp olive oil or melted butter**, **1/2 tsp smoked paprika**, **1/4 tsp cumin**, **1/4 tsp coriander**, **1/8 tsp garlic powder**, a pinch cayenne or red pepper flakes, **1/4 tsp kosher salt**, and **1/2 tsp honey or brown sugar**. Roast **8–12 minutes**, stirring once or twice. Taste while warm and adjust salt or heat.
 
-### 7. Wrap Brik Triangles
+### 7. Make Brik Filling
 
-Use egg roll wrappers and 1 1/2 Tbsp filling per triangle or packet. Seal edges well with flour-water paste or beaten egg. Keep covered until frying.
+Soft-scramble **2 large eggs** just until barely set. Cool slightly, then mix with **1/3 cup pepper jack**, **2 Tbsp mozzarella**, **2–3 Tbsp chopped green olives**, **1 finely minced Thai chili**, optional **1–2 Tbsp parsley or cilantro**, **1/4 tsp smoked paprika**, **1/4 tsp cumin**, **1/4 tsp garlic powder**, and a pinch black pepper. Taste; add only a tiny pinch salt if needed.
 
-### 8. Make Spicy Tomato-Olive Couscous
+### 8. Wrap Brik Triangles
 
-In a small pan, heat butter and olive oil. Cook onion until softened. Add garlic briefly. Add tomato paste, reserved guajillo-harissa paste, cumin, coriander, smoked paprika, caraway, and cinnamon/allspice. Cook 1–2 minutes until darkened and fragrant.
+Mix **1 Tbsp flour with 1 Tbsp water** to make sealing paste, or use beaten egg. Place **1 1/2 Tbsp filling** on each of **6–8 egg roll wrappers**. Fold into triangles or sealed packets and seal edges well. Keep covered until frying.
 
-Add chicken broth and bring to a simmer. Taste the liquid. It should be slightly too bold. Add salt, more paste, spice, or a tiny splash olive brine if needed. Stir in couscous, cover, remove from heat, and rest 5 minutes. Fluff, then fold in chopped olives and herbs.
+### 9. Make Spicy Tomato-Olive Couscous Base
 
-### 9. Fry Brik Triangles
+In a small pan, heat **1 Tbsp butter** and **1 Tbsp olive oil**. Add **1/4 cup finely diced onion** and cook until softened. Add **2 minced garlic cloves** and cook briefly. Add **1 1/2 Tbsp tomato paste**, **1 1/2–2 Tbsp reserved guajillo-harissa paste**, **1/2 tsp cumin**, **1/2 tsp coriander**, **1/2 tsp smoked paprika**, a pinch caraway, and a tiny pinch cinnamon or allspice. Cook **1–2 minutes** until darkened and fragrant.
 
-Heat fryer or oil to 350°F. Fry triangles until deeply golden and crisp, about 2–4 minutes depending size. Drain on a rack so they stay crisp.
+### 10. Steam Couscous
 
-### 10. Cook Chicken in Electric Skillet
+Add **1 cup chicken broth** to the couscous base and bring to a simmer. Taste the liquid; it should be slightly too bold. Add salt or **1–2 tsp olive brine** if needed. Stir in **1 cup couscous**, cover, remove from heat, and rest **5 minutes**. Fluff, then fold in **2–3 Tbsp chopped green olives** and **2–3 Tbsp parsley or cilantro**.
 
-Heat electric skillet to about 300°F. Add a thin film of oil if needed. Cook chicken until deeply browned and cooked through, about 5–7 minutes per side for boneless thighs, longer for bone-in. Raise toward 325°F only if browning is too slow. Avoid scorching the chile paste. Rest 5 minutes.
+### 11. Fry Brik Triangles
 
-### 11. Make Thai Chili Hot Honey
+Heat deep fryer or frying oil to **350°F**. Fry brik triangles until deeply golden and crisp, about **2–4 minutes**, depending size. Drain on a rack.
 
-While chicken rests, warm reserved guajillo-harissa paste, honey, butter, minced Thai chili, vinegar or lemon juice, and salt in a small saucepan until glossy. Taste: sweet, smoky, hot, tangy, buttery, addictive.
+### 12. Cook Chicken in Electric Skillet
 
-### 12. Glaze Chicken and Plate
+Heat electric skillet to about **300°F**. Add a thin film of oil if needed. Cook chicken until browned and cooked through, about **5–7 minutes per side** for boneless thighs, longer for bone-in. Raise toward **325°F** only if browning is too slow. Rest **5 minutes**.
 
-Spoon or brush hot honey over rested chicken. Save extra for final drizzle.
+### 13. Make Thai Chili Hot Honey
+
+While chicken rests, warm **2 1/2 Tbsp reserved paste**, **3 Tbsp honey**, **1 1/2 Tbsp butter**, **1–2 minced Thai chiles**, **2 tsp vinegar or lemon juice**, and a generous pinch salt in a small saucepan until glossy. Taste: sweet, smoky, hot, tangy, buttery, and balanced.
+
+### 14. Glaze and Plate
+
+Spoon Thai chili hot honey over the rested chicken. Plate spicy tomato-olive couscous, glazed chicken, extra hot honey, smoky sweet-hot cashews, crispy brik triangles, and generous tamarind-date chutney.
 
 ## Building the Final Plate
 
@@ -354,7 +364,7 @@ Spoon or brush hot honey over rested chicken. Save extra for final drizzle.
 |---|---|
 | 1. Couscous Foundation | Spoon spicy tomato-olive couscous onto each plate. |
 | 2. Chicken Anchor | Place hot-honey-glazed guajillo-harissa chicken over couscous. |
-| 3. Signature Sauce | Drizzle extra Thai chili hot honey over chicken and let some run into couscous. |
+| 3. Signature Sauce | Drizzle extra Thai chili hot honey over chicken and into couscous. |
 | 4. Crunch | Scatter smoky sweet-hot cashews over the couscous. |
 | 5. Briny Accent | Add extra chopped olives only if the plate needs more salty pop. |
 | 6. Side Event | Serve crispy pepper jack egg-olive brik triangles beside the plate. |
@@ -363,16 +373,6 @@ Spoon or brush hot honey over rested chicken. Save extra for final drizzle.
 ## Final Taste Target
 
 The finished meal should taste smoky, spicy, tomato-rich, garlicky, briny, buttery, sweet-hot, crisp, cheesy, and darkly sweet-sour. The main plate should deliver chile chicken, bold couscous, hot honey, and cashew crunch. The side should feel like a separate street-food event: crisp wrappers, melty pepper jack, soft egg, olives, Thai chili, and bold tamarind-date chutney.
-
-## Chef's Notes
-
-- This is no longer a lemon-yogurt-cucumber bowl. Those elements were removed because they were too repetitive and too mild for the Flavorweaver profile.
-- The couscous is the main risk point. It must be seasoned through the broth before steaming.
-- The hot honey glaze should be generous; it is not a garnish.
-- The brik triangles bring the missing second bold component that Amy and Don usually love in their best meals.
-- If the chutney tastes polite, increase ginger, cayenne, salt, or tamarind intensity.
-
-<!-- recipe-card:end -->
 
 ## Pairs Well With
 
@@ -390,16 +390,9 @@ This plate uses two distinct bold lanes. The main lane is smoky guajillo-harissa
 </details>
 
 <details>
-<summary>Flavorweaver Direction</summary>
-
-Target level is 9.5/10+ house canon potential after live testing. The rebuilt version is allowed forward because it now matches the Amy & Don boldness profile: no bland salad, no yogurt-tahini default, no mild lemon couscous, and no one-note bowl architecture.
-
-</details>
-
-<details>
 <summary>Testing Notes</summary>
 
-Live test pending. Watch the couscous intensity, hot honey quantity, chicken browning, brik wrapper sealing, Thai chili heat level, and tamarind chutney balance. The dish should fail if any component tastes polite.
+Live test pending. Watch the couscous intensity, hot honey quantity, chicken browning, brik wrapper sealing, Thai chili heat level, and tamarind chutney balance. The dish should not be canon-locked unless every component tastes bold and intentional.
 
 </details>
 
@@ -410,10 +403,4 @@ For hot-running electric skillets, start chicken around 300°F and raise toward 
 
 </details>
 
-<details>
-<summary>Change Log</summary>
-
-- 2026-07-06: Initial Flavorweaver Test Recipe created with guajillo-harissa paste, golden couscous, yogurt-tahini sauce, cucumber-mint salad, hot honey, and crispy chickpeas.
-- 2026-07-09: Rebuilt after Amy & Don boldness recalibration. Removed lemon-herb couscous, yogurt-tahini sauce, cucumber salad, and canned chickpeas. Added spicy tomato-olive couscous, increased Thai chili hot honey, smoky sweet-hot cashews, crispy pepper jack egg-olive brik triangles, and bold tamarind-date chutney.
-
-</details>
+<!-- recipe-card:end -->

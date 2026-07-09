@@ -10,14 +10,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal', 'asian pickled vegetables']
   },
   {
-    title: 'Smoky Guajillo-Harissa Chicken over Golden Couscous',
+    title: 'Smoky Guajillo-Harissa Chicken over Spicy Tomato-Olive Couscous',
     path: 'recipes/north-african/smoky-guajillo-harissa-chicken-over-golden-couscous.html',
     collection: 'House Recipes',
     culture: 'North African Inspired',
     category: 'Main Dish',
     status: 'Flavorweaver Test Recipe',
-    ingredients: ['chicken thighs', 'dried guajillo chiles', 'couscous', 'chickpeas', 'yogurt', 'tahini', 'garlic', 'lemon', 'honey', 'red pepper flakes', 'cumin', 'coriander', 'caraway', 'smoked paprika', 'cucumber', 'parsley', 'mint', 'olive oil'],
-    tags: ['North-African-Inspired', 'north-african-inspired', 'harissa chicken', 'guajillo harissa', 'golden couscous', 'crispy chickpeas', 'hot honey glaze', 'chicken thighs', 'complete plate']
+    ingredients: ['chicken thighs', 'dried guajillo chiles', 'couscous', 'green olives', 'cashews', 'egg roll wrappers', 'eggs', 'pepper jack', 'mozzarella', 'whole tamarind', 'dates', 'honey', 'red Thai chili', 'garlic', 'tomato paste', 'chicken broth', 'onion', 'red pepper flakes', 'cumin', 'coriander', 'caraway', 'smoked paprika', 'ginger', 'butter', 'olive oil'],
+    tags: ['North-African-Inspired', 'north-african-inspired', 'guajillo harissa', 'spicy tomato olive couscous', 'Thai chili hot honey', 'tamarind date chutney', 'brik inspired triangles', 'pepper jack', 'egg roll wrappers', 'spiced cashews', 'bold plate', 'complete plate']
   },
   {
     title: 'Whole-Tamarind Shrimp Pad Thai',

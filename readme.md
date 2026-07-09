@@ -44,6 +44,25 @@ Canon shorthand:
 
 > **If it is not bold enough for Amy and Don, it is not a 9.5.**
 
+## Flavor Profile Calibration
+
+Amy and Don consistently respond best to cuisines and dishes with **bold, saturated, highly legible flavor profiles**. The successful pattern is not tied to one region; it is tied to intensity, contrast, and identity.
+
+Known success anchors include:
+
+- **Thai** — chile, lime, fish sauce, aromatics, coconut, basil, sweet-salty-acidic tension, high-impact sauces
+- **Indian** — bloomed spices, browned onion gravies, ginger-garlic depth, cream/cashew richness, layered masalas, bright finishing acid
+- **Ethiopian** — berbere-style depth, long-cooked onions, spiced butter direction, lentil/chicken stew intensity, scoopable plate architecture
+- **Chinese** — soy/oyster/ginger/garlic depth, wok-style intensity, sticky sauces, crisp textures, bold sweet-salty-savory balance
+- **Vietnamese** — fish sauce, lime, herbs, pickles, chile, lemongrass, bright dipping sauces, fresh-acidic contrast
+- **Bold German comfort plates** — strong sweet-sour cabbage, mustard/lemon/acid contrast, crisp fried textures, savory-fat balance, clear plate identity
+
+Future Flavorweaver development must compare new dishes against this profile. A dish should not be approved simply because it is from a cuisine Amy and Don usually enjoy. It must carry the kind of boldness that makes those cuisines successful in the Amy & Don Kitchen.
+
+Low-impact bowls, lightly seasoned patties, mild rice bases, soft salads, polite sauces, and generic “fresh + creamy + protein” structures are danger signs unless the flavor architecture is aggressively upgraded.
+
+If a concept cannot be made bold, memorable, and worth repeating, it should not be built into public HTML.
+
 If a recipe has not gone through this development pass, it remains a draft/test recipe and should not be treated as canon.
 
 ## Required Recipe Development Workflow
@@ -54,10 +73,11 @@ Before creating or substantially updating MD/HTML for a new world-cuisine recipe
 2. Identify what makes the elite version work: flavor architecture, texture, ingredient quality, cooking method, plating, and service.
 3. Compare the elite version against Amy and Don’s pantry, budget, equipment, time, and taste constraints.
 4. Stress-test whether the dish is bold enough for the Amy & Don flavor profile, not merely balanced or plausible.
-5. Discuss the proposed architecture with Amy before building.
-6. Confirm the 9.5+ target version.
-7. Only then create or update the Markdown source and public HTML.
-8. Mark as test recipe until live-cooked, rated, and refined.
+5. Compare the proposed dish against known success anchors: Thai, Indian, Ethiopian, Chinese, Vietnamese, and bold German-style comfort plates.
+6. Discuss the proposed architecture with Amy before building.
+7. Confirm the 9.5+ target version.
+8. Only then create or update the Markdown source and public HTML.
+9. Mark as test recipe until live-cooked, rated, and refined.
 
 Canon shorthand:
 

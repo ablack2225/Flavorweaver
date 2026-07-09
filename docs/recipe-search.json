@@ -10,14 +10,14 @@
     "tags": ["rice bowl", "beef", "bulgogi", "gochujang", "ginger", "garlic", "pickled cucumbers", "sauce-driven", "weeknight favorite", "multi-component", "top 10 meal", "html page"]
   },
   {
-    "title": "Smoky Guajillo-Harissa Chicken over Golden Couscous",
+    "title": "Smoky Guajillo-Harissa Chicken over Spicy Tomato-Olive Couscous",
     "path": "recipes/north-african/smoky-guajillo-harissa-chicken-over-golden-couscous.html",
     "sourcePath": "recipes/north-african/main-dishes/smoky-guajillo-harissa-chicken-over-golden-couscous.md",
     "cuisine": "North African Inspired",
     "category": "Main Dish",
     "status": "Flavorweaver Test Recipe",
-    "ingredients": ["chicken thighs", "dried guajillo chiles", "couscous", "chickpeas", "yogurt", "tahini", "garlic", "lemon", "honey", "red pepper flakes", "cumin", "coriander", "caraway", "smoked paprika", "cucumber", "parsley", "mint", "olive oil"],
-    "tags": ["North-African-Inspired", "north-african-inspired", "harissa chicken", "guajillo harissa", "golden couscous", "crispy chickpeas", "hot honey glaze", "chicken thighs", "complete plate", "Flavorweaver Test Recipe", "html page"]
+    "ingredients": ["chicken thighs", "dried guajillo chiles", "couscous", "green olives", "cashews", "egg roll wrappers", "eggs", "pepper jack", "mozzarella", "whole tamarind", "dates", "honey", "red Thai chili", "garlic", "tomato paste", "chicken broth", "onion", "red pepper flakes", "cumin", "coriander", "caraway", "smoked paprika", "ginger", "butter", "olive oil"],
+    "tags": ["North-African-Inspired", "north-african-inspired", "guajillo harissa", "spicy tomato olive couscous", "Thai chili hot honey", "tamarind date chutney", "brik inspired triangles", "pepper jack", "egg roll wrappers", "spiced cashews", "bold plate", "complete plate", "Flavorweaver Test Recipe", "html page"]
   },
   {
     "title": "Whole-Tamarind Shrimp Pad Thai",
@@ -98,75 +98,5 @@
     "status": "Working Recipe",
     "ingredients": ["water", "sugar", "ginger paste", "garlic", "lemongrass paste", "fish sauce", "lime juice", "serrano"],
     "tags": ["vietnamese-inspired", "dipping sauce", "fish sauce", "ginger", "lime", "bright", "sweet-salty", "sauce"]
-  },
-  {
-    "title": "Lemongrass Chicken Bowls",
-    "path": "recipes/vietnamese/lemongrass-chicken-bowls.html",
-    "sourcePath": "recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Main Dish",
-    "status": "Working Recipe",
-    "ingredients": ["chicken thighs", "ginger nuoc cham", "lemongrass paste", "garlic", "neutral oil", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "cashews"],
-    "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "ginger nuoc cham", "angel hair pasta", "napa cabbage", "cucumber", "zucchini", "pickled vegetables", "sauce-driven", "multi-component", "html page"]
-  },
-  {
-    "title": "Vietnamese Bò Kho-Style Brisket Stew",
-    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew.html",
-    "sourcePath": "recipes/vietnamese/main-dishes/vietnamese-bo-kho-style-brisket-stew.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Main Dish",
-    "status": "Working Recipe",
-    "ingredients": ["brisket", "fish sauce", "soy sauce", "tomato paste", "ginger", "garlic", "lemongrass", "five-spice", "paprika", "onion", "bay leaves", "beef broth", "water", "hoisin", "carrots"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket", "beef stew", "lemongrass", "five spice", "tomato rich", "component recipe", "html page"]
-  },
-  {
-    "title": "Bánh Mì Không-Style Dipping Rolls",
-    "path": "recipes/vietnamese/banh-mi-khong-style-dipping-rolls.html",
-    "sourcePath": "recipes/vietnamese/breads/banh-mi-khong-style-dipping-rolls.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Bread",
-    "status": "Working Recipe",
-    "ingredients": ["all-purpose flour", "bread flour", "active dry yeast", "sugar", "water", "salt", "neutral oil", "lime juice"],
-    "tags": ["vietnamese-inspired", "banh mi", "bánh mì", "bread", "dipping rolls", "active dry yeast", "crisp crust", "airy crumb", "optional bread service", "html page"]
-  },
-  {
-    "title": "Vietnamese Bò Kho-Style Brisket Stew Bowl",
-    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html",
-    "sourcePath": "recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-plate.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Featured Meal",
-    "status": "Working Recipe",
-    "ingredients": ["brisket stew", "wide rice noodles", "asian pickled garden vegetables", "lime", "cilantro", "green onion", "serrano", "sriracha", "carrots", "lemongrass", "fish sauce"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew bowl", "wide rice noodles", "featured meal", "project meal", "noodle bowl", "complete bowl", "html page"]
-  },
-  {
-    "title": "Peanut Sauce",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/peanut-sauce.md",
-    "sourcePath": "condiments/peanut-sauce.md",
-    "cuisine": "Asian Inspired",
-    "category": "Condiment",
-    "status": "Working Recipe",
-    "ingredients": ["peanut butter", "soy sauce", "lime", "garlic", "ginger", "sugar", "water"],
-    "tags": ["peanut sauce", "dipping sauce", "condiment", "sauce", "rice bowls", "spring rolls"]
-  },
-  {
-    "title": "Ethiopian-Inspired Doro Wat Platter",
-    "path": "recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html",
-    "sourcePath": "recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Main Dish",
-    "status": "Working Recipe",
-    "ingredients": ["chicken thighs", "hard-boiled eggs", "paprika", "cayenne", "fenugreek", "onion", "garlic", "ginger", "tomato paste", "yellow split peas", "red lentils", "cabbage", "carrot", "tomato", "cucumber", "naan", "injera"],
-    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "doro wat", "Doro Wat", "complete meal plate", "split pea alicha", "Split Pea Alicha", "misir wat", "Misir Wat", "red lentils", "atakilt wat", "Atakilt Wat", "timatim salad", "Timatim Salad", "naan substitute", "injera", "Injera", "traditional upgrade path", "html page"]
-  },
-  {
-    "title": "Split Pea Alicha",
-    "path": "recipes/ethiopian/sides/split-pea-alicha.html",
-    "sourcePath": "recipes/ethiopian/sides/split-pea-alicha.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Side Dish",
-    "status": "First Test",
-    "ingredients": ["yellow split peas", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "black pepper", "butter", "oil"],
-    "tags": ["Ethiopian-Inspired", "ethiopian-inspired", "split pea alicha", "Split Pea Alicha", "yellow split peas", "alicha", "side dish", "stew", "doro wat platter", "html page"]
   }
 ]

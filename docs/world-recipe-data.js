@@ -10,16 +10,6 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['rice bowl', 'beef', 'bulgogi', 'gochujang', 'sauce-driven', 'top 10 meal', 'asian pickled vegetables']
   },
   {
-    title: 'Lebanese-Inspired Brisket Beef Bowls',
-    path: 'recipes/lebanese/lebanese-inspired-brisket-beef-bowls.html',
-    collection: 'House Recipes',
-    culture: 'Lebanese Inspired',
-    category: 'Main Dish',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['ground brisket', 'basmati rice', 'vermicelli', 'lemon', 'parsley', 'mint', 'tahini', 'Greek yogurt', 'sour cream', 'garlic', 'cucumber', 'tomato', 'pickle brine', 'pita', 'allspice', 'cumin', 'coriander', 'paprika', 'sumac'],
-    tags: ['Lebanese-Inspired', 'lebanese-inspired', 'beef bowl', 'ground brisket', 'vermicelli rice', 'lemon herb rice', 'garlic lemon sauce', 'tahini yogurt sauce', 'cucumber tomato salad', 'scratch pita chips', 'complete bowl']
-  },
-  {
     title: 'Smoky Guajillo-Harissa Chicken over Golden Couscous',
     path: 'recipes/north-african/smoky-guajillo-harissa-chicken-over-golden-couscous.html',
     collection: 'House Recipes',

@@ -23,22 +23,30 @@ tags:
   - double shallot
   - rice stick noodles
   - bean sprouts
-  - warmed peanuts
+  - seasoned warmed peanuts
+  - electric skillet
+  - two-batch finish
   - Flavorweaver Test Recipe
-last_updated: 2026-07-06
+last_updated: 2026-07-09
 ---
 
 <!-- recipe-card:start -->
 
 # Whole-Tamarind Shrimp Pad Thai
 
-> Sauce-forward Thai-inspired shrimp Pad Thai built with whole tamarind pulp, shrimp-shell concentrate, double shallot, egg ribbons, cooked-then-finished medium rice stick noodles, warmed unsalted peanuts, bean sprouts, lime, and herbs.
+> Sauce-forward Thai-inspired shrimp Pad Thai built with whole tamarind pulp, shrimp-shell concentrate, double shallot, egg ribbons, cooked-then-finished medium rice stick noodles, seasoned warmed peanuts, bean sprouts, lime, and controlled electric-skillet finishing.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
 | Flavorweaver Test Recipe | 1 hr 40 min | 2 generous portions | Moderate |
+
+## 9.5+ Live-Test Position
+
+This recipe has a strong foundation because it uses the classic Pad Thai balance of tamarind, fish sauce, sugar, egg, shrimp, peanuts, lime, chile, and fresh crunch, while adding whole tamarind depth and shrimp-shell concentrate for extra seafood body. The main risk is not flavor architecture; it is texture and pan management.
+
+The electric skillet should not be overloaded. For the cleanest finish, cook the final noodle toss in **two half-batches**, then plate immediately. This keeps the noodles glossy instead of steamed, protects the shrimp from overcooking, and lets the sauce coat rather than pool.
 
 ## Kitchen Execution Summary
 
@@ -50,7 +58,7 @@ last_updated: 2026-07-06
 | Cooked Rice Stick Noodles | Noodles are cooked per package directions, rinsed, lightly oiled, and finished briefly in sauce at the end. |
 | Double Shallot | Thin-sliced golden shallot topping plus minced shallot-garlic aromatic base. |
 | Egg Ribbons | Soft egg curds folded through for classic richness. |
-| Warmed Peanut Crunch | Unsalted dry-roasted peanuts warmed briefly, crushed, and used in two stages. |
+| Seasoned Warmed Peanut Crunch | Unsalted dry-roasted peanuts warmed briefly, crushed, then seasoned with salt, sugar, and optional chile. |
 | Bean Sprouts + Lime | Fresh crunch and final balance switch. |
 
 ## Flavorweaver Research and Adaptation Notes
@@ -59,16 +67,17 @@ last_updated: 2026-07-06
 |---|---|
 | Classic Pad Thai balance | Keeps tamarind, fish sauce, sugar, egg, shrimp, peanuts, lime, chile, and fresh crunch as the core structure. |
 | Whole tamarind upgrade | Uses fresh tamarind pulp instead of bottled shortcuts for deeper sour-fruity flavor. |
-| Specialty-item workaround | Replaces dried shrimp depth with shrimp-shell concentrate. |
+| Seafood-depth workaround | Replaces dried shrimp depth with shrimp-shell concentrate. |
 | Practical sugar | Uses brown sugar instead of palm sugar, with optional tiny honey correction only if needed. |
 | Noodle correction | Uses the agreed cooked-then-finished noodle method instead of a soak-only method. |
-| Electric skillet adaptation | Uses staged cooking around 275°F to 300°F so the sauce does not scorch and shrimp stay juicy. |
+| Electric skillet adaptation | Uses staged cooking around 275°F to 300°F and recommends two half-batches for the final toss. |
 
 ## Before Cooking Day / Shopping Note
 
 - Buy **dry-roasted unsalted peanuts**.
 - Buy **fresh bean sprouts the day of cooking**. They should be crisp, pale, not slimy, and not sour-smelling.
-- Use medium rice stick noodles for the best Pad Thai texture.
+- Use **medium rice stick noodles** for the best Pad Thai texture.
+- Fresh lime wedges are required.
 
 ## Service Countdown
 
@@ -78,9 +87,10 @@ last_updated: 2026-07-06
 | 1 hr 10 min before serving | Peel shrimp, save shells/tails, quick-season shrimp. |
 | 1 hr before serving | Make shrimp-shell concentrate and Pad Thai sauce. Let sauce sit 10–15 minutes. |
 | 45 min before serving | Cook noodles per package directions; rinse, drain, and lightly oil. |
-| 25 min before serving | Warm and crush peanuts. Slice/mince shallots, mince garlic, prep herbs and bean sprouts. |
+| 25 min before serving | Warm, crush, and season peanuts. Slice/mince shallots, mince garlic, prep herbs and bean sprouts. |
 | 15 min before serving | Cook golden shallot topping, then sear shrimp and remove. |
-| 10 min before serving | Build shallot-garlic base, egg ribbons, sauce, noodles, shrimp, sprouts, and finish. |
+| 10 min before serving | Build shallot-garlic base and egg ribbons. |
+| 5 min before serving | Finish noodles in one or two batches, depending skillet space. |
 | At service | Plate with lime, peanuts, golden shallots, bean sprouts, herbs, and chili flakes. |
 
 ## Measured Ingredients by Component
@@ -89,57 +99,87 @@ last_updated: 2026-07-06
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 2 oz | Whole tamarind | Break into pieces |
-| 1/2 cup | Hot water | For soaking |
+| 2 oz / 55 g | whole tamarind pods or pulp | About 1/2 cup loosely packed broken tamarind pieces after shells are removed. |
+| 1/2 cup | hot water | For soaking into thick pulp. |
 
 ### Shrimp-Shell Concentrate
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| From 1 lb shrimp | Shells and tails | Save after peeling shrimp |
-| 1 tsp | Neutral oil | For roasting shells |
-| 3 Tbsp | Water | Simmer with shells |
+| From 1 lb shrimp | shells and tails | Save after peeling shrimp. |
+| 1 tsp | neutral oil | For roasting shells. |
+| 3 Tbsp | water | Simmer with shells. |
 
 ### Pad Thai Sauce
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1/4 cup | Thick tamarind pulp | Freshly processed |
-| 3 Tbsp | Fish sauce | Main salty-savory backbone |
-| 3 Tbsp | Brown sugar | Palm sugar replacement |
-| 1 Tbsp | Shrimp-shell concentrate | Add more only if needed |
-| 1 Tbsp | Water | Helps dissolve sugar |
-| 1/2 to 1 tsp | Red pepper flakes or chili-garlic paste | To taste |
-| 1 tsp | Rice vinegar | Optional, only if tamarind is weak |
-| 1 tsp | Honey | Optional, only if sauce tastes sharp rather than rounded |
+| 1/4 cup | thick tamarind pulp | Freshly processed. |
+| 3 Tbsp | fish sauce | Main salty-savory backbone. |
+| 3 Tbsp | brown sugar | Palm sugar replacement. |
+| 1 Tbsp | shrimp-shell concentrate | Add an extra 1 tsp only if seafood depth is weak. |
+| 1 Tbsp | water | Helps dissolve sugar. |
+| 1/2 to 1 tsp | red pepper flakes or chili-garlic paste | To taste. |
+| 1 tsp | rice vinegar | Optional, only if tamarind is weak. |
+| 1 tsp | honey | Optional, only if sauce tastes sharp rather than rounded. |
 
 ### Quick-Seasoned Shrimp
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1 lb | Shrimp, peeled | Save shells/tails first |
-| 1 tsp | Fish sauce | Short seasoning only |
-| 1 tsp | Neutral oil | Helps sear |
-| 1/2 tsp | Brown sugar | Helps light browning |
-| 1 small clove | Garlic, grated or minced | Keep small so it does not burn |
-| Pinch | Black pepper |  |
-| Tiny pinch | Red pepper flakes | Optional |
+| 1 lb | shrimp, peeled | Save shells/tails first. |
+| 1 tsp | fish sauce | Short seasoning only. |
+| 1 tsp | neutral oil | Helps sear. |
+| 1/2 tsp | brown sugar | Helps light browning. |
+| 1 small clove | garlic, grated or minced | Keep small so it does not burn. |
+| Pinch | black pepper |  |
+| Tiny pinch | red pepper flakes | Optional. |
 
 ### Noodles and Finish
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 7 to 8 oz | Medium rice stick noodles | Cook per package directions |
-| 2 large | Shallots | 1 thin-sliced for topping, 1 minced for base |
-| 3 cloves | Garlic, minced | Aromatic base |
-| 2 | Eggs | Lightly beaten with tiny pinch salt |
-| 1 to 1 1/2 cups | Fresh bean sprouts | Half briefly tossed, half fresh |
-| 2 to 3 | Green onions, sliced | Finish |
-| 2 Tbsp | Cilantro, chopped | Optional |
-| 1/3 cup | Dry-roasted unsalted peanuts | Warm, crush, divide use |
-| 1 to 2 | Limes, cut into wedges | Required |
-| To taste | Extra chili flakes | Table heat |
-| 3 Tbsp total | Neutral oil | Divided |
+| 7 to 8 oz | medium rice stick noodles | Cook per package directions, low end of timing. |
+| 2 large | shallots | 1 thin-sliced for topping, 1 minced for base. |
+| 3 cloves | garlic, minced | Aromatic base. |
+| 2 | eggs | Lightly beaten with tiny pinch salt. |
+| 1 to 1 1/2 cups | fresh bean sprouts | Half briefly tossed, half fresh. |
+| 2 to 3 | green onions, sliced | Finish. |
+| 2 Tbsp | cilantro, chopped | Optional. |
+| 1/3 cup | dry-roasted unsalted peanuts | Warm, crush, season, divide use. |
+| 1/8 tsp | kosher salt | For peanuts, plus more to taste. |
+| Tiny pinch | brown sugar | For peanuts. |
+| Tiny pinch | chili flakes | Optional, for peanuts. |
+| 1 to 2 | limes, cut into wedges | Required. |
+| To taste | extra chili flakes | Table heat. |
+| 3 Tbsp total | neutral oil | Divided. |
+
+## Sauce Balance Check
+
+Taste the mixed Pad Thai sauce before it goes into the skillet. It should taste intense alone because noodles, egg, shrimp, and sprouts will soften it.
+
+| If sauce tastes... | Adjust with... |
+|---|---|
+| Too sweet | More tamarind pulp or 1 tsp rice vinegar. |
+| Too sour/sharp | 1 tsp honey or a little more brown sugar. |
+| Too salty | 1 Tbsp water and a little more tamarind/sugar balance. |
+| Flat | More fish sauce, a little salt, or 1 tsp extra shell concentrate. |
+| Not hot enough | More chili flakes or chili-garlic paste. |
+| Thin/weak | Simmer 1–2 minutes before using, or reduce the tamarind pulp slightly. |
+
+## Stage-Based Prep Bowls
+
+| Bowl | Contents | Notes |
+|---|---|---|
+| Tamarind Bowl | 2 oz / 55 g whole tamarind plus 1/2 cup hot water | Soak, mash, strain into thick pulp. |
+| Shrimp Bowl | 1 lb shrimp, 1 tsp fish sauce, 1 tsp oil, 1/2 tsp brown sugar, 1 small garlic clove, pepper, optional chile pinch | Season 10–15 minutes, 20 minutes max. |
+| Shell Concentrate Bowl | Shells/tails from 1 lb shrimp, 1 tsp oil, 3 Tbsp water | Roast, simmer, press, strain. |
+| Sauce Bowl | 1/4 cup tamarind, 3 Tbsp fish sauce, 3 Tbsp brown sugar, 1 Tbsp shell concentrate, 1 Tbsp water, chile | Rest 10–15 minutes, then taste and adjust. |
+| Double Shallot Bowls | 1 thin-sliced shallot for topping; 1 minced shallot plus 3 minced garlic cloves for aromatic base | Keep separate. |
+| Noodle Bowl | 7–8 oz cooked/rinsed/oiled rice stick noodles | Cook low end of package directions. |
+| Egg Bowl | 2 eggs beaten with tiny pinch salt | Add after aromatics. |
+| Peanut Bowl | 1/3 cup warmed crushed peanuts, 1/8 tsp salt, tiny pinch sugar, optional chile | Use 2 Tbsp in final toss; rest on top. |
+| Fresh Finish Bowl | 1 to 1 1/2 cups bean sprouts, 2–3 green onions, optional 2 Tbsp cilantro, lime wedges, chili flakes | Half sprouts tossed, half fresh on top. |
 
 ## Do Not Forget
 
@@ -149,27 +189,76 @@ last_updated: 2026-07-06
 - Do not put lime or tamarind in the shrimp seasoning bowl.
 - Use **80% of the sauce first**, then hold back **20%** for correction after tasting a noodle.
 - Pull shrimp at **80–90% cooked**; they finish in the final toss.
-- Warm dry-roasted unsalted peanuts **2–3 minutes** before crushing.
+- Warm dry-roasted unsalted peanuts **2–3 minutes**, then season them lightly before crushing or just after crushing.
+- If the electric skillet looks crowded, finish in **two half-batches**.
 - Fresh lime wedges are required at service.
 - For hot-running electric skillets, keep most cooking around **275°F to 300°F**.
 
 ## Instructions
 
-1. **Make thick tamarind pulp.** Break **2 oz whole tamarind** into pieces and cover with **1/2 cup hot water**. Soak **15–20 minutes**, mash thoroughly, then strain. The pulp should be thick enough to lightly coat a spoon. If watery, simmer briefly to concentrate.
-2. **Peel and quick-season shrimp.** Peel **1 lb shrimp**, saving shells/tails. Toss shrimp with **1 tsp fish sauce**, **1 tsp neutral oil**, **1/2 tsp brown sugar**, **1 small grated garlic clove**, pepper, and optional tiny chile pinch. Let sit while making shell concentrate, ideally **10–15 minutes**.
-3. **Make shrimp-shell concentrate.** Cook shells/tails with **1 tsp neutral oil** for **2–3 minutes** until pink-orange and fragrant. Add **3 Tbsp water**, simmer **2 minutes**, pressing shells, then strain.
-4. **Mix Pad Thai sauce.** Stir together **1/4 cup tamarind pulp**, **3 Tbsp fish sauce**, **3 Tbsp brown sugar**, **1 Tbsp shrimp-shell concentrate**, **1 Tbsp water**, and **1/2 to 1 tsp red pepper flakes or chili-garlic paste**. Rest **10–15 minutes**. It should taste sour first, salty-sweet second, savory underneath, and slightly too intense alone.
-5. **Cook noodles separately.** Cook **7 to 8 oz medium rice stick noodles** according to package directions, aiming for the low end. Drain immediately, rinse briefly with cool water, drain well, and toss with a few drops neutral oil. Hold for final toss.
-6. **Warm and crush peanuts.** Warm **1/3 cup dry-roasted unsalted peanuts** in a dry skillet or air fryer for **2–3 minutes** until fragrant. Crush. Reserve about **2 Tbsp** for the final toss and the rest for topping.
-7. **Prep fresh finish.** Rinse and dry **1 to 1 1/2 cups bean sprouts**. Slice green onions, chop optional cilantro, and cut lime wedges.
-8. **Make golden shallot topping.** Heat the electric skillet around **275–300°F** with enough neutral oil to coat the surface. Cook **1 large thin-sliced shallot** until golden and lightly crisp. Remove to paper towels and season with a tiny pinch salt.
-9. **Sear shrimp and remove.** At about **300°F**, sear quick-seasoned shrimp just until **80–90% cooked**. Remove to a plate.
-10. **Build shallot-garlic base.** Lower skillet toward **275–300°F**. Add a little oil if needed. Cook **1 large minced shallot** until softened and lightly golden. Add **3 minced garlic cloves** and cook briefly until fragrant, not browned.
-11. **Make egg ribbons.** Push aromatics aside. Add **2 lightly beaten eggs** with a tiny pinch salt. Let them set into soft curds, then fold gently through the aromatics.
-12. **Wake the sauce.** Add about **80% of the Pad Thai sauce** and let it bubble **30–60 seconds** until glossy, not syrupy. Hold the remaining **20%** for correction.
-13. **Finish noodles.** Add cooked noodles and toss quickly **1–2 minutes max**, just until coated and absorbing sauce. Taste one noodle. Add remaining sauce only if needed.
-14. **Final fold.** Fold shrimp back in with **1/2 cup bean sprouts**, **2 Tbsp crushed peanuts**, and most green onion. Toss **10–15 seconds** only, just to warm sprouts and finish shrimp.
-15. **Plate immediately.** Top with fresh bean sprouts, golden shallots, remaining peanuts, green onion, optional cilantro, lime wedges, and extra chili flakes at the table.
+### 1. Make Thick Tamarind Pulp
+
+Remove shells and tough strings from **2 oz / 55 g whole tamarind pods or pulp**. You should have about **1/2 cup loosely packed broken tamarind pieces**. Cover with **1/2 cup hot water**. Soak **15–20 minutes**, mash thoroughly, then strain. The pulp should be thick enough to lightly coat a spoon. If watery, simmer briefly to concentrate.
+
+### 2. Peel and Quick-Season Shrimp
+
+Peel **1 lb shrimp**, saving shells/tails. Toss shrimp with **1 tsp fish sauce**, **1 tsp neutral oil**, **1/2 tsp brown sugar**, **1 small grated garlic clove**, pepper, and optional tiny chile pinch. Let sit while making shell concentrate, ideally **10–15 minutes**.
+
+### 3. Make Shrimp-Shell Concentrate
+
+Cook shells/tails with **1 tsp neutral oil** for **2–3 minutes** until pink-orange and fragrant. Add **3 Tbsp water**, simmer **2 minutes**, pressing shells, then strain. You need at least **1 Tbsp concentrate** for the sauce.
+
+### 4. Mix Pad Thai Sauce
+
+Stir together **1/4 cup tamarind pulp**, **3 Tbsp fish sauce**, **3 Tbsp brown sugar**, **1 Tbsp shrimp-shell concentrate**, **1 Tbsp water**, and **1/2 to 1 tsp red pepper flakes or chili-garlic paste**. Rest **10–15 minutes**, then taste. It should taste sour first, salty-sweet second, savory underneath, and slightly too intense alone.
+
+### 5. Cook Noodles Separately
+
+Cook **7 to 8 oz medium rice stick noodles** according to package directions, aiming for the low end. Drain immediately, rinse briefly with cool water, drain well, and toss with a few drops neutral oil. Hold for final toss.
+
+### 6. Warm, Crush, and Season Peanuts
+
+Warm **1/3 cup dry-roasted unsalted peanuts** in a dry skillet or air fryer for **2–3 minutes** until fragrant. Crush and season with **1/8 tsp kosher salt**, a tiny pinch brown sugar, and optional tiny pinch chili flakes. Reserve about **2 Tbsp** for the final toss and the rest for topping.
+
+### 7. Prep Fresh Finish
+
+Rinse and dry **1 to 1 1/2 cups bean sprouts**. Slice **2 to 3 green onions**, chop optional **2 Tbsp cilantro**, and cut **1 to 2 limes** into wedges.
+
+### 8. Make Golden Shallot Topping
+
+Heat the electric skillet around **275–300°F** with enough neutral oil to coat the surface. Cook **1 large thin-sliced shallot** until golden and lightly crisp. Remove to paper towels and season with a tiny pinch salt. Keep the shallot oil in the skillet if it is not burnt.
+
+### 9. Sear Shrimp and Remove
+
+At about **300°F**, sear quick-seasoned shrimp just until **80–90% cooked**. Remove to a plate. Do not fully tighten the shrimp here; they finish in the final toss.
+
+### 10. Build Shallot-Garlic Base
+
+Lower skillet toward **275–300°F**. Add a little oil if needed. Cook **1 large minced shallot** until softened and lightly golden. Add **3 minced garlic cloves** and cook briefly until fragrant, not browned.
+
+### 11. Make Egg Ribbons
+
+Push aromatics aside. Add **2 lightly beaten eggs** with a tiny pinch salt. Let them set into soft curds, then fold gently through the aromatics.
+
+### 12. Decide One-Batch or Two-Batch Finish
+
+If the skillet surface looks crowded for **7–8 oz noodles plus 1 lb shrimp**, finish in two batches. For two batches, divide the noodles, shrimp, sauce, egg-aromatic base, bean sprouts, peanuts, and green onion roughly in half. This gives the best glossy texture.
+
+### 13. Wake the Sauce
+
+Add about **80% of the Pad Thai sauce** to the skillet, or half of that amount if cooking in two batches. Let it bubble **30–60 seconds** until glossy, not syrupy. Hold the remaining sauce for correction.
+
+### 14. Finish Noodles
+
+Add cooked noodles and toss quickly **1–2 minutes max**, just until coated and absorbing sauce. Taste one noodle. Add held-back sauce only if needed.
+
+### 15. Final Fold
+
+Fold shrimp back in with **1/2 cup bean sprouts**, **2 Tbsp crushed peanuts**, and most green onion. Toss **10–15 seconds** only, just to warm sprouts and finish shrimp.
+
+### 16. Plate Immediately
+
+Top with fresh bean sprouts, golden shallots, remaining peanuts, green onion, optional cilantro, lime wedges, and extra chili flakes at the table.
 
 ## Electric Skillet Notes
 
@@ -184,6 +273,15 @@ last_updated: 2026-07-06
 
 ## Final Taste Target
 
-The finished Pad Thai should be glossy but not wet, sour-fruity from tamarind, salty-savory from fish sauce and shrimp-shell concentrate, rounded with brown sugar, aromatic from double shallot and garlic, rich with egg ribbons, juicy with shrimp, fresh with bean sprouts and lime, and crunchy from warmed peanuts and golden shallots. The noodles should be tender but resilient, never mushy or underdone.
+The finished Pad Thai should be glossy but not wet, sour-fruity from tamarind, salty-savory from fish sauce and shrimp-shell concentrate, rounded with brown sugar, aromatic from double shallot and garlic, rich with egg ribbons, juicy with shrimp, fresh with bean sprouts and lime, and crunchy from seasoned warmed peanuts and golden shallots. The noodles should be tender but resilient, never mushy or underdone.
+
+## Pairs Well With
+
+| Pairing | Role |
+|---|---|
+| Extra lime wedges | Final brightness and personal balance. |
+| Extra chili flakes | Table heat control. |
+| Extra bean sprouts | Fresh crunch. |
+| Extra seasoned peanuts | Crunch and salty-sweet finish. |
 
 <!-- recipe-card:end -->

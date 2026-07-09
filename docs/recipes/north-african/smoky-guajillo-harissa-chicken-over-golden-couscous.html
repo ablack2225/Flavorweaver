@@ -57,6 +57,13 @@
     </article>
   </main>
 
-  <script src="../../recipe-print.js?v=20260616-01"></script>
+  <script>
+    function printRecipeCard() {
+      document.querySelectorAll('details').forEach(function(detail) {
+        detail.setAttribute('open', 'open');
+      });
+      window.print();
+    }
+  </script>
 </body>
 </html>

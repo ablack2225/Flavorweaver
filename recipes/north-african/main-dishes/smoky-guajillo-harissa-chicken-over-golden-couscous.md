@@ -80,7 +80,7 @@ Target bite:
 | Thai Chili Hot Honey | Signature glossy finish; sweet, smoky, hot, tangy, buttery, and generous enough to drip into the couscous. |
 | Smoky Sweet-Hot Cashews | Nutty crunch layer with smoke, salt, brown sugar, and chile warmth. |
 | Crispy Pepper Jack-Parmesan Egg-Olive Brik Triangles | Street-food side event using egg roll wrappers, soft egg, pepper jack, Parmesan, Thai chili, cilantro, and olives. |
-| Bold Tamarind-Date Chutney | Separate sweet-sour sauce lane: tangy, dark-fruity, warm-spiced, salty, chile-warmed, and addictive. |
+| Bold Tamarind-Date Chutney | Separate sweet-sour sauce lane: reduced tamarind, dark-fruity sweetness, cumin-ginger warmth, rice vinegar lift, salt, cayenne, and red pepper flake heat. |
 
 ## Equipment Map
 
@@ -99,7 +99,7 @@ Target bite:
 | Time | Task |
 |---:|---|
 | 2+ hr before serving | Make guajillo-harissa paste and marinate chicken. |
-| 60–75 min before serving | Soak whole tamarind, strain, reduce if needed, and simmer chutney. |
+| 60–75 min before serving | Soak whole tamarind, strain, always reduce to 1/2 cup strong extract, and simmer chutney. |
 | 45 min before serving | Make brik filling and wrap triangles. |
 | 35 min before serving | Roast spiced cashews. |
 | 25 min before serving | Build spicy tomato-olive couscous base. |
@@ -118,7 +118,7 @@ Target bite:
 | Hot Honey | Reserved guajillo-harissa paste, honey, butter, red Thai chiles, vinegar or lemon juice, salt, optional cayenne. |
 | Cashews | Cashews, olive oil or butter, smoked paprika, cumin, coriander, garlic powder, cayenne or red pepper flakes, salt, brown sugar. |
 | Brik Triangles | Egg roll wrappers, eggs, pepper jack, Parmesan, green olives, Thai chili, cilantro, smoked paprika, cumin, garlic powder, black pepper, sealing paste, frying oil. |
-| Tamarind Chutney | Whole tamarind, hot water, brown sugar, honey, dates or raisins, cumin, ginger, cayenne or red pepper flakes, salt, optional garlic powder, rice vinegar for correction if needed. |
+| Tamarind Chutney | Whole tamarind, hot water, brown sugar, honey, dates or raisins, cumin, ginger, cayenne, red pepper flakes, salt, optional garlic powder, rice vinegar. |
 
 ## Measured Ingredients by Component
 
@@ -226,22 +226,23 @@ Target bite:
 | Amount | Ingredient | Notes |
 |---:|---|---|
 | 2 oz / 55 g | whole tamarind pods or pulp | About 1/2 cup loosely packed broken tamarind pieces after shells are removed. |
-| 1 cup | hot water | For extraction; reduce strained liquid to 1/2 cup if it tastes mild. |
+| 1 cup | hot water | For extraction only; always reduce the strained liquid to 1/2 cup strong extract. |
 
 #### Chutney
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 1/2 cup | strong tamarind extract | Reduce to this amount before building chutney if needed. |
+| 1/2 cup | reduced strong tamarind extract | Always reduce to this amount before building chutney. |
 | 2 Tbsp | brown sugar | Dark sweetness. |
 | 2 Tbsp | honey | Round sweetness. |
 | 2 Tbsp | chopped dates or raisins | Dark-fruity body. |
 | 1/2 tsp | ground cumin | Warm depth. |
 | 1/2 tsp | ginger powder or 1 tsp fresh ginger | Warm-spicy lift. |
-| To taste | cayenne and red pepper flakes | Add enough heat to wake it up. |
+| 1/4 tsp | cayenne | Canon heat level; adjust to taste. |
+| 1/4 tsp | red pepper flakes | Canon heat level; adjust to taste. |
 | 1/4 tsp | salt | Adjust; salt wakes up tamarind. |
 | Tiny pinch | garlic powder | Optional. |
-| 1–2 tsp | rice vinegar | Optional correction if chutney tastes too sweet. |
+| 1 tsp | rice vinegar | Canon balancing acid; add 1 tsp more if chutney tastes too sweet. |
 
 ## Cross-Component Prep Map
 
@@ -252,7 +253,7 @@ Target bite:
 | Thai chiles | 2–3 total | 1–2 hot honey, 1 brik filling |
 | Green olives | 4–6 Tbsp chopped total | 2–3 Tbsp couscous, 2–3 Tbsp brik filling |
 | Cilantro | 3–4 Tbsp chopped total | 2–3 Tbsp couscous, 1 Tbsp brik filling |
-| Tamarind | 2 oz / 55 g whole tamarind plus 1 cup hot water, reduced if needed | Chutney extract |
+| Tamarind | 2 oz / 55 g whole tamarind plus 1 cup hot water, always reduced to 1/2 cup strong extract | Chutney extract |
 
 ## Stage-Based Prep Bowls
 
@@ -280,8 +281,8 @@ Target bite:
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Tamarind Extract | 2 oz / 55 g whole tamarind pods or pulp, 1 cup hot water | Soak, mash, strain; reduce if needed to 1/2 cup strong extract. |
-| Bowl 2 — Chutney | 1/2 cup strong tamarind extract, 2 Tbsp brown sugar, 2 Tbsp honey, 2 Tbsp dates/raisins, 1/2 tsp cumin, 1/2 tsp ginger powder or 1 tsp fresh ginger, cayenne and red pepper flakes to taste, 1/4 tsp salt, optional tiny pinch garlic powder | Simmer 6–10 minutes; correct sweetness with tamarind, rice vinegar, salt, and heat. |
+| Bowl 1 — Tamarind Extract | 2 oz / 55 g whole tamarind pods or pulp, 1 cup hot water | Soak, mash, strain, then always reduce to 1/2 cup strong extract. |
+| Bowl 2 — Chutney | 1/2 cup reduced strong tamarind extract, 2 Tbsp brown sugar, 2 Tbsp honey, 2 Tbsp dates/raisins, 1/2 tsp cumin, 1/2 tsp ginger powder or 1 tsp fresh ginger, 1/4 tsp cayenne, 1/4 tsp red pepper flakes, 1/4 tsp salt, 1 tsp rice vinegar, optional tiny pinch garlic powder | Simmer 6–10 minutes; correct sweetness with more rice vinegar, salt, and heat. |
 | Bowl 3 — Brik Filling | 2 soft-scrambled eggs, 1/3 cup pepper jack, 1 Tbsp Parmesan, 2–3 Tbsp chopped olives, 1 minced Thai chili, 1 Tbsp cilantro, 1/4 tsp smoked paprika, 1/4 tsp cumin, 1/4 tsp garlic powder, pinch black pepper | Taste before wrapping; no extra salt at first. |
 | Bowl 4 — Wrapper Station | 6–8 egg roll wrappers, brik filling, 1 Tbsp flour + 1 Tbsp water paste or beaten egg | Use about 1 1/2 Tbsp filling per wrapper. |
 | Bowl 5 — Cashews | 1/2 cup cashews, 1 tsp olive oil or melted butter, 1/2 tsp smoked paprika, 1/4 tsp cumin, 1/4 tsp coriander, 1/8 tsp garlic powder, pinch cayenne, 1/4 tsp salt, 1/2 tsp brown sugar | Roast at 325°F. |
@@ -296,7 +297,8 @@ Target bite:
 - Use about **1 1/2 Tbsp filling per brik wrapper** so the triangles seal cleanly.
 - Cashews burn quickly; roast at **325°F** and use brown sugar instead of honey.
 - For the hot-running electric skillet, start chicken around **300°F** and raise only if browning is too slow.
-- Tamarind extract should taste boldly sour-fruity. If it only tastes slightly sour, reduce it before building the chutney.
+- Always reduce the strained tamarind liquid to **1/2 cup strong extract** before building the chutney.
+- The chutney needs rice vinegar, cayenne, and red pepper flakes so it stays tangy-hot instead of sweet.
 
 ## Full Cooking Timeline and Instructions
 
@@ -304,7 +306,7 @@ Target bite:
 
 Remove shells and tough strings from **2 oz / 55 g whole tamarind pods or pulp**. You should have about **1/2 cup loosely packed broken tamarind pieces**. Place in a bowl with **1 cup hot water**. Soak **15–20 minutes**, mash thoroughly, then strain through a fine mesh strainer, pressing hard and scraping the underside of the strainer.
 
-Taste the strained liquid. If it tastes only lightly sour or watery, simmer it uncovered until reduced to **1/2 cup strong extract**. The final extract should taste clearly sour-fruity before sugar is added.
+Pour the strained liquid into a small saucepan and simmer uncovered until reduced to **1/2 cup strong extract**. This reduction is canon for the recipe; it concentrates the sour-fruity tamarind and keeps the finished chutney from tasting thin or overly sweet.
 
 ### 2. Toast and Soak Guajillos
 
@@ -322,9 +324,9 @@ Reserve **2 1/2 Tbsp paste** for the hot honey and **2 1/2 Tbsp paste** for the 
 
 ### 5. Simmer Tamarind-Date Chutney
 
-In a small saucepan, combine **1/2 cup strong tamarind extract**, **2 Tbsp brown sugar**, **2 Tbsp honey**, **2 Tbsp chopped dates or raisins**, **1/2 tsp cumin**, **1/2 tsp ginger powder or 1 tsp fresh ginger**, cayenne and red pepper flakes to taste, **1/4 tsp salt**, and optional tiny pinch garlic powder. Simmer **6–10 minutes**, stirring often, until glossy and spoonable.
+In a small saucepan, combine **1/2 cup reduced strong tamarind extract**, **2 Tbsp brown sugar**, **2 Tbsp honey**, **2 Tbsp chopped dates or raisins**, **1/2 tsp cumin**, **1/2 tsp ginger powder or 1 tsp fresh ginger**, **1/4 tsp cayenne**, **1/4 tsp red pepper flakes**, **1/4 tsp salt**, **1 tsp rice vinegar**, and optional tiny pinch garlic powder. Simmer **6–10 minutes**, stirring often, until glossy and spoonable.
 
-Taste target: tangy/sour first, dark sweet second, warm spice, chile heat, and salty pop. If it tastes too sweet, correct with a small splash of rice vinegar, extra tamarind if available, a pinch of salt, and more chile heat.
+Taste target: tangy/sour first, dark sweet second, warm cumin-ginger spice, real chile heat, and salty pop. If it tastes too sweet, correct with another **1 tsp rice vinegar**, a pinch of salt, and more cayenne or red pepper flakes.
 
 ### 6. Roast Smoky Sweet-Hot Cashews
 
@@ -376,7 +378,7 @@ Spoon Thai chili hot honey over the rested chicken. Plate spicy tomato-olive cou
 
 ## Final Taste Target
 
-The finished meal should taste smoky, spicy, tomato-rich, garlicky, briny, buttery, sweet-hot, crisp, cheesy, and darkly sweet-sour. The main plate should deliver chile chicken, bold couscous, hot honey, cilantro lift, and cashew crunch. The side should feel like a separate street-food event: crisp wrappers, melty pepper jack, savory Parmesan, soft egg, olives, Thai chili, cilantro, and bold tamarind-date chutney.
+The finished meal should taste smoky, spicy, tomato-rich, garlicky, briny, buttery, sweet-hot, crisp, cheesy, and darkly sweet-sour. The main plate should deliver chile chicken, bold couscous, hot honey, cilantro lift, and cashew crunch. The side should feel like a separate street-food event: crisp wrappers, melty pepper jack, savory Parmesan, soft egg, olives, Thai chili, cilantro, and bold reduced tamarind-date chutney with rice-vinegar tang and real chile heat.
 
 ## Pairs Well With
 
@@ -389,14 +391,14 @@ The finished meal should taste smoky, spicy, tomato-rich, garlicky, briny, butte
 <details>
 <summary>Flavor Architecture</summary>
 
-This Hall of Fame plate uses two distinct bold lanes. The main lane is smoky guajillo-harissa chicken, spicy tomato-olive couscous, Thai chili hot honey, cilantro, and sweet-hot cashews. The side lane is crispy pepper jack-Parmesan egg-olive brik triangles with tamarind-date chutney. The side does not repeat the main flavor profile; it adds fried pastry, cheese, egg, brine, and dark sweet-sour chutney contrast.
+This Hall of Fame plate uses two distinct bold lanes. The main lane is smoky guajillo-harissa chicken, spicy tomato-olive couscous, Thai chili hot honey, cilantro, and sweet-hot cashews. The side lane is crispy pepper jack-Parmesan egg-olive brik triangles with reduced tamarind-date chutney. The side does not repeat the main flavor profile; it adds fried pastry, cheese, egg, brine, and dark sweet-sour chutney contrast.
 
 </details>
 
 <details>
 <summary>Live-Test Notes</summary>
 
-Don identified this as one of his favorites, and the final live-tested version belongs in the Flavorweaver Hall of Fame. Canon corrections: use **2 1/2 Tbsp reserved paste in the couscous**, finish the couscous with **cilantro instead of parsley**, make the brik filling with **pepper jack + Parmesan** only, use **brown sugar instead of honey on the cashews**, and reduce tamarind extract to a strong **1/2 cup** before building the chutney if the extract tastes mild.
+Don identified this as one of his favorites, and the final live-tested version belongs in the Flavorweaver Hall of Fame. Canon corrections: use **2 1/2 Tbsp reserved paste in the couscous**, finish the couscous with **cilantro instead of parsley**, make the brik filling with **pepper jack + Parmesan** only, use **brown sugar instead of honey on the cashews**, always reduce tamarind extract to a strong **1/2 cup** before building the chutney, include **rice vinegar** in the chutney, and use stronger **cayenne + red pepper flake** heat so the chutney stays tangy-hot instead of sweet.
 
 </details>
 

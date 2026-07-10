@@ -4,6 +4,20 @@ This folder is the canon home for active Flavorweaver templates.
 
 Root-level `templates/` is no longer an active template location.
 
+## Flavorweaver House Rules
+
+Canon house-rule file:
+
+```text
+docs/flavorweaver-house-rules.md
+```
+
+Before developing or revising Flavorweaver world-cuisine recipes, check the house rules alongside the source and HTML templates. These rules capture Amy and Don palate decisions that should shape recipe development.
+
+Current locked house rules include:
+
+- Clean seafood sweetness is welcome, but fishy/funky seafood flavor is not. Fish sauce, dried shrimp, shrimp paste, anchovy-forward sauces, and fermented seafood elements must be used with restraint unless Amy explicitly approves a test.
+
 ## Recipe Identity Standard
 
 Canon file:

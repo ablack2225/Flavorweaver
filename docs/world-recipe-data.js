@@ -15,9 +15,9 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     collection: 'House Recipes',
     culture: 'North African Inspired',
     category: 'Main Dish',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['chicken thighs', 'dried guajillo chiles', 'couscous', 'green olives', 'cashews', 'egg roll wrappers', 'eggs', 'pepper jack', 'mozzarella', 'whole tamarind', 'dates', 'honey', 'red Thai chili', 'garlic', 'tomato paste', 'chicken broth', 'onion', 'red pepper flakes', 'cumin', 'coriander', 'caraway', 'smoked paprika', 'ginger', 'butter', 'olive oil'],
-    tags: ['North-African-Inspired', 'north-african-inspired', 'guajillo harissa', 'spicy tomato olive couscous', 'Thai chili hot honey', 'tamarind date chutney', 'brik inspired triangles', 'pepper jack', 'egg roll wrappers', 'spiced cashews', 'bold plate', 'complete plate']
+    status: 'Hall of Fame',
+    ingredients: ['chicken thighs', 'dried guajillo chiles', 'couscous', 'green olives', 'cashews', 'egg roll wrappers', 'eggs', 'pepper jack', 'parmesan', 'whole tamarind', 'dates', 'honey', 'brown sugar', 'red Thai chili', 'cilantro', 'garlic', 'tomato paste', 'chicken broth', 'onion', 'red pepper flakes', 'cumin', 'coriander', 'caraway', 'smoked paprika', 'ginger', 'butter', 'olive oil'],
+    tags: ['North-African-Inspired', 'north-african-inspired', 'guajillo harissa', 'spicy tomato olive couscous', 'Thai chili hot honey', 'tamarind date chutney', 'brik inspired triangles', 'pepper jack', 'parmesan', 'egg roll wrappers', 'spiced cashews', 'cilantro finish', 'bold plate', 'complete plate', 'Don favorite', 'Hall of Fame']
   },
   {
     title: 'Whole-Tamarind Shrimp Pad Thai',
@@ -40,14 +40,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Vietnamese-Inspired', 'vietnamese-inspired', 'banh xeo', 'bánh xèo', 'crispy crepe', 'shrimp', 'pork', 'bean sprouts', 'nuoc cham', 'nước chấm', 'lettuce wraps']
   },
   {
-    title: 'Moroccan-Inspired Chicken Tagine',
+    title: 'Moroccan-Inspired Chicken Tagine with Apricot-Orange Glaze',
     path: 'recipes/moroccan/moroccan-inspired-chicken-tagine.html',
     collection: 'House Recipes',
     culture: 'Moroccan Inspired',
     category: 'Main Dish',
     status: 'Flavorweaver Test Recipe',
-    ingredients: ['chicken thighs', 'preserved lemon', 'green olives', 'dried apricots', 'couscous', 'cashews', 'onion', 'garlic', 'fresh ginger', 'tomato paste', 'chicken broth', 'cumin', 'coriander', 'paprika', 'turmeric', 'cinnamon', 'parsley', 'cilantro', 'orange marmalade', 'honey'],
-    tags: ['Moroccan-Inspired', 'moroccan-inspired', 'chicken tagine', 'preserved lemon', 'jammy onion', 'green olives', 'dried apricots', 'golden couscous', 'toasted cashews']
+    ingredients: ['chicken thighs', 'preserved lemon', 'green olives', 'dried apricots', 'couscous', 'cashews', 'onion', 'garlic', 'fresh ginger', 'tomato paste', 'chicken broth', 'cumin', 'coriander', 'paprika', 'turmeric', 'cinnamon', 'cilantro', 'orange marmalade', 'honey', 'soy sauce', 'Worcestershire sauce', 'cayenne', 'brown sugar', 'butter'],
+    tags: ['Moroccan-Inspired', 'moroccan-inspired', 'chicken tagine', 'preserved lemon', 'orange marmalade', 'apricot glaze', 'jammy onion', 'green olives', 'dried apricots', 'golden couscous', 'spiced cashews', 'sweet spicy cashews', 'soy umami', 'Worcestershire', 'spicy sweet glaze', 'cilantro finish', 'bold plate']
   },
   {
     title: 'Turkish-Inspired Spiced Lamb Pide',
@@ -158,255 +158,5 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Flavorweaver Test Recipe',
     ingredients: ['chicken thighs', 'yogurt', 'sour cream substitution', 'cashews', 'onion', 'chicken broth', 'heavy cream', 'ginger garlic paste', 'green cardamom', 'cinnamon', 'cloves', 'bay leaf', 'coriander', 'cumin', 'turmeric', 'garam masala', 'basmati rice', 'naan'],
     tags: ['Indian-Inspired', 'indian-inspired', 'chicken korma', 'mughlai-style', 'Mughlai-Style', 'brown onion gravy', 'browned onion-cashew gravy', 'cashew gravy', 'yogurt marinade', 'electric skillet', 'extra sauce', 'sauce-driven', 'project meal']
-  },
-  {
-    title: 'Restaurant-Style Malai Kofta',
-    path: 'recipes/indian/restaurant-style-malai-kofta.html',
-    collection: 'House Recipes',
-    culture: 'Indian Inspired',
-    category: 'Main Dish',
-    status: 'House Favorite',
-    ingredients: ['paneer', 'potato', 'cashews', 'raisins', 'onion', 'tomatoes', 'cream', 'butter', 'kasuri methi', 'garam masala', 'coriander powder', 'Kashmiri chili powder'],
-    tags: ['Indian-Inspired', 'indian-inspired', 'malai kofta', 'paneer kofta', 'restaurant-style', 'creamy curry', 'project meal', 'house favorite']
-  },
-  {
-    title: 'Palak Paneer',
-    path: 'recipes/indian/palak-paneer.html',
-    collection: 'House Recipes',
-    culture: 'Indian Inspired',
-    category: 'Main Dish',
-    status: 'Working Recipe',
-    ingredients: ['spinach', 'paneer', 'whole milk', 'lemon juice', 'onion', 'tomatoes', 'fenugreek seeds', 'cumin', 'coriander', 'curry powder', 'cream', 'ginger', 'garlic', 'green chili'],
-    tags: ['Indian-Inspired', 'indian-inspired', 'palak paneer', 'spinach curry', 'homemade paneer', 'whole milk paneer', 'lemon paneer', 'pan-fried paneer', 'curry powder', 'vegetarian curry']
-  },
-  {
-    title: 'Onion Bhaji-Inspired Fritters with Quick Green Chutney',
-    path: 'recipes/indian/onion-bhaji-inspired-fritters-with-green-chutney.html',
-    collection: 'House Recipes',
-    culture: 'Indian Inspired',
-    category: 'Appetizer',
-    status: 'Emergency Pantry Version',
-    ingredients: ['onion', 'all-purpose flour', 'cornstarch', 'ginger', 'garlic', 'cilantro', 'serrano', 'coriander', 'garam masala', 'cumin', 'chili powder', 'lemon juice', 'mint'],
-    tags: ['Indian-Inspired', 'indian-inspired', 'onion bhaji', 'onion fritters', 'emergency pantry version', 'ap flour', 'cornstarch', 'green chutney', 'cilantro chutney', 'fried appetizer']
-  },
-  {
-    title: 'Don\'s Food-Truck Memory Falafel Naan Wraps',
-    path: 'recipes/middle-eastern/dons-food-truck-memory-falafel-naan-wraps.html',
-    collection: 'House Recipes',
-    culture: 'Middle Eastern Inspired',
-    category: 'Featured Meal',
-    status: 'Top 10 Candidate · Canon-Lock Candidate',
-    ingredients: ['dried chickpeas', 'naan', 'tomato', 'onion', 'mayonnaise', 'sour cream', 'Greek yogurt', 'dill', 'garlic', 'lemon juice', 'guajillo chiles', 'tomato paste', 'vinegar-style hot sauce', 'chipotle powder', 'tahini', 'cumin', 'coriander', 'parsley', 'cilantro', 'mint'],
-    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'falafel', 'naan wrap', 'food truck memory', 'top 10 candidate', 'canon-lock candidate', 'spot on', 'dried chickpeas', 'meat grinder', 'deep fried', 'ranch white sauce', 'fiery red sauce', 'lemon tahini', 'complete wrap', 'sauce bar']
-  },
-  {
-    title: 'Chicken Shawarma Naan Wraps with Garlic Sauce and Lemon Tahini',
-    path: 'recipes/middle-eastern/chicken-shawarma-naan-wraps.html',
-    collection: 'House Recipes',
-    culture: 'Middle Eastern Inspired',
-    category: 'Featured Meal',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['chicken thighs', 'naan', 'tahini', 'mayonnaise', 'Greek yogurt', 'sour cream', 'lemon juice', 'garlic', 'cumin', 'coriander', 'smoked paprika', 'turmeric', 'allspice', 'cardamom', 'cinnamon', 'ginger', 'nutmeg', 'cayenne', 'potatoes', 'pickles', 'tomato', 'cucumber', 'onion'],
-    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'chicken shawarma', 'shawarma wraps', 'naan wrap', 'chicken thighs', 'garlic sauce', 'toum-style garlic sauce', 'lemon tahini', 'crispy potatoes', 'pickles', 'complete wrap', 'sauce bar', 'first live test']
-  },
-  {
-    title: 'Gochujang Crema',
-    path: 'recipes/condiments/gochujang-crema.html',
-    collection: 'House Recipes',
-    culture: 'Korean Inspired',
-    category: 'Condiment',
-    status: 'House Staple',
-    ingredients: ['sour cream', 'gochujang', 'lime juice', 'sugar', 'water'],
-    tags: ['sauce', 'crema', 'house staple', 'drizzle sauce']
-  },
-  {
-    title: 'Asian Pickled Garden Vegetables',
-    path: 'recipes/condiments/asian-pickled-garden-vegetables.html',
-    collection: 'House Recipes',
-    culture: 'Asian Inspired',
-    category: 'Condiment',
-    status: 'Working Recipe',
-    ingredients: ['zucchini', 'yellow squash', 'cucumber', 'carrot', 'green onions', 'rice vinegar', 'sugar', 'salt', 'lime', 'cilantro', 'serrano', 'sesame oil', 'sesame seeds'],
-    tags: ['quick pickles', 'garden vegetables', 'rice vinegar', 'fresh', 'crunchy', 'cucumber alternative', 'house staple', 'service modes', 'bo kho mode']
-  },
-  {
-    title: 'Garlic-Oyster Broccoli with Ginger, Lime & White Pepper',
-    path: 'recipes/asian/garlic-oyster-broccoli-with-ginger-lime-and-white-pepper.html',
-    collection: 'House Recipes',
-    culture: 'Asian Inspired',
-    category: 'Vegetable Side',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['frozen broccoli', 'garlic', 'ginger', 'oyster sauce', 'soy sauce', 'rice wine', 'dry sherry', 'fish sauce', 'lime juice', 'white pepper', 'green onion', 'sesame seeds', 'crispy fried shallot rings'],
-    tags: ['Asian-Inspired', 'asian-inspired', 'broccoli', 'frozen broccoli', 'oyster sauce', 'garlic', 'ginger', 'lime', 'white pepper', 'vegetable side', 'stir-fry side', 'bang bang shrimp pairing']
-  },
-  {
-    title: 'Lemongrass Chicken Bowls',
-    path: 'recipes/vietnamese/lemongrass-chicken-bowls.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Main Dish',
-    status: 'Hall of Fame Candidate',
-    ingredients: ['chicken thighs', 'lemongrass paste', 'garlic', 'angel hair pasta', 'napa cabbage', 'cucumber', 'cashews', 'ginger nuoc cham', 'asian pickled vegetables'],
-    tags: ['top 10 meal', 'chicken bowl', 'lemongrass chicken', 'ginger nuoc cham', 'napa cabbage', 'sauce-driven']
-  },
-  {
-    title: 'Vietnamese Bò Kho-Style Brisket Stew',
-    path: 'recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Main Dish',
-    status: 'Working Recipe',
-    ingredients: ['brisket', 'fish sauce', 'soy sauce', 'tomato paste', 'ginger', 'garlic', 'lemongrass', 'five-spice', 'beef broth', 'water', 'carrots'],
-    tags: ['bo kho', 'bò kho', 'brisket', 'beef stew', 'lemongrass', 'five spice', 'component recipe']
-  },
-  {
-    title: 'Bánh Mì Không-Style Dipping Rolls',
-    path: 'recipes/vietnamese/banh-mi-khong-style-dipping-rolls.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Bread',
-    status: 'Working Recipe',
-    ingredients: ['all-purpose flour', 'bread flour', 'active dry yeast', 'sugar', 'water', 'salt', 'neutral oil', 'lime juice'],
-    tags: ['banh mi', 'bánh mì', 'bread', 'dipping rolls', 'active dry yeast', 'optional bread service']
-  },
-  {
-    title: 'Vietnamese Bò Kho-Style Brisket Stew Bowl',
-    path: 'recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Featured Meal',
-    status: 'Working Recipe',
-    ingredients: ['brisket stew', 'wide rice noodles', 'asian pickled garden vegetables', 'lime', 'cilantro', 'green onion', 'serrano', 'sriracha', 'lemongrass', 'fish sauce'],
-    tags: ['bo kho', 'bò kho', 'brisket stew bowl', 'wide rice noodles', 'featured meal', 'project meal', 'noodle bowl', 'complete bowl']
-  },
-  {
-    title: 'Fresh Vegetable Spring Rolls',
-    path: 'recipes/vietnamese/fresh-vegetable-spring-rolls.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Appetizer',
-    status: 'Working Recipe',
-    ingredients: ['rice paper wrappers', 'napa cabbage', 'cucumber', 'carrot', 'cilantro', 'angel hair pasta', 'peanut dipping sauce', 'ginger nuoc cham'],
-    tags: ['spring rolls', 'fresh rolls', 'vegetable spring rolls', 'rice paper', 'fresh vegetables']
-  },
-  {
-    title: 'Restaurant-Style Ginger Nuoc Cham',
-    path: 'recipes/condiments/ginger-nuoc-cham.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Condiment',
-    status: 'Working Recipe',
-    ingredients: ['water', 'sugar', 'ginger paste', 'garlic', 'lemongrass paste', 'fish sauce', 'lime', 'serrano'],
-    tags: ['dipping sauce', 'fish sauce', 'ginger', 'lime', 'sweet-salty', 'bright']
-  },
-  {
-    title: 'Peanut Dipping Sauce',
-    path: 'recipes/condiments/peanut-sauce.html',
-    collection: 'House Recipes',
-    culture: 'Vietnamese Inspired',
-    category: 'Condiment',
-    status: 'Working Recipe',
-    ingredients: ['peanut butter', 'ginger nuoc cham', 'hoisin sauce', 'soy sauce', 'garlic', 'ginger', 'lime', 'warm water'],
-    tags: ['dipping sauce', 'peanut sauce', 'hoisin', 'creamy']
-  },
-  {
-    title: 'Ethiopian-Inspired Doro Wat Platter',
-    path: 'recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html',
-    collection: 'House Recipes',
-    culture: 'Ethiopian Inspired',
-    category: 'Main Dish',
-    status: 'Working Recipe',
-    ingredients: ['chicken thighs', 'hard-boiled eggs', 'paprika', 'cayenne', 'fenugreek', 'onion', 'garlic', 'ginger', 'tomato paste', 'yellow split peas', 'red lentils', 'cabbage', 'carrot', 'tomato', 'cucumber', 'naan', 'injera'],
-    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Doro Wat', 'doro wat', 'complete meal plate', 'berbere-style', 'Split Pea Alicha', 'split pea alicha', 'Misir Wat', 'misir wat', 'red lentils', 'Atakilt Wat', 'atakilt wat', 'Timatim Salad', 'timatim salad', 'Naan', 'naan substitute', 'Injera', 'injera', 'traditional upgrade path']
-  },
-  {
-    title: 'Split Pea Alicha',
-    path: 'recipes/ethiopian/sides/split-pea-alicha.html',
-    collection: 'House Recipes',
-    culture: 'Ethiopian Inspired',
-    category: 'Side Dish',
-    status: 'First Test',
-    ingredients: ['yellow split peas', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'black pepper', 'butter', 'oil'],
-    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Split Pea Alicha', 'split pea alicha', 'yellow split peas', 'split peas', 'alicha', 'side dish', 'stew', 'doro wat platter', 'dairy-minimal']
-  },
-  {
-    title: 'Misir Wat',
-    path: 'recipes/ethiopian/sides/misir-wat.html',
-    collection: 'House Recipes',
-    culture: 'Ethiopian',
-    category: 'Side Dish',
-    status: 'Working Recipe',
-    ingredients: ['red lentils', 'onion', 'garlic', 'ginger', 'berbere', 'tomato paste', 'water', 'broth', 'butter', 'oil', 'lemon'],
-    tags: ['Ethiopian', 'Ethiopian-Inspired', 'ethiopian', 'ethiopian-inspired', 'Misir Wat', 'misir wat', 'red lentils', 'berbere', 'side dish', 'stew', 'doro wat platter', 'traditional upgrade path']
-  },
-  {
-    title: 'Atakilt Wat',
-    path: 'recipes/ethiopian/sides/atakilt-wat.html',
-    collection: 'House Recipes',
-    culture: 'Ethiopian Inspired',
-    category: 'Side Dish',
-    status: 'Working Recipe',
-    ingredients: ['cabbage', 'carrot', 'potato', 'onion', 'garlic', 'ginger', 'turmeric', 'cumin', 'coriander', 'butter', 'oil'],
-    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Atakilt Wat', 'atakilt wat', 'cabbage', 'carrot', 'potato', 'side dish', 'doro wat platter']
-  },
-  {
-    title: 'Timatim Salad',
-    path: 'recipes/ethiopian/salads/timatim-salad.html',
-    collection: 'House Recipes',
-    culture: 'Ethiopian Inspired',
-    category: 'Salads, Slaws & Dips',
-    status: 'Working Recipe',
-    ingredients: ['tomato', 'cucumber', 'onion', 'lemon juice', 'olive oil', 'black pepper', 'jalapeno', 'serrano', 'parsley', 'cilantro'],
-    tags: ['Ethiopian-Inspired', 'ethiopian-inspired', 'Timatim', 'timatim', 'Timatim Salad', 'timatim salad', 'tomato cucumber', 'salad', 'fresh', 'acidic', 'doro wat platter']
-  },
-  {
-    title: 'Teff Starter & Real Injera',
-    path: 'recipes/ethiopian/breads/teff-starter-and-real-injera.html',
-    collection: 'House Recipes',
-    culture: 'Ethiopian',
-    category: 'Bread',
-    status: 'Traditional Technique',
-    ingredients: ['teff flour', 'water', 'active teff starter', 'salt'],
-    tags: ['Ethiopian', 'Injera', 'injera', 'Teff', 'teff', 'teff starter', 'fermented', 'flatbread', 'starter', 'traditional technique', 'dairy-free', 'doro wat platter', 'misir wat']
-  },
-  {
-    title: 'Fluffy Skillet Naan',
-    path: 'recipes/indian/breads/fluffy-skillet-naan.html',
-    collection: 'House Recipes',
-    culture: 'Indian Inspired',
-    category: 'Bread',
-    status: 'House Staple',
-    ingredients: ['yeast', 'warm water', 'sugar', 'milk', 'room-temperature egg', 'salt', 'bread flour', 'all-purpose flour', 'ghee', 'butter', 'garlic'],
-    tags: ['Indian-Inspired', 'indian-inspired', 'Naan', 'naan', 'skillet bread', 'scoop bread', 'house staple', 'doro wat platter substitute']
-  },
-  {
-    title: 'Pork Loin Schnitzel with Rotkohl',
-    path: 'recipes/german/pork-loin-schnitzel-with-rotkohl.html',
-    collection: 'House Recipes',
-    culture: 'German Inspired',
-    category: 'Main Dish',
-    status: 'Recreation Candidate / Don Comfort Plate',
-    ingredients: ['pork loin', 'pork cutlets', 'flour', 'eggs', 'breadcrumbs', 'panko', 'neutral oil', 'lemon', 'purple cabbage', 'red cabbage', 'yellow onion', 'Granny Smith apple', 'apple cider vinegar', 'brown sugar', 'butter', 'bay leaf', 'cinnamon', 'cloves', 'Dijon mustard'],
-    tags: ['German-Inspired', 'german-inspired', 'pork schnitzel', 'schnitzel', 'pork loin', 'rotkohl', 'sweet sour red cabbage', 'purple cabbage', 'red cabbage', 'Don comfort plate', 'comfort food', 'plate recipe']
-  },
-  {
-    title: 'Bratkartoffeln-Style German Fried Potatoes',
-    path: 'recipes/german/bratkartoffeln-style-german-fried-potatoes.html',
-    collection: 'House Recipes',
-    culture: 'German Inspired',
-    category: 'Side Dish',
-    status: 'Recreation Candidate / Schnitzel Side',
-    ingredients: ['cubed hashbrown potatoes', 'bacon', 'onion', 'butter', 'kosher salt', 'black pepper', 'garlic powder', 'plain paprika', 'caraway seed', 'dried marjoram', 'dried thyme', 'green onion'],
-    tags: ['German-Inspired', 'german-inspired', 'bratkartoffeln', 'German fried potatoes', 'bacon onion potatoes', 'hashbrown shortcut', 'schnitzel side', 'rotkohl pairing', 'electric skillet']
-  },
-  {
-    title: 'Soft Buttery Steakhouse-Style Dinner Rolls',
-    path: 'recipes/american/soft-buttery-steakhouse-style-dinner-rolls.html',
-    collection: 'House Recipes',
-    culture: 'American Inspired',
-    category: 'Bread',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['whole milk', 'active dry yeast', 'granulated sugar', 'honey', 'unsalted butter', 'egg', 'kosher salt', 'all-purpose flour', 'bread flour', 'powdered sugar', 'cinnamon'],
-    tags: ['American-Inspired', 'american-inspired', 'dinner rolls', 'yeast rolls', 'soft rolls', 'buttery rolls', 'honey butter', 'whipped honey butter', 'bread service', 'steakhouse-style']
   }
 ];

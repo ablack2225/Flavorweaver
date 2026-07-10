@@ -40,14 +40,14 @@
     "tags": ["vietnamese-inspired", "banh xeo", "bánh xèo", "crispy crepe", "shrimp", "pork", "bean sprouts", "nuoc cham", "lettuce wraps", "html page"]
   },
   {
-    "title": "Moroccan-Inspired Chicken Tagine",
+    "title": "Moroccan-Inspired Chicken Tagine with Apricot-Orange Glaze",
     "path": "recipes/moroccan/moroccan-inspired-chicken-tagine.html",
     "sourcePath": "recipes/moroccan/main-dishes/moroccan-inspired-chicken-tagine.md",
     "cuisine": "Moroccan Inspired",
     "category": "Main Dish",
     "status": "Flavorweaver Test Recipe",
-    "ingredients": ["chicken thighs", "preserved lemon", "green olives", "dried apricots", "couscous", "cashews", "onion", "garlic", "fresh ginger", "tomato paste", "chicken broth", "cumin", "coriander", "paprika", "turmeric", "cinnamon", "parsley", "cilantro"],
-    "tags": ["moroccan-inspired", "chicken tagine", "preserved lemon", "jammy onion", "green olives", "dried apricots", "golden couscous", "toasted cashews", "html page"]
+    "ingredients": ["chicken thighs", "preserved lemon", "green olives", "dried apricots", "couscous", "cashews", "onion", "garlic", "fresh ginger", "tomato paste", "chicken broth", "cumin", "coriander", "paprika", "turmeric", "cinnamon", "cilantro", "orange marmalade", "honey", "soy sauce", "Worcestershire sauce", "cayenne", "butter"],
+    "tags": ["moroccan-inspired", "chicken tagine", "preserved lemon", "orange marmalade", "apricot glaze", "jammy onion", "green olives", "dried apricots", "golden couscous", "spiced cashews", "soy umami", "Worcestershire", "spicy sweet glaze", "cilantro finish", "bold plate", "html page"]
   },
   {
     "title": "Turkish-Inspired Spiced Lamb Pide",
@@ -78,125 +78,5 @@
     "status": "Working Recipe",
     "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "salt", "lime", "cilantro", "serrano", "sesame oil", "sesame seeds"],
     "tags": ["quick pickles", "garden vegetables", "rice vinegar", "house staple", "service modes", "bo kho mode", "html page"]
-  },
-  {
-    "title": "Lemongrass Chicken Bowls",
-    "path": "recipes/vietnamese/lemongrass-chicken-bowls.html",
-    "sourcePath": "recipes/vietnamese/main-dishes/lemongrass-chicken-bowls.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Main Dish",
-    "status": "Working Recipe",
-    "ingredients": ["chicken thighs", "lemongrass paste", "garlic", "angel hair pasta", "napa cabbage", "cucumber", "cashews"],
-    "tags": ["chicken bowl", "lemongrass chicken", "vietnamese-inspired", "html page"]
-  },
-  {
-    "title": "Vietnamese Bò Kho-Style Brisket Stew",
-    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew.html",
-    "sourcePath": "recipes/vietnamese/main-dishes/vietnamese-bo-kho-style-brisket-stew.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Main Dish",
-    "status": "Working Recipe",
-    "ingredients": ["brisket", "fish sauce", "soy sauce", "tomato paste", "ginger", "garlic", "lemongrass", "five-spice", "beef broth", "water", "carrots"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket", "beef stew", "lemongrass", "five spice", "component recipe", "html page"]
-  },
-  {
-    "title": "Bánh Mì Không-Style Dipping Rolls",
-    "path": "recipes/vietnamese/banh-mi-khong-style-dipping-rolls.html",
-    "sourcePath": "recipes/vietnamese/breads/banh-mi-khong-style-dipping-rolls.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Bread",
-    "status": "Working Recipe",
-    "ingredients": ["all-purpose flour", "bread flour", "active dry yeast", "sugar", "water", "salt", "neutral oil", "lime juice"],
-    "tags": ["vietnamese-inspired", "banh mi", "bánh mì", "dipping rolls", "active dry yeast", "optional bread service", "html page"]
-  },
-  {
-    "title": "Vietnamese Bò Kho-Style Brisket Stew Bowl",
-    "path": "recipes/vietnamese/vietnamese-bo-kho-style-brisket-stew-plate.html",
-    "sourcePath": "recipes/vietnamese/featured-meals/vietnamese-bo-kho-style-brisket-stew-plate.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Featured Meal",
-    "status": "Working Recipe",
-    "ingredients": ["brisket stew", "wide rice noodles", "asian pickled garden vegetables", "lime", "cilantro", "green onion", "serrano", "sriracha", "lemongrass", "fish sauce"],
-    "tags": ["vietnamese-inspired", "bo kho", "bò kho", "brisket stew bowl", "wide rice noodles", "featured meal", "project meal", "noodle bowl", "complete bowl", "html page"]
-  },
-  {
-    "title": "Apple Pie",
-    "path": "recipes/family/pies/apple-pie.html",
-    "sourcePath": "family-recipes/recipes/pies/apple-pie.md",
-    "cuisine": "Family Cookbook",
-    "category": "Pie",
-    "status": "Family Recipe",
-    "ingredients": ["apples", "sugar", "flour", "cinnamon", "butter", "pie crust"],
-    "tags": ["family recipe", "pie", "apple", "dessert", "html page"]
-  },
-  {
-    "title": "Ethiopian-Inspired Doro Wat Platter",
-    "path": "recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.html",
-    "sourcePath": "recipes/ethiopian/bowls-and-mains/ethiopian-inspired-doro-wat-platter.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Main Dish",
-    "status": "Working Recipe",
-    "ingredients": ["chicken thighs", "hard-boiled eggs", "paprika", "cayenne", "fenugreek", "onion", "garlic", "ginger", "tomato paste", "yellow split peas", "red lentils", "cabbage", "carrot", "tomato", "cucumber", "naan", "injera"],
-    "tags": ["ethiopian-inspired", "doro wat", "complete meal plate", "split pea alicha", "misir wat", "red lentils", "atakilt wat", "timatim salad", "naan substitute", "injera", "traditional upgrade path", "html page"]
-  },
-  {
-    "title": "Split Pea Alicha",
-    "path": "recipes/ethiopian/sides/split-pea-alicha.html",
-    "sourcePath": "recipes/ethiopian/sides/split-pea-alicha.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Side Dish",
-    "status": "First Test",
-    "ingredients": ["yellow split peas", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "black pepper", "butter", "oil"],
-    "tags": ["ethiopian-inspired", "split peas", "alicha", "side dish", "stew", "doro wat platter", "html page"]
-  },
-  {
-    "title": "Misir Wat",
-    "path": "recipes/ethiopian/sides/misir-wat.html",
-    "sourcePath": "recipes/ethiopian/sides/misir-wat.md",
-    "cuisine": "Ethiopian",
-    "category": "Side Dish",
-    "status": "Working Recipe",
-    "ingredients": ["red lentils", "onion", "garlic", "ginger", "berbere", "tomato paste", "water", "broth", "butter", "oil", "lemon"],
-    "tags": ["ethiopian", "ethiopian-inspired", "misir wat", "red lentils", "berbere", "side dish", "stew", "doro wat platter", "traditional upgrade path", "html page"]
-  },
-  {
-    "title": "Atakilt Wat",
-    "path": "recipes/ethiopian/sides/atakilt-wat.html",
-    "sourcePath": "recipes/ethiopian/sides/atakilt-wat.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Side Dish",
-    "status": "Working Recipe",
-    "ingredients": ["cabbage", "carrot", "potato", "onion", "garlic", "ginger", "turmeric", "cumin", "coriander", "butter", "oil"],
-    "tags": ["ethiopian-inspired", "atakilt wat", "cabbage", "carrot", "potato", "side dish", "doro wat platter", "html page"]
-  },
-  {
-    "title": "Timatim Salad",
-    "path": "recipes/ethiopian/salads/timatim-salad.html",
-    "sourcePath": "recipes/ethiopian/salads/timatim-salad.md",
-    "cuisine": "Ethiopian Inspired",
-    "category": "Salads, Slaws & Dips",
-    "status": "Working Recipe",
-    "ingredients": ["tomato", "cucumber", "onion", "lemon juice", "olive oil", "black pepper", "jalapeno", "serrano", "parsley", "cilantro"],
-    "tags": ["ethiopian-inspired", "timatim", "tomato", "cucumber", "salad", "fresh", "acidic", "doro wat platter", "html page"]
-  },
-  {
-    "title": "Teff Starter & Real Injera",
-    "path": "recipes/ethiopian/breads/teff-starter-and-real-injera.html",
-    "sourcePath": "recipes/ethiopian/breads/teff-starter-and-real-injera.md",
-    "cuisine": "Ethiopian",
-    "category": "Bread",
-    "status": "Traditional Technique",
-    "ingredients": ["teff flour", "water", "active teff starter", "salt"],
-    "tags": ["ethiopian", "injera", "teff", "fermented", "flatbread", "starter", "traditional technique", "doro wat platter", "misir wat", "html page"]
-  },
-  {
-    "title": "Fluffy Skillet Naan",
-    "path": "recipes/indian/breads/fluffy-skillet-naan.html",
-    "sourcePath": "recipes/indian/breads/fluffy-skillet-naan.md",
-    "cuisine": "Indian Inspired",
-    "category": "Bread",
-    "status": "House Staple",
-    "ingredients": ["yeast", "warm water", "sugar", "milk", "room-temperature egg", "salt", "bread flour", "all-purpose flour", "ghee", "butter", "garlic"],
-    "tags": ["indian-inspired", "naan", "skillet bread", "scoop bread", "house staple", "html page"]
   }
 ]

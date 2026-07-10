@@ -44,11 +44,21 @@ This rule is especially important when adapting traditional recipes. A classic v
 ### Practical recipe design defaults
 
 - **Sour/tangy:** lemon, lime, rice vinegar, tamarind, preserved lemon, pickles, vinegar reductions, acidic chutneys.
-- **Sweet:** honey, brown sugar, dates, raisins, apricots, fruit reductions, caramelized onions, sweet chili sauce.
+- **Sweet:** honey, brown sugar, dates, raisins, apricots, fruit reductions, caramelized onions, sweet chili sauce, orange marmalade.
 - **Salty:** kosher salt, soy sauce, olives, preserved lemon, capers, cheese, clean fish sauce when appropriate.
-- **Savory:** browned meat, jammy onions, garlic, ginger, tomato paste, toasted spices, broth reductions, butter, roasted vegetables.
+- **Savory:** browned meat, jammy onions, garlic, ginger, tomato paste, toasted spices, broth reductions, butter, roasted vegetables, Worcestershire sauce.
 - **Spicy:** Thai chiles, cayenne, red pepper flakes, chili paste, hot honey, fresh chile garnish.
-- **Umami:** tomato paste, soy sauce, oyster sauce, mushrooms, toasted nuts, browned meat fond, Parmesan, broth concentrates, clean seafood essence when appropriate.
+- **Umami:** tomato paste, soy sauce, Worcestershire sauce, oyster sauce, mushrooms, toasted nuts, browned meat fond, Parmesan, broth concentrates, clean seafood essence when appropriate.
+
+### House favorite boosters
+
+Amy and Don especially like these as Flavorweaver bridge ingredients when they support the dish without making it generic:
+
+- **Orange marmalade** for glossy sweet-bitter citrus depth, especially with chicken, pork, tagines, glazes, chutneys, and spicy sauces.
+- **Soy sauce** for clean savory-salty umami, especially when fish sauce would be too funky or when a sauce needs deeper backbone.
+- **Worcestershire sauce** for a small-dose savory/umami boost in darker sauces, gravies, beef dishes, tomato-based sauces, glazes, and certain braises.
+
+Use these thoughtfully. They do not need to appear everywhere, but they are trusted house tools when a recipe needs more sweet-citrus body, savory depth, or umami.
 
 ### Development test
 

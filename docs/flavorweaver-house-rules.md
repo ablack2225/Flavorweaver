@@ -2,6 +2,37 @@
 
 Core Amy & Don kitchen rules that should guide recipe development, testing, and canon decisions.
 
+## Core Flavor Balance Rule: Sour, Sweet, Salty, Savory, Spicy, Umami
+
+Amy and Don's strongest Flavorweaver dishes should intentionally hit the full flavor arc:
+
+> **sour/tangy + sweet + salty + savory + spicy + umami**
+
+This does not mean every flavor has to be equally loud. It means the dish should feel complete, layered, and alive, with each major flavor role clearly represented.
+
+### Why this rule exists
+
+Flavorweaver's best-scoring plates have not been mild, polite, or one-note. They succeed when the plate has a full-spectrum balance: bright acid, controlled sweetness, enough salt, deep savory structure, real heat, and a lasting umami finish.
+
+This rule is especially important when adapting traditional recipes. A classic version may be technically correct but still fall short for the Amy & Don Kitchen if it lacks punch, contrast, or sauce depth.
+
+### Practical recipe design defaults
+
+- **Sour/tangy:** lemon, lime, rice vinegar, tamarind, preserved lemon, pickles, vinegar reductions, acidic chutneys.
+- **Sweet:** honey, brown sugar, dates, raisins, apricots, fruit reductions, caramelized onions, sweet chili sauce.
+- **Salty:** kosher salt, soy sauce, olives, preserved lemon, capers, cheese, clean fish sauce when appropriate.
+- **Savory:** browned meat, jammy onions, garlic, ginger, tomato paste, toasted spices, broth reductions, butter, roasted vegetables.
+- **Spicy:** Thai chiles, cayenne, red pepper flakes, chili paste, hot honey, fresh chile garnish.
+- **Umami:** tomato paste, soy sauce, oyster sauce, mushrooms, toasted nuts, browned meat fond, Parmesan, broth concentrates, clean seafood essence when appropriate.
+
+### Development test
+
+Before a Flavorweaver recipe is treated as canon, ask:
+
+> Where is the sour? Where is the sweet? Where is the salty? Where is the savory? Where is the spicy? Where is the umami?
+
+If one is missing, the recipe needs a deliberate reason or a correction.
+
 ## Seafood Flavor Rule: Clean Seafood, Never Fishy-Funky
 
 Amy and Don like **clean seafood sweetness** and savory depth, but they do **not** like fishy, funky, anchovy-heavy, stale-ocean, or aggressively fermented seafood flavors.

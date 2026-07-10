@@ -2,6 +2,31 @@
 
 Core Amy & Don kitchen rules that should guide recipe development, testing, and canon decisions.
 
+## Flavorweaver Mission Rule: World Cuisine Through the Amy & Don Palate
+
+Flavorweaver is not about copying world-cuisine recipes exactly as written, and it is not about making timid "inspired by" versions. The mission is:
+
+> **Bring world cuisine to the Amy & Don table through the flavor profiles Amy and Don actually love.**
+
+Respect the cuisine, learn from the best versions, preserve the important techniques and flavor logic, then calibrate the final plate for the Amy & Don Kitchen.
+
+### Why this rule exists
+
+A recipe can be traditional, researched, and technically sound but still fail Flavorweaver if it tastes boring to Amy and Don. The goal is not generic authenticity, generic restaurant balance, or mild crowd-pleasing. The goal is a 9.5/10+ Amy-and-Don result that keeps the soul of the dish while landing in the house flavor profile.
+
+This means every recipe should be evaluated through two lenses:
+
+1. **Cuisine intelligence:** What makes this dish work in its original culinary logic?
+2. **House calibration:** How do we make that dish exciting for Amy and Don without flattening it or turning it generic?
+
+### Practical development standard
+
+When researching or revising a recipe, do not stop at "this is how it is usually made." Ask:
+
+> How do we preserve the dish's identity while making it bold, saucy, layered, spicy, tangy, savory, and craveable for our table?
+
+If the answer is unclear, the recipe is not ready for canon.
+
 ## Core Flavor Balance Rule: Sour, Sweet, Salty, Savory, Spicy, Umami
 
 Amy and Don's strongest Flavorweaver dishes should intentionally hit the full flavor arc:

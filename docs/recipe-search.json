@@ -40,14 +40,14 @@
     "tags": ["Vietnamese-Inspired", "vietnamese-inspired", "banh xeo", "bánh xèo", "crispy crepe", "shrimp", "pork", "bean sprouts", "nuoc cham", "nước chấm", "lettuce wraps", "Flavorweaver Test Recipe", "html page"]
   },
   {
-    "title": "Moroccan-Inspired Chicken Tagine",
+    "title": "Moroccan-Inspired Chicken Tagine with Apricot-Orange Glaze",
     "path": "recipes/moroccan/moroccan-inspired-chicken-tagine.html",
     "sourcePath": "recipes/moroccan/main-dishes/moroccan-inspired-chicken-tagine.md",
     "cuisine": "Moroccan Inspired",
     "category": "Main Dish",
     "status": "Flavorweaver Test Recipe",
-    "ingredients": ["chicken thighs", "preserved lemon", "green olives", "dried apricots", "couscous", "cashews", "onion", "garlic", "fresh ginger", "tomato paste", "chicken broth", "cumin", "coriander", "paprika", "turmeric", "cinnamon", "parsley", "cilantro", "orange marmalade", "honey"],
-    "tags": ["Moroccan-Inspired", "moroccan-inspired", "chicken tagine", "preserved lemon", "jammy onion", "green olives", "dried apricots", "golden couscous", "toasted cashews", "Flavorweaver Test Recipe", "html page"]
+    "ingredients": ["chicken thighs", "preserved lemon", "green olives", "dried apricots", "couscous", "cashews", "onion", "garlic", "fresh ginger", "tomato paste", "chicken broth", "cumin", "coriander", "paprika", "turmeric", "cinnamon", "cilantro", "orange marmalade", "honey", "soy sauce", "Worcestershire sauce", "cayenne", "brown sugar", "butter"],
+    "tags": ["Moroccan-Inspired", "moroccan-inspired", "chicken tagine", "preserved lemon", "orange marmalade", "apricot glaze", "jammy onion", "green olives", "dried apricots", "golden couscous", "spiced cashews", "sweet spicy cashews", "soy umami", "Worcestershire", "spicy sweet glaze", "cilantro finish", "bold plate", "Flavorweaver Test Recipe", "html page"]
   },
   {
     "title": "Turkish-Inspired Spiced Lamb Pide",
@@ -78,25 +78,5 @@
     "status": "House Staple",
     "ingredients": ["sour cream", "gochujang", "lime juice", "sugar", "water", "rice vinegar", "honey", "garlic powder", "sesame oil"],
     "tags": ["condiment", "sauce", "gochujang", "crema", "rice bowls", "korean-inspired", "house staple", "creamy", "tangy", "spicy", "drizzle sauce", "html page"]
-  },
-  {
-    "title": "Asian Pickled Garden Vegetables",
-    "path": "recipes/condiments/asian-pickled-garden-vegetables.html",
-    "sourcePath": "recipes/asian-inspired/condiments/asian-pickled-garden-vegetables.md",
-    "cuisine": "Asian Inspired",
-    "category": "Condiment",
-    "status": "Working Recipe",
-    "ingredients": ["zucchini", "yellow squash", "carrot", "green onions", "rice vinegar", "sugar", "kosher salt", "water", "red pepper flakes", "sesame oil", "sesame seeds", "lime", "cilantro", "serrano"],
-    "tags": ["asian-inspired", "quick pickles", "refrigerator pickles", "garden vegetables", "zucchini", "yellow squash", "cucumber alternative", "rice vinegar", "fresh", "acidic", "crunchy", "house staple", "service modes", "bo kho mode", "html page"]
-  },
-  {
-    "title": "Restaurant-Style Ginger Nuoc Cham",
-    "path": "https://github.com/ablack2225/Flavorweaver/blob/main/condiments/ginger-nuoc-cham.md",
-    "sourcePath": "condiments/ginger-nuoc-cham.md",
-    "cuisine": "Vietnamese Inspired",
-    "category": "Condiment",
-    "status": "Working Recipe",
-    "ingredients": ["water", "sugar", "ginger paste", "garlic", "lemongrass paste", "fish sauce", "lime juice", "serrano"],
-    "tags": ["vietnamese-inspired", "dipping sauce", "fish sauce", "ginger", "lime", "bright", "sweet-salty", "sauce"]
   }
 ]

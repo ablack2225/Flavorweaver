@@ -89,7 +89,7 @@ The best texture comes from a quick final toss. Cook the noodles separately per 
 | 15 min before serving | Cook golden shallot topping, then sear shrimp and remove. |
 | 10 min before serving | Bloom aromatics and dried shrimp, then make egg ribbons. |
 | 5 min before serving | Finish noodles in one or two batches, adding saucepan sauce as needed. |
-| At service | Plate with lime, peanuts, golden shallots, bean sprouts, herbs, and chili flakes. |
+| At service | Plate with lime, seasoned peanuts, golden shallots, bean sprouts, herbs, and chili flakes. |
 
 ## Measured Ingredients by Component
 
@@ -142,7 +142,16 @@ The best texture comes from a quick final toss. Cook the noodles separately per 
 | Pinch | black pepper |  |
 | Tiny pinch | red pepper flakes | Optional. |
 
-### Noodles and Finish
+### Seasoned Warmed Peanut Crunch
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1/3 cup | dry-roasted unsalted peanuts | Warm until fragrant, then crush. |
+| 1/8 tsp | kosher salt | Seasons the peanuts so they are not flat. |
+| Tiny pinch | brown sugar | Optional Pad Thai-style sweet edge. |
+| Tiny pinch | chili flakes | Optional heat. |
+
+### Noodles, Aromatics, Eggs, and Fresh Finish
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
@@ -154,10 +163,6 @@ The best texture comes from a quick final toss. Cook the noodles separately per 
 | 1 to 1 1/2 cups | fresh bean sprouts | Half briefly tossed, half fresh. |
 | 2 to 3 | green onions, sliced | Finish. |
 | 2 Tbsp | cilantro, chopped | Optional but recommended. |
-| 1/3 cup | dry-roasted unsalted peanuts | Warm, crush, season, divide use. |
-| 1/8 tsp | kosher salt | For peanuts, plus more to taste. |
-| Tiny pinch | brown sugar | For peanuts. |
-| Tiny pinch | chili flakes | Optional, for peanuts. |
 | 1 to 2 | limes, cut into wedges | Required. |
 | To taste | extra chili flakes | Table heat. |
 | 3 Tbsp total | neutral oil | Divided. |
@@ -206,12 +211,14 @@ Taste the saucepan Pad Thai sauce before it goes into the skillet. It should tas
 | Shrimp Bowl | 1 lb shrimp, 1 tsp fish sauce, 1 tsp oil, 1/2 tsp brown sugar, 1 small garlic clove, pepper, optional chile pinch | Season 10–15 minutes, 20 minutes max. |
 | Shell Concentrate Bowl | Shells/tails from 1 lb shrimp plus about 1/2 cup water | Simmer, press, strain, reduce to 2 Tbsp. |
 | Dried Shrimp Bowl | 2 Tbsp dried shrimp | Rinse, soak 8–10 minutes, drain, pat dry, mince finely. |
-| Saucepan Sauce | 1/2 cup reduced tamarind, 4 Tbsp fish sauce, 2 Tbsp dark brown sugar, 2 Tbsp shell concentrate, 1 Tbsp rice vinegar, 1 minced Thai chile, 1 tsp chili flakes or chili-garlic paste | Warm gently 3–5 minutes, taste, correct, and hold. |
-| Double Shallot Bowls | 1 thin-sliced shallot for topping; 1 minced shallot plus 3 minced garlic cloves and 1 Thai chile for aromatic base | Keep separate. |
+| Saucepan Sauce Bowl | 1/2 cup reduced tamarind, 4 Tbsp fish sauce, 2 Tbsp dark brown sugar, 2 Tbsp shell concentrate, 1 Tbsp rice vinegar, 1 minced Thai chile, 1 tsp chili flakes or chili-garlic paste | Warm gently 3–5 minutes, taste, correct, and hold. |
+| Aromatic Base Bowl | 1 minced shallot, 3 minced garlic cloves, 1 Thai chile, minced dried shrimp | This is the skillet bloom base after shrimp is seared. |
+| Golden Shallot Topping Bowl | 1 thin-sliced shallot | Fry first; reserve for topping. |
 | Noodle Bowl | 7–8 oz cooked/rinsed/oiled rice stick noodles | Cook low end of package directions. |
 | Egg Bowl | 2 eggs beaten with tiny pinch salt | Add after aromatics. |
-| Peanut Bowl | 1/3 cup warmed crushed peanuts, 1/8 tsp salt, tiny pinch sugar, optional chile | Use 2 Tbsp in final toss; rest on top. |
-| Fresh Finish Bowl | 1 to 1 1/2 cups bean sprouts, 2–3 green onions, 2 Tbsp cilantro, lime wedges, chili flakes | Half sprouts tossed, half fresh on top. |
+| Seasoned Peanut Crunch Bowl | 1/3 cup warmed crushed peanuts, 1/8 tsp salt, tiny pinch sugar, optional chile | Use 2 Tbsp in final toss; reserve the rest for topping. |
+| Final Fold Bowl | 1/2 cup bean sprouts, 2 Tbsp seasoned peanuts, most green onion, seared shrimp | Goes in after noodles are sauced. |
+| Fresh Topping Bowl | Remaining bean sprouts, remaining seasoned peanuts, golden shallots, remaining green onion, cilantro, lime wedges, chili flakes | Plate immediately. |
 | Dumpling Sauce Bowl | Soy sauce, rice vinegar, water, brown sugar or honey, sesame oil, chili garlic paste, garlic, ginger, green onion | Optional side sauce if serving dumplings. |
 
 ## Do Not Forget
@@ -222,6 +229,7 @@ Taste the saucepan Pad Thai sauce before it goes into the skillet. It should tas
 - Dried shrimp must be **rinsed, soaked, drained, patted dry, minced finely, and bloomed**; do not add wet soaked shrimp directly to the skillet.
 - Shrimp quick-seasoning is **10–15 minutes ideal**, **20 minutes max**.
 - Do not put lime or tamarind in the shrimp seasoning bowl.
+- Season the warmed peanuts separately; use **2 Tbsp in the final fold** and the rest on top.
 - Use **60–70% of the sauce first**, then hold back the rest for correction after tasting a noodle.
 - Pull shrimp at **80–90% cooked**; they finish in the final toss.
 - Warm dry-roasted unsalted peanuts **2–3 minutes**, then season them lightly before crushing or just after crushing.
@@ -297,11 +305,11 @@ Add cooked noodles and toss quickly **1–2 minutes max**, just until coated and
 
 ### 17. Final Fold
 
-Fold shrimp back in with **1/2 cup bean sprouts**, **2 Tbsp crushed peanuts**, and most green onion. Toss **10–15 seconds** only, just to warm sprouts and finish shrimp.
+Fold shrimp back in with **1/2 cup bean sprouts**, **2 Tbsp seasoned crushed peanuts**, and most green onion. Toss **10–15 seconds** only, just to warm sprouts and finish shrimp.
 
 ### 18. Plate Immediately
 
-Top with fresh bean sprouts, golden shallots, remaining peanuts, green onion, cilantro if using, lime wedges, and extra chili flakes at the table. Serve steamed dumplings with bold umami sauce on the side if using.
+Top with fresh bean sprouts, golden shallots, remaining seasoned peanuts, green onion, cilantro if using, lime wedges, and extra chili flakes at the table. Serve steamed dumplings with bold umami sauce on the side if using.
 
 ## Electric Skillet Notes
 

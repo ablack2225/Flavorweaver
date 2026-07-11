@@ -30,14 +30,14 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['Vietnamese-Inspired', 'vietnamese-inspired', 'banh xeo', 'bánh xèo', 'crispy crepe', 'shrimp', 'pork', 'bean sprouts', 'nuoc cham', 'nước chấm', 'lettuce wraps']
   },
   {
-    title: 'Moroccan-Inspired Chicken Tagine with Apricot-Orange Glaze',
-    path: 'recipes/moroccan/moroccan-inspired-chicken-tagine.html',
+    title: 'Loaded Moroccan Harissa Falafel Naan Plate',
+    path: 'recipes/moroccan/loaded-moroccan-harissa-falafel-naan-plate.html',
     collection: 'House Recipes',
     culture: 'Moroccan Inspired',
-    category: 'Main Dish',
-    status: 'Flavorweaver Test Recipe',
-    ingredients: ['chicken thighs', 'preserved lemon', 'green olives', 'dried apricots', 'couscous', 'cashews', 'onion', 'garlic', 'fresh ginger', 'tomato paste', 'chicken broth', 'cumin', 'coriander', 'paprika', 'turmeric', 'cinnamon', 'cilantro', 'orange marmalade', 'honey', 'soy sauce', 'Worcestershire sauce', 'cayenne', 'brown sugar', 'butter'],
-    tags: ['Moroccan-Inspired', 'moroccan-inspired', 'chicken tagine', 'preserved lemon', 'orange marmalade', 'apricot glaze', 'jammy onion', 'green olives', 'dried apricots', 'golden couscous', 'spiced cashews', 'sweet spicy cashews', 'soy umami', 'Worcestershire', 'spicy sweet glaze', 'cilantro finish', 'bold plate']
+    category: 'Featured Meal',
+    status: 'Top 10 Candidate · Flavorweaver Test Recipe',
+    ingredients: ['dried chickpeas', 'falafel', 'cilantro', 'mint', 'preserved lemon', 'green olives', 'dried apricots', 'orange marmalade', 'couscous', 'naan', 'cashews', 'onion', 'garlic', 'fresh ginger', 'tomato paste', 'broth', 'cumin', 'coriander', 'paprika', 'turmeric', 'cardamom', 'cinnamon', 'cayenne', 'honey', 'brown sugar', 'butter'],
+    tags: ['Moroccan-Inspired', 'moroccan-inspired', 'harissa falafel', 'loaded naan plate', 'food truck plate', 'deep fried falafel', 'dried chickpeas', 'preserved lemon', 'orange marmalade', 'apricot sauce', 'green olives', 'golden couscous', 'spiced cashews', 'cilantro sauce', 'Top 10 Candidate']
   },
   {
     title: 'Turkish-Inspired Spiced Lamb Pide',

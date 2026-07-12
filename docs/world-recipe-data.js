@@ -20,6 +20,16 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     tags: ['North-African-Inspired', 'north-african-inspired', 'guajillo harissa', 'spicy tomato olive couscous', 'Thai chili hot honey', 'tamarind date chutney', 'brik inspired triangles', 'pepper jack', 'parmesan', 'egg roll wrappers', 'spiced cashews', 'cilantro finish', 'bold plate', 'complete plate', 'Don favorite', 'Hall of Fame']
   },
   {
+    title: 'Don\'s Food-Truck Memory Falafel Naan Wraps',
+    path: 'recipes/middle-eastern/dons-food-truck-memory-falafel-naan-wraps.html',
+    collection: 'House Recipes',
+    culture: 'Middle Eastern Inspired',
+    category: 'Featured Meal',
+    status: 'Top 10 Candidate · Canon-Lock Candidate',
+    ingredients: ['dried chickpeas', 'falafel', 'naan', 'cilantro', 'parsley', 'mint', 'scallions', 'garlic', 'carrot', 'cumin', 'coriander', 'turmeric', 'cardamom', 'cayenne', 'chickpea flour', 'mayonnaise', 'sour cream', 'dill', 'tomato', 'onion', 'guajillo chiles', 'tomato paste', 'vinegar', 'lemon juice', 'hot sauce', 'tahini', 'pickles', 'pickled onions'],
+    tags: ['Middle-Eastern-Inspired', 'middle-eastern-inspired', 'falafel', 'Don birthday falafel', 'Don\'s birthday', 'birthday falafel', 'food truck memory', 'naan wrap', 'dried chickpeas', 'meat grinder', 'deep fried', 'ranch white sauce', 'fiery red sauce', 'lemon tahini', 'complete wrap', 'sauce bar', 'spot on', 'Top 10 Candidate', 'Canon-Lock Candidate']
+  },
+  {
     title: 'Banh Xeo Crispy Crepe Plate',
     path: 'recipes/vietnamese/banh-xeo-crispy-crepe-plate.html',
     collection: 'House Recipes',

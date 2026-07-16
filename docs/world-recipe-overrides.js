@@ -3,91 +3,16 @@
 
   const bangBangShrimp = recipes.find((item) => item.path === 'recipes/thai/thai-inspired-bang-bang-shrimp-bowls.html');
   if (bangBangShrimp) {
-    bangBangShrimp.ingredients = [
-      'shrimp',
-      'mayonnaise',
-      'guajillo chiles',
-      'garlic',
-      'rice vinegar',
-      'sugar',
-      'sweet chili sauce',
-      'chili garlic paste',
-      'coconut milk',
-      'basmati rice',
-      'lime',
-      'garlic oyster broccoli',
-      'toasted coconut',
-      'crispy fried onions',
-      'mint',
-      'cornstarch',
-      'green onion'
-    ];
-
-    bangBangShrimp.tags = [
-      'Thai-Inspired',
-      'thai-inspired',
-      'Asian-Inspired',
-      'asian-inspired',
-      'bang bang shrimp',
-      'shrimp bowls',
-      'complete bowl',
-      'coconut lime rice',
-      'garlic oyster broccoli',
-      'toasted coconut',
-      'crispy fried onions',
-      'sweet chili sauce',
-      'crispy shrimp',
-      'project meal'
-    ];
+    bangBangShrimp.ingredients = ['shrimp', 'mayonnaise', 'guajillo chiles', 'garlic', 'rice vinegar', 'sugar', 'sweet chili sauce', 'chili garlic paste', 'coconut milk', 'basmati rice', 'lime', 'garlic oyster broccoli', 'toasted coconut', 'crispy fried onions', 'mint', 'cornstarch', 'green onion'];
+    bangBangShrimp.tags = ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'bang bang shrimp', 'shrimp bowls', 'complete bowl', 'coconut lime rice', 'garlic oyster broccoli', 'toasted coconut', 'crispy fried onions', 'sweet chili sauce', 'crispy shrimp', 'project meal'];
   }
 
   const drunkenNoodles = recipes.find((item) => item.path === 'recipes/thai/thai-inspired-drunken-noodles-with-shrimp-bacon-and-egg.html');
   if (drunkenNoodles) {
     drunkenNoodles.title = 'Thai-Inspired Drunken Noodles with Shrimp & Egg';
     drunkenNoodles.status = 'Flavorweaver Successful Live Test';
-    drunkenNoodles.ingredients = [
-      'shrimp',
-      'eggs',
-      'fresh wide rice noodles',
-      'dry wide rice noodles fallback',
-      'oyster sauce',
-      'soy sauce',
-      'dark soy sauce',
-      'fish sauce',
-      'honey',
-      'brown sugar',
-      'garlic',
-      'Thai chiles',
-      'shallot',
-      'onion',
-      'red bell pepper',
-      'vine tomato',
-      'Thai basil',
-      'bacon drippings'
-    ];
-    drunkenNoodles.tags = [
-      'Thai-Inspired',
-      'thai-inspired',
-      'Asian-Inspired',
-      'asian-inspired',
-      'drunken noodles',
-      'pad kee mao inspired',
-      'wide rice noodles',
-      'fresh wide rice noodles',
-      'dry noodle fallback',
-      'package-cooked dry noodles',
-      'shrimp',
-      'egg',
-      'Thai basil',
-      'Thai chiles',
-      'red bell pepper',
-      'vine tomato',
-      'chunky garlic',
-      'bacon drippings',
-      'doubled sauce',
-      'successful live test',
-      'high-heat stir-fry'
-    ];
+    drunkenNoodles.ingredients = ['shrimp', 'eggs', 'fresh wide rice noodles', 'dry wide rice noodles fallback', 'oyster sauce', 'soy sauce', 'dark soy sauce', 'fish sauce', 'honey', 'brown sugar', 'garlic', 'Thai chiles', 'shallot', 'onion', 'red bell pepper', 'vine tomato', 'Thai basil', 'bacon drippings'];
+    drunkenNoodles.tags = ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'drunken noodles', 'pad kee mao inspired', 'wide rice noodles', 'fresh wide rice noodles', 'dry noodle fallback', 'package-cooked dry noodles', 'shrimp', 'egg', 'Thai basil', 'Thai chiles', 'red bell pepper', 'vine tomato', 'chunky garlic', 'bacon drippings', 'doubled sauce', 'successful live test', 'high-heat stir-fry'];
   }
 
   if (!recipes.some((item) => item.path === 'recipes/indian/chicken-kathi-rolls-with-egg-lacquered-paratha.html')) {
@@ -200,6 +125,19 @@
       status: 'Flavorweaver Test Recipe',
       ingredients: ['all-purpose flour', 'cornstarch', 'lemons', 'lemon zest', 'fresh lemon juice', 'sugar', 'butter', 'cream cheese', 'shortening', 'neutral oil', 'eggs', 'sour cream', 'milk', 'heavy cream', 'vanilla', 'powdered sugar'],
       tags: ['American-Inspired', 'american-inspired', 'lemon pound cake', 'cream cheese pound cake', 'Bundt cake', 'lemon dessert', 'sour cream cake', 'lemon syrup', 'cream cheese glaze', 'no lemon extract', 'AP flour shortcut', 'cornstarch cake flour shortcut', 'Amy and Don canon test']
+    });
+  }
+
+  if (!recipes.some((item) => item.path === 'recipes/american/smokehouse-pulled-pork-hawaiian-style-sliders.html')) {
+    recipes.push({
+      title: 'Smokehouse Pulled Pork Hawaiian-Style Sliders',
+      path: 'recipes/american/smokehouse-pulled-pork-hawaiian-style-sliders.html',
+      collection: 'House Recipes',
+      culture: 'American Inspired',
+      category: 'Featured Meal',
+      status: 'Flavorweaver Test Recipe · Top 10 Candidate Possibility',
+      ingredients: ['pork butt', 'pork shoulder', 'yellow mustard', 'hot sauce', 'Worcestershire sauce', 'apple cider vinegar', 'pickle brine', 'tomato paste', 'brown sugar', 'smoked paprika', 'paprika', 'chili powder', 'garlic powder', 'onion powder', 'mustard powder', 'black pepper', 'coriander', 'cumin', 'chipotle powder', 'cayenne', 'pineapple juice', 'chicken broth', 'tomato sauce', 'ketchup', 'honey', 'molasses', 'bourbon', 'active dry yeast', 'milk', 'eggs', 'butter', 'instant potato flakes', 'bread flour', 'sweet-spicy pickles', 'purple onion', 'pepper jack', 'cheddar', 'provolone'],
+      tags: ['American-Inspired', 'american-inspired', 'pulled pork', 'pulled pork sliders', 'pork butt', 'pork shoulder', 'Hawaiian-style rolls', 'sweet rolls', 'pineapple juice', 'pineapple vinegar BBQ jus', 'pickle onion crunch', 'smokehouse sliders', 'broiled bark finish', 'oven braised', 'food truck sliders', 'project meal', 'Top 10 Candidate']
     });
   }
 })();

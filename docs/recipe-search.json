@@ -50,6 +50,16 @@
     "tags": ["Moroccan-Inspired", "moroccan-inspired", "harissa falafel", "loaded naan plate", "food truck plate", "deep fried falafel", "dried chickpeas", "preserved lemon", "orange marmalade", "apricot sauce", "jammy onion", "green olives", "golden couscous", "spiced cashews", "cilantro sauce", "sweet spicy", "bold plate", "Top 10 Candidate", "html page"]
   },
   {
+    "title": "Smokehouse Pulled Pork Hawaiian-Style Sliders",
+    "path": "recipes/american/smokehouse-pulled-pork-hawaiian-style-sliders.html",
+    "sourcePath": "recipes/american/featured-meals/smokehouse-pulled-pork-hawaiian-style-sliders.md",
+    "cuisine": "American Inspired",
+    "category": "Featured Meal",
+    "status": "Flavorweaver Test Recipe · Top 10 Candidate Possibility",
+    "ingredients": ["pork butt", "pork shoulder", "yellow mustard", "hot sauce", "Worcestershire sauce", "apple cider vinegar", "pickle brine", "tomato paste", "brown sugar", "smoked paprika", "paprika", "chili powder", "garlic powder", "onion powder", "mustard powder", "black pepper", "coriander", "cumin", "chipotle powder", "cayenne", "pineapple juice", "chicken broth", "tomato sauce", "ketchup", "honey", "molasses", "bourbon", "active dry yeast", "milk", "eggs", "butter", "instant potato flakes", "bread flour", "sweet-spicy pickles", "purple onion", "pepper jack", "cheddar", "provolone"],
+    "tags": ["American-Inspired", "american-inspired", "pulled pork", "pulled pork sliders", "pork butt", "pork shoulder", "Hawaiian-style rolls", "sweet rolls", "pineapple juice", "pineapple vinegar BBQ jus", "pickle onion crunch", "smokehouse sliders", "broiled bark finish", "oven braised", "food truck sliders", "project meal", "Top 10 Candidate", "html page"]
+  },
+  {
     "title": "Turkish-Inspired Spiced Lamb Pide",
     "path": "recipes/turkish/turkish-inspired-spiced-lamb-pide.html",
     "sourcePath": "recipes/turkish/main-dishes/turkish-inspired-spiced-lamb-pide.md",

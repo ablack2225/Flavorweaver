@@ -15,6 +15,13 @@
     drunkenNoodles.tags = ['Thai-Inspired', 'thai-inspired', 'Asian-Inspired', 'asian-inspired', 'drunken noodles', 'pad kee mao inspired', 'wide rice noodles', 'fresh wide rice noodles', 'dry noodle fallback', 'package-cooked dry noodles', 'shrimp', 'egg', 'Thai basil', 'Thai chiles', 'red bell pepper', 'vine tomato', 'chunky garlic', 'bacon drippings', 'doubled sauce', 'successful live test', 'high-heat stir-fry'];
   }
 
+  const pulledPorkSliders = recipes.find((item) => item.path === 'recipes/american/smokehouse-pulled-pork-hawaiian-style-sliders.html');
+  if (pulledPorkSliders) {
+    pulledPorkSliders.status = 'Hall of Fame · Top 10';
+    pulledPorkSliders.ingredients = ['pork butt', 'pork shoulder', 'yellow mustard', 'hot sauce', 'Worcestershire sauce', 'apple cider vinegar', 'pickle brine', 'tomato paste', 'brown sugar', 'smoked paprika', 'paprika', 'chili powder', 'garlic powder', 'onion powder', 'mustard powder', 'black pepper', 'coriander', 'cumin', 'chipotle powder', 'cayenne', 'pineapple juice', 'chicken broth', 'tomato sauce', 'ketchup', 'honey', 'molasses', 'bourbon', 'active dry yeast', 'milk', 'eggs', 'butter', 'instant potato flakes', 'bread flour', 'sweet-spicy pickles', 'dill pickles', 'purple onion', 'pepper jack', 'cheddar', 'provolone'];
+    pulledPorkSliders.tags = ['American-Inspired', 'american-inspired', 'pulled pork', 'pulled pork sliders', 'pork butt', 'pork shoulder', 'Hawaiian-style rolls', 'sweet rolls', 'pineapple juice', 'pineapple vinegar BBQ jus', 'pickle onion crunch', 'dill pickles', 'smokehouse sliders', 'broiled bark finish', 'oven braised', 'sear smoke braise', 'smoker upgrade', 'food truck sliders', 'project meal', 'Top 10', 'Hall of Fame', 'best bread', 'best sliders'];
+  }
+
   if (!recipes.some((item) => item.path === 'recipes/indian/chicken-kathi-rolls-with-egg-lacquered-paratha.html')) {
     recipes.push({
       title: 'Chicken Kathi Rolls with Egg-Lacquered Paratha',
@@ -135,9 +142,9 @@
       collection: 'House Recipes',
       culture: 'American Inspired',
       category: 'Featured Meal',
-      status: 'Flavorweaver Test Recipe · Top 10 Candidate Possibility',
-      ingredients: ['pork butt', 'pork shoulder', 'yellow mustard', 'hot sauce', 'Worcestershire sauce', 'apple cider vinegar', 'pickle brine', 'tomato paste', 'brown sugar', 'smoked paprika', 'paprika', 'chili powder', 'garlic powder', 'onion powder', 'mustard powder', 'black pepper', 'coriander', 'cumin', 'chipotle powder', 'cayenne', 'pineapple juice', 'chicken broth', 'tomato sauce', 'ketchup', 'honey', 'molasses', 'bourbon', 'active dry yeast', 'milk', 'eggs', 'butter', 'instant potato flakes', 'bread flour', 'sweet-spicy pickles', 'purple onion', 'pepper jack', 'cheddar', 'provolone'],
-      tags: ['American-Inspired', 'american-inspired', 'pulled pork', 'pulled pork sliders', 'pork butt', 'pork shoulder', 'Hawaiian-style rolls', 'sweet rolls', 'pineapple juice', 'pineapple vinegar BBQ jus', 'pickle onion crunch', 'smokehouse sliders', 'broiled bark finish', 'oven braised', 'food truck sliders', 'project meal', 'Top 10 Candidate']
+      status: 'Hall of Fame · Top 10',
+      ingredients: ['pork butt', 'pork shoulder', 'yellow mustard', 'hot sauce', 'Worcestershire sauce', 'apple cider vinegar', 'pickle brine', 'tomato paste', 'brown sugar', 'smoked paprika', 'paprika', 'chili powder', 'garlic powder', 'onion powder', 'mustard powder', 'black pepper', 'coriander', 'cumin', 'chipotle powder', 'cayenne', 'pineapple juice', 'chicken broth', 'tomato sauce', 'ketchup', 'honey', 'molasses', 'bourbon', 'active dry yeast', 'milk', 'eggs', 'butter', 'instant potato flakes', 'bread flour', 'sweet-spicy pickles', 'dill pickles', 'purple onion', 'pepper jack', 'cheddar', 'provolone'],
+      tags: ['American-Inspired', 'american-inspired', 'pulled pork', 'pulled pork sliders', 'pork butt', 'pork shoulder', 'Hawaiian-style rolls', 'sweet rolls', 'pineapple juice', 'pineapple vinegar BBQ jus', 'pickle onion crunch', 'dill pickles', 'smokehouse sliders', 'broiled bark finish', 'oven braised', 'sear smoke braise', 'smoker upgrade', 'food truck sliders', 'project meal', 'Top 10', 'Hall of Fame']
     });
   }
 })();

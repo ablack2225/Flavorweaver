@@ -55,9 +55,9 @@
     "sourcePath": "recipes/american/featured-meals/smokehouse-pulled-pork-hawaiian-style-sliders.md",
     "cuisine": "American Inspired",
     "category": "Featured Meal",
-    "status": "Flavorweaver Test Recipe · Top 10 Candidate Possibility",
-    "ingredients": ["pork butt", "pork shoulder", "yellow mustard", "hot sauce", "Worcestershire sauce", "apple cider vinegar", "pickle brine", "tomato paste", "brown sugar", "smoked paprika", "paprika", "chili powder", "garlic powder", "onion powder", "mustard powder", "black pepper", "coriander", "cumin", "chipotle powder", "cayenne", "pineapple juice", "chicken broth", "tomato sauce", "ketchup", "honey", "molasses", "bourbon", "active dry yeast", "milk", "eggs", "butter", "instant potato flakes", "bread flour", "sweet-spicy pickles", "purple onion", "pepper jack", "cheddar", "provolone"],
-    "tags": ["American-Inspired", "american-inspired", "pulled pork", "pulled pork sliders", "pork butt", "pork shoulder", "Hawaiian-style rolls", "sweet rolls", "pineapple juice", "pineapple vinegar BBQ jus", "pickle onion crunch", "smokehouse sliders", "broiled bark finish", "oven braised", "food truck sliders", "project meal", "Top 10 Candidate", "html page"]
+    "status": "Hall of Fame · Top 10",
+    "ingredients": ["pork butt", "pork shoulder", "yellow mustard", "hot sauce", "Worcestershire sauce", "apple cider vinegar", "pickle brine", "tomato paste", "brown sugar", "smoked paprika", "paprika", "chili powder", "garlic powder", "onion powder", "mustard powder", "black pepper", "coriander", "cumin", "chipotle powder", "cayenne", "pineapple juice", "chicken broth", "tomato sauce", "ketchup", "honey", "molasses", "bourbon", "active dry yeast", "milk", "eggs", "butter", "instant potato flakes", "bread flour", "sweet-spicy pickles", "dill pickles", "purple onion", "pepper jack", "cheddar", "provolone"],
+    "tags": ["American-Inspired", "american-inspired", "pulled pork", "pulled pork sliders", "pork butt", "pork shoulder", "Hawaiian-style rolls", "sweet rolls", "pineapple juice", "pineapple vinegar BBQ jus", "pickle onion crunch", "dill pickles", "smokehouse sliders", "broiled bark finish", "oven braised", "sear smoke braise", "smoker upgrade", "food truck sliders", "project meal", "Top 10", "Hall of Fame", "best bread", "best sliders", "html page"]
   },
   {
     "title": "Turkish-Inspired Spiced Lamb Pide",
@@ -78,15 +78,5 @@
     "status": "Flavorweaver Project Recipe",
     "ingredients": ["duck", "honey", "soy sauce", "rice vinegar", "hoisin", "Chinese five-spice", "ginger", "garlic", "scallions", "all-purpose flour", "cucumber", "plum jam", "sesame oil"],
     "tags": ["Chinese-Inspired", "chinese-inspired", "Peking duck", "peking-style duck", "duck", "48 hour dry", "crispy skin", "mandarin pancakes", "hoisin plum sauce", "project meal", "Don request", "restaurant-quality target", "html page"]
-  },
-  {
-    "title": "Gochujang Crema",
-    "path": "recipes/condiments/gochujang-crema.html",
-    "sourcePath": "condiments/gochujang-crema.md",
-    "cuisine": "Korean Inspired",
-    "category": "Condiment",
-    "status": "House Staple",
-    "ingredients": ["sour cream", "gochujang", "lime juice", "sugar", "water", "rice vinegar", "honey", "garlic powder", "sesame oil"],
-    "tags": ["condiment", "sauce", "gochujang", "crema", "rice bowls", "korean-inspired", "house staple", "creamy", "tangy", "spicy", "drizzle sauce", "html page"]
   }
 ]

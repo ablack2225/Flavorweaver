@@ -1,5 +1,15 @@
 window.FLAVORWEAVER_WORLD_RECIPES = [
   {
+    title: 'Don\'s Garlic-Citrus Carnitas Tacos',
+    path: 'recipes/mexican/dons-garlic-citrus-carnitas-tacos.html',
+    collection: 'House Recipes',
+    culture: 'Mexican Inspired',
+    category: 'Featured Meal',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['pork butt', 'pork shoulder', 'garlic', 'orange marmalade', 'orange juice', 'lime', 'Mexican oregano', 'black pepper', 'cumin', 'cinnamon', 'white onion', 'bay leaf', 'Roma tomatoes', 'serrano chiles', 'jalapeno', 'chipotle in adobo', 'apple cider vinegar', 'corn tortillas', 'cilantro'],
+    tags: ['Mexican-Inspired', 'mexican-inspired', 'carnitas', 'garlic citrus carnitas', 'crisped pork', 'self-rendered pork fat', 'serrano chipotle salsa', 'complete tacos', 'featured meal', 'project meal', 'Flavorweaver Test Recipe', 'html page']
+  },
+  {
     title: 'Bold Bulgogi Bowls',
     path: 'recipes/korean/bold-bulgogi-bowls.html',
     collection: 'House Recipes',

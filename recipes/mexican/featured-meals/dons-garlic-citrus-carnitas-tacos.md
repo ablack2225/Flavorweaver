@@ -86,7 +86,7 @@ last_updated: 2026-07-26
 - **24 hours before cooking** — Coat the pork with the measured garlic-citrus aromatic marinade and refrigerate tightly covered.
 - **Orange handling** — Keep orange juice out of the 24-hour marinade; reserve it for the slow cook.
 - **Pork fat** — Keep visible exterior and seam fat attached. The pork butt must self-render enough fat for crisping.
-- **Equipment check** — Use a heavy Dutch oven that holds the pork in a snug single layer, plus a blender, small saucepan, and large electric skillet.
+- **Equipment check** — Use a heavy Dutch oven that holds the pork in a snug single layer, plus a blender, small saucepan, and large heavy skillet.
 - **Service ingredients** — Confirm corn tortillas, white onion, cilantro, limes, tomatoes, serranos, jalapeno, and chipotle in adobo before starting the cook.
 
 ## Service Countdown

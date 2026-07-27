@@ -63,9 +63,9 @@ last_updated: 2026-07-26
 |---|---:|---:|---|
 | Flavorweaver Test Recipe | About 28 hours including marinade | 10 to 12 tacos | Moderate Project Meal |
 
-| Active Prep | Cook Time | Marinate Time | Rating Note |
-|---:|---:|---:|---|
-| 45 min | About 3 hr 15 min | 24 hr | Awaiting first live cook |
+| Active Prep | Cook Time | Marinate Time |
+|---:|---:|---:|
+| 45 min | About 3 hr 15 min | 24 hr |
 
 ## Kitchen Execution Summary
 
@@ -84,7 +84,7 @@ last_updated: 2026-07-26
 ## Before Cooking Day / Advance Prep
 
 - **24 hours before cooking** — Coat the pork with the measured garlic-citrus aromatic marinade and refrigerate tightly covered.
-- **Orange handling** — Orange marmalade replaces fresh orange zest in the marinade; orange juice is reserved for the slow cook.
+- **Orange handling** — Keep orange juice out of the 24-hour marinade; reserve it for the slow cook.
 - **Pork fat** — Keep visible exterior and seam fat attached. The pork butt must self-render enough fat for crisping.
 - **Equipment check** — Use a heavy Dutch oven that holds the pork in a snug single layer, plus a blender, small saucepan, and large electric skillet.
 - **Service ingredients** — Confirm corn tortillas, white onion, cilantro, limes, tomatoes, serranos, jalapeno, and chipotle in adobo before starting the cook.
@@ -136,7 +136,6 @@ Quick-glance ingredient check for the complete taco service. Detailed measuremen
 - Water
 - Neutral oil
 - Lime juice
-- Fresh Thai chile only if a post-cook heat adjustment is needed
 
 ### Tortilla and Fresh Finish
 
@@ -195,7 +194,6 @@ These reference sections are for checking component quantities. The cooking flow
 - 2 to 4 Tbsp water, divided
 - 1 Tbsp neutral oil
 - 1 to 2 tsp fresh lime juice
-- Optional 1/2 to 1 fresh Thai chile, used only if the cooked salsa needs more heat
 
 </details>
 
@@ -224,7 +222,7 @@ These reference sections are for checking component quantities. The cooking flow
 | Neutral oil | Yes | 1 Tbsp in marinade; 1 Tbsp to fry the blended salsa | Pork fat, not neutral oil, performs the final meat crisp. |
 | Rendered pork fat | No | 2 Tbsp for final crisp; remainder for tortillas | Separate from the strained cooking juices before reducing the jus. |
 | Pork-citrus jus | No | Reduce to about 1/4 cup; use only 2 to 3 Tbsp at final crisp | Do not saturate the crust. Hold extra jus for leftovers. |
-| Fresh chiles | No | Serrano and jalapeno build the salsa; Thai chile is an optional heat correction | Taste the cooked salsa before adding Thai chile. |
+| Fresh chiles | Yes | 2 serranos and 1 jalapeno for the salsa | Char whole; stem after charring and retain the seeds for strong heat. |
 
 ## Stage-Based Prep Bowls
 
@@ -244,7 +242,6 @@ These reference sections are for checking component quantities. The cooking flow
 | Bowl 1 — Char Vegetables | 2 Roma tomatoes; 2 serranos; 1 jalapeno; 1/4 medium white onion; 3 unpeeled garlic cloves | Char while pork finishes |
 | Bowl 2 — Blender Flavor | 1 chipotle in adobo; 1 tsp adobo sauce; 1 Tbsp apple-cider vinegar; 1/2 tsp kosher salt; 2 Tbsp water | Blend with charred vegetables |
 | Bowl 3 — Salsa Finish | 1 Tbsp neutral oil; up to 2 Tbsp additional water; 1 to 2 tsp lime juice | Fry, adjust texture, and finish |
-| Bowl 4 — Optional Heat Adjustment | 1/2 to 1 fresh Thai chile | Add only after tasting the cooked salsa |
 
 ### Final Crisp and Taco Bowls
 
@@ -266,7 +263,6 @@ These reference sections are for checking component quantities. The cooking flow
 - Keep the pork in substantial irregular pieces rather than finely shredding it.
 - Separate rendered fat from pork juices before reducing the jus.
 - Use only enough reduced jus to season and caramelize the crisped pork.
-- Taste the cooked salsa before using a Thai chile for extra heat.
 - Crisp the pork and warm tortillas close to service.
 - Taste before plating and adjust salt, acid, heat, texture, and final freshness.
 
@@ -288,19 +284,19 @@ These reference sections are for checking component quantities. The cooking flow
 
 8. **Blend the salsa.** Blend the charred vegetables with **1 chipotle in adobo**, **1 tsp adobo sauce**, **1 Tbsp apple-cider vinegar**, **1/2 tsp kosher salt**, and **2 Tbsp water** until cohesive but slightly textured. Add up to **2 Tbsp more water** only if the blender needs it.
 
-9. **Fry and finish the salsa.** Heat **1 Tbsp neutral oil** in a saucepan. Carefully add the blended salsa and cook for **5 to 8 minutes**, stirring, until darker, glossy, and concentrated. Finish with **1 tsp lime juice**; add the second teaspoon only if needed. Taste the cooked salsa before deciding whether to blend in **1/2 fresh Thai chile** for more heat. If added, simmer another **2 minutes** and reassess before using more.
+9. **Fry and finish the salsa.** Heat **1 Tbsp neutral oil** in a saucepan. Carefully add the blended salsa and cook for **5 to 8 minutes**, stirring, until darker, glossy, and concentrated. Finish with **1 tsp lime juice**; add the second teaspoon only if the salsa needs a brighter edge.
 
 10. **Rest the pork and separate the pot liquid.** Transfer the tender pork to a tray and rest for **10 to 15 minutes**. Strain the Dutch-oven liquid into a heatproof container; discard the spent onion, garlic, and bay leaf. Let the liquid settle, then spoon the clear rendered pork fat into a separate bowl.
 
 11. **Reduce the pork-citrus jus.** Pour the defatted pork juices into a small saucepan and simmer until reduced to approximately **1/4 cup**. Taste before seasoning. Add **1/2 to 1 tsp lime juice** only if it needs a fresher edge. Do not automatically add salt because the jus concentrates the pork's original seasoning.
 
-12. **Prepare the final crisp.** Break the rested pork into irregular **1- to 1 1/2-inch pieces**, preserving natural edges and fatty seams. Do not finely shred it. Heat the large electric skillet to approximately **300°F** and test one piece because the skillet runs hot.
+12. **Prepare the final crisp.** Break the rested pork into irregular **1- to 1 1/2-inch pieces**, preserving natural edges and fatty seams. Do not finely shred it. Heat a large skillet to approximately **300°F** and test one piece before loading the pan.
 
 13. **Hard-crisp the carnitas.** Add **2 Tbsp reserved rendered pork fat** to the skillet. Arrange the pork in one uncrowded layer and cook undisturbed for **3 to 4 minutes**, until the first surface develops a dark substantial crust. Turn and crisp another side for **2 to 3 minutes**.
 
 14. **Caramelize with controlled jus.** Drizzle **2 Tbsp reduced pork-citrus jus around the pork**, not over every crisp surface. Toss once and cook **30 to 60 seconds**, until the jus evaporates and caramelizes. Taste one piece. Add no more than **1 additional Tbsp jus** if the meat needs greater intensity.
 
-15. **Warm the tortillas.** Lightly brush **10 to 12 corn tortillas** with additional reserved pork fat if available. Warm for **20 to 30 seconds per side** until pliable with scattered toasted spots. If little fat rendered, warm the tortillas dry rather than substituting beef fat. Hold beneath a clean towel.
+15. **Warm the tortillas.** Warm **10 to 12 corn tortillas** in the skillet for **20 to 30 seconds per side** until pliable with scattered toasted spots. If rendered pork fat remains after crisping, lightly brush it over the tortillas before warming. Hold beneath a clean towel.
 
 16. **Build and serve.** Fill each warm tortilla with a generous portion of crisp carnitas. Add charred serrano-chipotle salsa, finely diced white onion, chopped cilantro, and a squeeze of fresh lime. Serve immediately with extra salsa and lime at the table.
 
@@ -327,7 +323,7 @@ The dish should not taste like sweet pulled pork, wet braised pork, generic taco
 
 The water and citrus liquid protect the pork during the first phase while its own fat renders. Once uncovered, the remaining liquid reduces and the pork begins behaving more like small-batch carnitas cooked in freshly rendered lard.
 
-Orange marmalade is used in a very small measured amount because it supplies peel character when fresh orange zest is unavailable. More marmalade would push the pork toward sweetness and interfere with clean crisping.
+The measured orange marmalade contributes concentrated peel aroma. Keeping it restrained prevents sweetness from overtaking the pork or interfering with clean crisping.
 
 The reduced pork-citrus jus is a seasoning tool, not a finishing sauce. Add it around already-crisp pork so it can evaporate and caramelize without soaking the crust.
 

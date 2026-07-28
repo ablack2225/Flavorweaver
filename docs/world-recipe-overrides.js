@@ -29,9 +29,9 @@
       collection: 'House Recipes',
       culture: 'Indian Inspired',
       category: 'Featured Meal',
-      status: 'Flavorweaver Test Recipe',
-      ingredients: ['chicken thighs', 'all-purpose flour', 'yogurt', 'eggs', 'ghee', 'neutral oil', 'ginger garlic paste', 'lime', 'garam masala', 'cumin', 'coriander', 'paprika', 'Kashmiri chile powder', 'turmeric', 'cayenne', 'cilantro', 'mint', 'green chile', 'onion', 'chaat masala'],
-      tags: ['Indian-Inspired', 'indian-inspired', 'kathi roll', 'kati roll', 'chicken kathi rolls', 'egg paratha', 'scratch paratha', 'flaky paratha', 'chicken thighs', 'cilantro mint chutney', 'green chutney', 'onion lime crunch', 'complete wrap', 'project meal', 'Flavorweaver Test Recipe']
+      status: 'Hall of Fame',
+      ingredients: ['chicken thighs', 'all-purpose flour', 'yogurt', 'eggs', 'butter', 'ghee', 'neutral oil', 'ginger garlic paste', 'lime', 'garam masala', 'cumin', 'coriander', 'paprika', 'Kashmiri chile powder', 'turmeric', 'cayenne', 'cilantro', 'mint', 'jalapeno', 'purple onion', 'green onion', 'lettuce', 'tomato', 'cilantro mint chutney dressing', 'tzatziki-ish ranch white sauce', 'fiery red sauce', 'lemon tahini'],
+      tags: ['Indian-Inspired', 'indian-inspired', 'kathi roll', 'kati roll', 'chicken kathi rolls', 'egg paratha', 'scratch paratha', 'butter layered paratha', 'flaky paratha', 'chicken thighs', 'cilantro mint chutney dressing', 'jalapeno chutney', 'fresh lettuce tomato onion', 'complete wrap', 'project meal', 'Don favorite', 'Hall of Fame']
     });
   }
 

@@ -1,6 +1,13 @@
 (function () {
   const recipes = window.FLAVORWEAVER_WORLD_RECIPES || [];
 
+  const carnitas = recipes.find((item) => item.path === 'recipes/mexican/dons-garlic-citrus-carnitas-tacos.html');
+  if (carnitas) {
+    carnitas.status = 'Flavorweaver Canon';
+    carnitas.ingredients = ['pork butt', 'pork shoulder', 'garlic', 'orange marmalade', 'orange juice', 'lime', 'Mexican oregano', 'black pepper', 'cumin', 'cinnamon', 'white onion', 'bay leaf', 'Roma tomatoes', 'serrano chiles', 'jalapeno', 'chipotle in adobo', 'cilantro', 'apple cider vinegar', 'Tajin', 'chili powder', 'smoked paprika', 'garlic powder', 'onion powder', 'sugar', 'cayenne', 'fresh white corn tortillas', 'rendered pork fat', 'pork citrus jus'];
+    carnitas.tags = ['Mexican-Inspired', 'mexican-inspired', 'carnitas', 'garlic citrus carnitas', 'crisped pork', 'self-rendered pork fat', 'fiery charred chile lime salsa', 'Tajin salsa', 'smoked paprika salsa', 'cilantro salsa', 'fresh white corn tortillas', 'complete tacos', 'featured meal', 'project meal', 'Don favorite', 'best taco in a long time', 'Flavorweaver Canon', 'html page'];
+  }
+
   const bangBangShrimp = recipes.find((item) => item.path === 'recipes/thai/thai-inspired-bang-bang-shrimp-bowls.html');
   if (bangBangShrimp) {
     bangBangShrimp.ingredients = ['shrimp', 'mayonnaise', 'guajillo chiles', 'garlic', 'rice vinegar', 'sugar', 'sweet chili sauce', 'chili garlic paste', 'coconut milk', 'basmati rice', 'lime', 'garlic oyster broccoli', 'toasted coconut', 'crispy fried onions', 'mint', 'cornstarch', 'green onion'];

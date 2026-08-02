@@ -13,4 +13,17 @@
       tags: ['Korean-Inspired', 'korean-inspired', 'Korean BBQ pork', 'smoky plum pork', 'fresh plum glaze', 'gochujang', 'pork butt', 'sear braise lacquer', 'sticky charred pork', 'sandwich filling', 'rice bowl protein', 'lettuce wraps', 'freezer friendly', 'Flavorweaver Test Recipe', 'html page']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/mexican/chipotle-guajillo-lime-brisket-with-blackened-fresh-plum-salsa.html')) {
+    recipes.push({
+      title: 'Chipotle-Guajillo Lime Brisket with Blackened Fresh-Plum Salsa',
+      path: 'recipes/mexican/chipotle-guajillo-lime-brisket-with-blackened-fresh-plum-salsa.html',
+      collection: 'House Recipes',
+      culture: 'Mexican Inspired',
+      category: 'Main Dish',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['thin-sliced brisket', 'brisket', 'dried guajillo chiles', 'chipotle in adobo', 'orange juice', 'lime zest', 'lime juice', 'less-sodium soy sauce', 'honey', 'cumin', 'coriander', 'Mexican oregano', 'smoked paprika', 'black pepper', 'MSG', 'sweet onion', 'garlic', 'fresh plums', 'Roma tomatoes', 'jalapeno', 'fresh hot red Mexican chile', 'green onions', 'cilantro', 'rice vinegar', 'white vinegar', 'olive oil', 'brisket tallow'],
+      tags: ['Mexican-Inspired', 'mexican-inspired', 'chipotle guajillo brisket', 'lime brisket', 'thin-sliced brisket', 'blackened fresh plum salsa', 'fresh plum salsa', 'food processor salsa', 'skillet charred salsa', 'guajillo honey reduction', 'sandwich filling', 'rice bowl protein', 'wrap filling', 'Flavorweaver Test Recipe', 'html page']
+    });
+  }
 })();

@@ -1,227 +1,316 @@
 ---
-name: Korean Smoky-Plum BBQ Pork
+name: Korean Smoky-Plum BBQ Pork Hoagies
 culture: Korean Inspired
-category: Main Dish
+category: Complete Sandwich
 status: Flavorweaver Test Recipe
-difficulty: Moderate
-prep_time: 50m
-cook_time: 3h
-total_time: 3h 50m plus marinating
+difficulty: Project Meal
+prep_time: 1h 15m active
+cook_time: 3h 30m to 4h
+total_time: 4h 30m to 5h 30m plus marinating
 marinate_time: 8-24h
-rest_time: 15m
-servings: 4-6
-yield: About 2 lb cooked glazed pork plus 1 cup clean serving sauce
+rest_time: 20-30m pork rest plus bread cooling
+servings: 4
+yield: 4 loaded hoagies plus extra clean plum sauce
 measurement_status: documented
 
-rating_note: Untested chef-level build
+rating_note: Overnight marinade complete; revised for pull-apart tenderness and composed hoagie service
 repeat_worthy:
 hall_of_fame_candidate: true
 hall_of_fame: false
 
-primary_category: Main Dish
+primary_category: Complete Sandwich
 categories:
+  - Complete Sandwich
+  - Featured Meal
   - Main Dish
-  - Sandwich Filling
-  - Rice Bowl Protein
+  - Korean Inspired
 
 tags:
   - Korean Inspired
+  - Korean BBQ pork hoagie
   - pork butt
-  - Korean BBQ pork
-  - gochujang
-  - fresh plums
+  - pull-apart pork
   - smoky plum glaze
-  - ginger
-  - garlic
-  - sear braise lacquer
-  - freezer meal
-  - sandwich filling
-  - rice bowl protein
+  - gochujang
+  - spicy mayo
+  - quick pickled carrot and onion
+  - sesame cabbage crunch
+  - homemade hoagie roll
+  - sear braise pull lacquer char
+  - complete sandwich
   - Flavorweaver Test Recipe
 
-required_components: []
+required_components:
+  - pull-apart-smoky-plum-pork
+  - spicy-gochujang-mayo
+  - sesame-pickle-crunch
+  - homemade-hoagie-rolls
 
 pairs_well_with:
-  - basmati or short-grain rice
-  - quick-pickled carrots and red onion
-  - lettuce wraps
-  - soft sandwich buns
-  - green onions and toasted sesame seeds
+  - extra quick pickles
+  - charred corn
+  - crisp fries or roasted potatoes
+  - lime wedges
+  - cold sparkling drink
 
-last_updated: 2026-08-02
+last_updated: 2026-08-03
 ---
 
 <!-- recipe-card:start -->
 
-# Korean Smoky-Plum BBQ Pork
+# Korean Smoky-Plum BBQ Pork Hoagies
 
-> Pork-butt chunks marinated with gochujang, soy, ginger, garlic, and scallion; hard-seared, gently braised until tender, then lacquered under high heat with a polished fresh-plum barbecue glaze that is smoky, fermented, sweet-hot, and bright rather than jammy.
+> Soft homemade hoagie rolls filled with deeply marinated pork butt that is hard-seared, gently braised until pull-apart tender, rested in its juices, coarse-pulled, and lacquered under high heat with a polished fresh-plum gochujang barbecue glaze. Spicy mayo and a cold sesame-pickle crunch keep the sandwich creamy, sharp, crisp, hot, and balanced.
 
 ## Recipe Dashboard
 
-| Status | Total Time | Servings / Yield | Difficulty |
+| Status | Total Time | Yield | Difficulty |
 |---|---:|---:|---|
-| Flavorweaver Test Recipe | 3 hr 50 min plus 8-24 hr marinade | 4-6 servings | Moderate |
+| Flavorweaver Test Recipe | 4 hr 30 min to 5 hr 30 min plus marinade | 4 loaded hoagies | Project Meal |
 
-| Prep Time | Cook Time | Rating Note | Repeat Worthy |
-|---:|---:|---|---|
-| 50 min | About 3 hr | Untested chef-level build | To be determined |
+| Active Prep | Pork Cook | Marinade | Texture Target |
+|---:|---:|---:|---|
+| About 1 hr 15 min | 3 hr 30 min to 4 hr | 8-24 hr | Moist coarse-pulled pork with sticky charred edges |
+
+# Start Here: Complete Kitchen Execution Order
+
+The pork is already marinated overnight. Follow this order so the frozen rolls, long braise, cold sandwich components, and last-minute lacquer finish converge correctly.
+
+| Stage | Action | Success Cue |
+|---:|---|---|
+| 1 | Remove the frozen shaped hoagie rolls and keep covered while thawing and proofing | Fully thawed, noticeably puffy, slow-returning finger dent |
+| 2 | Temper, drain, dry, and hard-sear the pork | Deep brown crust without cooking through |
+| 3 | Build the onion braise and cover tightly at 315°F | Liquid reaches one-third to halfway up the pork |
+| 4 | While pork braises, make plum glaze, spicy mayo, and quick pickles | Glaze savory-bright; mayo creamy-hot; pickles cold and crisp |
+| 5 | Braise until the pork begins to pull apart, then rest it in the liquid | Fork twists easily and separates the meat; about 198-205°F |
+| 6 | Bake the fully proofed hoagie rolls while the pork rests | 190-195°F internal, soft and browned |
+| 7 | Reduce pork liquid, coarse-pull the meat, restore moisture, lacquer, and broil | Juicy interior with dark sticky edges |
+| 8 | Butter-toast rolls and build immediately | Hot pork, cold crunch, warm crisp bread |
+
+## Non-Negotiable Hoagie Texture Standard
+
+This is no longer a recipe for intact glazed pork chunks. A hoagie needs pork that yields cleanly with every bite.
+
+- Braise until a fork enters with almost no resistance and twisting begins to separate the meat.
+- Rest the pork covered in its braising liquid for 20-30 minutes.
+- Pull into substantial irregular pieces, not dry hairlike shreds.
+- Restore reduced pork liquid before adding plum glaze.
+- Broil only long enough to create lacquered edges; the meat must remain moist beneath them.
+- Do not simmer pulled pork in thick glaze. Sugar-rich sauce will tighten and scorch.
 
 ## Kitchen Execution Summary
 
-| Execution Point | Notes |
+| Component | Purpose |
 |---|---|
-| Best cooked | Braise can be completed ahead; lacquer immediately before serving for best edges |
-| Must be prepped before heat | Pork marinated; plums divided for broiling and simmering; all glaze ingredients measured |
-| Can hold warm? | Braised pork can hold covered in its liquid for 30-45 minutes before glazing |
-| Should not be prepped early | Sesame oil, final acid, green onion tops, and sesame garnish |
-| Critical timing | Sauce must be divided before reduced braising liquid touches it; glaze only after pork is tender |
-| Main risk | Crowding the sear, reducing the fruit sauce into jam, or burning the sugar-rich glaze |
-| Success cue | Fork-tender chunks that still hold shape, dark sticky edges, and a glossy sauce with clear plum acidity |
+| Overnight-marinated pork butt | Builds deep gochujang, garlic, ginger, soy, scallion, and chile flavor before cooking |
+| Covered savory braise | Converts collagen into succulent pull-apart texture without boiling the meat dry |
+| Two-plum barbecue glaze | Broiled plums add roast and smoke; uncharred plums protect fresh acidity |
+| Spicy gochujang mayo | Creamy heat anchors both cut sides of the toasted roll |
+| Sesame pickle crunch | Quick-pickled onion, carrot, and jalapeño meet fresh cabbage for acid and cold snap |
+| Homemade hoagie rolls | Soft enriched rolls are thawed, proofed, baked, buttered, and toasted for structure |
 
-## Ingredient List
+## Full Plate Ingredient Roll-Up
 
 | Component | Ingredients |
 |---|---|
-| Pork and overnight marinade | Pork butt, less-sodium soy sauce, gochujang, rice vinegar, honey, sweet onion, garlic, ginger, green onion, gochugaru or crushed chile, black pepper, MSG, toasted sesame oil |
-| Savory braise | Olive oil, sweet onion, chicken broth, water, less-sodium soy sauce, gochujang, rice vinegar |
-| Charred fresh-plum glaze | Fresh plums, gochujang, less-sodium soy sauce, rice vinegar, honey, brown sugar, tomato paste, ginger, garlic, smoked paprika, gochugaru or red chile, water, toasted sesame oil |
-| Final lacquer and finish | Reduced braising liquid, clean plum glaze, rice vinegar or lime, green onions, toasted sesame seeds |
+| Pork marinade | Pork butt, soy, gochujang, rice vinegar, honey, grated onion, garlic, ginger, green onion, gochugaru, black pepper, MSG, sesame oil |
+| Savory braise | Oil, sliced onion, chicken broth, water, soy, gochujang, rice vinegar |
+| Fresh-plum glaze | Plums, gochujang, soy, rice vinegar, honey, brown sugar, tomato paste, ginger, garlic, smoked paprika, gochugaru, water, sesame oil |
+| Spicy mayo | Mayonnaise, gochujang, lime, rice vinegar, honey, garlic powder, sesame oil, optional gochugaru |
+| Sesame pickle crunch | Red onion, carrot, jalapeño, rice vinegar, hot water, honey or sugar, salt, cabbage, green onion, sesame seeds, sesame oil |
+| Hoagie service | Four frozen shaped hoagie rolls, butter, green onion tops, sesame seeds, clean plum sauce |
 
-## Measured Ingredients
+## Measured Ingredients by Component
 
-### Pork and Overnight Marinade
+### A. Pork and Overnight Marinade
 
-| Amount | Ingredient | Prep / Notes |
-|---:|---|---|
-| 2 lb | Pork butt | Cut into 1 1/2- to 2-inch chunks |
-| 2 Tbsp | Less-sodium soy sauce |  |
-| 2 Tbsp | Gochujang |  |
-| 1 Tbsp | Unseasoned rice vinegar |  |
-| 1 Tbsp | Honey |  |
-| 1/3 cup | Sweet onion | Finely grated, including juices |
-| 6 cloves | Garlic | Finely grated or minced |
-| 1 Tbsp | Fresh ginger | Finely grated |
-| 2 | Green onions | Whites and light-green portions finely sliced; reserve dark tops for service |
-| 1 tsp | Gochugaru | Or 1/2 tsp crushed red pepper; adjust to heat preference |
-| 1/2 tsp | Freshly ground black pepper |  |
-| 1/2 tsp | MSG |  |
-| 1 tsp | Toasted sesame oil | Keep restrained in the marinade |
+- 2 lb pork butt, cut into 1 1/2- to 2-inch chunks
+- 2 Tbsp less-sodium soy sauce
+- 2 Tbsp gochujang
+- 1 Tbsp unseasoned rice vinegar
+- 1 Tbsp honey
+- 1/3 cup finely grated sweet onion with its juices
+- 6 cloves garlic, grated or finely minced
+- 1 Tbsp fresh ginger, grated
+- 2 green onions, whites and light greens thinly sliced; reserve dark tops
+- 1 tsp gochugaru, or 1/2 tsp crushed red pepper
+- 1/2 tsp black pepper
+- 1/2 tsp MSG
+- 1 tsp toasted sesame oil
 
-### Savory Braise
+### B. Savory Braise
 
-| Amount | Ingredient | Prep / Notes |
-|---:|---|---|
-| 1 Tbsp | Olive oil | For searing; use more only if the pot becomes dry |
-| 1/2 large | Sweet onion | About 1 cup, sliced 1/4 inch thick |
-| 3/4 cup | Chicken broth | Prefer lower sodium |
-| 1/2 cup | Water | Plus more only if needed to reach one-third up the pork |
-| 1 Tbsp | Less-sodium soy sauce |  |
-| 1 Tbsp | Gochujang | Whisk into the liquid |
-| 1 Tbsp | Unseasoned rice vinegar |  |
+- 1 Tbsp neutral oil or olive oil
+- 1/2 large sweet onion, about 1 cup sliced 1/4 inch thick
+- 3/4 cup lower-sodium chicken broth
+- 1/2 cup water, plus a little hot water only if needed
+- 1 Tbsp less-sodium soy sauce
+- 1 Tbsp gochujang
+- 1 Tbsp unseasoned rice vinegar
 
-### Charred Fresh-Plum BBQ Glaze
+### C. Charred Fresh-Plum BBQ Glaze
 
-| Amount | Ingredient | Prep / Notes |
-|---:|---|---|
-| 1 1/2 lb | Fresh plums | Pitted; divide in half by weight |
-| 2 Tbsp | Gochujang |  |
-| 3 Tbsp | Less-sodium soy sauce |  |
-| 1/4 cup | Unseasoned rice vinegar | Plus more for final adjustment if needed |
-| 3 Tbsp | Honey |  |
-| 1 Tbsp | Light brown sugar | Hold back if plums are very sweet |
-| 1 Tbsp | Tomato paste | Adds savory body, not tomato-sauce flavor |
-| 1 Tbsp | Fresh ginger | Finely grated |
-| 4 cloves | Garlic | Finely grated or minced |
-| 1 tsp | Smoked paprika |  |
-| 1 tsp | Gochugaru | Or 1 finely minced red chile; adjust to taste |
-| 1/2 cup | Water |  |
-| 1 tsp | Toasted sesame oil | Stir in only after heat is off |
+- 1 1/2 lb fresh plums, skins on, halved and pitted
+- 2 Tbsp gochujang
+- 3 Tbsp less-sodium soy sauce
+- 1/4 cup unseasoned rice vinegar, plus more for final balancing
+- 3 Tbsp honey
+- Up to 1 Tbsp light brown sugar; omit or reduce if plums are sweet
+- 1 Tbsp tomato paste
+- 1 Tbsp fresh ginger, grated
+- 4 cloves garlic, grated or minced
+- 1 tsp smoked paprika
+- 1 tsp gochugaru, or 1 finely minced hot red chile
+- 1/2 cup water
+- 1 tsp toasted sesame oil, added off heat
 
-### Final Lacquer and Finish
+### D. Spicy Gochujang Mayo
 
-| Amount | Ingredient | Prep / Notes |
-|---:|---|---|
-| 3/4 cup | Prepared clean plum glaze | For lacquering the pork |
-| Up to 1/4 cup | Reduced braising liquid | Whisk only into the lacquer portion |
-| 1-2 tsp | Rice vinegar or fresh lime juice | Add only if the finished lacquer needs brightness |
-| Reserved tops from 2 | Green onions | Thinly sliced |
-| 1 Tbsp | Toasted sesame seeds |  |
-| About 1 cup | Remaining clean plum glaze | Keep untouched for table service or freezing |
+- 1/2 cup mayonnaise
+- 1 1/2 Tbsp gochujang
+- 2 tsp fresh lime juice
+- 1 tsp unseasoned rice vinegar
+- 1 tsp honey
+- 1/4 tsp garlic powder
+- 1/4 tsp toasted sesame oil
+- 1/4 tsp gochugaru, optional for a hotter mayo
+- Pinch fine salt only if needed
 
-## Prep Notes
+### E. Quick Pickles and Sesame Crunch
 
-- **Pork cut:** Keep the pork in 1 1/2- to 2-inch chunks. Smaller pieces can dry or shred before the collagen fully relaxes.
-- **Plum split:** Broil half the pitted plums for caramelized depth; simmer the other half uncharred to protect fresh fruit acidity.
-- **Equipment:** Heavy Dutch oven or covered braising pot, rimmed sheet pan, blender or immersion blender, fine-mesh strainer, and broiler-safe pan.
-- **Marination:** Refrigerate 8-24 hours. The marinade is deliberately assertive but not so salty that the pork becomes cured.
-- **Safety and sauce separation:** The clean fruit glaze never touches raw pork. Reserve table sauce before any reduced braising liquid is added.
-- **Holding:** Once tender, pork can remain covered in its braising liquid briefly. Do not leave it sitting in the sticky glaze over low heat; it can scorch.
+#### Quick Pickle
+
+- 1/2 small red onion, sliced paper-thin
+- 1 medium carrot, cut into fine matchsticks or coarsely shredded
+- 1/2 to 1 jalapeño, sliced thinly
+- 1/3 cup unseasoned rice vinegar
+- 1/4 cup hot water
+- 1 Tbsp honey or sugar
+- 3/4 tsp fine salt
+
+#### Fresh Crunch Finish
+
+- 1 packed cup very thinly shredded green cabbage
+- 1 green onion, thinly sliced
+- 1 tsp toasted sesame seeds
+- 1/2 tsp toasted sesame oil
+- 1 tsp quick-pickle liquid, only if needed
+
+### F. Hoagie Rolls and Final Build
+
+- 4 frozen shaped, unproofed soft buttery hoagie rolls, about 135-150 g each
+- 2 Tbsp melted butter, divided between warm tops and cut-side toasting
+- 5-6 oz finished pork per sandwich
+- Spicy gochujang mayo
+- Sesame pickle crunch
+- Clean smoky-plum sauce, used sparingly at service
+- Reserved green onion tops
+- Toasted sesame seeds
+- Lime wedges, optional
+
+## Cross-Component Prep Map
+
+| Ingredient | Divide Into |
+|---|---|
+| Gochujang | 2 Tbsp marinade; 1 Tbsp braise; 2 Tbsp plum glaze; 1 1/2 Tbsp spicy mayo |
+| Rice vinegar | 1 Tbsp marinade; 1 Tbsp braise; 1/4 cup glaze; 1 tsp mayo; 1/3 cup quick pickle; extra for final balance |
+| Green onions | Whites/light greens from 2 in marinade; 1 in crunch; reserved dark tops at service |
+| Toasted sesame oil | 1 tsp marinade; 1 tsp glaze off heat; 1/4 tsp mayo; 1/2 tsp crunch |
+| Plum glaze | Reserve clean table sauce first; use a separate portion for pork lacquering |
+| Braising liquid | Reduce separately; mix only into cooked pork and the lacquer portion |
 
 ## Stage-Based Prep Bowls
 
-### Stage 1 — Overnight Marinade
+### Pork and Braise
 
-- **Bag or Bowl 1 — Pork:** 2 lb pork-butt chunks.
-- **Bowl 2 — Savory Marinade:** 2 Tbsp less-sodium soy sauce, 2 Tbsp gochujang, 1 Tbsp rice vinegar, 1 Tbsp honey, 1/3 cup grated sweet onion, 6 grated garlic cloves, 1 Tbsp grated ginger, sliced whites/light greens from 2 green onions, 1 tsp gochugaru, 1/2 tsp black pepper, 1/2 tsp MSG, and 1 tsp toasted sesame oil.
-
-### Stage 2 — Braise Setup
-
-- **Bowl 1 — Sear:** Drained marinated pork and 1 Tbsp olive oil.
+- **Bag 1 — Marinated Pork:** already refrigerated overnight.
 - **Bowl 2 — Onion Base:** 1 cup sliced sweet onion.
-- **Bowl 3 — Braising Liquid:** 3/4 cup chicken broth, 1/2 cup water, 1 Tbsp soy sauce, 1 Tbsp gochujang, and 1 Tbsp rice vinegar.
+- **Bowl 3 — Braising Liquid:** broth, water, soy, gochujang, and vinegar whisked together.
 
-### Stage 3 — Plum Sauce
+### Sauce and Cold Finish
 
-- **Tray 1 — Char Plums:** Half of the 1 1/2 lb pitted plums, cut side up.
-- **Pot Bowl — Fresh Plum Base:** Remaining plums, 2 Tbsp gochujang, 3 Tbsp soy sauce, 1/4 cup rice vinegar, 3 Tbsp honey, up to 1 Tbsp brown sugar, 1 Tbsp tomato paste, 1 Tbsp ginger, 4 garlic cloves, 1 tsp smoked paprika, 1 tsp gochugaru, and 1/2 cup water.
-- **Finish Bowl:** 1 tsp toasted sesame oil.
+- **Tray 1 — Broiled Plums:** half the pitted plums, cut side up.
+- **Pot 2 — Plum Base:** remaining plums and all measured glaze ingredients except sesame oil.
+- **Bowl 3 — Spicy Mayo:** all mayo ingredients whisked smooth.
+- **Jar 4 — Quick Pickles:** onion, carrot, jalapeño, and hot brine.
+- **Bowl 5 — Fresh Crunch:** cabbage, green onion, sesame; add drained pickles and sesame oil only near service.
 
-### Stage 4 — Lacquer and Service
+### Service
 
-- **Bowl 1 — Clean Table Sauce:** About 1 cup strained glaze; seal before handling braising liquid.
-- **Bowl 2 — Pork Lacquer:** 3/4 cup clean glaze plus up to 1/4 cup reduced braising liquid.
-- **Bowl 3 — Table Finish:** 1-2 tsp rice vinegar or lime as needed, reserved sliced green onion tops, and 1 Tbsp toasted sesame seeds.
+- **Tray 1 — Proofed Rolls:** covered until baking.
+- **Bowl 2 — Clean Table Glaze:** sealed before braising liquid is handled.
+- **Bowl 3 — Pork Lacquer:** clean plum glaze plus reduced pork liquid.
+- **Bowl 4 — Final Garnish:** scallion tops, sesame seeds, lime wedges.
 
-## Instructions
+## Full Cooking Timeline and Instructions
 
-1. **Marinate the pork overnight.** Whisk together **2 Tbsp less-sodium soy sauce, 2 Tbsp gochujang, 1 Tbsp rice vinegar, 1 Tbsp honey, 1/3 cup grated sweet onion, 6 grated garlic cloves, 1 Tbsp grated ginger, the sliced whites and light greens from 2 green onions, 1 tsp gochugaru, 1/2 tsp black pepper, 1/2 tsp MSG, and 1 tsp toasted sesame oil**. Coat **2 lb pork-butt chunks** thoroughly. Cover airtight and refrigerate **8-24 hours**.
+1. **Begin thawing and proofing the rolls.** Place the 4 frozen shaped hoagie rolls on a parchment-lined tray with space between them. Protect them with lightly oiled plastic wrap or place the tray inside a food-safe bag. Let thaw and proof at comfortable room temperature. They are ready when fully thawed, visibly expanded and puffy, and a lightly floured fingertip dent returns slowly rather than springing back immediately. This may take 3-5 hours depending on room temperature. If they become ready well before the pork, refrigerate them covered for up to about 1 hour, then return to room temperature while the pork finishes.
 
-2. **Temper and dry the pork.** Remove the pork from the refrigerator **30-40 minutes before searing**. Lift the chunks from the marinade, let excess marinade drip away, and pat the surfaces lightly dry. Discard the raw marinade. Heat the oven to **315°F**.
+2. **Temper and dry the pork.** Remove the marinated pork from the refrigerator 30-40 minutes before searing. Lift the chunks from the marinade, let excess marinade drip away, and lightly pat the surfaces dry. Discard all raw marinade. Heat the oven to 315°F.
 
-3. **Char half of the plums.** Arrange half of the **1 1/2 lb pitted plums** cut side up on a foil-lined rimmed pan. Broil until the skins blister and the cut surfaces develop dark caramelized spots, about **6-10 minutes**. Watch closely; the goal is charred fruit depth, not dried fruit. Set aside.
+3. **Sear in batches.** Heat a heavy Dutch oven over medium-high to high heat. Add enough of the 1 Tbsp oil to film the bottom. Sear the pork in 2-3 uncrowded batches. Leave each side untouched long enough to form deep brown crust before turning. Transfer browned pork to a tray; do not cook the centers through.
 
-4. **Build the polished plum sauce.** In a saucepan combine the uncharred plums, broiled plums and their juices, **2 Tbsp gochujang, 3 Tbsp soy sauce, 1/4 cup rice vinegar, 3 Tbsp honey, up to 1 Tbsp brown sugar, 1 Tbsp tomato paste, 1 Tbsp grated ginger, 4 grated garlic cloves, 1 tsp smoked paprika, 1 tsp gochugaru, and 1/2 cup water**. Simmer uncovered over medium-low heat for **20-30 minutes**, stirring occasionally, until the fruit collapses and the sauce is glossy but still loose enough to blend.
+4. **Build the braise.** Lower heat to medium. Add the sliced onion and cook in the rendered pork fat for about 5 minutes, until softened and browned at the edges. Pour in the whisked broth, water, soy, gochujang, and vinegar. Scrape up every browned bit.
 
-5. **Blend, strain, and reduce the sauce.** Blend the plum mixture until completely smooth. Press it through a fine-mesh strainer into a clean saucepan. Simmer gently until it coats the back of a spoon and yields about **1 3/4-2 cups**. Remove from heat and stir in **1 tsp toasted sesame oil**. Taste: it should be savory and fermented first, with plum brightness, controlled sweetness, chile heat, and smoke. Add a little rice vinegar if it tastes jammy; add a little honey only if the plums are aggressively tart.
+5. **Cover and braise for pull-apart tenderness.** Return pork and accumulated juices to the pot. Liquid should reach one-third to halfway up the chunks. Add a small amount of hot water only if needed. Cover very tightly and braise at 315°F. Begin checking around 2 hours 15 minutes, then every 20 minutes. Expect roughly 2 1/2-3 1/4 hours. The pork is ready when a fork enters with almost no resistance and twisting begins to separate the meat. Internal temperature will commonly be around 198-205°F. Do not remove it merely because it is food-safe; collagen must fully soften.
 
-6. **Sear the pork in batches.** Heat a heavy Dutch oven over medium-high to high heat. Add enough of the **1 Tbsp olive oil** to film the bottom. Sear the pork in **2-3 uncrowded batches**, turning only after deep browning develops. Transfer browned chunks to a tray. Do not chase full doneness during this stage.
+6. **Char half the plums during the braise.** Arrange half the pitted plums cut side up on a foil-lined rimmed pan. Broil 6-10 minutes until skins blister and cut surfaces show dark caramelized spots. Do not dry them out.
 
-7. **Build the savory braise.** Reduce heat to medium. Add **1 cup sliced sweet onion** and cook in the rendered pork fat until softened and browned at the edges, about **5 minutes**. Whisk together **3/4 cup chicken broth, 1/2 cup water, 1 Tbsp soy sauce, 1 Tbsp gochujang, and 1 Tbsp rice vinegar**. Pour into the pot and scrape up every browned bit.
+7. **Build the plum glaze.** Combine the broiled plums and their juices with the uncharred plums, gochujang, soy, rice vinegar, honey, optional brown sugar, tomato paste, ginger, garlic, smoked paprika, gochugaru, and water. Simmer uncovered over medium-low heat 20-30 minutes, stirring occasionally, until the fruit collapses.
 
-8. **Braise until tender but intact.** Return the pork and any accumulated juices to the pot. The liquid should reach roughly one-third of the way up the chunks; add a small splash of water only if necessary. Cover tightly and braise at **315°F for 1 hour 45 minutes**, then check every **20-30 minutes**. The pork is ready when a fork or skewer enters with little resistance but the chunks still hold together, usually **2-2 1/2 hours total**. Avoid cooking until the meat collapses into dry shreds.
+8. **Blend, strain, and reduce.** Blend until completely smooth. Press through a fine-mesh strainer into a clean saucepan. Reduce gently until the sauce coats the back of a spoon and yields about 1 3/4-2 cups. Remove from heat and stir in 1 tsp toasted sesame oil. It should taste savory and fermented first, then plum-bright, smoky, sweet-hot, and acidic—not like jam. Add vinegar 1 tsp at a time if it tastes jammy.
 
-9. **Reduce the braising liquid separately.** Transfer the tender pork carefully to a broiler-safe sheet pan. Strain the braising liquid into a saucepan, pressing lightly on the onion, and discard the solids. Skim excess surface fat if needed. Boil until concentrated to about **1/3 cup**. Keep this pork-enriched reduction separate from the clean plum sauce.
+9. **Make the spicy mayo.** Whisk mayonnaise, gochujang, lime juice, rice vinegar, honey, garlic powder, sesame oil, and optional gochugaru. Chill at least 30 minutes. Taste it on bread rather than from the spoon; it should remain creamy enough to soften the heat of the pork.
 
-10. **Divide clean sauce before lacquering.** Measure and seal **about 1 cup clean plum glaze** for table service or freezing. In another bowl, combine **3/4 cup clean plum glaze** with **2 Tbsp reduced braising liquid**. Taste before adding more reduction; use up to **1/4 cup total** only if the lacquer remains balanced and not overly salty.
+10. **Quick-pickle the vegetables.** Pack onion, carrot, and jalapeño into a heat-safe bowl or jar. Stir hot water, rice vinegar, honey or sugar, and salt until dissolved; pour over the vegetables. Rest at least 30 minutes, stirring once. Chill if time allows.
 
-11. **Lacquer and char the pork.** Toss or brush the tender pork with enough lacquer to coat generously without pooling. Broil **4-8 minutes**, turning once and brushing with a second thin coat, until the edges are dark, sticky, and lightly charred. Stay at the oven; the fruit, honey, and gochujang can move from caramelized to burned quickly.
+11. **Rest the pork in its liquid.** When fully tender, remove the Dutch oven from the oven but keep it tightly covered. Let the pork rest in the braising liquid 20-30 minutes. Raise the oven to 350°F for the rolls.
 
-12. **Finish and serve.** Taste one piece with a little clean sauce. If the finish needs lift, add **1-2 tsp rice vinegar or fresh lime juice** to the remaining lacquer or table sauce. Finish the pork with the reserved sliced green onion tops and **1 Tbsp toasted sesame seeds**. Serve hot with rice, pickles, lettuce wraps, or soft buns, with the untouched plum sauce at the table.
+12. **Bake the proofed rolls.** Remove the protective plastic. Bake at 350°F for 18-22 minutes, until evenly golden and 190-195°F internally. Brush the tops lightly with melted butter while hot. Cool at least 20 minutes before slicing so the crumb sets.
 
-## Troubleshooting / Rescue Notes
+13. **Coarse-pull the pork.** Lift the rested pork into a wide bowl or tray. Break it into short, substantial shreds and small tender chunks. Do not finely shred it. Cover loosely while reducing the liquid.
 
-| Issue | Fix |
+14. **Reduce the braising liquid.** Strain the liquid into a saucepan, pressing lightly on the onion. Skim excess fat if needed and boil until concentrated to about 1/3 cup. Taste before using because soy and gochujang concentrate with reduction.
+
+15. **Restore moisture and build the lacquer.** Fold 1/4 cup reduced braising liquid into the coarse-pulled pork. Add about 1/2 cup clean plum glaze and fold gently until the pork is juicy and lightly coated. Seal at least 1/2-3/4 cup remaining clean glaze for table service or leftovers. For the broiler lacquer, whisk another 1/4 cup clean glaze with 1-2 Tbsp reduced braising liquid.
+
+16. **Lacquer and char.** Spread the moistened pork on a foil-lined broiler-safe pan in a loose layer. Brush or drizzle with half the lacquer. Broil 2-4 minutes until the upper edges darken. Turn sections gently, add the remaining lacquer in a thin coat, and broil another 1-3 minutes. Stop when sticky charred edges appear while the majority of the meat remains soft and juicy.
+
+17. **Finish the sesame pickle crunch.** Drain the quick-pickled vegetables very well. Toss about 3/4 cup drained pickles with the cabbage, sliced green onion, sesame seeds, and 1/2 tsp sesame oil. Add at most 1 tsp pickle liquid if it needs brightness. The crunch must be moist but not dripping.
+
+18. **Butter-toast the rolls.** Split each cooled roll lengthwise without cutting entirely through the hinge. Brush cut faces lightly with melted butter. Toast cut-side down in a hot skillet until golden and crisp. Do not toast the exterior hard; the sandwich needs a soft bite.
+
+19. **Build each hoagie.** Spread spicy mayo over both toasted cut faces. Add 5-6 oz hot lacquered pork. Add only a small spoonful of clean plum glaze if the meat needs more shine; do not soak the bread. Top with sesame pickle crunch, reserved scallion tops, and sesame seeds. Close gently and serve immediately.
+
+## Service Countdown
+
+| Time Before Eating | Task |
+|---:|---|
+| 5 hours | Start covered thaw/proof of frozen shaped hoagie rolls; temper pork |
+| 4 1/2 hours | Sear pork, build braise, place covered in 315°F oven |
+| 3 1/2 hours | Make plum glaze |
+| 2 1/2 hours | Make spicy mayo and quick pickles; refrigerate |
+| 1 hour | Begin checking pork for genuine pull-apart tenderness |
+| 40 minutes | Rest finished pork covered in liquid; raise oven to 350°F |
+| 35 minutes | Bake proofed rolls |
+| 20 minutes | Coarse-pull pork; reduce juices; build lacquer |
+| 10 minutes | Broil pork; drain and finish crunch; split and toast rolls |
+| Service | Mayo → pork → optional clean glaze → crunch → scallion and sesame |
+
+## Troubleshooting and Rescue Notes
+
+| Problem | Correction |
 |---|---|
-| Sauce tastes like plum jam | Add rice vinegar 1 tsp at a time, then a small splash of soy or water; do not add more gochujang until acid is corrected |
-| Sauce is too tart | Add honey 1 tsp at a time and simmer 1-2 minutes; avoid burying the fruit under sugar |
-| Sauce is too thick | Whisk in hot water 1 Tbsp at a time until brushable |
-| Sauce is too loose | Reduce gently before sesame oil is added; stop when it coats a spoon |
-| Pork is still tough | Return it to the covered braise and check every 20 minutes; pork butt needs time for collagen to soften |
-| Pork is falling apart before glazing | Chill it briefly in a single layer, then glaze gently and broil without tossing |
-| Pork will not brown | Sear fewer pieces at once and dry the surfaces better; crowding creates steam |
-| Glaze is burning | Move the pan farther from the broiler, use thinner coats, and shorten each broiler pass |
-| Finished pork tastes too salty | Serve with plain rice and crisp vegetables; loosen table sauce with plum, water, and vinegar rather than sugar alone |
+| Pork is still tough | Re-cover and continue braising; check every 20 minutes. Do not compensate by slicing thinner after cooking. |
+| Pork is tender but dry | Fold in warm reduced braising liquid 1 Tbsp at a time before adding glaze. |
+| Pork collapses into very fine shreds | Handle minimally, moisten generously with reduced liquid, and broil in a loose undisturbed layer. |
+| Plum glaze tastes jammy | Add rice vinegar 1 tsp at a time, then a small splash of water or soy if needed. |
+| Plum glaze burns under broiler | Use thinner coats, shorten broiler passes, and move the tray farther from the element. |
+| Mayo tastes too hot | Add mayonnaise 1 Tbsp at a time and a few drops of lime. |
+| Crunch is wet | Drain and squeeze the pickles lightly; add more dry shredded cabbage. |
+| Rolls are proofed before pork is ready | Refrigerate covered up to about 1 hour, then let stand while pork finishes. |
+| Rolls split during baking | They were underproofed or their surfaces dried; keep protected and use the slow-returning dent test. |
+| Sandwich tastes too sweet | Increase pickle crunch and lime; do not add more plum glaze. |
 
 <!-- recipe-card:end -->
 
@@ -229,117 +318,67 @@ last_updated: 2026-08-02
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Base | Basmati or short-grain rice | Absorbs lacquer and balances the concentrated pork |
-| Bright component | Quick-pickled carrots and red onion | Required-style contrast for richness and sweetness |
-| Fresh component | Lettuce, green onion, sliced jalapeño or red chile | Crispness and fresh heat |
-| Bread | Soft sandwich buns | Use chopped or gently pulled pork with clean plum sauce |
-| Wrap | Naan or lettuce wraps | Add pickles and a creamy gochujang or sesame dressing |
+| Side | Charred corn | Smoky sweetness without another heavy starch |
+| Side | Crisp fries or roasted potatoes | Best when simply salted so the hoagie remains the flavor center |
+| Acid | Extra quick pickles | Useful for very rich portions of pork |
+| Drink | Cold sparkling water or tart lime drink | Refreshes against pork fat, mayo, and gochujang |
 
 ## Chef's Notes
 
-The sauce uses a deliberate **two-plum treatment**: half of the fruit is broiled for roasted depth while half stays uncharred for fresh acidity. Straining is not decorative; it turns softened skin and fibrous aromatics into a smooth restaurant-style lacquer.
+The finished sandwich uses three deliberate texture temperatures: hot juicy-charred pork, cold crisp pickle-cabbage crunch, and warm butter-toasted bread. The spicy mayo belongs on both cut faces because it protects the crumb from meat juices while seasoning every bite.
 
-The recipe also keeps **three liquids separate**: raw marinade is discarded, clean plum sauce is reserved for service, and pork braising liquid is reduced independently. Only the portion used to lacquer the cooked pork receives the reduced braising liquid. That protects food safety, salt control, freezer flexibility, and a clean table sauce.
+The sauce still uses the house two-plum treatment: half broiled for roast and smoke, half uncharred for brighter fruit character. Straining creates a polished lacquer rather than a fibrous fruit sauce.
 
-For electric-skillet service, braise in the oven or a covered Dutch oven first. Lacquer the tender pork in the preheated electric skillet in small batches, turning carefully until sticky edges form. Do not pour all the sauce into the skillet.
-
-### Freezing and Reheating
-
-Cool the pork promptly. Portion it with **1-2 Tbsp lacquer per serving**, keeping extra clean plum sauce in a separate container. Freeze for up to **3 months**. Thaw overnight, reheat covered with a small splash of water at **325°F** or over low skillet heat, then uncover and add fresh sauce near the end. Finish with fresh green onion and sesame after reheating.
-
-## Final Verdict
-
-**Worth making again?**
-
-To be determined after the first live cook.
-
-**Flavorweaver Decision:**
-
-- [ ] Keep as written
-- [ ] Keep with changes
-- [ ] Move toward Hall of Fame
-- [ ] Mark as House Staple
-- [x] Keep for testing
-- [ ] Do not repeat
+Three liquids remain separate: raw marinade is discarded, clean plum sauce is reserved before service, and pork braising liquid is reduced independently. Only cooked pork and the lacquer portion receive the reduced pork liquid.
 
 <details>
 <summary>Flavor Architecture</summary>
 
-| Layer | Notes |
+| Layer | Expression |
 |---|---|
-| Richness | Pork-butt fat, collagen, and reduced braising liquor |
-| Freshness | Uncharred plum, green onion, optional lettuce and pickles |
-| Acid / Brightness | Plum tartness, rice vinegar, optional final lime |
-| Heat | Gochujang plus gochugaru or fresh red chile |
-| Sweetness | Natural plum, honey, restrained brown sugar |
-| Umami | Soy sauce, gochujang, MSG, browned pork fond, reduced braising liquor |
-| Texture | Tender intact pork with broiled lacquered edges |
-| Sauce / Moisture | Strained plum glaze plus a separate clean serving sauce |
-| Aroma | Charred fruit, garlic, ginger, sesame, smoked paprika |
+| Richness | Pork-butt collagen and fat, mayonnaise, buttered roll |
+| Umami | Gochujang, soy, MSG, browned fond, concentrated pork liquid |
+| Sweetness | Fresh plums, honey, restrained brown sugar |
+| Acid | Rice vinegar, lime, quick pickles, natural plum tartness |
+| Heat | Gochujang, gochugaru, jalapeño |
+| Smoke and char | Broiled plums, smoked paprika, seared pork, broiled lacquer |
+| Fresh crunch | Cabbage, carrot, red onion, jalapeño, scallion |
+| Texture | Soft roll, crisp toasted faces, succulent pulled pork, sticky edges, cold crunch |
 
 </details>
 
 <details>
 <summary>Flavorweaver Direction</summary>
 
-This is not presented as a traditional Korean recipe. It is a Korean-inspired Flavorweaver build using the flavor logic of spicy pork barbecue and maesil-seasoned marinades, translated to ripe fresh plums accidentally delivered to the Amy & Don Kitchen. The defining house technique is **marinate → hard sear → gentle braise → reduce → lacquer → char**.
+This is a Korean-inspired Amy & Don sandwich rather than a traditional Korean dish. It translates the flavor logic of spicy Korean pork barbecue and plum-seasoned marinades into a long-braised pork-butt hoagie using the kitchen's frozen homemade rolls.
 
-The dish must not taste like generic sweet barbecue or fruit jam. Gochujang fermentation, garlic, ginger, soy, chile, pork fond, vinegar, and char must remain legible in every bite.
-
-</details>
-
-<details>
-<summary>Source / Research Notes</summary>
-
-- [Michelin Guide Seoul: Maesil, a Pantry Staple](https://guide.michelin.com/kr/en/article/dining-in/seasonal-ingredients-maesil-pantry-staple) documents maesil syrup as a Korean condiment and sugar substitute used in marinades and sauces, including a soy-based preparation with rice wine, scallion, garlic, ginger, and dried chile.
-- [Korean Bapsang: Jeyuk Bokkeum](https://www.koreanbapsang.com/dweji-bulgogi-korean-spicy-pork-bbq/) identifies pork shoulder or butt as especially suitable and builds spicy pork flavor around gochujang, gochugaru, abundant garlic and ginger, soy, sweetener, sesame oil, and optional plum syrup.
-- [Maangchi: Dwaeji Bulgogi](https://www.maangchi.com/recipe/dwaeji-bulgogi) reinforces the Korean BBQ pattern of pork with pear or fruit, onion, garlic, ginger, green onion, soy, sweetness, gochujang, sesame oil, and caramelized high-heat cooking.
-- Amy & Don house variation: ripe fresh plums replace maesil syrup or grated pear, and pork-butt chunks receive a tender braise before restaurant-style glazing because the freezer cut is not thin-sliced bulgogi meat.
-
-</details>
-
-<details>
-<summary>Timing Notes</summary>
-
-- Marinade: 8-24 hours.
-- Plum glaze can be made 2-3 days ahead and refrigerated.
-- Pork can be braised one day ahead in its liquid. Chill, lift off hardened excess fat, rewarm gently, then lacquer and broil for service.
-- The broiler finish is intentionally last-minute; it creates the sticky charred texture that reheating alone cannot provide.
+The defining technique is now **marinate → hard sear → covered braise until pull-apart → rest in liquid → coarse-pull → restore juices → plum lacquer → char → build on butter-toasted bread**.
 
 </details>
 
 <details>
 <summary>Testing Notes</summary>
 
-## First Test
+## First Hoagie Test
 
-**Date:** Pending  
-
+**Date:** 2026-08-03  
 **Score / rating:** Pending
 
-**What worked:**
+**What must be evaluated:**
 
-- Pending
+- Pork tenderness and moisture after coarse-pulling
+- Plum glaze balance: savory-smoky versus jammy
+- Spicy mayo heat and amount
+- Pickle crunch drainage and freshness
+- Roll proof, crumb softness, and toasted structure
+- Complete-bite balance
 
 **What to protect:**
 
-- Fresh-plum identity without jamminess
-- Tender intact chunks with lacquered edges
-- Separate clean serving sauce
-
-**What to adjust next time:**
-
-- Final honey based on plum ripeness
-- Gochugaru level
-- Braise duration for the actual chunk size
-- Ratio of reduced pork liquor in the lacquer
-
-</details>
-
-<details>
-<summary>Kitchen Notes</summary>
-
-The original freezer bag was labeled as Filipino-adobo pork chunks and confirmed to be pork butt. This recipe is calibrated specifically to that cut and 1 1/2- to 2-inch chunk size.
+- Pull-apart pork with charred lacquered edges
+- Fresh-plum identity
+- Cold sharp crunch against hot rich meat
+- Mayo on both toasted bread faces
 
 </details>
 
@@ -348,6 +387,7 @@ The original freezer bag was labeled as Filipino-adobo pork chunks and confirmed
 
 | Date | Change |
 |---|---|
-| 2026-08-02 | Created chef-level test recipe using fresh plums and pork-butt chunks; locked sear-braise-reduce-lacquer-char workflow. |
+| 2026-08-02 | Created fresh-plum Korean BBQ pork test recipe. |
+| 2026-08-03 | Converted recipe into a complete hoagie meal; changed tenderness target from intact chunks to coarse-pulled pork; added frozen-roll thaw/proof/bake workflow, spicy gochujang mayo, sesame pickle crunch, moisture restoration, and final sandwich assembly. |
 
 </details>

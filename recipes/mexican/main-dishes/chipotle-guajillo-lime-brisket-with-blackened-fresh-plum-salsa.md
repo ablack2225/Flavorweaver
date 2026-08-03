@@ -4,16 +4,16 @@ culture: Mexican Inspired
 category: Main Dish
 status: Flavorweaver Test Recipe
 difficulty: Project Meal
-prep_time: 1h 20m
+prep_time: 1h 35m
 cook_time: 1h 20m
-total_time: 2h 40m to 3h 20m
-marinate_time: 30-90m
+total_time: 3h 15m to 4h
+marinate_time: 30-45m tenderize plus 20-30m velvet
 rest_time: 10m
 servings: 4-6
 yield: 4-6 composed bowls plus about 3 1/2-4 cups salsa
 measurement_status: documented
 
-rating_note: First kitchen test in progress; execution structure corrected after live-prep review
+rating_note: First test flavor was excellent, but unvelveted brisket was extremely tough; mandatory Mongolian-beef-style tenderizing and chile velvet added for next test
 repeat_worthy:
 hall_of_fame_candidate: true
 hall_of_fame: false
@@ -29,6 +29,8 @@ tags:
   - Mexican Inspired
   - brisket bowl
   - thin-sliced brisket
+  - velvet beef
+  - baking soda tenderized beef
   - chipotle
   - guajillo
   - cilantro lime rice
@@ -42,7 +44,7 @@ tags:
   - Flavorweaver Test Recipe
 
 required_components:
-  - chipotle-guajillo-lime-brisket
+  - velveted-chipotle-guajillo-lime-brisket
   - cilantro-lime-mexican-style-rice
   - charred-pepper-onion-corn
   - blackened-fresh-plum-salsa
@@ -60,49 +62,75 @@ last_updated: 2026-08-02
 
 # Chipotle-Guajillo Lime Brisket Bowls with Blackened Fresh-Plum Salsa
 
-> A complete Flavorweaver bowl: cilantro-lime Mexican-style rice, thin brisket lacquered in a cooked guajillo-chipotle sauce, charred bell pepper-onion-corn, and a large-batch blackened fresh-plum salsa. Fresh corn tortillas are the alternate service, not the primary build.
+> A complete Flavorweaver bowl: cilantro-lime Mexican-style rice, thin brisket made tender through the Amy & Don Mongolian-beef velveting system, a cooked guajillo-chipotle glaze, charred bell pepper-onion-corn, and blackened fresh-plum salsa. Fresh corn tortillas remain the alternate service.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Yield | Difficulty |
 |---|---:|---:|---|
-| Flavorweaver Test Recipe | 2 hr 40 min to 3 hr 20 min | 4-6 bowls | Project Meal |
+| Flavorweaver Test Recipe | 3 hr 15 min to 4 hr | 4-6 bowls | Project Meal |
 
-| Prep | Active Cooking | Brisket Marinade | Current Test Note |
-|---:|---:|---:|---|
-| About 1 hr 20 min | About 1 hr 20 min | 30-90 min only | Workflow rebuilt after first live-prep review |
+| Prep | Active Cooking | Beef Treatment | First-Test Finding |
+|---:|---:|---|---|
+| About 1 hr 35 min | About 1 hr 20 min | 30-45 min tenderize + 20-30 min velvet | Flavor excellent; direct-seared brisket was too tough |
 
 # Start Here: Complete Kitchen Execution Order
 
-This is the working recipe. Follow these stages straight through without jumping between sections.
+This is the working recipe. Follow these stages straight through without hunting between sections.
 
 | Stage | What Happens | Stop Point |
 |---:|---|---|
-| 1 | Make the guajillo-honey reduction and blackened fresh-plum salsa | Salsa is textured, balanced, covered, and refrigerated |
-| 2 | Make the master chipotle-guajillo sauce | Sauce is cooked and measures at least 1 1/4 cups |
-| 3 | Divide the sauce immediately | Label **1/2 cup CLEAN FINISHING SAUCE**; use **3/4 cup MARINADE SAUCE** |
-| 4 | Marinate brisket 30-90 minutes | During this window, cook rice and stage vegetables |
-| 5 | Char bell pepper, onion, and corn; sear brisket in batches | Vegetables are blistered; brisket has dark edges |
-| 6 | Build clean pan glaze, return meat for 30-60 seconds, assemble bowls | Rice → brisket → vegetables → plum salsa |
+| 1 | Start the brisket baking-soda tenderizer | Beef rests refrigerated 30-45 minutes |
+| 2 | While beef tenderizes, make the plum salsa and master chile sauce | Salsa chilled; sauce cooked and divided |
+| 3 | Rinse and thoroughly dry the brisket | No baking soda residue; surfaces dry |
+| 4 | Apply the Mexican chile velvet | Beef rests 20-30 minutes in chile sauce, cornstarch, oil, lime, and salt |
+| 5 | Cook rice; char pepper, onion, and corn | Rice warm; vegetables blistered and held separately |
+| 6 | Lightly dredge and shallow-fry the velveted brisket | Tender beef with browned, lightly crisp edges |
+| 7 | Build the clean glaze and assemble bowls | Rice → brisket → vegetables → plum salsa |
+
+## First-Test Correction: Velveting Is Mandatory
+
+The first kitchen test proved that the sauce and complete bowl architecture are excellent, but thin brisket cooked by direct high-heat searing remained extremely tough. This cut cannot rely on marinade or fast searing alone.
+
+The corrected recipe now borrows the successful Amy & Don method from **Top-Shelf Mongolian Brisket Beef**:
+
+1. Baking soda and ice-water tenderizing
+2. Refrigerated rest
+3. Thorough rinse
+4. Very thorough drying
+5. Cornstarch-and-oil velvet coating
+6. Light cornstarch dredge
+7. Fast small-batch frying
+8. Brief clean-sauce glaze at the end
 
 ## Non-Negotiable Controls
 
-- **Do not marinate the thin brisket longer than 90 minutes once lime juice is added.**
-- **Reserve the clean finishing sauce before any sauce touches raw meat.**
-- **Do not crowd the brisket or the corn; wet food steams instead of charring.**
+- **Do not skip the baking-soda tenderizer.** It is now structural to the recipe.
+- **Use 1 tsp baking soda for 1 1/2 lb brisket and limit the rest to 30-45 minutes.**
+- **Rinse thoroughly and pat completely dry before applying the velvet.**
+- **Reserve the clean finishing sauce before any sauce touches raw beef.**
+- **Rest the chile velvet only 20-30 minutes.** The beef has already completed its tenderizing rest.
+- **Dredge lightly.** Heavy cornstarch creates a gummy shell.
+- **Fry in small batches.** Crowding drops the heat and turns the coating soggy.
+- **Return cooked beef to the glaze for only 30-45 seconds.**
 - **Keep the plum salsa textured. Use short food-processor pulses.**
-- **The bowl is the primary service. Corn tortillas are an alternate service.**
 
 ## Measured Ingredients by Component
 
-### A. Guajillo-Honey Reduction for the Salsa
+### A. Brisket Tenderizer
+
+- 1 1/2 lb brisket, sliced 1/8- to 1/4-inch thick strictly across the grain
+- 1 tsp baking soda
+- 3 Tbsp ice water
+
+### B. Guajillo-Honey Reduction for the Salsa
 
 - 1 dried guajillo chile, stemmed, seeded, and opened flat
 - 3 Tbsp unseasoned rice vinegar
 - 1 Tbsp white vinegar
 - 1 Tbsp plus 1 tsp honey
 
-### B. Large-Batch Blackened Fresh-Plum Salsa
+### C. Large-Batch Blackened Fresh-Plum Salsa
 
 - 1 1/2 lb ripe but firm plums
 - 2 Roma tomatoes
@@ -119,7 +147,7 @@ This is the working recipe. Follow these stages straight through without jumping
 - 1/4 tsp MSG, optional but recommended
 - All or part of the guajillo-honey reduction, to taste
 
-### C. Master Chipotle-Guajillo Sauce
+### D. Master Chipotle-Guajillo Sauce
 
 - 3 dried guajillo chiles, stemmed, seeded, and opened flat
 - 1/3 large sweet onion, about 1 cup thick wedges
@@ -139,29 +167,35 @@ This is the working recipe. Follow these stages straight through without jumping
 - 1/2 tsp MSG
 - 1 Tbsp olive oil
 
-### D. Brisket Marinade, Sear, and Clean Glaze
+### E. Mexican Chile Velvet and Frying
 
-- 1 1/2 lb brisket, sliced 1/8- to 1/4-inch thick strictly across the grain
-- 3/4 cup cooled master chipotle-guajillo sauce
+- Tenderized, rinsed, and thoroughly dried brisket
+- 1/2 cup cooled master chipotle-guajillo sauce
 - 1 Tbsp fresh lime juice
 - 1/2 tsp fine salt, reduced if beef was previously salted
-- 1-2 Tbsp rendered brisket tallow or neutral oil
-- 1/2 cup clean reserved master sauce
+- 1 Tbsp neutral oil
+- 1 Tbsp cornstarch
+- About 1/3 cup cornstarch for a light final dredge
+- 3-5 Tbsp rendered brisket tallow or neutral oil for shallow-frying, replenished as needed
+
+### F. Clean Pan Glaze
+
+- 1/2 cup clean reserved master chipotle-guajillo sauce
 - 2-4 Tbsp water or low-sodium beef broth
-- 1-2 Tbsp fresh lime juice for finishing
-- Fine salt only if needed after tasting the complete bowl
+- 1 Tbsp fresh lime juice, plus more only after tasting the complete bowl
+- Up to 1/4 cup additional clean master sauce, if the master batch yields extra
 
-### E. Cilantro-Lime Mexican-Style Rice
+### G. Cilantro-Lime Mexican-Style Rice
 
-- 1 1/2 cups long-grain white rice, rinsed until the water is mostly clear and drained well
-- 2 1/4 cups low-sodium chicken broth or water, adjusted to the rice-cooker manufacturer's ratio if needed
+- 1 1/2 cups long-grain white rice, rinsed until water is mostly clear and drained well
+- 2 1/4 cups low-sodium chicken broth or water, adjusted to the rice-cooker ratio if needed
 - 1 Tbsp neutral oil or butter
 - 3/4 tsp fine salt
 - Zest of 1 lime
 - 2 Tbsp fresh lime juice, plus more to taste
 - 1/2 cup finely chopped cilantro
 
-### F. Charred Bell Pepper-Onion-Corn
+### H. Charred Bell Pepper-Onion-Corn
 
 - 1 medium sweet onion, cut into 1/2-inch wedges
 - 1 large bell pepper, cut into broad strips
@@ -171,10 +205,10 @@ This is the working recipe. Follow these stages straight through without jumping
 - 1/4 tsp black pepper
 - 1-2 tsp fresh lime juice, optional final lift
 
-### G. Bowl Assembly
+### I. Bowl Assembly
 
 - Cilantro-lime rice
-- Glazed chipotle-guajillo brisket
+- Velvetted chipotle-guajillo brisket
 - Charred bell pepper-onion-corn
 - Blackened fresh-plum salsa
 - Lime wedges
@@ -183,122 +217,152 @@ This is the working recipe. Follow these stages straight through without jumping
 
 ## Full Cooking Timeline and Instructions
 
-### Stage 1 — Make the Blackened Fresh-Plum Salsa
+### Stage 1 — Begin the Brisket Tenderizer
 
-1. **Prepare the plums and vegetables.** Wash the plums but do not peel them. Halve and pit every plum. Keep half as plum halves for charring. Cut the remaining fresh half into 1-inch chunks and refrigerate. Halve and core the Roma tomatoes, keeping their seeds and gel. Cut the onion into thick wedges.
+1. **Slice the brisket correctly.** Slice **1 1/2 lb brisket** strictly across the grain into 1/8- to 1/4-inch pieces. Cut long slices into manageable bite-size lengths. If the beef is too soft to slice cleanly, chill or partially freeze it briefly.
 
-2. **Make the reduction.** Toast **1 guajillo** in a dry skillet for **10-15 seconds per side**, just until fragrant and flexible. Tear it into a small saucepan with **3 Tbsp rice vinegar, 1 Tbsp white vinegar, and 1 Tbsp plus 1 tsp honey**. Simmer gently for **4-6 minutes**, until about **3 Tbsp remains** and the liquid lightly coats a spoon. Remove from heat, steep **5 minutes**, strain, and cool.
+2. **Apply the baking-soda tenderizer.** Place the beef in a bowl with **1 tsp baking soda** and **3 Tbsp ice water**. Massage by hand for **1-2 minutes**, until the water is mostly absorbed and the beef feels slightly tacky.
 
-3. **Blacken the salsa produce.** Heat a heavy dry skillet over high heat. Work in batches so the ingredients touch the skillet rather than steam. Blacken:
-   - half the plum halves, cut-side down first;
-   - both Roma tomatoes;
-   - 1/2 onion in thick wedges;
-   - 1 whole jalapeño;
-   - 1/2 fresh hot red chile to begin;
-   - 3 skin-on garlic cloves.
+3. **Rest refrigerated.** Cover and refrigerate for **30-45 minutes**. Do not extend this time. Begin the salsa and master sauce while the beef rests.
 
-   Turn only as needed. Remove each item when it has real blackened patches and has softened without collapsing. Garlic will finish first. Cool everything completely, peel the garlic, and remove pepper stems. Keep or remove chile seeds according to the actual heat.
+### Stage 2 — Make the Blackened Fresh-Plum Salsa
 
-4. **Process the blackened foundation.** Place the blackened plums, tomatoes, onion, garlic, jalapeño, and red chile in the food processor. Add **2 Tbsp of the cooled guajillo-honey reduction, 3/4 tsp salt, and 1/4 tsp MSG**. Pulse in short bursts until finely chopped and cohesive, scraping once if needed. Do not run continuously.
+4. **Prepare the plums and vegetables.** Wash but do not peel the plums. Halve and pit all of them. Keep half as halves for charring. Cut the remaining half into 1-inch chunks and refrigerate. Halve and core the Roma tomatoes, keeping their seeds and gel. Cut the onion into thick wedges.
 
-5. **Add the fresh layer.** Add the reserved fresh plum chunks, up to **1/2 raw jalapeño**, **2 sliced green onions, 1/2 cup cilantro, 2 Tbsp lime juice, and 2 tsp olive oil**. Pulse **3-6 short times**, just until spoonable with visible texture.
+5. **Make the reduction.** Toast **1 guajillo** in a dry skillet for **10-15 seconds per side**, just until fragrant and flexible. Tear it into a small saucepan with **3 Tbsp rice vinegar, 1 Tbsp white vinegar, and 1 Tbsp plus 1 tsp honey**. Simmer gently for **4-6 minutes**, until about **3 Tbsp remains** and the liquid lightly coats a spoon. Remove from heat, steep **5 minutes**, strain, and cool.
 
-6. **Rest and balance.** Rest **15-20 minutes**. Taste in this order: salt, lime, heat, then sweet-acid balance. Add the remaining reduction, another tablespoon of lime juice, more red chile, or the final 1/4 tsp salt only as needed. Cover and refrigerate. For bowls, keep the released juices; for tortillas, lightly drain only the portion being served.
+6. **Blacken the salsa produce.** Heat a heavy dry skillet over high heat. Work in batches. Blacken half the plum halves cut-side down first, both Roma tomatoes, 1/2 onion, 1 whole jalapeño, 1/2 fresh hot red chile to begin, and 3 skin-on garlic cloves. Remove each ingredient when deeply blistered and softened without collapsing. Cool, peel the garlic, and remove pepper stems.
 
-### Stage 2 — Make and Divide the Master Chipotle-Guajillo Sauce
+7. **Process the blackened foundation.** Add the blackened plums, tomatoes, onion, garlic, jalapeño, and red chile to the food processor with **2 Tbsp reduction, 3/4 tsp salt, and optional 1/4 tsp MSG**. Pulse in short bursts until finely chopped and cohesive.
 
-7. **Toast and soak the brisket guajillos.** Wipe the skillet clean. Toast **3 guajillos** for **10-15 seconds per side**, until fragrant and flexible but not blackened. Cover with very hot water and soak **15 minutes**. Reserve at least **1/4 cup strained soaking liquid**.
+8. **Add the fresh layer.** Add the reserved fresh plum chunks, up to **1/2 raw jalapeño**, **2 green onions, 1/2 cup cilantro, 2 Tbsp lime juice, and 2 tsp olive oil**. Pulse only **3-6 short times**. Rest **15-20 minutes**, adjust salt, lime, heat, and remaining reduction, then cover and refrigerate.
 
-8. **Char the sauce aromatics.** In the dry hot skillet, blacken **1 cup onion wedges** and **5 skin-on garlic cloves**. Remove the garlic once softened; continue cooking the onion until dark at the edges. Peel the garlic.
+### Stage 3 — Make and Divide the Master Chipotle-Guajillo Sauce
 
-9. **Blend the sauce.** Blend the soaked guajillos, charred onion, peeled garlic, **1 chipotle, 1 Tbsp adobo, 1/3 cup orange juice, 1/4 cup soaking liquid or broth, lime zest, 2 Tbsp soy sauce, 1 Tbsp honey, cumin, coriander, oregano, smoked paprika, black pepper, MSG, and 1 Tbsp olive oil** until completely smooth.
+9. **Toast and soak the sauce guajillos.** Toast **3 guajillos** for **10-15 seconds per side** without blackening. Cover with very hot water for **15 minutes**. Reserve at least **1/4 cup strained soaking liquid**.
 
-10. **Strain and cook.** Press the sauce through a fine-mesh strainer into a saucepan. Simmer over medium-low heat for **6-10 minutes**, stirring frequently, until the raw chile smell is gone and the sauce lightly coats a spoon. The finished volume must be **at least 1 1/4 cups**. If it reduces below that, whisk in broth or water 1 Tbsp at a time.
+10. **Char the sauce aromatics.** Blacken **1 cup onion wedges** and **5 skin-on garlic cloves**. Remove the garlic when softened, finish charring the onion, and peel the garlic.
 
-11. **Divide immediately and label.** Before the sauce goes near raw meat:
-   - Measure **1/2 cup** into a clean container and label it **CLEAN FINISHING SAUCE**.
-   - Measure **3/4 cup** into a separate shallow bowl and label it **MARINADE SAUCE**.
+11. **Blend the master sauce.** Blend the soaked guajillos, charred onion, peeled garlic, **1 chipotle, 1 Tbsp adobo, 1/3 cup orange juice, 1/4 cup soaking liquid or broth, lime zest, 2 Tbsp soy sauce, 1 Tbsp honey, cumin, coriander, oregano, smoked paprika, black pepper, MSG, and 1 Tbsp olive oil** until completely smooth.
 
-12. **Cool the marinade portion quickly.** Set the shallow marinade bowl over an ice bath and stir for **5-10 minutes**, until no longer warm. Keep the clean finishing sauce covered and separate.
+12. **Strain and cook.** Press through a fine-mesh strainer into a saucepan. Simmer **6-10 minutes**, stirring frequently, until the raw chile smell disappears and the sauce coats a spoon. The finished amount must be at least **1 1/4 cups**. Restore volume with broth 1 Tbsp at a time if necessary.
 
-### Stage 3 — Marinate the Brisket and Cook the Rice
+13. **Divide before raw-meat contact.** Measure and label:
+   - **1/2 cup CLEAN FINISHING SAUCE**
+   - **1/2 cup VELVET MARINADE SAUCE**
+   - Up to **1/4 cup EXTRA CLEAN SAUCE**, if available
 
-13. **Marinate.** Combine the **3/4 cup cooled marinade sauce, 1 Tbsp lime juice, and 1/2 tsp fine salt** with the **1 1/2 lb thin-sliced brisket**. Coat thoroughly, cover, and refrigerate for **30-90 minutes only**.
+14. **Cool the velvet sauce quickly.** Put the 1/2 cup velvet sauce in a shallow bowl over an ice bath and stir for **5-10 minutes**, until no longer warm. Keep all clean sauce covered and separate.
 
-14. **Cook the rice during the marinade window.** Add the rinsed rice, broth or water, oil or butter, and salt to the rice cooker. Cook using the normal white-rice cycle. When finished, rest closed **10 minutes**, then fluff. Fold in the lime zest, **2 Tbsp lime juice**, and **1/2 cup cilantro**. Cover and hold warm.
+### Stage 4 — Rinse, Dry, and Velvet the Brisket
 
-15. **Stage the final cook.** Dry the corn thoroughly. Cut the bell pepper and onion. Set out the clean finishing sauce, broth or water, lime juice, tallow, a clean meat tray, and the finished salsa before heating the skillet.
+15. **Rinse away the tenderizer.** When the 30-45-minute baking-soda rest is complete, rinse the brisket thoroughly under cold water. Toss and separate the slices while rinsing so no baking soda remains.
 
-### Stage 4 — Char the Vegetables and Sear the Brisket
+16. **Dry completely.** Drain well, spread the slices over paper towels, and pat very dry with additional towels. This is not a quick surface blot. Water left on the beef will dilute the velvet, cause cornstarch clumps, and create dangerous splatter during frying.
 
-16. **Drain the brisket.** Lift the beef from the marinade, allow excess sauce to drip away, and pat lightly so the surface is tacky rather than wet. Discard the raw marinade. Separate tangled slices before they reach the skillet.
+17. **Apply the Mexican chile velvet.** In a clean bowl, combine the dried brisket with:
+   - **1/2 cup cooled velvet marinade sauce**
+   - **1 Tbsp lime juice**
+   - **1/2 tsp fine salt**
+   - **1 Tbsp neutral oil**
+   - **1 Tbsp cornstarch**
 
-17. **Char the bell pepper and onion.** Heat the electric skillet to **375-400°F** or heat a heavy skillet over high heat. Add about **2 tsp tallow or oil**. Arrange the onion and bell pepper in an uncrowded layer. Leave them undisturbed long enough to blister, then turn. Season with about **1/4 tsp salt and the black pepper**. Transfer to a clean tray while still crisp-tender.
+   Mix thoroughly until every slice is coated and the mixture looks glossy rather than watery.
 
-18. **Char the corn separately.** Add the dried corn to the hot skillet with the remaining teaspoon of tallow or oil. Spread it into one layer and leave it undisturbed for **2-3 minutes** before stirring. Continue until browned and blistered, then season with the remaining **1/4 tsp salt**. Combine with the onion and pepper and hold warm.
+18. **Rest the velvet.** Cover and refrigerate for **20-30 minutes**. Do not extend this into another long marinade. Cook the rice and stage the vegetables during this window.
 
-19. **Sear the brisket in 3-4 batches.** Refresh the skillet with a thin film of tallow as needed. Place each slice or small cluster directly against the hot surface. Do not crowd. Let the first side brown before turning. Cook only until dark edges form and the meat is just cooked through, generally **1-3 minutes per batch** depending on thickness. Transfer each finished batch to the clean tray.
+### Stage 5 — Cook the Rice and Charred Vegetables
 
-### Stage 5 — Build the Clean Glaze and Finish the Meat
+19. **Cook the rice.** Add rinsed rice, broth or water, oil or butter, and salt to the rice cooker. Cook on the normal white-rice cycle. Rest closed **10 minutes**, fluff, then fold in lime zest, **2 Tbsp lime juice**, and **1/2 cup cilantro**. Hold warm.
 
-20. **Make the clean pan glaze.** Lower the skillet to medium. Add the **1/2 cup CLEAN FINISHING SAUCE** and **2 Tbsp broth or water**. Scrape up the browned fond and simmer **2-4 minutes**, until glossy and slightly thickened. Add another tablespoon or two of liquid only if it becomes too thick.
+20. **Stage the final cook.** Dry the corn completely. Cut the bell pepper and onion. Set out the clean finishing sauce, broth, lime juice, tallow, cornstarch dredge, a rack or paper-towel-lined tray, a clean meat tray, rice, and salsa.
 
-21. **Finish with lime off heat.** Turn off the heat and stir in **1 Tbsp fresh lime juice**. Taste the glaze before adding any salt.
+21. **Char the pepper and onion.** Heat the electric skillet to **375-400°F** or a heavy skillet over high heat. Add about **2 tsp tallow or oil**. Char the pepper and onion in one uncrowded layer. Season with **1/4 tsp salt and the black pepper**. Remove while crisp-tender.
 
-22. **Glaze without overcooking.** Return the brisket and accumulated juices to the skillet. Toss for only **30-60 seconds**, until every piece is glossy. Fold in the charred bell pepper, onion, and corn, or keep them separate for cleaner bowl presentation. Taste one full bite with rice and salsa before adjusting lime or salt.
+22. **Char the corn separately.** Add the dried corn with the remaining teaspoon of fat. Spread in one layer and do not move it for **2-3 minutes**. Continue until blistered, season with the remaining **1/4 tsp salt**, and combine with the pepper and onion or hold separately.
 
-### Stage 6 — Assemble the Bowls
+### Stage 6 — Lightly Dredge and Shallow-Fry the Brisket
 
-23. **Build each bowl in this order:**
+23. **Heat the frying fat.** Wipe any loose vegetable debris from the skillet. Add enough tallow or neutral oil to generously coat the bottom, usually **3-5 Tbsp** in the large electric skillet. Heat to **350-375°F**.
+
+24. **Lightly dredge the velveted beef.** Place about **1/3 cup cornstarch** in a shallow bowl. Lift a few beef slices from the velvet marinade, let heavy excess drip away, and toss them lightly in cornstarch. Shake off all loose powder. The slices should have a thin dusty coating, not a heavy white crust.
+
+25. **Shallow-fry in small batches.** Fry in **3-4 uncrowded batches**. Separate pieces as they enter the skillet. Cook approximately **45-90 seconds on the first side**, then turn and cook briefly until browned with lightly crisp edges and just cooked through. Very thin slices may need less than 2 minutes total. Transfer to a rack or paper-towel-lined tray.
+
+26. **Recover heat between batches.** Let the oil return to **350-375°F** before adding more beef. Add a little tallow or oil if the skillet becomes dry. Discard any burnt loose cornstarch between batches if necessary.
+
+### Stage 7 — Build the Clean Glaze and Finish
+
+27. **Remove excess frying fat.** Carefully pour or spoon off excess fat, leaving only a thin film and the browned fond. Lower the skillet to medium.
+
+28. **Build the clean pan glaze.** Add the **1/2 cup CLEAN FINISHING SAUCE** and **2 Tbsp broth or water**. Scrape the fond and simmer **2-4 minutes**, until glossy and lightly thickened. Add more broth 1 Tbsp at a time only if the sauce becomes too thick. Add extra clean sauce if available and desired.
+
+29. **Finish with lime off heat.** Turn off the heat and stir in **1 Tbsp fresh lime juice**. Taste before adding salt.
+
+30. **Glaze without toughening.** Return the fried brisket and any accumulated juices to the skillet. Toss for only **30-45 seconds**, just until glossy. Do not simmer the beef in the sauce.
+
+31. **Judge the complete bite.** Taste brisket with rice, charred vegetables, and plum salsa before adjusting salt, lime, or heat. The meat alone is not the final balance target.
+
+### Stage 8 — Assemble the Bowls
+
+32. **Build each bowl in this order:**
    1. Cilantro-lime rice
-   2. Chipotle-guajillo glazed brisket
+   2. Velvetted chipotle-guajillo brisket
    3. Charred bell pepper-onion-corn
-   4. Blackened fresh-plum salsa, spooned over the top rather than stirred into the meat
+   4. Blackened fresh-plum salsa spooned over the top
    5. Lime wedge and optional cilantro, avocado, or restrained crema
 
-24. **Serve immediately.** Keep extra plum salsa and its juices at the table. The rice is meant to catch the clean brisket glaze and fresh salsa juices.
+33. **Serve immediately.** Keep extra plum salsa and its juices at the table. The rice catches the clean brisket glaze and fresh salsa juices.
 
 ## Corn Tortilla Service Option
 
-For tacos, warm fresh corn tortillas in a dry skillet for **20-30 seconds per side** and stack under a towel. Use two tortillas per taco if they are thin. Fill with brisket, charred pepper-onion-corn, and a lightly drained spoonful of plum salsa. Serve the cilantro-lime rice on the side rather than inside the tacos.
+Warm fresh corn tortillas in a dry skillet for **20-30 seconds per side** and stack under a towel. Use two tortillas per taco when thin. Fill with velvetted brisket, charred pepper-onion-corn, and lightly drained plum salsa. Serve the cilantro-lime rice alongside rather than inside the tacos.
 
 ## Kitchen Execution Summary
 
 | Element | Execution Standard |
 |---|---|
-| Salsa | Two-state fruit: half deeply blackened, half fresh; food processor pulsed, never puréed |
+| Beef tenderness | Baking soda + ice water, 30-45 minutes; rinse and dry completely |
+| Beef velvet | Chile sauce + lime + salt + neutral oil + cornstarch, 20-30 minutes |
+| Beef cooking | Light cornstarch dredge and fast 350-375°F shallow-fry in small batches |
+| Salsa | Two-state fruit: half deeply blackened, half fresh; pulsed, never puréed |
 | Master sauce | Toasted guajillo, charred aromatics, chipotle, orange, lime zest, soy, honey, spices; blended, strained, cooked |
-| Sauce safety | 1/2 cup clean finishing sauce separated and labeled before raw meat contact |
-| Brisket | 30-90 minute marinade; drained, patted, and seared in 3-4 uncrowded batches |
+| Sauce safety | Clean finishing sauce separated and labeled before raw-meat contact |
 | Vegetables | Bell pepper, onion, and corn charred separately so each browns instead of steaming |
 | Bowl | Rice first; glazed meat; charred vegetables; fresh plum salsa on top |
 
 ## Before Cooking Day / Advance Prep
 
 - The salsa may be completed several hours ahead and refrigerated.
-- The master sauce may be made one day ahead. Store the clean finishing and marinade portions in separate labeled containers.
-- Slice the brisket across the grain before marinating.
-- Do not add lime juice to the brisket more than 90 minutes before cooking.
-- Rice is best made during the marinade window and held warm for service.
+- The master sauce may be made one day ahead. Store the clean finishing and velvet portions in separate labeled containers.
+- Slice the brisket across the grain before beginning the tenderizer.
+- Do not leave beef in baking soda longer than 45 minutes.
+- Do not apply the velvet until the beef has been rinsed and dried completely.
+- The chile velvet rests only 20-30 minutes.
+- Rice is best made during the velvet-rest window and held warm for service.
 
 ## Service Countdown
 
 | Time Before Service | Task |
 |---:|---|
-| 2 1/2-3 hours | Make salsa reduction; blacken and process salsa |
-| 1 3/4-2 hours | Make, strain, cook, divide, and cool master chile sauce |
-| 90 minutes | Begin brisket marinade; start rice |
-| 30 minutes | Dry corn; cut pepper and onion; stage finishing sauce and lime |
-| 20 minutes | Drain brisket; preheat skillet; char vegetables and corn |
-| 10 minutes | Sear brisket in batches; build clean glaze |
-| At service | Glaze meat for 30-60 seconds and assemble bowls |
+| 3-4 hours | Slice beef and begin 30-45-minute baking-soda tenderizer |
+| During tenderizer | Make salsa reduction, blacken/process salsa, and begin master sauce |
+| About 2 hours | Rinse/dry beef; finish, divide, and cool master sauce |
+| 90 minutes | Apply 20-30-minute chile velvet; begin rice |
+| 40 minutes | Dry corn; cut pepper and onion; stage dredge and clean sauce |
+| 25 minutes | Char vegetables and corn |
+| 15 minutes | Dredge and shallow-fry brisket in batches |
+| 5 minutes | Build clean glaze and toss beef for 30-45 seconds |
+| At service | Assemble bowls and add plum salsa last |
 
 ## Full Plate Ingredient Roll-Up
 
 | Component | Core Ingredients |
 |---|---|
+| Beef tenderizer | Thin brisket, baking soda, ice water |
+| Beef velvet | Master chile sauce, lime, salt, neutral oil, cornstarch |
 | Cilantro-lime rice | Long-grain rice, broth or water, oil or butter, salt, lime zest, lime juice, cilantro |
-| Brisket | Thin brisket, guajillos, chipotle in adobo, onion, garlic, orange juice, lime, soy, honey, spices, MSG, tallow |
+| Brisket glaze | Guajillos, chipotle in adobo, onion, garlic, orange juice, lime, soy, honey, spices, MSG |
 | Charred vegetables | Bell pepper, sweet onion, corn, tallow or oil, salt, black pepper |
 | Plum salsa | Plums, tomatoes, onion, jalapeño, hot red chile, garlic, green onion, cilantro, lime, rice vinegar, white vinegar, honey, guajillo |
 | Service | Lime wedges; optional avocado or restrained crema; optional fresh corn tortillas |
@@ -309,13 +373,22 @@ For tacos, warm fresh corn tortillas in a dry skillet for **20-30 seconds per si
 |---|---|
 | Guajillos | 1 in salsa reduction; 3 in brisket master sauce |
 | Plums | Half blackened; half kept fresh |
-| Lime | Zest in master sauce and rice; juice in marinade, salsa, rice, and clean glaze |
-| Onion | Separate measured portions for salsa, master sauce, and charred vegetable medley |
+| Lime | Zest in master sauce and rice; juice in velvet, salsa, rice, and clean glaze |
+| Onion | Separate portions for salsa, master sauce, and charred vegetable medley |
 | Garlic | 3 skin-on cloves for salsa; 5 skin-on cloves for master sauce |
 | Cilantro | 1/2 cup in salsa; 1/2 cup in rice; extra optional garnish |
+| Cornstarch | 1 Tbsp inside the velvet; about 1/3 cup for a light outer dredge |
 | Corn | Dried thoroughly and charred separately before final bowl assembly |
 
 ## Stage-Based Prep Bowls
+
+### Beef Tenderizing and Velvet Station
+
+- **Bowl 1 — Tenderizer:** sliced brisket, 1 tsp baking soda, 3 Tbsp ice water
+- **Sink Stage:** cold-water rinse after 30-45 minutes
+- **Drying Tray:** paper towels; beef must be fully dry
+- **Bowl 2 — Mexican Velvet:** 1/2 cup cooled master sauce, 1 Tbsp lime, 1/2 tsp salt, 1 Tbsp neutral oil, 1 Tbsp cornstarch
+- **Bowl 3 — Light Dredge:** about 1/3 cup cornstarch
 
 ### Salsa Station
 
@@ -329,14 +402,16 @@ For tacos, warm fresh corn tortillas in a dry skillet for **20-30 seconds per si
 - **Tray 2 — Char:** 1 cup onion wedges, 5 skin-on garlic cloves
 - **Blender Bowl:** chipotle, adobo, orange juice, soaking liquid, lime zest, soy, honey, spices, MSG, oil
 - **Container A:** 1/2 cup CLEAN FINISHING SAUCE
-- **Container B:** 3/4 cup MARINADE SAUCE
+- **Container B:** 1/2 cup VELVET MARINADE SAUCE
+- **Container C:** up to 1/4 cup EXTRA CLEAN SAUCE
 
 ### Final Cook Station
 
-- **Bowl 1:** drained, patted brisket
+- **Bowl 1:** velveted brisket
 - **Bowl 2:** sliced bell pepper and onion
 - **Bowl 3:** dried corn
 - **Bowl 4:** clean finishing sauce, broth or water, lime juice
+- **Rack/Tray:** cooked fried brisket
 - **Warm Hold:** finished cilantro-lime rice
 - **Cold Hold:** finished blackened fresh-plum salsa
 
@@ -344,42 +419,50 @@ For tacos, warm fresh corn tortillas in a dry skillet for **20-30 seconds per si
 
 | Issue | Fix |
 |---|---|
-| Recipe feels behind schedule | Finish salsa and master sauce first; the final meat-and-vegetable cook is only about 25 minutes |
+| Beef is still tough | Confirm slicing was across grain, baking soda was massaged in, and rest reached 30 minutes; do not compensate by longer frying |
+| Beef tastes alkaline | Baking soda was not rinsed thoroughly; rinse aggressively next time and keep rest under 45 minutes |
+| Velvet coating slides off | Beef was still wet before velveting or frying fat was not hot enough |
+| Coating is gummy | Dredge was too heavy, batch was crowded, or beef sat too long after dredging |
+| Oil splatters violently | Beef or cornstarch contained excess surface water; stop and dry before continuing |
+| Beef browns but becomes dry | Pieces cooked too long; very thin brisket needs only a fast fry and 30-45-second glaze |
 | Master sauce yielded less than 1 1/4 cups | Add broth or water 1 Tbsp at a time before dividing |
 | Salsa became purée | Fold in hand-chopped fresh plum, onion, cilantro, and lime |
 | Salsa is watery | Keep juices for bowls; drain only taco portions |
 | Salsa tastes flat | Add salt first, then lime |
-| Brisket will not brown | Pat drier, raise heat, and reduce batch size |
-| Brisket is chewy | Confirm the grain direction; chop into shorter pieces and warm briefly in glaze rather than frying longer |
-| Corn is steaming | Remove it, wipe the skillet, raise heat, and return only when the surface is dry and hot |
-| Glaze is too salty | Loosen with unsalted broth or water and fresh lime; do not correct with sugar alone |
-| Bowl tastes heavy | Add more fresh plum salsa and lime rather than more crema or cheese |
+| Corn will not char | Dry it better, spread it thinner, and leave it untouched before stirring |
+| Clean glaze is too salty | Add unsalted broth/water and lime; judge with rice and salsa before altering sweetness |
+
+<!-- recipe-card:end -->
 
 ## Pairs Well With
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Primary base | Cilantro-lime Mexican-style rice | Carries glaze and salsa juices |
-| Alternate service | Fresh corn tortillas | Warm and use two per taco when thin |
-| Creamy option | Avocado or restrained lime crema | Optional; do not cover the plum salsa |
-| Bright finish | Lime wedges and extra cilantro | Add at the table |
+| Primary Base | Cilantro-lime Mexican-style rice | Carries both glaze and salsa juices |
+| Vegetable | Charred bell pepper-onion-corn | Sweet char and textural contrast |
+| Fresh Finish | Blackened fresh-plum salsa | Required bright, juicy contrast |
+| Alternate Service | Fresh corn tortillas | Use lightly drained salsa; serve rice alongside |
+| Optional Creaminess | Avocado or restrained lime crema | Keep light so plum and chile remain prominent |
 
-## Chef's Note
+## Chef's Notes
 
-The completed dish is a bowl, not merely glazed brisket with an optional side. The rice, charred pepper-onion-corn, and fresh plum salsa are required architecture: rice receives the sauces, charred vegetables deepen the skillet character, and the salsa provides the juicy acid-fruit contrast that keeps the bowl from becoming heavy.
+The first test established that the flavor was strong enough to protect. The failure was mechanical: thin brisket from this cut remained tough under direct stir-fry heat. The correction therefore changes the texture system without rewriting the successful guajillo-chipotle, charred-vegetable, rice, and plum-salsa architecture.
 
-The tortilla version remains valid, but the salsa should be lightly drained and the rice served alongside. Cheese is intentionally omitted from the first tasting so the guajillo, chipotle, lime, charred corn, and plum remain clear.
+The baking-soda step tenderizes; the cornstarch-and-oil velvet protects moisture; the light outer dredge creates fast browning; and the final clean glaze adds flavor without forcing the beef to cook any longer.
 
 ## Final Verdict
 
-**Worth making again?** To be determined after Amy and Don complete the first full tasting.
+**First-test flavor:** Excellent  
+**First-test texture:** Unacceptable; extremely tough without velveting  
+**Required next-test change:** Use the complete baking-soda tenderize, rinse/dry, Mexican chile velvet, light dredge, and shallow-fry workflow.
 
 **Flavorweaver Decision:**
 
-- [ ] Keep as written
-- [x] Keep for testing with corrected execution structure
+- [ ] Keep as originally written
+- [x] Keep with mandatory texture correction
 - [ ] Move toward Hall of Fame
 - [ ] Mark as House Staple
+- [x] Retest revised method
 - [ ] Do not repeat
 
 <details>
@@ -387,14 +470,14 @@ The tortilla version remains valid, but the salsa should be lightly drained and 
 
 | Layer | Notes |
 |---|---|
-| Richness | Brisket fat, tallow-supported sear, optional avocado |
-| Freshness | Fresh plum, cilantro, green onion, final lime |
-| Acid | Lime, rice vinegar, white vinegar, tart plum |
+| Richness | Brisket fat, tallow-supported frying, restrained olive oil |
+| Freshness | Raw plum, cilantro, green onion, final lime |
+| Acid / Brightness | Lime, rice vinegar, white vinegar, tart plum |
 | Heat | Chipotle, jalapeño, fresh red chile, adobo |
 | Sweetness | Orange, honey, ripe plum; controlled and subordinate |
 | Umami | Beef fond, soy sauce, charred aromatics, MSG |
-| Texture | Seared brisket edges, blistered corn, crisp-tender pepper and onion, textured salsa |
-| Moisture | Clean guajillo-chipotle glaze, salsa juices, rice base |
+| Texture | Velvet-tender beef, lightly crisp edges, charred vegetables, juicy salsa |
+| Sauce / Moisture | Clean guajillo-chipotle glaze and plum salsa juices |
 | Aroma | Toasted guajillo, chipotle smoke, lime zest, charred garlic, cilantro |
 
 </details>
@@ -404,20 +487,28 @@ The tortilla version remains valid, but the salsa should be lightly drained and 
 
 ## First Test — 2026-08-02
 
-**Execution finding:** Original recipe organization was not Flavorweaver-ready. Key actions were technically present but buried among summaries, roll-ups, and prep maps. The recipe was rebuilt around a single uninterrupted cooking sequence.
+**Flavor:** Great. Protect the chile-lime brisket sauce, charred vegetables, cilantro-lime rice, and plum salsa architecture.
 
-**Actual plate direction:** Cilantro-lime rice bowl with brisket, charred bell pepper-onion-corn, and blackened fresh-plum salsa. Fresh corn tortillas retained as an alternate service.
+**Texture:** Brisket was extremely tough when marinated and directly seared without the Mongolian-beef velveting system.
 
-**Score / rating:** Pending full meal tasting.
+**Mandatory next test:**
 
-**What to evaluate:**
-
-- Brisket tenderness and sear at the actual slice thickness
-- Final heat from the unidentified fresh red chile
-- Plum salsa sweet-acid balance
-- Whether charred corn should remain folded into the meat or plated separately
-- Final lime level across rice, glaze, and salsa
+- 1 tsp baking soda + 3 Tbsp ice water for 1 1/2 lb sliced brisket
+- Massage 1-2 minutes
+- Refrigerate 30-45 minutes
+- Rinse thoroughly and dry completely
+- Velvet 20-30 minutes with 1/2 cup chile sauce, lime, salt, neutral oil, and cornstarch
+- Light cornstarch dredge
+- Shallow-fry at 350-375°F in small batches
+- Glaze only 30-45 seconds
 
 </details>
 
-<!-- recipe-card:end -->
+<details>
+<summary>Change Log</summary>
+
+- 2026-08-02: Rebuilt as a composed cilantro-lime rice bowl with charred bell pepper-onion-corn and corn-tortilla alternative.
+- 2026-08-02: First live test confirmed excellent flavor but unacceptable brisket toughness.
+- 2026-08-02: Replaced direct-marinate/direct-sear method with mandatory Mongolian-beef-style baking-soda tenderizing, Mexican chile velvet, light cornstarch dredge, and fast shallow-fry.
+
+</details>

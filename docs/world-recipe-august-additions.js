@@ -14,6 +14,19 @@
     });
   }
 
+  if (!recipes.some((item) => item.path === 'recipes/korean/charred-korean-corn-cheese-croquettes.html')) {
+    recipes.push({
+      title: 'Charred Korean Corn-Cheese Croquettes',
+      path: 'recipes/korean/charred-korean-corn-cheese-croquettes.html',
+      collection: 'House Recipes',
+      culture: 'Korean Inspired',
+      category: 'Side Dish',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['corn kernels', 'neutral oil', 'butter', 'heavy cream', 'water', 'all-purpose flour', 'mayonnaise', 'sugar', 'green onion', 'jalapeno', 'garlic', 'fine salt', 'black pepper', 'MSG', 'gochugaru', 'low-moisture mozzarella', 'cornstarch', 'egg', 'panko breadcrumbs', 'honey', 'toasted sesame seeds', 'smoked paprika'],
+      tags: ['Korean-Inspired', 'korean-inspired', 'Korean corn cheese', 'corn cheese croquettes', 'charred corn', 'corn cream panade', 'molten mozzarella center', 'panko crust', 'brown honey butter', 'smoky sesame salt', 'fried side', 'vegetarian side', 'Flavorweaver Test Recipe', 'html page']
+    });
+  }
+
   if (!recipes.some((item) => item.path === 'recipes/mexican/chipotle-guajillo-lime-brisket-with-blackened-fresh-plum-salsa.html')) {
     recipes.push({
       title: 'Chipotle-Guajillo Lime Brisket Bowls with Blackened Fresh-Plum Salsa',

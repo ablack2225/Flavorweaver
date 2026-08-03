@@ -22,8 +22,8 @@
       culture: 'Mexican Inspired',
       category: 'Complete Bowl',
       status: 'Flavorweaver Test Recipe',
-      ingredients: ['thin-sliced brisket', 'brisket', 'dried guajillo chiles', 'chipotle in adobo', 'orange juice', 'lime zest', 'lime juice', 'less-sodium soy sauce', 'honey', 'cumin', 'coriander', 'Mexican oregano', 'smoked paprika', 'black pepper', 'MSG', 'sweet onion', 'garlic', 'fresh plums', 'Roma tomatoes', 'jalapeno', 'fresh hot red Mexican chile', 'green onions', 'cilantro', 'rice vinegar', 'white vinegar', 'long-grain rice', 'chicken broth', 'bell pepper', 'corn', 'brisket tallow', 'fresh corn tortillas'],
-      tags: ['Mexican-Inspired', 'mexican-inspired', 'chipotle guajillo brisket bowl', 'cilantro lime rice', 'charred corn', 'bell pepper onion corn', 'blackened fresh plum salsa', 'fresh plum salsa', 'food processor salsa', 'skillet charred salsa', 'guajillo honey reduction', 'complete bowl', 'rice bowl', 'corn tortilla option', 'Flavorweaver Test Recipe', 'html page']
+      ingredients: ['thin-sliced brisket', 'brisket', 'baking soda', 'ice water', 'cornstarch', 'neutral oil', 'brisket tallow', 'dried guajillo chiles', 'chipotle in adobo', 'orange juice', 'lime zest', 'lime juice', 'less-sodium soy sauce', 'honey', 'cumin', 'coriander', 'Mexican oregano', 'smoked paprika', 'black pepper', 'MSG', 'sweet onion', 'garlic', 'fresh plums', 'Roma tomatoes', 'jalapeno', 'fresh hot red Mexican chile', 'green onions', 'cilantro', 'rice vinegar', 'white vinegar', 'long-grain rice', 'chicken broth', 'bell pepper', 'corn', 'fresh corn tortillas'],
+      tags: ['Mexican-Inspired', 'mexican-inspired', 'chipotle guajillo brisket bowl', 'velveted brisket', 'velvet beef', 'baking soda tenderized beef', 'cornstarch velvet', 'shallow fried beef', 'cilantro lime rice', 'charred corn', 'bell pepper onion corn', 'blackened fresh plum salsa', 'fresh plum salsa', 'food processor salsa', 'skillet charred salsa', 'guajillo honey reduction', 'complete bowl', 'rice bowl', 'corn tortilla option', 'Flavorweaver Test Recipe', 'html page']
     });
   }
 })();

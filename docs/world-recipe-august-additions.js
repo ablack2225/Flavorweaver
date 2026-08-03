@@ -22,8 +22,8 @@
       culture: 'Korean Inspired',
       category: 'Side Dish',
       status: 'Flavorweaver Test Recipe',
-      ingredients: ['corn kernels', 'neutral oil', 'butter', 'heavy cream', 'water', 'all-purpose flour', 'mayonnaise', 'sugar', 'green onion', 'jalapeno', 'garlic', 'fine salt', 'black pepper', 'MSG', 'gochugaru', 'low-moisture mozzarella', 'cornstarch', 'egg', 'panko breadcrumbs', 'honey', 'toasted sesame seeds', 'smoked paprika'],
-      tags: ['Korean-Inspired', 'korean-inspired', 'Korean corn cheese', 'corn cheese croquettes', 'charred corn', 'corn cream panade', 'molten mozzarella center', 'panko crust', 'brown honey butter', 'smoky sesame salt', 'fried side', 'vegetarian side', 'Flavorweaver Test Recipe', 'html page']
+      ingredients: ['frozen sweet corn', 'neutral oil', 'butter', 'heavy cream', 'water', 'all-purpose flour', 'mayonnaise', 'sugar', 'green onion', 'jalapeno', 'garlic', 'fine salt', 'black pepper', 'MSG', 'low-moisture mozzarella', 'cornstarch', 'egg', 'panko breadcrumbs', 'brisket tallow', 'honey', 'toasted sesame seeds', 'smoked paprika', 'optional cayenne'],
+      tags: ['Korean-Inspired', 'korean-inspired', 'Korean corn cheese', 'corn cheese croquettes', 'frozen sweet corn', 'charred corn', 'corn cream panade', 'molten mozzarella center', 'panko crust', 'brisket tallow fried', 'deep fryer', 'brown honey butter', 'smoky sesame salt', 'fried side', 'Flavorweaver Test Recipe', 'html page']
     });
   }
 

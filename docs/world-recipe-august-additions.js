@@ -9,8 +9,8 @@
       culture: 'Korean Inspired',
       category: 'Complete Sandwich',
       status: 'Flavorweaver Test Recipe',
-      ingredients: ['pork butt', 'fresh plums', 'gochujang', 'less-sodium soy sauce', 'rice vinegar', 'honey', 'brown sugar', 'sweet onion', 'garlic', 'fresh ginger', 'green onions', 'gochugaru', 'black pepper', 'MSG', 'toasted sesame oil', 'chicken broth', 'tomato paste', 'smoked paprika', 'mayonnaise', 'lime juice', 'red onion', 'carrot', 'jalapeno', 'green cabbage', 'sesame seeds', 'homemade hoagie rolls', 'butter'],
-      tags: ['Korean-Inspired', 'korean-inspired', 'Korean BBQ pork hoagie', 'smoky plum pork', 'fresh plum glaze', 'gochujang', 'pull apart pork', 'coarse pulled pork', 'spicy gochujang mayo', 'quick pickles', 'sesame cabbage crunch', 'homemade hoagie roll', 'sear braise pull lacquer char', 'complete sandwich', 'featured meal', 'Flavorweaver Test Recipe', 'html page']
+      ingredients: ['pork butt', 'fresh plums', 'gochujang', 'less-sodium soy sauce', 'rice vinegar', 'honey', 'brown sugar', 'sweet onion', 'garlic', 'fresh ginger', 'green onions', 'gochugaru', 'black pepper', 'MSG', 'toasted sesame oil', 'chicken broth', 'tomato paste', 'smoked paprika', 'mayonnaise', 'lime juice', 'kosher dill pickles', 'purple onion', 'homemade hoagie rolls', 'butter'],
+      tags: ['Korean-Inspired', 'korean-inspired', 'Korean BBQ pork hoagie', 'smoky plum pork', 'fresh plum glaze', 'gochujang', 'pull apart pork', 'coarse pulled pork', 'spicy gochujang mayo', 'kosher dill pickles', 'paper thin purple onion', 'batch cooked pork', 'homemade hoagie roll', 'sear braise pull lacquer char', 'complete sandwich', 'featured meal', 'Flavorweaver Test Recipe', 'html page']
     });
   }
 

@@ -4,11 +4,11 @@ culture: American Inspired
 category: Dessert
 status: Flavorweaver Test Recipe
 difficulty: Moderate
-prep_time: 35m
-cook_time: 1h 15m to 1h 30m
-total_time: 3h, including cooling and glazing
+prep_time: 30m
+cook_time: 50m to 1h 10m
+total_time: 2h 45m, including cooling and glazing
 servings: 12 to 16 slices
-yield: 1 large Bundt or tube cake
+yield: 1 large 12-cup Bundt or tube cake
 measurement_status: documented
 
 rating_note: Canon test candidate
@@ -25,16 +25,18 @@ categories:
 tags:
   - American-Inspired
   - american-inspired
-  - lemon pound cake
-  - cream cheese pound cake
-  - Bundt cake
-  - lemon dessert
-  - sour cream cake
+  - lemon cake
+  - lemon cream cheese cake
+  - lemon Bundt cake
+  - not-quite-pound-cake
+  - buttery lemon cake
+  - buttermilk cake
+  - tender crumb cake
   - lemon syrup
   - cream cheese glaze
   - no lemon extract
-  - AP flour shortcut
-  - cornstarch cake flour shortcut
+  - Ina Garten inspired
+  - luxury lemon cake
   - Amy and Don canon test
 
 required_components: []
@@ -43,226 +45,232 @@ pairs_well_with:
   - fresh berries
   - blueberry compote
   - lightly sweetened whipped cream
-  - lemon curd
   - hot coffee
   - iced tea
 
-last_updated: 2026-07-05
+last_updated: 2026-08-04
 ---
 
 <!-- recipe-card:start -->
 
 # Lemon Cream Cheese Pound Cake
 
-> A rich, velvety, deeply lemony American-inspired cream cheese pound cake built from fresh lemons, lemon sugar, lemon-infused dairy, warm lemon syrup, and a cream cheese lemon glaze. Designed for a moist, dense-but-tender crumb with a bright citrus finish and no lemon extract required.
+> A top-tier, magnificently buttery lemon cake inspired by the classic Ina Garten-style lemon loaf architecture, elevated with a restrained touch of cream cheese, a tender cornstarch-assisted crumb, intensely fragrant lemon sugar, a tart warm lemon soak, and a polished lemon cream cheese glaze. It should resemble pound cake in richness and slicing structure, but it must **not** eat dense or heavy.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings / Yield | Difficulty |
 |---|---:|---:|---|
-| Flavorweaver Test Recipe | About 3 hr including cooling | 1 large Bundt or tube cake / 12 to 16 slices | Moderate |
+| Flavorweaver Test Recipe | About 2 hr 45 min including cooling | 1 large 12-cup Bundt or tube cake / 12 to 16 slices | Moderate |
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
-| 35 min | 1 hr 15 min to 1 hr 30 min | Canon test candidate | Yes |
+| 30 min | 50 to 70 min | Canon test candidate | Yes |
 
 ## Kitchen Execution Summary
 
 | Execution Point | Notes |
 |---|---|
-| Best cooked | Same day is excellent; next day is often better after the crumb settles. |
-| Must be prepped before mixing | Room-temperature butter, cream cheese, eggs, sour cream, and strained lemon-infused milk or cream. |
-| Can hold? | Cake holds well tightly wrapped at room temperature for 2 to 3 days. Glaze after cooling. |
-| Should not be rushed | Creaming, gradual egg addition, cooling before glaze, and warm syrup application. |
-| Critical timing | Start checking doneness around 70 minutes; do not rely only on color. |
-| Main risk | Overbaking, underbaking the dense center, or poor Bundt pan release. |
-| Success cue | Fine moist crumb, clean lemon aroma, gentle cream cheese tang, and no gummy center. |
+| Best cooked | Excellent the day it is baked; even more cohesive and lemony after an overnight rest. |
+| Must be room temperature | Butter, batter cream cheese, all 4 whole eggs, and buttermilk. Cold ingredients can break the emulsion and tighten the crumb. |
+| Should not be rushed | Lemon-sugar rubbing, butter-sugar creaming, one-at-a-time egg addition, gentle final mixing, staged syrup absorption, and full cooling before glaze. |
+| Critical bake cue | Start checking at 50 minutes. Remove when a tester shows a few moist crumbs and the center reaches about 200 to 203°F. |
+| Main risks | Under-creaming, overmixing after flour, overbaking, adding syrup too quickly, or using an undersized Bundt pan. |
+| Success cue | High lemon aroma, deeply buttery flavor, fine tender crumb, clean slices, and a light fork feel rather than traditional dense pound cake. |
 
-## Ingredient List
+## Full Cake Ingredient Roll-Up
 
 | Component | Ingredients |
 |---|---|
-| Cake Flour Shortcut Dry Mix | All-purpose flour, cornstarch, baking powder, baking soda, fine salt |
-| Lemon Sugar | Granulated sugar, zest from 5 lemons |
-| Lemon-Infused Dairy | Whole milk or heavy cream, lemon peel strips |
-| Cream Cheese Fat Base | Unsalted butter, cream cheese, shortening, neutral oil |
-| Eggs and Liquid | Eggs, extra yolk, sour cream, lemon-infused milk or cream, fresh lemon juice, vanilla |
-| Lemon Syrup | Fresh lemon juice, granulated sugar, pinch of salt |
-| Lemon Cream Cheese Glaze | Cream cheese, powdered sugar, lemon juice, milk or cream, vanilla, salt, optional zest |
+| Tender-Crumb Dry Mix | All-purpose flour, cornstarch, baking powder, baking soda, fine salt |
+| Lemon Sugar | Granulated sugar, finely grated fresh lemon zest |
+| Butter-Cream Cheese Base | Unsalted butter, a restrained amount of cream cheese |
+| Eggs and Buttermilk Liquid | 4 whole eggs, buttermilk, fresh lemon juice, vanilla |
+| Warm Lemon Syrup | Fresh lemon juice, granulated sugar, fine salt |
+| Lemon Cream Cheese Glaze | Cream cheese, powdered sugar, fresh lemon juice, vanilla, milk or heavy cream, fine salt, optional zest |
 
-## Measured Ingredients
+## Measured Ingredients by Component
 
-### Cake Flour Shortcut Dry Mix
+### Tender-Crumb Dry Mix
 
 | Amount | Ingredient | Prep / Notes |
 |---:|---|---|
-| 300 g | All-purpose flour | Or 3 cups minus 6 Tbsp |
-| 45 g | Cornstarch | Or 6 Tbsp; replaces removed flour for cake-flour-style tenderness |
-| 2 tsp | Baking powder |  |
-| 1/4 tsp | Baking soda | Helps balance sour cream and lemon juice |
+| 2 3/4 cups | All-purpose flour | Spoon into the cup and level; do not scoop and pack |
+| 1/4 cup | Cornstarch | Softens the flour blend without requiring cake flour |
+| 1 tsp | Baking powder | Adds lift to offset the small cream cheese addition |
+| 1/2 tsp | Baking soda | Works with the buttermilk and lemon juice |
 | 3/4 tsp | Fine salt | Use fine salt for even distribution |
 
-### Lemon Sugar
+### Intensely Fragrant Lemon Sugar
 
 | Amount | Ingredient | Prep / Notes |
 |---:|---|---|
-| 2 3/4 cups | Granulated sugar | About 550 g if weighing |
-| 5 lemons | Lemon zest | Zest only the yellow peel; avoid bitter white pith |
+| 2 cups | Granulated sugar | Batter sugar only; syrup sugar is measured separately |
+| 1/3 cup | Finely grated lemon zest | Usually 6 to 8 large lemons; yellow peel only, no white pith |
 
-### Lemon-Infused Dairy
-
-| Amount | Ingredient | Prep / Notes |
-|---:|---|---|
-| 1/2 cup | Whole milk or heavy cream | Heavy cream gives a richer crumb; whole milk gives a slightly lighter crumb |
-| From 1 to 2 lemons | Wide strips of lemon peel | Yellow peel only; steep in warm dairy, then strain and cool |
-
-### Cream Cheese Fat Base
+### Butter-Cream Cheese Base
 
 | Amount | Ingredient | Prep / Notes |
 |---:|---|---|
-| 1 cup / 2 sticks | Unsalted butter | Softened but not greasy |
-| 6 oz | Cream cheese | Softened fully so it creams smooth |
-| 2 Tbsp | Shortening | Preserves a little old-fashioned tenderness |
-| 2 Tbsp | Neutral oil | Helps keep the crumb moist after cooling |
+| 1 cup / 2 sticks | Unsalted butter | Room temperature, pliable but still cool; not shiny or greasy |
+| 2 oz | Full-fat block cream cheese | Room temperature; this adds silkiness without creating a heavy cream-cheese pound cake |
 
-### Eggs and Main Liquids
+### Eggs and Buttermilk Liquid
 
 | Amount | Ingredient | Prep / Notes |
 |---:|---|---|
-| 5 large | Eggs | Room temperature |
-| 1 | Extra egg yolk | Adds richness and tenderness |
-| 1/2 cup | Sour cream | Room temperature |
-| 1/2 cup | Strained lemon-infused milk or cream | Cooled to room temperature before mixing |
-| 1/4 cup | Fresh lemon juice | Keep batter acid controlled; more lemon goes into syrup and glaze |
-| 2 tsp | Vanilla extract | Rounds the lemon and dairy |
+| 4 large | Whole eggs | All 4 eggs at room temperature; no extra yolk |
+| 3/4 cup | Cultured buttermilk | Room temperature; full-fat preferred but low-fat works |
+| 1/4 cup | Fresh lemon juice | Strained; do not increase the batter amount |
+| 2 tsp | Vanilla extract | Rounds the butter and lemon |
 
-### Lemon Syrup
+### Warm Lemon Syrup
 
 | Amount | Ingredient | Prep / Notes |
 |---:|---|---|
-| 1/2 cup | Fresh lemon juice | Strain seeds and pulp if needed |
-| 1/2 cup | Granulated sugar | Warm just until dissolved |
-| Tiny pinch | Salt | Makes the lemon taste brighter |
+| 1/2 cup | Fresh lemon juice | Strained |
+| 1/2 cup | Granulated sugar | Heat only until dissolved |
+| 1 small pinch | Fine salt | Sharpens the lemon |
 
 ### Lemon Cream Cheese Glaze
 
 | Amount | Ingredient | Prep / Notes |
 |---:|---|---|
-| 2 oz | Cream cheese | Very soft |
+| 2 oz | Full-fat block cream cheese | Very soft |
 | 1 1/2 cups | Powdered sugar | Sift if lumpy |
-| 2 to 3 Tbsp | Fresh lemon juice | Add to taste |
-| 1 to 2 Tbsp | Milk or heavy cream | Add only as needed for pourable texture |
+| 2 to 3 Tbsp | Fresh lemon juice | Begin with 2 Tbsp |
 | 1/2 tsp | Vanilla extract |  |
-| Tiny pinch | Fine salt | Balances sweetness |
-| Optional | Lemon zest | For finishing the glazed cake |
+| 1 small pinch | Fine salt | Balances sweetness |
+| 1 to 2 Tbsp | Whole milk or heavy cream | Add only as needed for a thick pourable ribbon |
+| Optional | Finely grated lemon zest | Apply after glazing |
 
-## Prep Notes
+## Before Cooking Day / Advance Prep
 
-- Bring butter, cream cheese, eggs, sour cream, and lemon-infused dairy to room temperature before mixing.
-- For the AP flour shortcut, measure **300 g all-purpose flour** and **45 g cornstarch**, then whisk and sift well. If measuring by cups, use **3 cups AP flour minus 6 Tbsp**, then add **6 Tbsp cornstarch**.
-- Use a 12 to 15 cup Bundt pan or tube pan. Grease every crease thoroughly with shortening or softened butter, then flour the pan.
-- Do not increase lemon juice in the batter beyond **1/4 cup**. Extra lemon intensity belongs in the syrup, glaze, zest, and dairy infusion.
-- The syrup should be brushed on while the cake is warm. The glaze waits until the cake is fully cool.
+- Buy or set aside **8 large fresh lemons** so there is enough zest and approximately **1 cup total juice** for the batter, syrup, and glaze. Always zest before juicing.
+- Use a **12-cup Bundt or tube pan**. A smaller pan may overflow. For an intricate Bundt pan, baker's spray containing flour is the most dependable release method. Otherwise, coat every crease with shortening and dust thoroughly with flour.
+- Bring the butter, both portions of cream cheese, eggs, and buttermilk to room temperature. The butter should dent easily when pressed but should not look oily.
+- Preferred dairy is cultured buttermilk. Emergency substitute: place **2 1/4 tsp lemon juice or white vinegar** in a measuring cup, add whole milk to reach **3/4 cup**, stir, and rest 10 minutes. Do not substitute heavy cream for the buttermilk; it will make the cake heavier.
+
+## Cross-Component Prep Map
+
+- **Lemons:** Zest enough lemons to make **1/3 cup zest** before juicing. Measure **1/4 cup juice for batter**, **1/2 cup for syrup**, and **2 to 3 Tbsp for glaze**.
+- **Cream cheese:** Divide **4 oz total** into **2 oz for the batter** and **2 oz for the glaze**. The batter portion must be room temperature; the glaze portion should be very soft.
+- **Sugar:** Measure **2 cups for batter**, **1/2 cup for syrup**, and **1 1/2 cups powdered sugar for glaze**.
+- **Temperature:** Butter, batter cream cheese, eggs, and buttermilk must all be room temperature before mixing. Lemon juice may be cool, but room temperature is preferable.
+- **Finish order:** Apply syrup while the cake is warm. Apply glaze only after the cake is completely cool.
 
 ## Stage-Based Prep Bowls
 
-### Stage 1 — Lemon Flavor Foundation
+### Stage 1 — Lemon and Pan Foundation
 
-- **Lemon Sugar:** 2 3/4 cups granulated sugar rubbed with zest from 5 lemons; rest 20 to 30 minutes if time allows.
-- **Lemon-Infused Dairy:** 1/2 cup whole milk or heavy cream warmed until steaming, steeped with yellow peel strips from 1 to 2 lemons, strained, and cooled.
-- **Lemon Juice:** 1/4 cup fresh lemon juice for batter; 1/2 cup fresh lemon juice for syrup; 2 to 3 Tbsp fresh lemon juice for glaze.
+- **Lemon Sugar Bowl:** 2 cups granulated sugar plus 1/3 cup finely grated lemon zest.
+- **Prepared Pan:** 12-cup Bundt or tube pan thoroughly coated with flour-containing baking spray, or shortening plus flour.
+- **Juice Portions:** 1/4 cup for batter, 1/2 cup for syrup, and 2 to 3 Tbsp for glaze.
 
-### Stage 2 — Dry Mix
+### Stage 2 — Batter Bowls
 
-- 300 g all-purpose flour.
-- 45 g cornstarch.
-- 2 tsp baking powder.
-- 1/4 tsp baking soda.
-- 3/4 tsp fine salt.
+- **Dry Bowl:** 2 3/4 cups all-purpose flour, 1/4 cup cornstarch, 1 tsp baking powder, 1/2 tsp baking soda, and 3/4 tsp fine salt.
+- **Fat Bowl / Mixer Bowl:** 1 cup room-temperature unsalted butter plus 2 oz room-temperature cream cheese.
+- **Egg Bowl:** 4 large room-temperature whole eggs, kept separate for one-at-a-time addition.
+- **Liquid Bowl:** 3/4 cup room-temperature buttermilk, 1/4 cup fresh lemon juice, and 2 tsp vanilla.
 
-### Stage 3 — Creaming Base
+### Stage 3 — Finish Bowls
 
-- 1 cup softened unsalted butter.
-- 6 oz softened cream cheese.
-- 2 Tbsp shortening.
-- 2 Tbsp neutral oil.
-- Prepared lemon sugar.
+- **Syrup:** 1/2 cup lemon juice, 1/2 cup granulated sugar, and a small pinch of salt.
+- **Glaze:** 2 oz very soft cream cheese, 1 1/2 cups powdered sugar, 2 to 3 Tbsp lemon juice, 1/2 tsp vanilla, a small pinch of salt, and 1 to 2 Tbsp milk or cream only as needed.
 
-### Stage 4 — Eggs and Liquids
+## Service Countdown
 
-- 5 large room-temperature eggs.
-- 1 extra egg yolk.
-- 1/2 cup room-temperature sour cream.
-- 1/2 cup cooled lemon-infused milk or cream.
-- 1/4 cup fresh lemon juice.
-- 2 tsp vanilla extract.
+| Timing | Action |
+|---|---|
+| 60 minutes before mixing | Set out butter, cream cheese, eggs, and buttermilk. If needed, warm eggs in a bowl of warm tap water for 5 to 10 minutes. |
+| 30 minutes before mixing | Zest and juice the lemons. Rub the zest into the batter sugar. Prepare the pan and measure every component. |
+| 15 minutes before mixing | Preheat the oven and position a rack in the lower-middle. Whisk the dry mix and liquid mix separately. |
+| Mixing window | Cream thoroughly, add eggs one at a time, then alternate dry and liquid additions without overmixing. |
+| 50 minutes into baking | Begin checking the cake; do not wait for the maximum time automatically. |
+| 10 to 15 minutes after baking | Syrup the exposed bottom, invert, then syrup the exterior in slow coats. |
+| After full cooling | Glaze and allow the glaze to set 20 to 30 minutes before slicing. |
 
-### Stage 5 — Syrup and Glaze
+## Full Cooking Timeline and Instructions
 
-- **Syrup:** 1/2 cup fresh lemon juice, 1/2 cup sugar, tiny pinch salt.
-- **Glaze:** 2 oz cream cheese, 1 1/2 cups powdered sugar, 2 to 3 Tbsp lemon juice, 1 to 2 Tbsp milk or cream, 1/2 tsp vanilla, tiny pinch salt, optional zest.
+1. **Bring the cold ingredients to room temperature.** Set out **1 cup unsalted butter**, **2 oz cream cheese for the batter**, **4 large whole eggs**, and **3/4 cup buttermilk** about 45 to 60 minutes before mixing. The butter and cream cheese should be soft enough to blend smoothly but should still feel cool—not melted, shiny, or greasy.
 
-## Instructions
+2. **Build the lemon sugar.** Place **2 cups granulated sugar** and **1/3 cup finely grated lemon zest** in a bowl. Rub the zest into the sugar firmly with your fingertips for 1 to 2 minutes, until the sugar is pale yellow, slightly damp, and intensely fragrant. Let it rest 15 to 30 minutes while the remaining ingredients are prepared.
 
-1. **Build the lemon sugar.** Add **2 3/4 cups granulated sugar** to a bowl with the **zest from 5 lemons**. Rub the zest into the sugar with your fingertips until the sugar looks slightly damp and smells intensely lemony. Let it rest **20 to 30 minutes** if time allows.
+3. **Preheat the oven and prepare the pan.** Position a rack in the lower-middle of the oven and preheat to **350°F**. If using a very dark nonstick Bundt pan, use **325°F** to prevent an overbrowned crust. Coat every crease of a **12-cup Bundt or tube pan** with flour-containing baker's spray, or grease with shortening and dust thoroughly with flour. Tap out the excess.
 
-2. **Infuse the dairy.** Warm **1/2 cup whole milk or heavy cream** until steaming but not boiling. Add wide yellow peel strips from **1 to 2 lemons**, cover, and steep **15 to 20 minutes**. Strain and cool to room temperature before using.
+4. **Make the dry mix.** In a medium bowl, whisk together **2 3/4 cups all-purpose flour**, **1/4 cup cornstarch**, **1 tsp baking powder**, **1/2 tsp baking soda**, and **3/4 tsp fine salt** for at least 30 seconds. Sift once if possible for the finest crumb.
 
-3. **Prepare the oven and pan.** Preheat the oven to **325°F**. Grease a 12 to 15 cup Bundt pan or tube pan very thoroughly, getting into every crease, then dust with flour and tap out excess.
+5. **Make the liquid mix.** In a separate bowl or measuring pitcher, whisk together **3/4 cup room-temperature buttermilk**, **1/4 cup fresh lemon juice**, and **2 tsp vanilla extract**. The mixture may look slightly curdled because of the fresh lemon; that is normal.
 
-4. **Make the dry mix.** Whisk together **300 g all-purpose flour**, **45 g cornstarch**, **2 tsp baking powder**, **1/4 tsp baking soda**, and **3/4 tsp fine salt**. Sift if possible for the finest crumb.
+6. **Smooth the butter and cream cheese.** In the bowl of a stand mixer fitted with the paddle, or with a hand mixer in a large bowl, beat **1 cup room-temperature butter** and **2 oz room-temperature cream cheese** on medium speed for 1 to 2 minutes, scraping the bowl once, until completely smooth with no cream-cheese streaks.
 
-5. **Cream the fat base.** Beat **1 cup softened unsalted butter**, **6 oz softened cream cheese**, **2 Tbsp shortening**, and **2 Tbsp neutral oil** until smooth and creamy. Add the lemon sugar and beat **4 to 5 minutes**, scraping the bowl as needed, until lighter and fluffy.
+7. **Cream with the lemon sugar.** Add the prepared lemon sugar gradually. Beat on medium to medium-high speed for **4 to 5 full minutes**, stopping halfway to scrape the bottom and sides of the bowl and the paddle. The mixture should become visibly paler, fluffier, and increased in volume. This aeration is essential to prevent a dense cake.
 
-6. **Add eggs gradually.** Add **5 large room-temperature eggs**, one at a time, beating well after each addition. Add the **extra egg yolk** last. Scrape the bowl well and keep the mixture emulsified.
+8. **Add all 4 eggs one at a time.** With the mixer on medium-low, add **1 room-temperature egg**, beat about 20 to 30 seconds until incorporated, then repeat with the remaining **3 eggs**. Scrape the bowl after the second and fourth eggs. Do not add another egg while the previous one is still visibly separated. If the batter begins to look curdled, mix in **1 Tbsp of the prepared dry mix** and continue.
 
-7. **Combine the liquid mixture.** In a separate bowl, stir together **1/2 cup sour cream**, **1/2 cup cooled lemon-infused milk or cream**, **1/4 cup fresh lemon juice**, and **2 tsp vanilla extract**. The mixture may look slightly loose from the lemon; that is okay.
+9. **Alternate the dry and liquid additions.** Reduce the mixer to low. Add **one third of the dry mix** and mix just until most flour disappears. Add **half of the buttermilk mixture** and mix briefly. Repeat with another third of dry mix, the remaining liquid, and the final third of dry mix. Stop the mixer while a few flour streaks remain, then scrape and fold gently by hand until evenly combined. Do not beat the finished batter.
 
-8. **Alternate dry and wet additions.** On low speed, add one third of the dry mix, then half of the liquid mixture, then another third of dry mix, then the remaining liquid mixture, then the remaining dry mix. Mix only until combined. Finish folding by hand with a spatula so no flour pockets remain.
+10. **Fill the pan.** Spoon the batter evenly into the prepared pan and smooth the top. Run a thin spatula through the batter once to break large hidden air pockets, then tap the pan on the counter only once or twice.
 
-9. **Fill and bake.** Spoon the batter into the prepared pan and smooth the top. Tap the pan gently once or twice to settle air pockets. Bake at **325°F** for **75 to 90 minutes**, checking around **70 minutes**. The cake is done when a skewer comes out clean or with a few moist crumbs, the top springs back lightly, the cake pulls slightly from the pan edges, and the center is about **200 to 205°F**.
+11. **Bake until just done.** Bake at **350°F for 50 to 65 minutes**; a dark pan baked at 325°F may need **60 to 75 minutes**. Begin checking at 50 minutes. The cake is ready when the top is deeply golden, the center springs back lightly, a long tester comes out with a few moist crumbs but no wet batter, and the center registers approximately **200 to 203°F**. Do not bake automatically to the maximum time.
 
-10. **Make the lemon syrup.** While the cake bakes or cools, warm **1/2 cup fresh lemon juice**, **1/2 cup granulated sugar**, and a **tiny pinch of salt** just until the sugar dissolves.
+12. **Make the syrup.** During the final 10 minutes of baking, combine **1/2 cup fresh lemon juice**, **1/2 cup granulated sugar**, and **a small pinch of fine salt** in a small saucepan. Warm over low heat, stirring, only until the sugar fully dissolves. Do not reduce or boil aggressively. Keep warm.
 
-11. **Syrup the warm cake.** Let the cake cool in the pan **15 to 20 minutes**. Poke the exposed bottom lightly with a skewer and brush on part of the warm lemon syrup. Invert carefully onto a rack or cake plate, then brush the outside with more syrup while the cake is still warm. Do not drown it; the goal is moist and lemony, not wet.
+13. **Begin syruping in the pan.** Set the baked cake on a rack and cool in the pan for **10 to 15 minutes**. Use a thin skewer to make about 15 shallow holes in the exposed bottom. Slowly brush or spoon approximately **one third of the warm syrup** over the bottom. Pause 2 to 3 minutes so it can absorb.
 
-12. **Cool completely.** Let the cake cool fully before glazing. If glazed while warm, the glaze will run thin and disappear into the cake.
+14. **Invert and finish the syrup.** Carefully invert the cake onto a rack set over a sheet pan or onto a cake plate. Brush the remaining syrup over the warm top and sides in **2 or 3 light coats**, pausing about 2 minutes between coats. Allow each coat to absorb before adding more. Use the full amount as long as the cake continues absorbing it; do not leave syrup pooling around the base.
 
-13. **Make and apply the glaze.** Beat **2 oz very soft cream cheese** until smooth. Add **1 1/2 cups powdered sugar**, **2 to 3 Tbsp fresh lemon juice**, **1/2 tsp vanilla**, and a **tiny pinch of salt**. Thin with **1 to 2 Tbsp milk or cream** only as needed. Spoon over the cooled cake so it drips slowly down the sides. Finish with optional lemon zest.
+15. **Cool completely.** Let the syruped cake cool completely, about **1 1/2 hours**. The exterior may feel tacky while warm but should settle as it cools. Do not glaze a warm cake.
 
-14. **Serve.** Slice with a sharp knife after the glaze sets. The cake should be rich, moist, dense-but-tender, creamy at the edges, and brightly lemony from crumb to finish.
+16. **Make the lemon cream cheese glaze.** Beat **2 oz very soft cream cheese** until perfectly smooth. Add **1 1/2 cups powdered sugar**, **2 Tbsp fresh lemon juice**, **1/2 tsp vanilla**, and **a small pinch of fine salt**. Beat until smooth. Add up to **1 additional Tbsp lemon juice** for brightness, then add **1 to 2 Tbsp milk or heavy cream**, 1 teaspoon at a time, only until the glaze falls from the spoon in a thick ribbon. It should cling to the cake rather than disappear into it.
+
+17. **Glaze and finish.** Spoon the glaze slowly over the completely cooled cake, encouraging controlled drips down the sides. Finish with optional finely grated lemon zest. Let the glaze set **20 to 30 minutes** before slicing.
+
+18. **Serve and store.** Slice with a sharp serrated or thin-bladed knife. The cake should be magnificently buttery, intensely lemony, moist, finely textured, and rich without eating dense. Store tightly covered at room temperature for up to 3 days. The lemon flavor and crumb often improve after resting overnight.
+
+## Do Not Forget
+
+- The egg requirement is **4 whole large eggs total**. There is no fifth egg and no extra yolk.
+- All 4 eggs, the batter cream cheese, butter, and buttermilk must be room temperature.
+- Cream the lemon sugar with the butter base for the full 4 to 5 minutes; this is the main mechanical lift.
+- Once flour enters the bowl, mix as little as possible.
+- Do not replace the buttermilk with heavy cream.
+- Keep batter lemon juice at 1/4 cup. Stronger lemon belongs in the zest, syrup, and glaze.
+- Syrup the cake warm in gradual coats. Glaze it only when completely cool.
 
 ## Troubleshooting / Rescue Notes
 
-| Issue | Fix |
+| Issue | Likely Cause / Fix |
 |---|---|
-| Cake tastes less lemony than expected | Add extra fresh zest to the glaze or brush a little more syrup over the sliced side before serving. Do not add more batter lemon juice next time; increase zest, syrup, and glaze instead. |
-| Cake is dry | It likely baked too long or had too much flour. Use grams for the AP/cornstarch shortcut and check internal temperature near 200°F. |
-| Cake is gummy in the center | It was underbaked, overmixed after flour, or sliced before the crumb set. Bake until the center reaches about 200 to 205°F and cool fully. |
-| Cake stuck to pan | Use shortening or softened butter plus flour in every Bundt crease. Cool only 15 to 20 minutes before inverting; waiting too long can make syrupy edges stick. |
-| Batter looks slightly curdled | Continue gently. Lemon juice and dairy can make the liquid mixture look uneven. The final batter should come together once alternated with dry mix. |
+| Cake is dense or tight | Butter was not creamed long enough, ingredients were cold, or batter was overmixed after flour. Use room-temperature ingredients and protect the full creaming time. |
+| Cake is greasy or flat | Butter was too warm or partially melted. Begin with pliable but still cool butter and cream cheese. |
+| Batter curdles after eggs | Eggs were cold or added too quickly. Add 1 Tbsp prepared dry mix, mix gently, and continue one egg at a time. |
+| Cake is gummy near the center | It was underbaked, sliced while warm, or absorbed syrup too quickly. Bake to about 200 to 203°F and apply syrup in thin coats. |
+| Cake is dry | Flour was packed into the cups or the cake overbaked. Spoon and level flour and begin checking at 50 minutes. |
+| Cake stuck to the pan | Pan preparation was incomplete or the cake rested too long before inversion. Use baker's spray with flour and invert after 10 to 15 minutes. |
+| Lemon flavor is weak | The zest was loosely measured, old, or not rubbed into sugar. Use a packed 1/3 cup fresh zest; do not compensate by adding more batter juice. |
+| Glaze runs off or disappears | Cake was still warm or glaze was over-thinned. Cool completely and add liquid only 1 teaspoon at a time. |
 
 ## Final Taste Target
 
-The finished cake should taste like an old-fashioned luxury lemon pound cake crossed with cream cheese pound cake: buttery, creamy, moist, dense but not heavy, vividly lemony, lightly tangy, and polished enough to serve plain without needing berries, cream, or sauce.
+The finished cake should sit between an elegant lemon butter cake and a classic pound cake: structured enough for beautiful Bundt slices, but noticeably lighter and more tender than a traditional dense pound cake. Butter should lead, fresh lemon should bloom immediately and persist through the syrup and glaze, and the small amount of cream cheese should register as silkiness and gentle tang—not cheesecake heaviness.
 
 ## Pairs Well With
 
 | Type | Pairing | Notes |
 |---|---|---|
-| Fruit | Fresh berries | Bright, fresh contrast to the rich crumb. |
-| Sauce | Blueberry compote | Especially good if serving as a plated dessert. |
-| Cream | Lightly sweetened whipped cream | Keep it barely sweet so the lemon stays dominant. |
-| Citrus | Lemon curd | Only if a sharper plated dessert is wanted. |
-| Drink | Hot coffee or iced tea | Balances richness and sweetness. |
+| Fruit | Fresh berries | Bright, juicy contrast without competing with the lemon. |
+| Sauce | Blueberry compote | Excellent for a plated dessert; serve sparingly. |
+| Cream | Lightly sweetened whipped cream | Keep it barely sweet so the cake remains the focus. |
+| Drink | Hot coffee | Bitter warmth balances the rich butter and sweet glaze. |
+| Drink | Iced tea | Clean, refreshing contrast for warm-weather service. |
 
 ## Chef's Notes
 
-The lemon extract is intentionally omitted. The recipe gets stronger lemon flavor from fresh zest rubbed into sugar, lemon peel steeped into dairy, controlled lemon juice in the batter, warm lemon syrup, and a lemon cream cheese glaze.
+This elevation deliberately protects the architecture that makes Ina Garten's lemon cake memorable: butter creamed with sugar, a generous amount of fresh zest, buttermilk-supported lift, controlled lemon juice in the batter, a warm lemon soak, and a sharp glaze. The Flavorweaver version adds only enough cream cheese to improve silkiness and provide a polished glaze; it does not stack shortening, oil, sour cream, extra eggs, or excessive leavening onto the formula.
 
-Cream cheese and sour cream should create tang and moisture, not cheesecake heaviness. The cake should still slice like pound cake and hold its structure.
-
-The AP flour and cornstarch shortcut is included as the house version because cake flour is not currently available in Amy's kitchen.
+The recipe uses ordinary measuring cups and spoons as the primary measurements. The flour must be spooned into the cup and leveled so the easy volume measurement does not accidentally create a dry, heavy cake.
 
 <!-- recipe-card:end -->
 
@@ -270,7 +278,7 @@ The AP flour and cornstarch shortcut is included as the house version because ca
 
 **Worth making again?**
 
-To be determined after first live test.
+To be determined after the revised live test.
 
 **Flavorweaver Decision:**
 
@@ -286,77 +294,76 @@ To be determined after first live test.
 
 | Layer | Notes |
 |---|---|
-| Richness | Butter, cream cheese, sour cream, egg yolk, and glaze. |
-| Freshness | Fresh lemon zest, lemon-infused dairy, lemon syrup, and lemon glaze. |
-| Acid / Brightness | Controlled lemon juice in batter; stronger brightness moved to syrup and glaze. |
+| Richness | Butter leads; a restrained 2 oz cream cheese in the batter adds silkiness without heaviness. |
+| Freshness | A full 1/3 cup fresh zest, fresh juice, warm lemon syrup, and fresh lemon glaze. |
+| Acid / Brightness | Buttermilk and controlled batter juice support lift; syrup and glaze deliver the sharper lemon finish. |
 | Heat | None. |
-| Sweetness | High-sugar pound cake structure, balanced with lemon and salt. |
-| Umami | Dairy richness and browned outer crust. |
-| Texture | Dense, fine, moist pound cake crumb; not fluffy boxed cake and not gummy. |
-| Sauce / Moisture | Warm lemon syrup plus oil/sour cream support moisture. |
-| Aroma | Lemon sugar, vanilla, butter, and warm dairy. |
+| Sweetness | Moderated batter sugar, tart syrup, and cream-cheese-balanced glaze. |
+| Texture | Fine, tender, moist crumb with pound-cake structure but a lighter fork feel. |
+| Sauce / Moisture | Warm syrup applied gradually in multiple coats. |
+| Aroma | Lemon sugar, cultured dairy, vanilla, and butter. |
 
 </details>
 
 <details>
 <summary>Flavorweaver Direction</summary>
 
-This recipe is designed as the Amy & Don house lemon pound cake: a high-ceiling, old-fashioned lemon cake template elevated with cream cheese, sour cream, fresh lemon infusion, lemon syrup, and cream cheese glaze.
+The original draft drifted into dense cream-cheese pound-cake territory through the combined use of 6 oz cream cheese, shortening, oil, sour cream, 5 whole eggs plus an extra yolk, heavy dairy, and high leavening. This revision returns to the intended target: a top-tier take on the classic buttery lemon cake that resembles pound cake but is not quite so dense.
 
-The target is not a casual lemon Bundt cake. The target is a memorable, repeat-worthy dessert with elite crumb, strong lemon presence, and a creamy tang that reads as luxurious but still clearly pound cake.
+The elevation now comes from precision rather than ingredient stacking: fragrant lemon sugar, a softer flour blend, controlled cream cheese, exact room-temperature requirements, full creaming time, staged syrup absorption, and a lemon-forward cream cheese glaze.
 
 </details>
 
 <details>
 <summary>Source / Research Notes</summary>
 
-- Stronger source patterns reviewed: old-fashioned high-sugar lemon pound cake templates, modern cream cheese pound cake approaches, sour cream pound cake technique, and lemon syrup/glaze layer-building methods.
-- Shared pattern: the best lemon pound cakes build lemon flavor in layers rather than relying only on juice in the batter.
-- Chef/bakery direction: protect the emulsion, use room-temperature ingredients, control acid in the batter, and finish with syrup/glaze for brightness.
-- Amy & Don house variation: no lemon extract; use whole fresh lemon strategy with zest-in-sugar, lemon-infused dairy, lemon syrup, and lemon cream cheese glaze. Use AP flour plus cornstarch shortcut because cake flour is not available.
+- Primary structural reference: [Ina Garten's Lemon Cake — Food Network](https://www.foodnetwork.com/recipes/ina-garten/lemon-cake-recipe-1913110).
+- Additional recipe and testing context: [Ina Garten's Lemon Cake — Leite's Culinaria](https://leitesculinaria.com/3013/recipes-barefoot-contessa-lemon-cake.html).
+- Preserved source pattern: butter, sugar, eggs, abundant zest, buttermilk, controlled batter lemon juice, warm lemon syrup, and a finishing glaze.
+- Flavorweaver departures: large Bundt presentation, ordinary large eggs, a restrained batter cream-cheese addition, cornstarch-assisted tenderness, slightly increased baking powder to support the added cream cheese, stronger vanilla, and a cream cheese lemon glaze.
 
 </details>
 
 <details>
 <summary>Timing Notes</summary>
 
-- Best workflow: zest sugar first, steep dairy next, then prep the pan and dry mix while dairy cools.
-- Do not glaze until fully cool.
-- Cake may taste even better after resting overnight once wrapped and fully set.
+- Zest before juicing and rub the zest into sugar while ingredients finish tempering.
+- Start checking a 350°F Bundt at 50 minutes; a dark pan at 325°F may require 60 to 75 minutes.
+- Syrup after a 10 to 15 minute pan rest.
+- Cool fully before glazing.
+- For the most cohesive crumb and mellow lemon saturation, wrap after the glaze sets and serve the next day.
 
 </details>
 
 <details>
 <summary>Testing Notes</summary>
 
-## First Test
+## Revised Formula Test
 
-**Date:** 2026-07-05
+**Date:** 2026-08-04
 
-**Score / rating:** Pending.
-
-**What worked:**
-
-- Pending live test.
+**Score / rating:** Pending live test.
 
 **What to protect:**
 
-- Fresh lemon layering.
-- Cream cheese and sour cream moisture strategy.
-- Controlled batter lemon juice with extra lemon delivered by syrup and glaze.
+- Magnificently buttery identity.
+- Full 1/3 cup fresh lemon zest.
+- Lighter-than-pound-cake crumb.
+- Warm tart syrup and lemon cream cheese glaze.
+- Clear, self-contained directions with measurements repeated at the point of use.
 
-**What to adjust next time:**
+**What to evaluate:**
 
-- Pending first live test feedback from Amy and Don.
+- Whether 2 oz cream cheese provides silkiness without detectable density.
+- Whether the 1 tsp baking powder creates the desired lift in Amy's Bundt pan.
+- Exact bake time and syrup absorption in the selected pan.
 
 </details>
 
 <details>
 <summary>Kitchen Notes</summary>
 
-Watch Bundt pan release carefully. The cake contains syrup and cream cheese, so pan prep and cooling time matter.
-
-If the first test needs even more lemon, increase zest in the glaze and syrup before increasing acid in the batter.
+Do not make substitutions that reintroduce density during the first revised test. Specifically, do not add sour cream, oil, shortening, extra egg yolk, or heavy cream to the batter. Test the calibrated formula first, then evaluate from the finished crumb.
 
 </details>
 
@@ -366,5 +373,6 @@ If the first test needs even more lemon, increase zest in the glaze and syrup be
 | Date | Change |
 |---|---|
 | 2026-07-05 | Created standalone Flavorweaver source file for Lemon Cream Cheese Pound Cake. |
+| 2026-08-04 | Fully rebuilt the recipe around the intended Ina-style target: lighter than traditional pound cake, strongly buttery, exponentially lemony, and written entirely with standard kitchen measurements. Removed shortening, oil, sour cream, infused dairy, excess cream cheese, fifth egg, and extra yolk; added buttermilk, restrained cream cheese, calibrated lift, staged syrup directions, and complete execution cues. |
 
 </details>

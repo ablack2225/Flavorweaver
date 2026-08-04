@@ -129,17 +129,21 @@
     });
   }
 
-  if (!recipes.some((item) => item.path === 'recipes/american/lemon-cream-cheese-pound-cake.html')) {
-    recipes.push({
-      title: 'Lemon Cream Cheese Pound Cake',
-      path: 'recipes/american/lemon-cream-cheese-pound-cake.html',
-      collection: 'House Recipes',
-      culture: 'American Inspired',
-      category: 'Dessert',
-      status: 'Flavorweaver Test Recipe',
-      ingredients: ['all-purpose flour', 'cornstarch', 'lemons', 'lemon zest', 'fresh lemon juice', 'sugar', 'butter', 'cream cheese', 'shortening', 'neutral oil', 'eggs', 'sour cream', 'milk', 'heavy cream', 'vanilla', 'powdered sugar'],
-      tags: ['American-Inspired', 'american-inspired', 'lemon pound cake', 'cream cheese pound cake', 'Bundt cake', 'lemon dessert', 'sour cream cake', 'lemon syrup', 'cream cheese glaze', 'no lemon extract', 'AP flour shortcut', 'cornstarch cake flour shortcut', 'Amy and Don canon test']
-    });
+  const lemonCake = recipes.find((item) => item.path === 'recipes/american/lemon-cream-cheese-pound-cake.html');
+  const lemonCakeData = {
+    title: 'Lemon Cream Cheese Pound Cake',
+    path: 'recipes/american/lemon-cream-cheese-pound-cake.html',
+    collection: 'House Recipes',
+    culture: 'American Inspired',
+    category: 'Dessert',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['all-purpose flour', 'cornstarch', 'baking powder', 'baking soda', 'fine salt', 'lemons', 'lemon zest', 'fresh lemon juice', 'granulated sugar', 'powdered sugar', 'unsalted butter', 'cream cheese', 'eggs', 'buttermilk', 'vanilla', 'whole milk', 'heavy cream'],
+    tags: ['American-Inspired', 'american-inspired', 'lemon cake', 'lemon cream cheese cake', 'lemon Bundt cake', 'not-quite-pound-cake', 'buttery lemon cake', 'buttermilk cake', 'tender crumb cake', 'lemon syrup', 'cream cheese glaze', 'no lemon extract', 'Ina Garten inspired', 'luxury lemon cake', 'Amy and Don canon test']
+  };
+  if (lemonCake) {
+    Object.assign(lemonCake, lemonCakeData);
+  } else {
+    recipes.push(lemonCakeData);
   }
 
   if (!recipes.some((item) => item.path === 'recipes/american/smokehouse-pulled-pork-hawaiian-style-sliders.html')) {

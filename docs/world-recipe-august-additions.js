@@ -20,10 +20,10 @@
       path: 'recipes/korean/charred-korean-corn-cheese-croquettes.html',
       collection: 'House Recipes',
       culture: 'Korean Inspired',
-      category: 'Side Dish',
-      status: 'Flavorweaver Test Recipe',
+      category: 'Appetizer / Side Dish',
+      status: 'Hall of Fame',
       ingredients: ['frozen sweet corn', 'neutral oil', 'butter', 'heavy cream', 'water', 'all-purpose flour', 'mayonnaise', 'sugar', 'green onion', 'jalapeno', 'garlic', 'fine salt', 'black pepper', 'MSG', 'low-moisture mozzarella', 'cornstarch', 'egg', 'panko breadcrumbs', 'brisket tallow', 'honey', 'toasted sesame seeds', 'smoked paprika', 'optional cayenne'],
-      tags: ['Korean-Inspired', 'korean-inspired', 'Korean corn cheese', 'corn cheese croquettes', '8 croquette batch', 'generous side', 'frozen sweet corn', 'charred corn', 'corn cream panade', 'molten mozzarella center', 'panko crust', 'brisket tallow fried', 'deep fryer', 'exact knife cuts', 'chef level execution', 'brown honey butter', 'smoky sesame salt', 'fried side', 'Flavorweaver Test Recipe', 'html page']
+      tags: ['Hall of Fame', 'best appetizer', 'Korean-Inspired', 'korean-inspired', 'Korean corn cheese', 'corn cheese croquettes', '8 croquette batch', 'frozen sweet corn', '2 cups charred corn', '1 cup blended corn', 'corn cream panade', 'shredded mozzarella panade', 'molten mozzarella center', 'panko crust', 'brisket tallow fried', 'deep fryer', 'fully measured prep bowls', 'one pass instructions', 'brown honey butter', 'smoky sesame salt', 'fried appetizer', 'html page']
     });
   }
 

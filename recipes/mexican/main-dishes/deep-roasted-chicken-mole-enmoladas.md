@@ -12,7 +12,7 @@ servings: 3-4
 yield: 7 enmoladas plus extra mole for service
 measurement_status: fully measured
 
-rating_note: Designed as a first-test top-tier shortcut mole using Doña María concentrate, roasted produce, toasted guajillo, nuts, sesame, bittersweet chocolate, and a proper fry-and-simmer method
+rating_note: Designed as a first-test top-tier shortcut mole using Doña María concentrate, roasted produce, toasted guajillo, nuts, sesame, saltine crackers, bittersweet chocolate, and a proper fry-and-simmer method
 repeat_worthy:
 hall_of_fame_candidate: true
 hall_of_fame: false
@@ -33,6 +33,7 @@ tags:
   - guajillo chile
   - roasted tomato
   - toasted sesame
+  - saltine crackers
   - bittersweet chocolate
   - chicken thighs
   - homemade corn tortillas
@@ -55,7 +56,7 @@ last_updated: 2026-08-06
 
 # Deep-Roasted Chicken Mole Enmoladas
 
-> Tender shredded chicken thighs wrapped in oil-conditioned homemade corn tortillas and coated with a deeply roasted mole built from Doña María concentrate, guajillo, charred tomato, onion, garlic, toasted sesame and nuts, and a restrained amount of 60% bittersweet chocolate. These are assembled as true enmoladas near service—not baked into a casserole.
+> Tender shredded chicken thighs wrapped in oil-conditioned homemade corn tortillas and coated with a deeply roasted mole built from Doña María concentrate, guajillo, charred tomato, onion, garlic, toasted sesame, nuts, saltine crackers, and a restrained amount of 60% bittersweet chocolate. These are assembled as true enmoladas near service—not baked into a casserole.
 
 ## Recipe Dashboard
 
@@ -74,7 +75,7 @@ Follow these stages straight through. Every amount is repeated where it enters t
 | Stage | What Happens | Stop Point |
 |---:|---|---|
 | 1 | Gently simmer the chicken thighs with aromatics | Chicken reaches 180-190°F and shreds easily; broth is reserved |
-| 2 | Toast, soak, roast, and toast the mole flavor builders | Guajillo softened; produce charred; sesame, nuts, and bread fragrant |
+| 2 | Toast, soak, roast, and toast the mole flavor builders | Guajillo softened; produce charred; sesame, nuts, and crackers fragrant |
 | 3 | Blend, strain, and fry the roasted mole puree | Puree darkens, thickens, and loses its raw tomato aroma |
 | 4 | Add Doña María, broth, and chocolate; simmer slowly | Mole is glossy, integrated, pourable, and clings to a tortilla |
 | 5 | Coat the chicken and condition the tortillas | Chicken is moist; tortillas are hot and flexible |
@@ -85,7 +86,7 @@ Follow these stages straight through. Every amount is repeated where it enters t
 | Execution Point | Notes |
 |---|---|
 | Best cooked | Mole may be made ahead; assemble enmoladas immediately before serving |
-| Must be prepped before heat | Stem and seed guajillo; measure nuts, sesame, bread, spices, mole paste, broth, and chocolate |
+| Must be prepped before heat | Stem and seed guajillo; measure nuts, sesame, saltine crackers, spices, mole paste, broth, and chocolate |
 | Can hold warm? | Mole can hold over very low heat 30-45 minutes with stirring and broth corrections |
 | Should not be prepped early | Do not dip or fill tortillas until the table and garnishes are ready |
 | Critical timing | Add chocolate only after the mole has simmered and integrated; assemble while mole is hot and tortillas are pliable |
@@ -97,7 +98,7 @@ Follow these stages straight through. Every amount is repeated where it enters t
 | Component | Ingredients |
 |---|---|
 | Chicken and broth | Boneless skinless chicken thighs, water, onion, garlic, bay leaf, salt, pepper |
-| Roasted mole foundation | Guajillo, Roma tomato, onion, garlic, sesame seeds, peanuts or almonds, toasted bread, chipotle, cinnamon, clove |
+| Roasted mole foundation | Guajillo, Roma tomato, onion, garlic, sesame seeds, peanuts or almonds, toasted saltine crackers, chipotle, cinnamon, clove |
 | Mole finish | Doña María mole paste, reserved chicken broth, neutral oil, 60% bittersweet chocolate, optional honey or brown sugar, optional cider vinegar, salt |
 | Assembly | 7 homemade corn tortillas, neutral oil, mole-coated shredded chicken |
 | Fresh finish | Thin white onion, toasted sesame, crema or thinned sour cream, cilantro, optional lime alongside |
@@ -126,7 +127,7 @@ Follow these stages straight through. Every amount is repeated where it enters t
 | 2 cloves | garlic | Left in skins for roasting |
 | 1 Tbsp | sesame seeds | Plus additional sesame for garnish |
 | 2 Tbsp | roasted unsalted peanuts or almonds | Preferred; 1 Tbsp smooth peanut butter is the fallback |
-| 1/2 slice | firm bread | Toasted dark; or use 3 saltine crackers |
+| 3 | plain saltine crackers | Required in place of bread; toast lightly without burning |
 | 1/2 | chipotle pepper in adobo | Excess adobo wiped away |
 | 1/4 tsp | ground cinnamon |  |
 | Tiny pinch | ground cloves | No more than about 1/32 tsp |
@@ -176,6 +177,7 @@ Follow these stages straight through. Every amount is repeated where it enters t
 - **Chicken choice:** Boneless skinless thighs are preferred because they stay juicy after simmering, shredding, mole coating, and final warming.
 - **Chocolate choice:** Use 60% bittersweet chocolate, not milk chocolate, flavored chocolate, or unsweetened baking chocolate. The chocolate should round the chile, not make the mole taste like dessert.
 - **Nut choice:** Roasted unsalted peanuts are the most direct pantry choice; almonds produce a slightly cleaner, less peanut-forward sauce.
+- **Cracker choice:** Use exactly 3 plain saltine crackers. They replace bread completely, provide controlled body, and bring some salt, so final seasoning must happen only after the mole has simmered.
 - **Equipment:** Small saucepan for chicken, heavy saucepan or Dutch oven for mole, dry skillet or comal, blender, medium-mesh sieve, shallow skillet for tortillas, and tongs.
 - **Mole consistency:** Finished mole should be thicker than broth but looser than warm peanut butter. It must flow from a spoon and coat a tortilla without tearing it.
 - **Service:** These are assembled and served immediately. They are not baked after rolling.
@@ -201,13 +203,13 @@ These bowls are optional workflow support. They are fully measured so the entire
 - 2 skin-on garlic cloves
 - 1 Tbsp sesame seeds
 - 2 Tbsp roasted unsalted peanuts or almonds
-- 1/2 slice firm bread for dark toasting
+- 3 plain saltine crackers for light toasting
 
 ### Stage 3 — Blender Cup
 
 - 1 toasted and softened guajillo
 - All roasted tomato, onion, and peeled garlic
-- All toasted sesame, nuts, and bread
+- All toasted sesame, nuts, and saltine crackers
 - 1/2 chipotle in adobo
 - 1/4 tsp cinnamon
 - Tiny pinch ground cloves
@@ -250,9 +252,9 @@ These bowls are optional workflow support. They are fully measured so the entire
 
 4. **Roast the fresh base.** In the same dry skillet, roast **1 halved Roma tomato, 1/4 medium onion in thick wedges, and 2 skin-on garlic cloves** for **8-12 minutes**, turning as needed. Seek softened produce with deep blistered spots, not complete carbonization. Peel the garlic after roasting.
 
-5. **Toast the sesame, nuts, and bread separately.** Toast **1 Tbsp sesame seeds** until fragrant and pale golden; remove immediately. Toast **2 Tbsp roasted unsalted peanuts or almonds** for **1-2 minutes** to refresh their aroma. Toast **1/2 slice firm bread** until deeply browned around the edges without burning.
+5. **Toast the sesame, nuts, and saltine crackers separately.** Toast **1 Tbsp sesame seeds** until fragrant and pale golden; remove immediately. Toast **2 Tbsp roasted unsalted peanuts or almonds** for **1-2 minutes** to refresh their aroma. Lower the heat to medium-low and toast **3 plain saltine crackers** for about **30-45 seconds per side**, only until slightly deeper in color and nutty-smelling. Do not let them scorch.
 
-6. **Blend the roasted mole foundation.** Blend the softened guajillo, roasted tomato, roasted onion, peeled roasted garlic, toasted sesame, toasted nuts, toasted bread, **1/2 chipotle pepper, 1/4 tsp cinnamon, tiny pinch ground cloves, and 1 cup warm chicken broth** for **1-2 full minutes**, until extremely smooth. Press through a medium-mesh sieve for a refined texture.
+6. **Blend the roasted mole foundation.** Blend the softened guajillo, roasted tomato, roasted onion, peeled roasted garlic, toasted sesame, toasted nuts, all **3 toasted saltine crackers**, **1/2 chipotle pepper, 1/4 tsp cinnamon, tiny pinch ground cloves, and 1 cup warm chicken broth** for **1-2 full minutes**, until extremely smooth. Press through a medium-mesh sieve for a refined texture.
 
 7. **Fry and concentrate the puree.** Heat **1 Tbsp neutral oil** in a heavy saucepan over medium. Carefully add the strained puree. Cook, stirring and scraping frequently, for **8-10 minutes**, until it darkens, thickens toward tomato-paste consistency, smells deeply roasted, and no longer smells like raw tomato. Reduce heat if it begins sticking or scorching.
 
@@ -264,7 +266,7 @@ These bowls are optional workflow support. They are fully measured so the entire
 
 11. **Add the bittersweet chocolate late.** During the final **10-15 minutes**, whisk in **1/2 oz / 14 g Ghirardelli 60% bittersweet chocolate chips**, about **1 1/2 level Tbsp**. Stir until completely melted, then continue the gentle simmer so the chocolate disappears into the chile, sesame, nuts, and spices.
 
-12. **Balance in the correct order.** First add fine salt until the chile, nuts, and roasted aromatics become clear. Only then add **1 tsp brown sugar or honey** if the mole has a hard bitter edge. Simmer 2 minutes and retaste before adding a second teaspoon. If the mole is fully salted and rounded but still tastes heavy or flat, add up to **1/2 tsp cider vinegar**. The finished sauce should be savory, roasted, nutty, and gently bittersweet—not sweet or identifiably chocolatey.
+12. **Balance in the correct order.** First add fine salt until the chile, nuts, and roasted aromatics become clear. Remember that the saltines and Doña María already contribute sodium. Only then add **1 tsp brown sugar or honey** if the mole has a hard bitter edge. Simmer 2 minutes and retaste before adding a second teaspoon. If the mole is fully salted and rounded but still tastes heavy or flat, add up to **1/2 tsp cider vinegar**. The finished sauce should be savory, roasted, nutty, and gently bittersweet—not sweet or identifiably chocolatey.
 
 13. **Coat the chicken.** Combine **1 3/4 cups shredded chicken** with **1/2 cup finished mole**. Add **1-2 Tbsp reserved broth** only if needed. Taste and add a pinch of salt if the filling tastes muted. Keep warm and covered.
 
@@ -279,6 +281,7 @@ These bowls are optional workflow support. They are fully measured so the entire
 ## Do Not Forget
 
 - Burnt guajillo or sesame cannot be rescued; toast gently and remove as soon as fragrant.
+- Saltine crackers replace bread completely in this version. Use exactly 3 and toast them only lightly.
 - Fry the blended puree until darkened and concentrated before adding the jarred mole paste.
 - Add broth gradually. Thin mole can be reduced, but an over-diluted sauce takes too long to recover.
 - Add chocolate late and hold at **1/2 oz / 14 g** for the first taste. It should deepen the mole without becoming recognizable as chocolate.
@@ -287,7 +290,7 @@ These bowls are optional workflow support. They are fully measured so the entire
 
 ## Final Taste Target
 
-The mole should open with roasted guajillo and dark toasted aromatics, expand into sesame, nuts, chipotle, and warm spice, then finish with a smooth bittersweet depth that does not announce chocolate. The chicken should remain juicy and clearly seasoned inside the tortilla. Onion, sesame, crema, and cilantro should provide fresh, nutty, creamy, and herbal contrast without covering the mole.
+The mole should open with roasted guajillo and dark toasted aromatics, expand into sesame, nuts, chipotle, and warm spice, then finish with a smooth bittersweet depth that does not announce chocolate. The saltine crackers should disappear completely into the sauce, contributing body without a recognizable cracker flavor. The chicken should remain juicy and clearly seasoned inside the tortilla. Onion, sesame, crema, and cilantro should provide fresh, nutty, creamy, and herbal contrast without covering the mole.
 
 ## Troubleshooting / Rescue Notes
 
@@ -315,7 +318,7 @@ The mole should open with roasted guajillo and dark toasted aromatics, expand in
 
 ## Chef's Notes
 
-- This is a top-tier shortcut mole, not a claim of a from-scratch regional mole. The Doña María concentrate saves hours, while roasting, toasting, frying, broth building, chocolate restraint, and a long simmer create the depth expected from the Amy & Don Kitchen.
+- This is a top-tier shortcut mole, not a claim of a from-scratch regional mole. The Doña María concentrate saves hours, while roasting, toasting, frying, broth building, saltine-cracker body, chocolate restraint, and a long simmer create the depth expected from the Amy & Don Kitchen.
 - The 60% bittersweet chocolate is used as seasoning. More is not automatically better. The correct amount makes the chile and nuts seem deeper without making the sauce taste like chocolate.
 - Sharp cheddar, pepper jack, mozzarella, Velveeta Queso Blanco, Hot Rotel, and beef chorizo belong elsewhere in this service. Leaving them out protects the mole's identity.
 - Enmoladas are best treated as a near-service stovetop preparation. Baking would soften the tortillas excessively and flatten the carefully balanced mole.
@@ -365,7 +368,7 @@ This recipe stays in the Amy & Don lane: it respects the recognizable structure 
 - Stronger source patterns reviewed: Mexican enmoladas assembled by briefly frying or oil-conditioning tortillas, dipping them in hot mole, filling with shredded chicken, and serving immediately.
 - Shared traditional/common patterns: mole cooked with broth until glossy and pourable; chicken seasoned separately; onion, sesame, crema, or fresh cheese used as restrained finishes.
 - Chef/cookbook/restaurant direction: commercial mole paste performs best when fried and extended with a roasted chile-tomato-nut foundation rather than merely diluted with water.
-- Amy & Don house variation: 60% bittersweet chocolate for precise control, chicken-thigh broth as the sauce liquid, homemade corn tortillas, and a fully measured one-pass service workflow.
+- Amy & Don house variation: 60% bittersweet chocolate for precise control, chicken-thigh broth as the sauce liquid, 3 toasted saltine crackers for body, homemade corn tortillas, and a fully measured one-pass service workflow.
 
 </details>
 
@@ -393,6 +396,7 @@ The mole improves when made several hours ahead or one day ahead. Cool promptly,
 
 - Roasted and toasted depth around the Doña María foundation
 - Proper puree-frying stage
+- Three toasted saltine crackers for controlled body
 - Restrained 60% bittersweet chocolate
 - Juicy thigh meat
 - Immediate stovetop assembly rather than baking
@@ -401,7 +405,7 @@ The mole improves when made several hours ahead or one day ahead. Cool promptly,
 
 - Record the exact chicken yield from Amy's packaged thighs.
 - Confirm final broth volume and sauce yield after the full simmer.
-- Rate chocolate level, sweetness correction, chipotle heat, and garnish balance.
+- Rate cracker body, chocolate level, sweetness correction, chipotle heat, and garnish balance.
 - Confirm the ideal mole thickness for Amy's homemade tortilla diameter and texture.
 
 </details>
@@ -418,6 +422,7 @@ Designed for seven chicken enmoladas served alongside six red-chile three-cheese
 
 | Date | Change |
 |---|---|
+| 2026-08-06 | Locked 3 toasted saltine crackers as the required body; removed bread entirely. |
 | 2026-08-06 | Created fully measured top-tier shortcut mole and enmolada workflow. |
 
 </details>

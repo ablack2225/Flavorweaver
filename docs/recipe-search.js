@@ -58,6 +58,7 @@
     const topLevelFilters = [
       'House Recipes',
       'House Staple',
+      'Mexican Inspired',
       'Korean Inspired',
       'Vietnamese Inspired',
       'Chinese Inspired',
@@ -101,7 +102,7 @@
       ? `Showing ${items.length} result${items.length === 1 ? '' : 's'} for “${label}”.`
       : `Showing ${items.length} recipe pages.`;
     if (!items.length) {
-      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like chicken, Korean, Vietnamese, Chinese, Ethiopian, Indian, Middle Eastern, German, American, pie, cookies, sides, bread, condiment, or sauce.</div>';
+      resultsEl.innerHTML = '<div class="empty-state">No matches yet. Try a broader word like chicken, Mexican, enchiladas, mole, Korean, Vietnamese, Chinese, Ethiopian, Indian, Middle Eastern, German, American, pie, cookies, sides, bread, condiment, or sauce.</div>';
       return;
     }
     resultsEl.innerHTML = items.map((recipe) => {

@@ -39,4 +39,17 @@
       tags: ['Mexican-Inspired', 'mexican-inspired', 'chipotle guajillo brisket bowl', 'velveted brisket', 'velvet beef', 'baking soda tenderized beef', 'cornstarch velvet', 'shallow fried beef', 'cilantro lime rice', 'charred corn', 'bell pepper onion corn', 'blackened fresh plum salsa', 'fresh plum salsa', 'food processor salsa', 'skillet charred salsa', 'guajillo honey reduction', 'complete bowl', 'rice bowl', 'corn tortilla option', 'Flavorweaver Test Recipe', 'html page']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/mexican/red-chile-three-cheese-enchiladas.html')) {
+    recipes.push({
+      title: 'Red-Chile Three-Cheese Enchiladas',
+      path: 'recipes/mexican/red-chile-three-cheese-enchiladas.html',
+      collection: 'House Recipes',
+      culture: 'Mexican Inspired',
+      category: 'Main Dish / Side Dish',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['homemade corn tortillas', 'dried guajillo chile', 'red enchilada sauce', 'low-sodium chicken broth', 'low-sodium beef broth', 'garlic', 'neutral oil', 'butter', 'all-purpose flour', 'ground cumin', 'Mexican oregano', 'black pepper', 'sharp cheddar', 'pepper jack', 'low-moisture mozzarella', 'white onion', 'yellow onion', 'sweet onion', 'cilantro', 'jalapeno', 'sour cream', 'lime'],
+      tags: ['Mexican Inspired', 'mexican-inspired', 'cheese enchiladas', 'red chile enchiladas', 'three cheese enchiladas', 'sharp cheddar', 'pepper jack', 'mozzarella', 'guajillo gravy', 'elevated canned enchilada sauce', 'homemade corn tortillas', 'Tex-Mex inspired', 'fully measured prep bowls', 'one pass instructions', '6 enchilada batch', 'Flavorweaver Test Recipe', 'html page']
+    });
+  }
 })();

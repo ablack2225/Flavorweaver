@@ -52,4 +52,17 @@
       tags: ['Mexican Inspired', 'mexican-inspired', 'cheese enchiladas', 'red chile enchiladas', 'three cheese enchiladas', 'sharp cheddar', 'pepper jack', 'mozzarella', 'guajillo gravy', 'elevated canned enchilada sauce', 'homemade corn tortillas', 'Tex-Mex inspired', 'fully measured prep bowls', 'one pass instructions', '6 enchilada batch', 'Flavorweaver Test Recipe', 'html page']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/mexican/deep-roasted-chicken-mole-enmoladas.html')) {
+    recipes.push({
+      title: 'Deep-Roasted Chicken Mole Enmoladas',
+      path: 'recipes/mexican/deep-roasted-chicken-mole-enmoladas.html',
+      collection: 'House Recipes',
+      culture: 'Mexican Inspired',
+      category: 'Main Dish',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['boneless skinless chicken thighs', 'water', 'white onion', 'yellow onion', 'garlic', 'bay leaf', 'black peppercorns', 'dried guajillo chile', 'Roma tomato', 'sesame seeds', 'roasted peanuts', 'almonds', 'firm bread', 'saltine crackers', 'chipotle in adobo', 'ground cinnamon', 'ground cloves', 'Doña María mole paste', 'chicken broth', 'Ghirardelli 60% bittersweet chocolate chips', 'brown sugar', 'honey', 'apple cider vinegar', 'homemade corn tortillas', 'neutral oil', 'crema', 'sour cream', 'cilantro', 'lime'],
+      tags: ['Mexican Inspired', 'mexican-inspired', 'chicken mole enchiladas', 'chicken enmoladas', 'deep roasted mole', 'Doña María mole', 'elevated jarred mole', 'guajillo chile', 'roasted tomato', 'toasted sesame', 'toasted nuts', '60 percent bittersweet chocolate', 'chicken thighs', 'homemade corn tortillas', 'stovetop enchiladas', 'no bake enmoladas', 'fully measured prep bowls', 'one pass instructions', '7 enmolada batch', 'Flavorweaver Test Recipe', 'html page']
+    });
+  }
 })();

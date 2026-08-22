@@ -65,4 +65,17 @@
       tags: ['Mexican Inspired', 'mexican-inspired', 'chicken mole enchiladas', 'chicken enmoladas', 'deep roasted mole', 'Doña María mole', 'elevated jarred mole', 'guajillo chile', 'roasted tomato', 'toasted sesame', 'toasted nuts', '3 saltine crackers', 'saltine cracker thickener', '60 percent bittersweet chocolate', 'chicken thighs', 'homemade corn tortillas', 'stovetop enchiladas', 'no bake enmoladas', 'fully measured prep bowls', 'one pass instructions', '7 enmolada batch', 'Flavorweaver Test Recipe', 'html page']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/chinese/velvet-hunan-pork-with-egg-scallion-fried-rice.html')) {
+    recipes.push({
+      title: 'Velvet Hunan Pork with Egg-Scallion Fried Rice',
+      path: 'recipes/chinese/velvet-hunan-pork-with-egg-scallion-fried-rice.html',
+      collection: 'House Recipes',
+      culture: 'Chinese · Hunan Inspired',
+      category: 'Featured Meal',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['pork butt', 'pork shoulder', 'basmati rice', 'chicken broth', 'eggs', 'green jalapenos', 'red jalapenos', 'Thai chile', 'garlic', 'ginger', 'chili crisp', 'chili garlic sauce', 'soy sauce', 'dark soy sauce', 'oyster sauce', 'rice vinegar', 'MSG', 'baking soda', 'cornstarch', 'green onions', 'sesame oil'],
+      tags: ['Chinese-Inspired', 'Hunan-inspired', 'Hunan pork', 'xiao chao rou', 'velveted pork', 'pork butt', 'blistered peppers', 'jalapeno', 'Thai chile', 'chili crisp', 'fried rice', 'egg scallion fried rice', 'chicken broth rice', 'electric skillet', 'featured meal', 'Flavorweaver Test Recipe', 'html page']
+    });
+  }
 })();

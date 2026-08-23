@@ -78,4 +78,17 @@
       tags: ['Chinese-Inspired', 'Hunan-inspired', 'Hunan pork', 'xiao chao rou', 'velveted pork', 'pork butt', 'blistered peppers', 'jalapeno', 'Thai chile', 'chili crisp', 'fried rice', 'egg scallion fried rice', 'chicken broth rice', 'electric skillet', 'featured meal', 'Flavorweaver Test Recipe', 'html page']
     });
   }
+
+  if (!recipes.some((item) => item.path === 'recipes/japanese/scratch-japanese-chicken-katsu-curry.html')) {
+    recipes.push({
+      title: 'Scratch Japanese Chicken Katsu Curry',
+      path: 'recipes/japanese/scratch-japanese-chicken-katsu-curry.html',
+      collection: 'House Recipes',
+      culture: 'Japanese Inspired',
+      category: 'Featured Meal',
+      status: 'Flavorweaver Test Recipe',
+      ingredients: ['chicken breast', 'panko breadcrumbs', 'Japanese curry', 'homemade curry roux', 'onion', 'carrot', 'unsweetened applesauce', 'garlic', 'ginger', 'tomato paste', 'chicken broth', 'soy sauce', 'Worcestershire sauce', 'oyster sauce', 'rice vinegar', 'honey', 'brown sugar', 'chili garlic sauce', 'mustard powder', 'MSG', 'butter', 'flour', 'coriander', 'cumin', 'turmeric', 'fenugreek', 'cayenne', 'dark chocolate', 'rice', 'cabbage'],
+      tags: ['Japanese-Inspired', 'Japanese chicken katsu curry', 'chicken katsu', 'scratch Japanese curry', 'homemade curry roux', 'spicy apple tonkatsu sauce', 'panko chicken', 'brined chicken breast', 'caramelized onion curry', 'applesauce curry', 'complete plate', 'featured meal', 'fully measured prep bowls', 'one pass instructions', 'Flavorweaver Test Recipe', 'html page']
+    });
+  }
 })();

@@ -60,6 +60,7 @@
       'House Staple',
       'Mexican Inspired',
       'Korean Inspired',
+      'Japanese Inspired',
       'Vietnamese Inspired',
       'Chinese Inspired',
       'Thai Inspired',

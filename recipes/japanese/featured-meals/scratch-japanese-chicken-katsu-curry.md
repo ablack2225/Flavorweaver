@@ -39,14 +39,14 @@ tags:
 pairs_well_with:
   - miso soup
   - Japanese pickles
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
 <!-- recipe-card:start -->
 
 # Scratch Japanese Chicken Katsu Curry
 
-> Shatter-crisp panko chicken over plain rice with a silky dark Japanese curry built from deeply browned onion, unsweetened applesauce, ginger, garlic, tomato, house curry spices, and scratch butter-flour roux; served with ice-crisp cabbage and a concentrated spicy apple-tonkatsu sauce made from fruit, vegetables, tomato, Worcestershire, soy, vinegar, chile, and umami. The curry is rich and savory without becoming muddy, the tonkatsu sauce is a sharp accent rather than a blanket, and the cutlet stays audibly crisp.
+> Shatter-crisp panko chicken over plain rice with a silky dark Japanese curry built from deeply browned onion, unsweetened applesauce, ginger, garlic, tomato, house curry spices, and scratch butter-flour roux; served with ice-crisp sesame-vinegar cabbage and a concentrated spicy apple-tonkatsu sauce made from fruit, vegetables, tomato, Worcestershire, soy, vinegar, chile, and umami. The curry is rich and savory without becoming muddy, the tonkatsu sauce is a sharp accent rather than a blanket, and the cutlet stays audibly crisp.
 
 ## Kitchen Execution Summary
 
@@ -54,13 +54,13 @@ last_updated: 2026-08-23
 |---|---|
 | Meal Role | Complete Japanese-inspired katsu curry plate |
 | Main Dish | One large chicken breast, filleted and pounded to an even 1/4 inch, overnight-brined for moisture, then flour-egg-panko breaded and fried at 345-350°F |
-| Curry | Deeply caramelized onion, carrot, unsweetened applesauce, garlic, ginger, tomato paste, chicken broth, soy, Worcestershire, honey, MSG, scratch curry-spice roux, dark chocolate, and rice-vinegar finish |
+| Curry | Deeply caramelized onion, carrot, unsweetened applesauce, garlic, ginger, tomato paste, chicken broth, soy, Worcestershire, honey, MSG, scratch curry-spice roux, dark chocolate, rice-vinegar finish, then curry powder and garam masala to taste if the finished curry needs more house-level spice depth |
 | Sauce / Condiment | Scratch spicy apple-tonkatsu sauce simmered from onion, carrot, applesauce, tomato paste, Worcestershire, soy, oyster sauce, rice vinegar, brown sugar, mustard, chile, and MSG |
 | Starch / Base | Plain rice; Japanese short-grain preferred, basmati acceptable for the house test |
-| Fresh Side | Very finely shredded cabbage shocked in ice water and dried thoroughly |
-| Critical Balance | Crisp cutlet + silky savory-sweet curry + sharp spicy-fruity tonkatsu accent + plain rice + cold cabbage |
-| Main Risk | Rushing onion browning, making the curry too sweet, sogging the katsu with sauce, overheating the roux spices, or frying thin breast too long |
-| Success Cue | Curry falls from the spoon in a slow glossy ribbon; katsu audibly crackles when cut; chicken remains juicy; tonkatsu sauce tastes tangy-fruity-hot rather than ketchup-like |
+| Fresh Side | Very finely shredded cabbage shocked in ice water, dried thoroughly, then lightly dressed with rice vinegar, soy, toasted sesame oil, honey, MSG, and toasted sesame seeds |
+| Critical Balance | Crisp cutlet + silky savory-sweet curry + sharp spicy-fruity tonkatsu accent + plain rice + cold sesame-vinegar cabbage |
+| Main Risk | Rushing onion browning, making the curry too sweet, leaving the final curry too mild, sogging the katsu with sauce, overdressing the cabbage, overheating the roux spices, or frying thin breast too long |
+| Success Cue | Curry falls from the spoon in a slow glossy ribbon with clear warm-spice depth; katsu audibly crackles when cut; chicken remains juicy; tonkatsu sauce tastes tangy-fruity-hot rather than ketchup-like; cabbage stays cold and crisp but no longer tastes plain |
 
 ## Before Cooking Day / Advance Prep
 
@@ -68,16 +68,17 @@ last_updated: 2026-08-23
 - **30-60 minutes before breading.** Remove chicken from brine, do not rinse, pat very dry, place uncovered on a rack or plate in the refrigerator, and keep cold until breading.
 - **Curry may be made 1 day ahead.** Reheat gently with a splash of water or broth if needed. The katsu must be fried fresh.
 - **Tonkatsu sauce may be made ahead.** Chill after cooling; bring to cool room temperature before serving so it does not chill the crust.
+- **Cabbage may be sliced and ice-crisped ahead, but do not dress it early.** Dry thoroughly and refrigerate; toss with the sesame-vinegar dressing immediately before plating.
 
 ## Service Countdown
 
-- **Day before / morning of** — brine the flattened chicken 8-12 hours; confirm panko, rice, cabbage, applesauce, curry spices, broth, tomato paste, soy, Worcestershire, oyster sauce, rice vinegar, chile sauce, butter, flour, eggs, and frying oil.
+- **Day before / morning of** — brine the flattened chicken 8-12 hours; confirm panko, rice, cabbage, applesauce, curry spices, curry powder, garam masala, broth, tomato paste, soy, Worcestershire, oyster sauce, rice vinegar, toasted sesame oil, sesame seeds, chile sauce, butter, flour, eggs, and frying oil.
 - **75 minutes before serving** — remove chicken from brine and dry; begin caramelizing onions for curry.
 - **55 minutes before serving** — start rice; build curry base while onions finish.
 - **40 minutes before serving** — make scratch roux; blend/strain curry; start spicy apple-tonkatsu sauce.
-- **20 minutes before serving** — shred and ice-crisp cabbage; stage flour, egg, panko, fryer, rack, thermometer, and slicing knife.
+- **20 minutes before serving** — shred and ice-crisp cabbage; measure the cabbage dressing; stage flour, egg, panko, fryer, rack, thermometer, and slicing knife.
 - **10 minutes before serving** — bread chicken and bring frying oil to 345-350°F.
-- **At service** — fry katsu, rest 3 minutes on a rack, slice, plate rice and curry first, then place katsu so most crust remains above the curry; serve tonkatsu sauce as a narrow accent or on the side.
+- **At service** — finish-season curry to taste, toss cabbage lightly with its dressing, fry katsu, rest 3 minutes on a rack, slice, plate rice and curry first, then place katsu so most crust remains above the curry; serve tonkatsu sauce as a narrow accent or on the side.
 
 ## Full Plate Ingredient Roll-Up
 
@@ -122,6 +123,8 @@ last_updated: 2026-08-23
 - Nutmeg
 - 60% dark chocolate
 - Rice vinegar
+- Curry powder, to taste at finish
+- Garam masala, to taste at finish
 
 ### Spicy Apple-Tonkatsu Sauce
 
@@ -139,11 +142,17 @@ last_updated: 2026-08-23
 - MSG
 - Water
 
-### Rice, Cabbage & Plate Finish
+### Rice, Sesame-Vinegar Cabbage & Plate Finish
 
 - Japanese short-grain rice preferred; basmati acceptable
 - Green cabbage
 - Ice water
+- Rice vinegar
+- Regular/light soy sauce
+- Toasted sesame oil
+- Honey or sugar
+- MSG
+- Toasted sesame seeds
 - Extra spicy apple-tonkatsu sauce at table
 
 ## Measured Ingredients by Component
@@ -196,6 +205,8 @@ last_updated: 2026-08-23
 - **1 tiny pinch nutmeg**
 - **1 tsp finely chopped 60% dark chocolate or chocolate chips**
 - **1 tsp rice vinegar**
+- **Curry powder, to taste at the final seasoning stage**
+- **Garam masala, to taste at the final seasoning stage**
 
 </details>
 
@@ -233,11 +244,17 @@ last_updated: 2026-08-23
 </details>
 
 <details open>
-<summary>Rice & Cabbage</summary>
+<summary>Rice & Sesame-Vinegar Cabbage</summary>
 
 - **1 cup Japanese short-grain rice**, rinsed until water runs mostly clear; cook to rice-cooker directions. If using basmati, use **1 cup basmati + 1 1/2 cups water**.
 - **2 packed cups green cabbage**, sliced as close to **1/16 inch / hair-thin** as possible
 - **Ice water** to cover cabbage for 10 minutes
+- **1 1/2 tsp rice vinegar**
+- **1 tsp regular/light soy sauce**
+- **3/4 tsp toasted sesame oil**
+- **1/2 tsp honey or sugar**
+- **Small pinch MSG**
+- **1 tsp toasted sesame seeds**
 
 </details>
 
@@ -248,8 +265,9 @@ last_updated: 2026-08-23
 | Unsweetened applesauce | Yes, then divide | 1/4 cup curry; 3 Tbsp tonkatsu sauce | Measure into separate bowls before heat. |
 | Tomato paste | Yes, then divide | 1 Tbsp curry; 1 Tbsp tonkatsu sauce | Each portion is cooked until brick-red and no longer raw-smelling. |
 | Worcestershire | Yes, then divide | 2 tsp curry; 1 1/2 Tbsp tonkatsu sauce | Curry use is background depth; sauce use is a major tangy backbone. |
-| Soy sauce | Yes, then divide | 1 Tbsp curry; 2 tsp tonkatsu sauce | Keep portions separate. |
-| Rice vinegar | Yes, then divide | 1 tsp curry finish; 1 Tbsp tonkatsu sauce | Curry vinegar is added only at the end. |
+| Soy sauce | Yes, then divide | 1 Tbsp curry; 2 tsp tonkatsu sauce; 1 tsp cabbage dressing | Keep portions separate. |
+| Rice vinegar | Yes, then divide | 1 tsp curry finish; 1 Tbsp tonkatsu sauce; 1 1/2 tsp cabbage dressing | Curry vinegar is added only at the end; cabbage dressing goes on only at service. |
+| MSG | Yes, then divide | 1/2 tsp curry; 1/4 tsp brine; pinch tonkatsu sauce; pinch cabbage dressing | Keep cabbage seasoning light. |
 | Carrot | Yes, then divide | 1/2 cup 1/4-inch dice for curry; 2 Tbsp finely grated for tonkatsu sauce | Different cuts are intentional. |
 | Onion | No | 1 large onion sliced pole-to-pole for curry; 2 Tbsp 1/8-inch dice for tonkatsu sauce | The curry onion needs long browning; sauce onion cooks quickly. |
 | Butter | Yes, then divide | 1 Tbsp curry onion stage; 2 Tbsp roux | Do not combine before the stages. |
@@ -266,7 +284,7 @@ last_updated: 2026-08-23
 | C3 — Fruit-Tomato Bridge | **1 Tbsp tomato paste + 1/4 cup unsweetened applesauce** | After aromatics |
 | C4 — Curry Liquid | **2 cups chicken broth + 1 Tbsp soy + 2 tsp Worcestershire + 1 tsp honey + 1/2 tsp MSG** | Deglaze and simmer |
 | C5 — Roux Spice Flour | **2 Tbsp flour + 1 1/2 tsp coriander + 3/4 tsp cumin + 3/4 tsp turmeric + 1/4 tsp fenugreek + 1/4 tsp paprika + 1/4 tsp black pepper + 1/4 tsp cayenne + 1/8 tsp cinnamon + pinch cardamom + tiny pinch clove + tiny pinch nutmeg** | Whisk into **2 Tbsp melted butter** after flour starts cooking |
-| C6 — Curry Finish | **1 tsp chopped 60% dark chocolate + 1 tsp rice vinegar** | Chocolate during final simmer; vinegar after heat is lowered |
+| C6 — Curry Finish | **1 tsp chopped 60% dark chocolate + 1 tsp rice vinegar**; keep **curry powder + garam masala** beside the stove for final seasoning to taste | Chocolate during final simmer; vinegar at the end; optional finishing spices only after tasting the completed curry |
 
 ### Spicy Apple-Tonkatsu Sauce Bowls
 
@@ -291,7 +309,8 @@ last_updated: 2026-08-23
 | Bowl | Contents | When Used |
 |---|---|---|
 | R1 — Rice | **1 cup rinsed Japanese short-grain rice**; or **1 cup basmati + 1 1/2 cups water** | Start while curry base simmers |
-| R2 — Cabbage | **2 packed cups hair-thin cabbage** | Ice-water shock 10 minutes, then dry thoroughly |
+| R2 — Cabbage | **2 packed cups hair-thin cabbage** | Ice-water shock 10 minutes, then dry thoroughly and keep cold |
+| R3 — Sesame-Vinegar Dressing | **1 1/2 tsp rice vinegar + 1 tsp soy + 3/4 tsp toasted sesame oil + 1/2 tsp honey or sugar + small pinch MSG + 1 tsp toasted sesame seeds** | Toss lightly with the cold dry cabbage immediately before plating |
 
 ## Do Not Forget
 
@@ -301,6 +320,8 @@ last_updated: 2026-08-23
 - The curry spice blend goes into a cooked butter-flour roux only briefly; **30-45 seconds after spices enter is enough** before tempering with hot curry liquid.
 - Blend and strain the curry if possible. The target is restaurant-silky, not chunky stew.
 - Keep the curry at a low simmer after roux enters and stir frequently; thick roux sauces scorch easily.
+- After chocolate and vinegar are in, **taste before calling the curry finished**. If the scratch blend still reads too mild, add curry powder and garam masala to taste in small additions; simmer **30-60 seconds** after each addition before tasting again.
+- Keep the cabbage cold and dry until service; dress it lightly only at the last moment so it stays crisp rather than turning into slaw.
 - The tonkatsu sauce is an accent. Do not dump it into the curry and do not soak the panko crust with it.
 - Keep chicken cold until breading; bread only shortly before frying.
 - Flour must be thin and even, egg must fully cover the flour, and panko should be pressed on gently without crushing the flakes.
@@ -324,11 +345,11 @@ last_updated: 2026-08-23
 
 7. **Make the scratch curry roux.** In a separate small saucepan melt **2 Tbsp butter** over medium-low heat. Whisk in **2 Tbsp flour** and cook **4-6 minutes**, stirring constantly, until nutty and light peanut-butter colored. Whisk in Bowl C5: **1 1/2 tsp coriander, 3/4 tsp cumin, 3/4 tsp turmeric, 1/4 tsp fenugreek, 1/4 tsp sweet paprika, 1/4 tsp black pepper, 1/4 tsp cayenne, 1/8 tsp cinnamon, a pinch of cardamom, a tiny pinch of clove, and a tiny pinch of nutmeg**. Cook only **30-45 seconds** until highly fragrant.
 
-8. **Temper the roux into the curry.** Ladle about **1/2 cup hot blended curry base** into the roux a little at a time while whisking until completely smooth. Whisk the tempered roux back into the main curry. Simmer over low heat **8-10 minutes**, stirring frequently. Add **1 tsp finely chopped 60% dark chocolate** during the last 2 minutes. The sauce should become glossy and thick enough to coat a spoon while still flowing in a slow ribbon. If too thick, loosen with **1 Tbsp broth or water at a time**. Stir in **1 tsp rice vinegar** at the end. Taste for salt, heat, sweetness, and brightness; keep warm on the lowest heat.
+8. **Temper the roux into the curry and finish to taste.** Ladle about **1/2 cup hot blended curry base** into the roux a little at a time while whisking until completely smooth. Whisk the tempered roux back into the main curry. Simmer over low heat **8-10 minutes**, stirring frequently. Add **1 tsp finely chopped 60% dark chocolate** during the last 2 minutes. The sauce should become glossy and thick enough to coat a spoon while still flowing in a slow ribbon. If too thick, loosen with **1 Tbsp broth or water at a time**. Stir in **1 tsp rice vinegar** at the end. Taste the completed curry. If it still tastes too mild for the desired spice level, add **curry powder and garam masala to taste in small additions**, simmering **30-60 seconds after each addition** before tasting again. Stop when the warm-spice depth is vivid but still integrated with the browned-onion, apple, umami, and chocolate base. Taste once more for salt, heat, sweetness, and brightness; keep warm on the lowest heat.
 
 9. **Make the spicy apple-tonkatsu sauce.** In a small saucepan heat **1 tsp neutral oil** over medium-low. Add Bowl T1: **2 Tbsp 1/8-inch diced onion, 2 Tbsp finely grated carrot, and 3 Tbsp unsweetened applesauce**. Cook **3 minutes** until softened and concentrated. Add Bowl T2: **1 Tbsp tomato paste** and cook **1-2 minutes** until brick-red. Add Bowl T3: **3 Tbsp water, 1 1/2 Tbsp Worcestershire, 2 tsp soy, 1 tsp oyster sauce, 1 Tbsp rice vinegar, 2 tsp dark brown sugar, 1 tsp chili garlic sauce, 1/4 tsp mustard powder, and a small pinch MSG**. Simmer **7-10 minutes**, stirring often, until dark mahogany and glossy. Blend until smooth. Strain if desired. The finished sauce should be tangy, fruity, spicy, and savory; if too thick, loosen with **1 tsp water at a time**. Hold warm or cool room temperature, not hot.
 
-10. **Ice-crisp the cabbage.** Slice **2 packed cups green cabbage as close to 1/16 inch / hair-thin as possible**. Submerge in ice water **10 minutes**, then drain and dry thoroughly. Keep cold. Do not season it heavily; its job is cold crunch against the fried chicken and curry.
+10. **Ice-crisp and lightly dress the cabbage.** Slice **2 packed cups green cabbage as close to 1/16 inch / hair-thin as possible**. Submerge in ice water **10 minutes**, then drain and dry thoroughly. Keep cold until service. In Bowl R3 combine **1 1/2 tsp rice vinegar, 1 tsp soy sauce, 3/4 tsp toasted sesame oil, 1/2 tsp honey or sugar, a small pinch MSG, and 1 tsp toasted sesame seeds**. Immediately before plating, toss the cold cabbage lightly with the dressing. It should stay feathery and crisp, with just enough sesame-vinegar flavor to earn its place beside the richer curry and fried chicken.
 
 11. **Stage the breading line.** Set Bowl K2 with **1/2 cup flour + 1/4 tsp black pepper**, Bowl K3 with **1 egg + 1 Tbsp cold water beaten smooth**, and Bowl K4 with **1 1/4 cups panko**. Remove the cold dried chicken. If the large breast is awkward as one piece, divide it into **2 equal cutlets**. Do not salt it again.
 
@@ -338,18 +359,20 @@ last_updated: 2026-08-23
 
 14. **Slice without destroying the crust.** Use a very sharp knife and decisive downward cuts to slice the rested katsu crosswise into **3/4-inch strips**. Do not saw back and forth through the panko.
 
-15. **Plate in the right order.** Spoon warm plain rice onto one side of each plate. Pour the silky curry beside the rice and allow only a little to lap onto it. Add a compact pile of cold dry shredded cabbage. Lay sliced katsu so one edge may touch the curry but most of the upper crust remains exposed. Add the spicy apple-tonkatsu sauce as a **thin stripe across only part of the cutlet or in a small ramekin for dipping**. Serve immediately.
+15. **Plate in the right order.** Spoon warm plain rice onto one side of each plate. Pour the silky curry beside the rice and allow only a little to lap onto it. Add a compact pile of the cold lightly dressed sesame-vinegar cabbage. Lay sliced katsu so one edge may touch the curry but most of the upper crust remains exposed. Add the spicy apple-tonkatsu sauce as a **thin stripe across only part of the cutlet or in a small ramekin for dipping**. Serve immediately.
 
 ## Final Taste Target
 
-The first bite should announce **crisp chicken + dark savory Japanese curry**, not sweetness. The curry should carry deeply browned onion, warm curry spices, garlic, ginger, tomato, restrained apple, soy-Worcestershire umami, and a tiny roasted chocolate bass note, with rice vinegar lifting the finish. The chicken should remain moist and tender beneath a dry, shattering panko shell. The spicy apple-tonkatsu sauce should be noticeably sharper than the curry: fruit, tomato, vinegar, Worcestershire, mustard, chile, and umami in a glossy concentrated hit. Plain rice and cold cabbage give the palate somewhere to reset. Nothing should taste boxed, ketchup-heavy, greasy, or muted.
+The first bite should announce **crisp chicken + dark savory Japanese curry**, not sweetness. The curry should carry deeply browned onion, warm curry spices, garlic, ginger, tomato, restrained apple, soy-Worcestershire umami, and a tiny roasted chocolate bass note, with rice vinegar lifting the finish and enough final curry-powder/garam-masala seasoning to avoid a muted finish. The chicken should remain moist and tender beneath a dry, shattering panko shell. The spicy apple-tonkatsu sauce should be noticeably sharper than the curry: fruit, tomato, vinegar, Worcestershire, mustard, chile, and umami in a glossy concentrated hit. Plain rice gives the curry room to lead, while the cold sesame-vinegar cabbage provides crisp, lightly savory-acidic relief instead of a flavorless reset. Nothing should taste boxed, ketchup-heavy, greasy, or muted.
 
 ## Chef's Notes
 
 - **The onions earn the curry.** If they are pale, the sauce will taste like spices suspended in broth rather than a mature curry. Do not rush that stage.
 - **Applesauce is ideal here when unsweetened.** It integrates faster than grated apple; cooking it with tomato paste keeps the curry from reading like fruit sauce.
 - **The roux is a separate flavor stage.** Flour must taste nutty before spices enter; spices then bloom briefly before hot curry liquid tempers the roux.
-- **Do not confuse intensity with sugar.** If the curry tastes flat, first consider salt, MSG, spice bloom, onion browning, Worcestershire, or vinegar before adding more honey.
+- **Finish seasoning is intentionally flexible.** The first live test proved the scratch base can still read too restrained for the house palate; curry powder and garam masala now stay available for small final additions to taste rather than being hard-locked to a single amount.
+- **Do not confuse intensity with sugar.** If the curry tastes flat, first consider salt, MSG, spice bloom, finishing spice, onion browning, Worcestershire, or vinegar before adding more honey.
+- **The cabbage must earn the plate space.** Preserve the traditional cold hair-thin crunch, but the light sesame-vinegar dressing keeps it from reading as plain raw cabbage.
 - **Keep sauce off most of the crust.** The plate should provide both curry-soaked bites and untouched crunchy bites.
 - **Breast succeeds here because the geometry is controlled.** Even 1/4-inch thickness plus overnight brine lets the crust brown quickly without waiting on a thick center.
 
@@ -368,10 +391,11 @@ Shared patterns:
 - Japanese curry is generally thicker, sweeter, and milder than Indian or Thai curry, but the Flavorweaver version must still retain clear spice identity and enough heat for Amy and Don.
 - Katsu depends on thin even meat, flour-egg-panko breading, and carefully controlled frying temperature.
 - Tonkatsu sauce belongs to the thick Japanese Worcestershire family and high-end versions are built from cooked fruit, vegetables, tomato, vinegar, soy/Worcestershire, and spices rather than merely bottled ketchup.
+- Hair-thin cold cabbage is a traditional tonkatsu counterpoint; the first Flavorweaver test confirmed its texture worked but its plain flavor did not meet the house standard, so the retained cold-crisp function is now paired with a restrained sesame-vinegar dressing.
 
 ### Flavorweaver Direction
 
-This plate preserves Japanese katsu-curry structure while pushing the flavor ceiling through long onion browning, scratch roux, a deliberately bolder spice blend, unsweetened applesauce instead of bottled curry sweetness, concentrated umami, and a separate spicy fruit-vegetable tonkatsu sauce. The tonkatsu sauce is intentionally an accent so curry and panko remain distinct.
+This plate preserves Japanese katsu-curry structure while pushing the flavor ceiling through long onion browning, scratch roux, a deliberately bolder spice blend with final curry-powder and garam-masala adjustment to taste, unsweetened applesauce instead of bottled curry sweetness, concentrated umami, a separate spicy fruit-vegetable tonkatsu sauce, and cold hair-thin cabbage finished with a very light sesame-vinegar dressing. The tonkatsu sauce is intentionally an accent so curry and panko remain distinct.
 
 ### Pantry / House Decisions
 
@@ -380,50 +404,61 @@ This plate preserves Japanese katsu-curry structure while pushing the flavor cei
 - **Unsweetened applesauce replaces fresh grated apple.** It is cooked down in both curry and tonkatsu sauce so the plate stays savory-first.
 - **Chicken breast is intentional.** The breast was filleted and pounded evenly before recipe development; overnight neutral brine protects moisture.
 - **Plain rice is intentional.** Do not season it with broth because the curry and tonkatsu sauce already carry the plate's saturated flavor.
+- **Plain cabbage is not retained.** The cold hair-thin texture stays, but a light sesame-vinegar dressing gives it enough flavor to function as a real component rather than decoration.
 
 ### Flavorweaver Full-Arc Check
 
 | Flavor Role | Where It Comes From |
 |---|---|
-| Sour / Tangy | rice vinegar; Worcestershire; tonkatsu sauce |
-| Sweet | deeply browned onion; unsweetened applesauce; honey; brown sugar |
-| Salty | soy; oyster sauce; brine; Worcestershire |
-| Savory | caramelized onion; chicken; tomato paste; butter; broth; garlic; ginger |
-| Spicy | cayenne; curry spices; chili garlic sauce; mustard |
+| Sour / Tangy | rice vinegar; Worcestershire; tonkatsu sauce; sesame-vinegar cabbage |
+| Sweet | deeply browned onion; unsweetened applesauce; honey; brown sugar; tiny cabbage-dressing sweetness |
+| Salty | soy; oyster sauce; brine; Worcestershire; cabbage dressing |
+| Savory | caramelized onion; chicken; tomato paste; butter; broth; garlic; ginger; toasted sesame |
+| Spicy | cayenne; curry spices; curry powder/garam masala to taste; chili garlic sauce; mustard |
 | Umami | MSG; soy; oyster sauce; Worcestershire; chicken broth; dark chocolate background bitterness/depth |
-| Texture | shatter-crisp panko; tender chicken; silky curry; fluffy rice; ice-crisp cabbage |
+| Texture | shatter-crisp panko; tender chicken; silky curry; fluffy rice; ice-crisp lightly dressed cabbage |
 
 <details>
 <summary>Testing Notes</summary>
 
 ## First Test
 
-**Date:** Pending
+**Date:** 2026-08-24
 
-**Score / rating:** Pending
+**Score / rating:** Very good; successful first test, not yet locked
 
 **Live variables already established before cooking:**
 
 - Chicken breast was filleted and pounded thin/even before brining.
-- Unsweetened applesauce will replace fresh apple.
-- Everything defining the dish is made in-house: curry roux, curry sauce, spicy tonkatsu sauce, and katsu breading/cook.
+- Unsweetened applesauce replaced fresh apple.
+- Everything defining the dish was made in-house: curry roux, curry sauce, spicy tonkatsu sauce, and katsu breading/cook.
 
 **What worked:**
 
-- Pending live service.
+- Amy and Don really liked the finished plate overall.
+- The scratch Japanese curry twist was a standout and worth protecting.
+- The katsu, curry architecture, and spicy apple-tonkatsu sauce worked together as a complete plate.
+- The cabbage was properly hair-thin, crisp, and cold; execution of its traditional texture was correct.
+
+**What the live test exposed:**
+
+- The finished curry was too mild for the house palate before service adjustment. Amy added curry powder and garam masala to taste, which brought the spice depth where the plate needed it.
+- Plain cold cabbage was technically appropriate but tasted boring beside the rest of the plate and did not earn its space as an undressed component.
 
 **What to protect:**
 
 - Panko crispness.
 - Tender breast texture.
-- Curry savory depth without becoming too sweet.
+- Scratch curry structure: browned onion, apple, umami, roux, chocolate, and vinegar.
 - Distinct spicy tonkatsu accent.
+- Cold feathery cabbage texture, now paired with restrained seasoning.
 - Stage bowls and one-direction kitchen flow.
 
 **What to adjust next time:**
 
+- Keep curry powder and garam masala available at the final curry tasting stage and add to taste rather than locking a fixed amount.
+- Replace plain cabbage service with the light sesame-vinegar dressing while preserving the ice-crisp texture.
 - Record exact cooked chicken thickness and frying time.
-- Decide whether the curry needs more or less cayenne after Amy and Don taste it.
 - Confirm preferred tonkatsu sauce amount per plate.
 - Confirm whether basmati remains acceptable or Japanese short-grain is worth stocking for the locked version.
 
@@ -434,6 +469,7 @@ This plate preserves Japanese katsu-curry structure while pushing the flavor cei
 
 | Date | Change |
 |---|---|
+| 2026-08-24 | Recorded the first live test: curry concept and full plate were very well liked, curry powder and garam masala became final to-taste adjustments for the house spice target, and plain ice-crisp cabbage was upgraded to a light sesame-vinegar version. |
 | 2026-08-23 | Created scratch featured-meal master card with overnight-brined chicken breast, scratch Japanese curry roux, unsweetened-applesauce curry, spicy cooked apple-tonkatsu sauce, exact prep bowls, and no-flip full execution timeline. |
 
 </details>

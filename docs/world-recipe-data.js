@@ -418,5 +418,15 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Flavorweaver Test Recipe',
     ingredients: ['all-purpose flour', 'cornstarch', 'lemons', 'lemon zest', 'lemon juice', 'sugar', 'butter', 'cream cheese', 'eggs', 'sour cream', 'milk', 'heavy cream', 'vanilla', 'powdered sugar'],
     tags: ['American-Inspired', 'lemon pound cake', 'cream cheese pound cake', 'Bundt cake', 'lemon dessert', 'sour cream cake', 'cream cheese glaze']
+  },
+  {
+    title: 'Brown-Butter Cinnamon-Pecan Marshmallow Sweet Potato Casserole',
+    path: 'recipes/southern/brown-butter-cinnamon-pecan-marshmallow-sweet-potato-casserole.html',
+    collection: 'House Recipes',
+    culture: 'Southern Inspired',
+    category: 'Side Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['sweet potatoes', 'butter', 'brown butter', 'dark brown sugar', 'maple syrup', 'heavy cream', 'eggs', 'vanilla', 'cinnamon', 'nutmeg', 'kosher salt', 'black pepper', 'cinnamon candied pecans', 'all-purpose flour', 'mini marshmallows'],
+    tags: ['Southern-Inspired', 'sweet potato casserole', 'Thanksgiving side', 'brown butter', 'cinnamon pecans', 'candied pecans', 'marshmallows', 'pecan streusel', 'peppery sweet potatoes', 'holiday casserole', 'make-ahead side', 'Flavorweaver Test Recipe']
   }
 ];

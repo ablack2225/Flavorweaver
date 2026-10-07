@@ -428,5 +428,15 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Flavorweaver Test Recipe',
     ingredients: ['sweet potatoes', 'butter', 'brown butter', 'dark brown sugar', 'maple syrup', 'heavy cream', 'eggs', 'vanilla', 'cinnamon', 'nutmeg', 'kosher salt', 'black pepper', 'cinnamon candied pecans', 'all-purpose flour', 'mini marshmallows'],
     tags: ['Southern-Inspired', 'sweet potato casserole', 'Thanksgiving side', 'brown butter', 'cinnamon pecans', 'candied pecans', 'marshmallows', 'pecan streusel', 'peppery sweet potatoes', 'holiday casserole', 'make-ahead side', 'Flavorweaver Test Recipe']
+  },
+  {
+    title: 'Loaded Bacon-Shallot Three-Cheese Green Bean Casserole',
+    path: 'recipes/southern/loaded-bacon-shallot-three-cheese-green-bean-casserole.html',
+    collection: 'House Recipes',
+    culture: 'Southern Inspired',
+    category: 'Side Dish',
+    status: 'Flavorweaver Test Recipe',
+    ingredients: ['Italian-cut green beans', 'canned green beans', 'bacon', 'canned mushrooms', 'butter', 'Worcestershire sauce', 'shallot', 'garlic', 'cream of mushroom soup', 'milk', 'heavy cream', 'Velveeta', 'extra-sharp cheddar', 'Parmesan', 'Dijon mustard', 'black pepper', 'French fried onions', 'panko'],
+    tags: ['Southern-Inspired', 'green bean casserole', 'Italian-cut green beans', 'bacon', 'shallot', 'Worcestershire mushrooms', 'three cheese', 'Velveeta', 'sharp cheddar', 'Parmesan', 'French fried onions', 'holiday casserole', 'Thanksgiving side', 'Flavorweaver Test Recipe']
   }
 ];

@@ -137,7 +137,7 @@ This should not taste like generic slow-cooker pork in bottled sauce. The differ
 | Pork | 4 to 5 lb pork butt or pork shoulder, kosher salt, yellow mustard, hot sauce, Worcestershire sauce, vinegar or pickle brine, neutral oil, tomato paste, brown sugar, smoked paprika, paprika, chili powder, garlic powder, onion powder, mustard powder, black pepper, coriander, cumin, chipotle or cayenne, optional ginger, optional cinnamon. |
 | Braise | Onion, garlic, pineapple juice, chicken broth/apple juice/water, apple cider vinegar, Worcestershire sauce, brown sugar, mustard powder or prepared mustard, optional tiny dash liquid smoke if no smoker. |
 | BBQ Jus Glaze | Reduced pork cooking juices, tomato sauce or ketchup, apple cider vinegar, brown sugar, honey or molasses, Worcestershire sauce, mustard, smoked paprika, chili powder, black pepper, cayenne, optional bourbon or whiskey. |
-| Hawaiian-Style Rolls | Active dry yeast, warm water, sugar, warm pineapple juice, warm milk, room-temperature eggs, room-temperature egg yolk, brown sugar, cooled melted butter, kosher salt, plain instant potato flakes, bread flour or all-purpose flour, optional vanilla, egg wash, honey butter top. |
+| Hawaiian-Style Rolls | Active dry yeast, warm water, sugar, warm pineapple juice, warm milk, room-temperature eggs, room-temperature egg yolk, brown sugar, cooled melted butter, kosher salt, plain instant potato flakes, all-purpose flour, optional vanilla, egg wash, honey butter top. |
 | Pickle-Onion Crunch | Sweet-spicy pickles, purple onion, pickle brine, mustard, honey or brown sugar, black pepper, optional cayenne. |
 | Assembly | Warm rolls, pulled pork, BBQ jus glaze, pickle-onion crunch, dill pickles, optional purple onion, optional cheese, honey butter. |
 
@@ -229,7 +229,7 @@ Use restraint with liquid smoke. A little can help; too much tastes artificial.
 | 4 Tbsp | Unsalted butter | Melted and cooled until fluid but not hot, about 90°F to 100°F |
 | 1 1/2 tsp | Kosher salt | Whisk into wet mix before flour so it disperses evenly |
 | 2 Tbsp | Plain instant potato flakes | Add dry to warm wet mixture; do not make mashed potatoes first |
-| 3 3/4 cups | Bread flour or all-purpose flour | Start with 3 cups, then add the remaining 3/4 cup gradually only as needed |
+| 3 3/4 cups | All-purpose flour | Start with 3 cups, then add the remaining 3/4 cup gradually only as needed |
 | 1 tsp | Vanilla | Optional; add with wet ingredients |
 | 1 egg white or 1 whole egg | Egg wash | Beat with 1 Tbsp water or milk |
 | 2 Tbsp | Melted butter | For brushing hot rolls |
@@ -312,7 +312,7 @@ Best wood direction: apple or cherry for sweet smoke, hickory for stronger BBQ d
 | Bowl 7 — Yeast Bloom | 1/4 cup warm water at 100°F to 110°F; 2 1/4 tsp active dry yeast; 1 Tbsp sugar | Rest 5 to 10 minutes until foamy. If it never foams, stop and restart with fresh yeast. |
 | Bowl 8 — Warm Roll Liquids | 1/2 cup pineapple juice warmed to 95°F to 105°F; 1/2 cup milk warmed to 95°F to 105°F; 1/3 cup brown sugar; 1 1/2 tsp kosher salt; 2 Tbsp dry potato flakes; optional 1 tsp vanilla | Whisk until sugar and salt dissolve and potato flakes hydrate slightly. |
 | Bowl 9 — Enrichment | 2 room-temperature large eggs; 1 room-temperature egg yolk; 4 Tbsp melted butter, cooled until fluid but not hot | Whisk eggs into warm liquids first, then whisk in cooled butter. Do not pour hot butter over eggs or yeast. |
-| Bowl 10 — Flour | 3 cups bread flour/AP flour to start; remaining 3/4 cup held back | Add remaining flour gradually only until dough is soft, tacky, and elastic. Do not make the dough dry. |
+| Bowl 10 — Flour | 3 cups all-purpose flour to start; remaining 3/4 cup held back | Add remaining flour gradually only until dough is soft, tacky, and elastic. Do not make the dough dry. |
 | Bowl 11 — Roll Finish | Egg wash: 1 egg white or whole egg + 1 Tbsp water/milk. Butter top: 2 Tbsp melted butter + optional 1 tsp honey + tiny pinch salt | Egg wash before baking; butter top after baking. Pull rolls at 190°F internal. |
 
 ### Crunch and Assembly Bowls

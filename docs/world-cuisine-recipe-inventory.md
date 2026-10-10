@@ -1,7 +1,7 @@
 # World-Cuisine Recipe Inventory
 
 Status: Working inventory  
-Last updated: 2026-06-30  
+Last updated: 2026-10-10  
 Source layers: `docs/world-recipe-data.js` plus active additions in `docs/world-recipe-overrides.js`
 
 ---
@@ -11,14 +11,14 @@ Source layers: `docs/world-recipe-data.js` plus active additions in `docs/world-
 | Culture / Flavor Path | Count |
 |---|---:|
 | Asian Inspired | 2 |
-| Chinese Inspired | 4 |
+| Chinese Inspired | 5 |
 | Ethiopian Inspired / Ethiopian | 6 |
 | Indian Inspired | 8 |
 | Korean Inspired | 2 |
 | Middle Eastern Inspired | 1 |
 | Thai Inspired | 2 |
 | Vietnamese Inspired | 7 |
-| **Total** | **32** |
+| **Total** | **33** |
 
 ---
 
@@ -37,6 +37,7 @@ Source layers: `docs/world-recipe-data.js` plus active additions in `docs/world-
 |---|---|---|---|
 | Top-Shelf Mongolian Brisket Beef | Main Dish | Top 10 Meal | `docs/recipes/chinese/top-shelf-mongolian-brisket-beef.html` |
 | Chinese Orange Chicken | Main Dish | Working Recipe | `docs/recipes/chinese/chinese-orange-chicken.html` |
+| Fire-Orange General Tso's Chicken | Main Dish | Flavorweaver Test Recipe | `docs/recipes/chinese/fire-orange-general-tsos-chicken.html` |
 | Restaurant-Style Fried Rice | Side Dish | Working Recipe | `docs/recipes/chinese/restaurant-style-fried-rice.html` |
 | Premium Crab Rangoon | Appetizer | Working Recipe | `docs/recipes/chinese/premium-crab-rangoon.html` |
 

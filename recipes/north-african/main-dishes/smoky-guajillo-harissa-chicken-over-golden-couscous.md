@@ -7,7 +7,7 @@ rating_note: Don favorite; Hall of Fame live test
 repeat_worthy: true
 hall_of_fame_candidate: true
 hall_of_fame: true
-hall_of_fame_reason: Don identified this as one of his favorites; final live-tested plate delivered bold smoky chile chicken, intense tomato-olive couscous, signature hot honey, crispy brik triangles, and tamarind-date chutney.
+hall_of_fame_reason: Don identified this as one of his favorites; final live-tested plate delivered bold smoky chile chicken, intense tomato-olive couscous, signature hot honey, crispy egg rolls, later enjoyed with hot honey; the original tamarind-date chutney is preserved as an optional alternate dip.
 difficulty: Moderate to Project Meal
 prep_time: 1h 20m
 cook_time: 1h
@@ -15,7 +15,7 @@ marinade_time: 1h to overnight
 total_time: 3h 20m, including minimum marinade
 servings: 2 generous plates
 measurement_status: live-tested and corrected
-last_updated: 2026-07-10
+last_updated: 2026-10-10
 tags:
   - North-African-Inspired
   - north-african-inspired
@@ -23,7 +23,7 @@ tags:
   - spicy tomato olive couscous
   - Thai chili hot honey
   - tamarind date chutney
-  - brik inspired triangles
+  - pepper jack egg olive rolls
   - pepper jack
   - parmesan
   - egg roll wrappers
@@ -39,11 +39,12 @@ required_components:
   - spicy-tomato-olive-couscous
   - thai-chili-guajillo-harissa-hot-honey
   - smoky-sweet-hot-spiced-cashews
-  - crispy-pepper-jack-egg-olive-brik-triangles
+  - crispy-pepper-jack-egg-olive-rolls
+optional_components:
   - bold-tamarind-date-chutney
 pairs_well_with:
   - extra Thai chili hot honey
-  - extra tamarind-date chutney
+  - optional tamarind-date chutney
   - chopped green olives
 ---
 
@@ -51,7 +52,7 @@ pairs_well_with:
 
 # Smoky Guajillo-Harissa Chicken over Spicy Tomato-Olive Couscous
 
-> Hall of Fame smoky guajillo-harissa chicken thighs served over spicy tomato-olive couscous with generous Thai chili hot honey, smoky sweet-hot cashews, and crispy pepper jack-Parmesan egg-olive brik-inspired triangles with bold tamarind-date chutney.
+> Hall of Fame smoky guajillo-harissa chicken thighs served over spicy tomato-olive couscous with generous Thai chili hot honey, smoky sweet-hot cashews, and crispy rolled pepper jack-Parmesan egg-olive egg rolls. Dip the rolls in hot honey; original tamarind-date chutney is optional.
 
 ## Recipe Dashboard
 
@@ -65,11 +66,11 @@ pairs_well_with:
 
 ## Flavor Profile
 
-This complete plate is built around two bold but distinct lanes. The main plate is smoky, tomato-rich, chile-forward, briny, sweet-hot, buttery, and generously sauced. The side event is crispy, cheesy, eggy, spicy, olive-briny, and paired with a dark sweet-sour tamarind-date chutney.
+This complete plate is built around two bold but distinct lanes. The main plate is smoky, tomato-rich, chile-forward, briny, sweet-hot, buttery, and generously sauced. The side event is crispy, cheesy, eggy, spicy, and olive-briny, best dipped in our hot honey. The original dark sweet-sour tamarind-date chutney is an optional alternate.
 
 Target bite:
 
-> smoky chile chicken + spicy tomato-olive couscous + glossy Thai chili hot honey + sweet-hot cashew crunch + crispy pepper jack-Parmesan egg-olive triangles + tangy tamarind-date chutney.
+> smoky chile chicken + spicy tomato-olive couscous + glossy Thai chili hot honey + sweet-hot cashew crunch + crispy pepper jack-Parmesan egg-olive egg rolls and hot honey for dipping; optional tangy tamarind-date chutney.
 
 ## Kitchen Execution Summary
 
@@ -79,8 +80,8 @@ Target bite:
 | Spicy Tomato-Olive Couscous | Bold couscous base that absorbs tomato-harissa broth, garlic, spices, green olives, cilantro, and optional olive brine. |
 | Thai Chili Hot Honey | Signature glossy finish; sweet, smoky, hot, tangy, buttery, and generous enough to drip into the couscous. |
 | Smoky Sweet-Hot Cashews | Nutty crunch layer with smoke, salt, brown sugar, and chile warmth. |
-| Crispy Pepper Jack-Parmesan Egg-Olive Brik Triangles | Street-food side event using egg roll wrappers, soft egg, pepper jack, Parmesan, Thai chili, cilantro, and olives. |
-| Bold Tamarind-Date Chutney | Separate sweet-sour sauce lane: reduced tamarind, dark-fruity sweetness, cumin-ginger warmth, rice vinegar lift, salt, cayenne, and red pepper flake heat. |
+| Crispy Pepper Jack-Parmesan Egg-Olive Egg Rolls | Full-size rolled egg rolls with a 1.5× batch of soft-scrambled egg, pepper jack, Parmesan, Thai chili, cilantro, and olives. |
+| Optional Tamarind-Date Chutney | The original dark sweet-sour alternate dipping sauce; skip when serving the rolls with hot honey only. |
 
 ## Equipment Map
 
@@ -88,8 +89,8 @@ Target bite:
 |---|---|
 | Electric skillet | Cooking the guajillo-harissa chicken around 300°F. |
 | Oven | Roasting smoky sweet-hot cashews at 325°F. |
-| Deep fryer or deep pot | Frying brik-inspired triangles around 350°F. |
-| Small saucepan | Reducing tamarind extract, simmering chutney, and warming Thai chili hot honey. |
+| Deep fryer or deep pot | Frying briefly freezer-set full-size egg rolls around 350°F. |
+| Small saucepan | Warming Thai chili hot honey; reducing tamarind and simmering the optional chutney only when serving it. |
 | Small skillet/pan | Soft-scrambling eggs and making the couscous base. |
 | Blender or food processor | Guajillo-harissa paste. |
 | Fine mesh strainer | Whole tamarind extract. |
@@ -99,14 +100,14 @@ Target bite:
 | Time | Task |
 |---:|---|
 | 2+ hr before serving | Make guajillo-harissa paste and marinate chicken. |
-| 60–75 min before serving | Soak whole tamarind, strain, always reduce to 1/2 cup strong extract, and simmer chutney. |
-| 45 min before serving | Make brik filling and wrap triangles. |
+| 60–75 min before serving, optional | Make original tamarind-date chutney only if serving that alternate dip. |
+| 45–60 min before serving | Prepare scaled egg-roll filling; roll and seal, then set seam-side down in the freezer 15–25 minutes. |
 | 35 min before serving | Roast spiced cashews. |
 | 25 min before serving | Build spicy tomato-olive couscous base. |
-| 20 min before serving | Fry brik triangles. |
+| 20 min before serving | Fry freezer-set egg rolls at 350°F. |
 | 15–20 min before serving | Cook chicken in electric skillet. |
 | 5 min before serving | Make hot honey glaze and glaze chicken. |
-| Service | Plate couscous, chicken, hot honey, cashews, briks, and chutney. |
+| Service | Plate couscous, chicken, hot honey and cashews; add crispy egg rolls with hot honey to dip. Chutney optional. |
 
 ## Full Plate Ingredient Roll-Up
 
@@ -117,8 +118,8 @@ Target bite:
 | Couscous | Couscous, butter, olive oil, onion, garlic, tomato paste, guajillo-harissa paste, cumin, coriander, smoked paprika, caraway, cinnamon or allspice, chicken broth, green olives, cilantro, olive brine. |
 | Hot Honey | Reserved guajillo-harissa paste, honey, butter, red Thai chiles, vinegar or lemon juice, salt, optional cayenne. |
 | Cashews | Cashews, olive oil or butter, smoked paprika, cumin, coriander, garlic powder, cayenne or red pepper flakes, salt, brown sugar. |
-| Brik Triangles | Egg roll wrappers, eggs, pepper jack, Parmesan, green olives, Thai chili, cilantro, smoked paprika, cumin, garlic powder, black pepper, sealing paste, frying oil. |
-| Tamarind Chutney | Whole tamarind, hot water, brown sugar, honey, dates or raisins, cumin, ginger, cayenne, red pepper flakes, salt, optional garlic powder, rice vinegar. |
+| Egg Rolls | Egg roll wrappers, 3 eggs, pepper jack, Parmesan, green olives, Thai chili, cilantro, smoked paprika, cumin, garlic powder, black pepper, optional cream/milk, sealing paste, frying oil. |
+| Optional Tamarind Chutney | Whole tamarind, hot water, brown sugar, honey, dates or raisins, cumin, ginger, cayenne, red pepper flakes, salt, optional garlic powder, rice vinegar. |
 
 ## Measured Ingredients by Component
 
@@ -200,26 +201,29 @@ Target bite:
 | 1/4 tsp | kosher salt | Adjust after roasting. |
 | 1/2 tsp | brown sugar | Preferred over honey to reduce scorching/stickiness. |
 
-### Crispy Pepper Jack-Parmesan Egg-Olive Brik Triangles
+### Crispy Pepper Jack-Parmesan Egg-Olive Egg Rolls
 
 | Amount | Ingredient | Notes |
 |---:|---|---|
-| 6–8 | egg roll wrappers | Fold into triangles or sealed packets. |
-| 2 large | eggs | Soft-scrambled before filling. |
-| 1/3 cup | pepper jack | Main cheese. |
-| 1 Tbsp | Parmesan | Salty-savory support; do not overuse. |
-| 2–3 Tbsp | green olives, chopped | Briny accent. |
+| 6–8 | egg roll wrappers | Fill with 2–3 Tbsp each; roll into cylinders rather than triangles. |
+| 3 large | eggs | Soft-scrambled before filling; 1.5× the triangle recipe. |
+| 1/2 cup | pepper jack | Main cheese, scaled for egg rolls. |
+| 1 1/2 Tbsp | Parmesan | Salty-savory support, scaled for egg rolls. |
+| 1/4 cup | green olives, chopped | Briny accent, scaled for egg rolls. |
 | 1 | Thai chili, finely minced | Heat in the filling. |
-| 1 Tbsp | chopped cilantro | Preferred herb. |
-| 1/4 tsp | smoked paprika |  |
-| 1/4 tsp | cumin |  |
-| 1/4 tsp | garlic powder |  |
+| 1–2 Tbsp | cream or milk, optional | Optional in soft-scrambled eggs; not required if already soft. |
+| 1 1/2 Tbsp | chopped cilantro | Preferred herb, scaled for egg rolls. |
+| 3/8 tsp | smoked paprika | Scaled egg-roll filling. |
+| 3/8 tsp | cumin | Scaled egg-roll filling. |
+| 3/8 tsp | garlic powder | Scaled egg-roll filling. |
 | Pinch | black pepper |  |
 | Tiny pinch | salt | Only if needed after tasting. |
 | 1 Tbsp flour + 1 Tbsp water | sealing paste | Or use beaten egg. |
 | As needed | oil | For frying. |
 
-### Bold Tamarind-Date Chutney
+### Optional Original Tamarind-Date Chutney
+
+This was part of the first Hall of Fame plate and remains a valid alternate dip; omit this entire component for the preferred hot-honey egg rolls.
 
 #### Tamarind Extract
 
@@ -250,10 +254,10 @@ Target bite:
 |---|---|---|
 | Guajillo-harissa paste | Full paste batch; reserve 2 1/2 Tbsp for hot honey and 2 1/2 Tbsp for couscous | Chicken, couscous, hot honey |
 | Garlic | 5 cloves total | 3 cloves paste, 2 cloves couscous |
-| Thai chiles | 2–3 total | 1–2 hot honey, 1 brik filling |
-| Green olives | 4–6 Tbsp chopped total | 2–3 Tbsp couscous, 2–3 Tbsp brik filling |
-| Cilantro | 3–4 Tbsp chopped total | 2–3 Tbsp couscous, 1 Tbsp brik filling |
-| Tamarind | 2 oz / 55 g whole tamarind plus 1 cup hot water, always reduced to 1/2 cup strong extract | Chutney extract |
+| Thai chiles | 2–3 total | 1–2 hot honey, 1 egg-roll filling |
+| Green olives | 1/4 cup + 2–3 Tbsp chopped total | 2–3 Tbsp couscous, 1/4 cup egg-roll filling |
+| Cilantro | 3 1/2–4 1/2 Tbsp chopped total | 2–3 Tbsp couscous, 1 1/2 Tbsp egg-roll filling |
+| Tamarind, optional | 2 oz / 55 g whole tamarind plus 1 cup hot water, reduced to 1/2 cup strong extract | Optional chutney only |
 
 ## Stage-Based Prep Bowls
 
@@ -281,10 +285,10 @@ Target bite:
 
 | Bowl | Contents | Notes |
 |---|---|---|
-| Bowl 1 — Tamarind Extract | 2 oz / 55 g whole tamarind pods or pulp, 1 cup hot water | Soak, mash, strain, then always reduce to 1/2 cup strong extract. |
-| Bowl 2 — Chutney | 1/2 cup reduced strong tamarind extract, 2 Tbsp brown sugar, 2 Tbsp honey, 2 Tbsp dates/raisins, 1/2 tsp cumin, 1/2 tsp ginger powder or 1 tsp fresh ginger, 1/4 tsp cayenne, 1/4 tsp red pepper flakes, 1/4 tsp salt, 1 tsp rice vinegar, optional tiny pinch garlic powder | Simmer 6–10 minutes; correct sweetness with more rice vinegar, salt, and heat. |
-| Bowl 3 — Brik Filling | 2 soft-scrambled eggs, 1/3 cup pepper jack, 1 Tbsp Parmesan, 2–3 Tbsp chopped olives, 1 minced Thai chili, 1 Tbsp cilantro, 1/4 tsp smoked paprika, 1/4 tsp cumin, 1/4 tsp garlic powder, pinch black pepper | Taste before wrapping; no extra salt at first. |
-| Bowl 4 — Wrapper Station | 6–8 egg roll wrappers, brik filling, 1 Tbsp flour + 1 Tbsp water paste or beaten egg | Use about 1 1/2 Tbsp filling per wrapper. |
+| Bowl 1 — Optional Tamarind Extract | 2 oz / 55 g whole tamarind pods or pulp, 1 cup hot water | Soak, mash, strain, then always reduce to 1/2 cup strong extract. |
+| Bowl 2 — Optional Chutney | 1/2 cup reduced strong tamarind extract, 2 Tbsp brown sugar, 2 Tbsp honey, 2 Tbsp dates/raisins, 1/2 tsp cumin, 1/2 tsp ginger powder or 1 tsp fresh ginger, 1/4 tsp cayenne, 1/4 tsp red pepper flakes, 1/4 tsp salt, 1 tsp rice vinegar, optional tiny pinch garlic powder | Simmer 6–10 minutes; correct sweetness with more rice vinegar, salt, and heat. |
+| Bowl 3 — Egg-Roll Filling | 3 soft-scrambled eggs, optional 1–2 Tbsp cream/milk, 1/2 cup pepper jack, 1 1/2 Tbsp Parmesan, 1/4 cup chopped olives, 1 minced Thai chili, 1 1/2 Tbsp cilantro, 3/8 tsp each smoked paprika, cumin and garlic powder, pinch black pepper | 1.5× batch; cool before rolling, taste before adding salt. |
+| Bowl 4 — Egg-Roll Station | 6–8 egg roll wrappers, cooled filling, 1 Tbsp flour + 1 Tbsp water paste or beaten egg | 2–3 Tbsp filling per wrapper; roll, seal, set seam-side down in freezer 15–25 minutes. |
 | Bowl 5 — Cashews | 1/2 cup cashews, 1 tsp olive oil or melted butter, 1/2 tsp smoked paprika, 1/4 tsp cumin, 1/4 tsp coriander, 1/8 tsp garlic powder, pinch cayenne, 1/4 tsp salt, 1/2 tsp brown sugar | Roast at 325°F. |
 | Bowl 6 — Hot Honey | 2 1/2 Tbsp reserved paste, 3 Tbsp honey, 1 1/2 Tbsp butter, 1–2 minced Thai chiles, 2 tsp vinegar or lemon juice, generous pinch salt | Warm while chicken rests. |
 
@@ -294,15 +298,15 @@ Target bite:
 - The couscous broth must taste slightly too bold before couscous goes in.
 - Use **cilantro**, not parsley, for the final herb lift.
 - The Thai chili hot honey is the signature sauce; use it generously.
-- Use about **1 1/2 Tbsp filling per brik wrapper** so the triangles seal cleanly.
+- Use **2–3 Tbsp filling per full-size egg roll**, roll tightly, seal, and freeze seam-side down for **15–25 minutes** until firm before frying.
 - Cashews burn quickly; roast at **325°F** and use brown sugar instead of honey.
 - For the hot-running electric skillet, start chicken around **300°F** and raise only if browning is too slow.
-- Always reduce the strained tamarind liquid to **1/2 cup strong extract** before building the chutney.
-- The chutney needs rice vinegar, cayenne, and red pepper flakes so it stays tangy-hot instead of sweet.
+- For optional tamarind chutney, always reduce strained extract to **1/2 cup strong extract** before making it.
+- Hot honey is the preferred dip for the rolled egg rolls. If making original chutney, keep its rice vinegar, cayenne, and red pepper flakes.
 
 ## Full Cooking Timeline and Instructions
 
-### 1. Make Tamarind Extract
+### 1. Optional — Make Tamarind Extract
 
 Remove shells and tough strings from **2 oz / 55 g whole tamarind pods or pulp**. You should have about **1/2 cup loosely packed broken tamarind pieces**. Place in a bowl with **1 cup hot water**. Soak **15–20 minutes**, mash thoroughly, then strain through a fine mesh strainer, pressing hard and scraping the underside of the strainer.
 
@@ -322,7 +326,7 @@ Taste for smoky, garlicky, chile-rich, salty, tangy impact.
 
 Reserve **2 1/2 Tbsp paste** for the hot honey and **2 1/2 Tbsp paste** for the couscous. Coat **4 chicken thighs** with the remaining paste, **1 Tbsp olive oil**, **1 tsp honey**, **1/2 tsp kosher salt**, and **1/4 tsp black pepper**. Marinate at least **1 hour**.
 
-### 5. Simmer Tamarind-Date Chutney
+### 5. Optional — Simmer Tamarind-Date Chutney
 
 In a small saucepan, combine **1/2 cup reduced strong tamarind extract**, **2 Tbsp brown sugar**, **2 Tbsp honey**, **2 Tbsp chopped dates or raisins**, **1/2 tsp cumin**, **1/2 tsp ginger powder or 1 tsp fresh ginger**, **1/4 tsp cayenne**, **1/4 tsp red pepper flakes**, **1/4 tsp salt**, **1 tsp rice vinegar**, and optional tiny pinch garlic powder. Simmer **6–10 minutes**, stirring often, until glossy and spoonable.
 
@@ -332,13 +336,13 @@ Taste target: tangy/sour first, dark sweet second, warm cumin-ginger spice, real
 
 Heat oven to **325°F**. Toss **1/2 cup cashews** with **1 tsp olive oil or melted butter**, **1/2 tsp smoked paprika**, **1/4 tsp cumin**, **1/4 tsp coriander**, **1/8 tsp garlic powder**, a pinch cayenne or red pepper flakes, **1/4 tsp kosher salt**, and **1/2 tsp brown sugar**. Roast **8–12 minutes**, stirring once or twice. Taste while warm and adjust salt or heat.
 
-### 7. Make Brik Filling
+### 7. Make Generous Egg-Roll Filling
 
-Soft-scramble **2 large eggs** just until barely set. Cool slightly, then mix with **1/3 cup pepper jack**, **1 Tbsp Parmesan**, **2–3 Tbsp chopped green olives**, **1 finely minced Thai chili**, **1 Tbsp chopped cilantro**, **1/4 tsp smoked paprika**, **1/4 tsp cumin**, **1/4 tsp garlic powder**, and a pinch black pepper. Taste; add salt only if truly needed.
+Soft-scramble **3 large eggs** just until barely set (optional **1–2 Tbsp cream or milk** while scrambling). Cool, then mix with **1/2 cup pepper jack**, **1 1/2 Tbsp Parmesan**, **1/4 cup chopped green olives**, **1 finely minced Thai chili**, **1 1/2 Tbsp chopped cilantro**, **3/8 tsp smoked paprika**, **3/8 tsp cumin**, **3/8 tsp garlic powder**, and a pinch black pepper. This is the **1.5× filling batch** used for proper rolled egg rolls. Taste; salt only if needed.
 
-### 8. Wrap Brik Triangles
+### 8. Roll and Freezer-Set the Egg Rolls
 
-Mix **1 Tbsp flour with 1 Tbsp water** to make sealing paste, or use beaten egg. Place **1 1/2 Tbsp filling** on each of **6–8 egg roll wrappers**. Fold into triangles or sealed packets and seal edges well. Keep covered until frying.
+Mix **1 Tbsp flour with 1 Tbsp water** to make sealing paste, or use beaten egg. Divide the cooled filling among **6–8 egg roll wrappers**, about **2–3 Tbsp each**. Place filling across the lower third, fold bottom corner up, fold both sides in, and roll into a compact cylinder; seal the final flap well. Place seam-side down and freeze **15–25 minutes** until firm, not frozen solid.
 
 ### 9. Make Spicy Tomato-Olive Couscous Base
 
@@ -348,9 +352,9 @@ In a small pan, heat **1 Tbsp butter** and **1 Tbsp olive oil**. Add **1/4 cup f
 
 Add **1 cup chicken broth** to the couscous base and bring to a simmer. Taste the liquid; it should be slightly too bold. Add salt or **1–2 tsp olive brine** if needed. Stir in **1 cup couscous**, cover, remove from heat, and rest **5 minutes**. Fluff, then fold in **2–3 Tbsp chopped green olives** and **2–3 Tbsp chopped cilantro**.
 
-### 11. Fry Brik Triangles
+### 11. Fry the Egg Rolls
 
-Heat deep fryer or frying oil to **350°F**. Fry brik triangles until deeply golden and crisp, about **2–4 minutes**, depending size. Drain on a rack.
+Heat deep fryer or frying oil to **350°F**. Fry the seam-set egg rolls **3–4 minutes**, turning if necessary, until deeply golden, crisp and hot throughout. Drain on a rack.
 
 ### 12. Cook Chicken in Electric Skillet
 
@@ -362,7 +366,7 @@ While chicken rests, warm **2 1/2 Tbsp reserved paste**, **3 Tbsp honey**, **1 1
 
 ### 14. Glaze and Plate
 
-Spoon Thai chili hot honey over the rested chicken. Plate spicy tomato-olive couscous, glazed chicken, extra hot honey, smoky sweet-hot cashews, crispy brik triangles, and generous tamarind-date chutney.
+Spoon Thai chili hot honey over the rested chicken. Plate spicy tomato-olive couscous, glazed chicken, extra hot honey, smoky sweet-hot cashews, crispy full-size pepper jack-egg-olive rolls with extra hot honey for dipping; original tamarind-date chutney optional.
 
 ## Building the Final Plate
 
@@ -373,39 +377,39 @@ Spoon Thai chili hot honey over the rested chicken. Plate spicy tomato-olive cou
 | 3. Signature Sauce | Drizzle extra Thai chili hot honey over chicken and into couscous. |
 | 4. Crunch | Scatter smoky sweet-hot cashews over the couscous. |
 | 5. Briny Accent | Add extra chopped olives only if the plate needs more salty pop. |
-| 6. Side Event | Serve crispy pepper jack-Parmesan egg-olive brik triangles beside the plate. |
-| 7. Showstopper Sauce | Serve tamarind-date chutney generously with the briks. |
+| 6. Side Event | Serve full-size crispy pepper jack-Parmesan egg-olive egg rolls beside the plate. |
+| 7. Egg-Roll Dip | Serve extra hot honey with the rolls; original tamarind-date chutney may be offered as an optional alternate. |
 
 ## Final Taste Target
 
-The finished meal should taste smoky, spicy, tomato-rich, garlicky, briny, buttery, sweet-hot, crisp, cheesy, and darkly sweet-sour. The main plate should deliver chile chicken, bold couscous, hot honey, cilantro lift, and cashew crunch. The side should feel like a separate street-food event: crisp wrappers, melty pepper jack, savory Parmesan, soft egg, olives, Thai chili, cilantro, and bold reduced tamarind-date chutney with rice-vinegar tang and real chile heat.
+The finished meal should taste smoky, spicy, tomato-rich, garlicky, briny, buttery, sweet-hot, crisp, cheesy, and sweet-hot. The main plate should deliver chile chicken, bold couscous, hot honey, cilantro lift, and cashew crunch. The side should feel like a separate street-food event: crisp wrappers, melty pepper jack, savory Parmesan, soft egg, olives, Thai chili, cilantro, and plenty of hot honey for dipping (optional original tangy tamarind-date chutney).
 
 ## Pairs Well With
 
 | Type | Pairing | Notes |
 |---|---|---|
 | Sauce | Extra Thai chili hot honey | For the chicken and couscous. |
-| Sauce | Extra tamarind-date chutney | Required for the brik triangles. |
+| Optional Sauce | Original tamarind-date chutney | Alternate dip, not required for the egg rolls. |
 | Finish | Extra chopped olives | For briny punch if the plate needs it. |
 
 <details>
 <summary>Flavor Architecture</summary>
 
-This Hall of Fame plate uses two distinct bold lanes. The main lane is smoky guajillo-harissa chicken, spicy tomato-olive couscous, Thai chili hot honey, cilantro, and sweet-hot cashews. The side lane is crispy pepper jack-Parmesan egg-olive brik triangles with reduced tamarind-date chutney. The side does not repeat the main flavor profile; it adds fried pastry, cheese, egg, brine, and dark sweet-sour chutney contrast.
+This Hall of Fame plate uses two distinct bold lanes. The main lane is smoky guajillo-harissa chicken, spicy tomato-olive couscous, Thai chili hot honey, cilantro, and sweet-hot cashews. The side lane is full-size crispy pepper jack-Parmesan egg-olive rolls dipped in hot honey, adding fried wrapper crunch, cheese, egg, briny olives and sweet-heat contrast. The original reduced tamarind-date chutney is an optional alternate.
 
 </details>
 
 <details>
 <summary>Live-Test Notes</summary>
 
-Don identified this as one of his favorites, and the final live-tested version belongs in the Flavorweaver Hall of Fame. Canon corrections: use **2 1/2 Tbsp reserved paste in the couscous**, finish the couscous with **cilantro instead of parsley**, make the brik filling with **pepper jack + Parmesan** only, use **brown sugar instead of honey on the cashews**, always reduce tamarind extract to a strong **1/2 cup** before building the chutney, include **rice vinegar** in the chutney, and use stronger **cayenne + red pepper flake** heat so the chutney stays tangy-hot instead of sweet.
+Don identified this as one of his favorites, and the final live-tested version belongs in the Flavorweaver Hall of Fame. Canon corrections: use **2 1/2 Tbsp reserved paste in the couscous**, finish the couscous with **cilantro instead of parsley**, make the later 1.5× egg-roll filling with **3 eggs, 1/2 cup pepper jack, 1 1/2 Tbsp Parmesan and 1/4 cup olives**, pepper jack + Parmesan only, use **brown sugar instead of honey on the cashews**, always reduce tamarind extract to a strong **1/2 cup** before building the chutney, include **rice vinegar** in the chutney, and use stronger **cayenne + red pepper flake** heat so the chutney stays tangy-hot instead of sweet.
 
 </details>
 
 <details>
 <summary>Kitchen Notes</summary>
 
-For hot-running electric skillets, start chicken around 300°F and raise toward 325°F only if browning is too slow. Avoid scorching the chile paste; dark browning is good, bitter blackened chile paste is not.
+For hot-running electric skillets, start chicken around 300°F and raise toward 325°F only if browning is too slow. **Chef’s Note:** This later, preferred egg-roll format needs more filling than the earlier triangles; roll tightly, freezer-set seam-down 15–25 minutes, and fry at 350°F. Serve with hot honey; the originally tested tamarind chutney remains optional. Avoid scorching the chile paste; dark browning is good, bitter blackened chile paste is not.
 
 </details>
 

@@ -67,7 +67,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     category: 'Main Dish',
     status: 'Hall of Fame',
     ingredients: ['chicken thighs', 'dried guajillo chiles', 'couscous', 'green olives', 'cashews', 'egg roll wrappers', 'eggs', 'pepper jack', 'parmesan', 'whole tamarind', 'dates', 'honey', 'brown sugar', 'red Thai chili', 'cilantro', 'garlic', 'tomato paste', 'chicken broth', 'onion', 'red pepper flakes', 'cumin', 'coriander', 'caraway', 'smoked paprika', 'ginger', 'butter', 'olive oil'],
-    tags: ['North-African-Inspired', 'north-african-inspired', 'guajillo harissa', 'spicy tomato olive couscous', 'Thai chili hot honey', 'tamarind date chutney', 'brik inspired triangles', 'pepper jack', 'parmesan', 'egg roll wrappers', 'spiced cashews', 'cilantro finish', 'bold plate', 'complete plate', 'Don favorite', 'Hall of Fame']
+    tags: ['North-African-Inspired', 'north-african-inspired', 'guajillo harissa', 'spicy tomato olive couscous', 'Thai chili hot honey', 'tamarind date chutney', 'pepper jack egg olive rolls', 'full size egg rolls', 'hot honey dipping sauce', 'pepper jack', 'parmesan', 'egg roll wrappers', 'spiced cashews', 'cilantro finish', 'bold plate', 'complete plate', 'Don favorite', 'Hall of Fame']
   },
   {
     title: 'Loaded Moroccan Harissa Falafel Naan Plate',

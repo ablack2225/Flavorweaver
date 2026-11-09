@@ -438,7 +438,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     status: 'Flavorweaver Test Recipe',
     ingredients: ['Italian-cut green beans', 'canned green beans', 'bacon', 'canned mushrooms', 'butter', 'Worcestershire sauce', 'shallot', 'garlic', 'cream of mushroom soup', 'milk', 'heavy cream', 'Velveeta', 'extra-sharp cheddar', 'Parmesan', 'Dijon mustard', 'black pepper', 'French fried onions', 'panko'],
     tags: ['Southern-Inspired', 'green bean casserole', 'Italian-cut green beans', 'bacon', 'shallot', 'Worcestershire mushrooms', 'three cheese', 'Velveeta', 'sharp cheddar', 'Parmesan', 'French fried onions', 'holiday casserole', 'Thanksgiving side', 'Flavorweaver Test Recipe']
-  }
+  },
   {
     "title": "Fire-Orange General Tso's Chicken",
     "path": "recipes/chinese/fire-orange-general-tsos-chicken.html",

@@ -64,6 +64,7 @@ Source layers: `docs/world-recipe-data.js` plus active additions in `docs/world-
 | Mughlai-Style Chicken Korma | Main Dish | Flavorweaver Test Recipe | `docs/recipes/indian/mughlai-style-chicken-korma.html` |
 | Restaurant-Style Malai Kofta | Main Dish | House Favorite | `docs/recipes/indian/restaurant-style-malai-kofta.html` |
 | Shahi Korma Malia Kofta | Main Dish | Flavorweaver Test Recipe | `docs/recipes/indian/shahi-korma-malia-kofta.html` |
+| Golden Jeera Basmati | Side Dish | Flavorweaver Test Recipe | `docs/recipes/indian/golden-jeera-basmati.html` |
 | Palak Paneer | Main Dish | Working Recipe | `docs/recipes/indian/palak-paneer.html` |
 | Onion Bhaji-Inspired Fritters with Quick Green Chutney | Appetizer | Emergency Pantry Version | `docs/recipes/indian/onion-bhaji-inspired-fritters-with-green-chutney.html` |
 | Fluffy Skillet Naan | Bread | House Staple | `docs/recipes/indian/breads/fluffy-skillet-naan.html` |

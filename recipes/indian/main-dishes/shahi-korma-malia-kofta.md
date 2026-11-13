@@ -28,7 +28,7 @@ tags:
 required_components: []
 pairs_well_with:
   - palak-paneer
-  - jeera-rice
+  - golden-jeera-basmati
   - fluffy-skillet-naan
 last_updated: 2026-11-13
 ---
@@ -221,7 +221,7 @@ The gravy can be made ahead and reheated gently; fry koftas just before serving.
 ## Pairs Well With
 
 - [Palak Paneer](palak-paneer.md) — savory spinach contrast.
-- Jeera rice — fragrant cumin basmati.
+- [Golden Jeera Basmati](../sides/golden-jeera-basmati.md) — fragrant cumin basmati.
 - [Fluffy Skillet Naan](../breads/fluffy-skillet-naan.md) — scoop bread.
 
 ## Final Verdict

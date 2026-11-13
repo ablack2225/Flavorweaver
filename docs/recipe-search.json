@@ -562,5 +562,34 @@
       "Flavorweaver Test Recipe",
       "html page"
     ]
+  },
+  {
+    "title": "Golden Jeera Basmati",
+    "path": "recipes/indian/golden-jeera-basmati.html",
+    "sourcePath": "recipes/indian/sides/golden-jeera-basmati.md",
+    "cuisine": "Indian Inspired",
+    "category": "Side Dish",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": [
+      "basmati rice",
+      "chicken broth",
+      "ghee",
+      "cumin seeds",
+      "cardamom",
+      "bay leaf",
+      "lemon juice",
+      "cilantro"
+    ],
+    "tags": [
+      "Indian Inspired",
+      "jeera rice",
+      "basmati rice",
+      "cumin rice",
+      "ghee",
+      "rice cooker",
+      "side dish",
+      "Flavorweaver Test Recipe",
+      "html page"
+    ]
   }
 ]

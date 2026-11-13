@@ -1,5 +1,34 @@
 window.FLAVORWEAVER_WORLD_RECIPES = [
   {
+    "title": "Golden Jeera Basmati",
+    "path": "recipes/indian/golden-jeera-basmati.html",
+    "collection": "House Recipes",
+    "culture": "Indian Inspired",
+    "category": "Side Dish",
+    "status": "Flavorweaver Test Recipe",
+    "ingredients": [
+      "basmati rice",
+      "chicken broth",
+      "ghee",
+      "cumin seeds",
+      "cardamom",
+      "bay leaf",
+      "lemon juice",
+      "cilantro"
+    ],
+    "tags": [
+      "Indian Inspired",
+      "jeera rice",
+      "basmati rice",
+      "cumin rice",
+      "ghee",
+      "rice cooker",
+      "side dish",
+      "Flavorweaver Test Recipe",
+      "html page"
+    ]
+  },
+  {
     "title": "Shahi Korma Malia Kofta",
     "path": "recipes/indian/shahi-korma-malia-kofta.html",
     "collection": "House Recipes",

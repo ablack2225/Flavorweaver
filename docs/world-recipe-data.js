@@ -43,6 +43,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
       "ghee",
       "chicken broth",
       "heavy cream",
+      "coconut milk",
       "butter",
       "serrano",
       "jalapeno",
@@ -70,6 +71,7 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
       "shahi korma",
       "paneer",
       "cashew gravy",
+      "coconut milk",
       "creamy curry",
       "Flavorweaver Test Recipe",
       "html page"
@@ -332,8 +334,8 @@ window.FLAVORWEAVER_WORLD_RECIPES = [
     culture: 'Indian Inspired',
     category: 'Main Dish',
     status: 'Working Recipe',
-    ingredients: ['spinach', 'paneer', 'onion', 'garlic', 'ginger', 'tomato', 'garam masala', 'cumin', 'coriander', 'cream'],
-    tags: ['Indian-Inspired', 'palak paneer', 'spinach', 'paneer', 'naan pairing']
+    ingredients: ['spinach', 'paneer', 'onion', 'garlic', 'ginger', 'tomato', 'garam masala', 'cumin', 'coriander', 'cream', 'ghee', 'black pepper', 'kasuri methi', 'butter', 'lemon juice', 'cumin seeds'],
+    tags: ['Indian-Inspired', 'palak paneer', 'spinach', 'paneer', 'naan pairing', 'garlic ghee tadka']
   },
   {
     title: 'Butter Chicken over Basmati Rice',

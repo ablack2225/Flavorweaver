@@ -10,8 +10,8 @@ total_time: 1h 15m, plus homemade paneer if needed
 servings: 4 to 6
 yield: 12 to 13 koftas
 measurement_status: documented
-rating_note: New gravy awaiting live test; original koftas retained
-repeat_worthy: false
+rating_note: Live-cooked 2026-11-13; great dinner, Don requested a tad sweeter; revised sweetness pending retest
+repeat_worthy: true
 hall_of_fame_candidate: false
 hall_of_fame: false
 primary_category: Main Dish
@@ -37,7 +37,7 @@ last_updated: 2026-11-13
 
 # Shahi Korma Malia Kofta
 
-> Golden, crisp paneer-potato koftas nestled in a silky light-tan onion-cashew korma gravy, with savory chicken broth, cream, delicate sweetness, cardamom and a lingering serrano warmth.
+> Golden, crisp paneer-potato koftas nestled in a silky light-tan onion-cashew korma gravy, with savory chicken broth, coconut milk, cream, delicate sweetness, cardamom and a lingering serrano warmth.
 
 ## Recipe Dashboard
 
@@ -55,7 +55,7 @@ Make the gravy first; prepare koftas while it simmers. Hold gravy gently warm, f
 |---|---|
 | Korma Gravy — Onion & Cashew Base | 2 cups Sweet onion; ½ cup Raw cashews; 2 Tbsp Ghee |
 | Korma Gravy — Aromatics & Spices | 4 Green cardamom pods; 1 inch Cinnamon stick; 3 Cloves; 1 Bay leaf; 5 cloves Garlic; 1 Tbsp Ginger; 1 small Serrano; 1½ tsp Ground coriander; ½ tsp Ground cumin; ¼ tsp White pepper; Tiny pinch Nutmeg |
-| Korma Gravy — Liquid & Finish | 1½ cups Regular chicken broth; Up to ½ cup Water; ½ cup Heavy cream; 2 Tbsp Unsalted butter; ½ tsp Garam masala; ½ tsp Kasuri methi; 1 tsp Sugar; Up to ¼ tsp to start Fine sea salt; A few drops Lemon juice |
+| Korma Gravy — Liquid & Finish | 1¼ cups Regular chicken broth; Up to ½ cup Water; ½ cup Full-fat unsweetened canned coconut milk; ¼ cup Heavy cream; 2 Tbsp Unsalted butter; ½ tsp Garam masala; ½ tsp Kasuri methi; 1–2 tsp Sugar; Up to ¼ tsp to start Fine sea salt; A few drops Lemon juice |
 | Paneer-Potato Koftas | 1½ cups (200 g) Paneer; ½ cup (100 g) Boiled potato; 2½ Tbsp Cornstarch; ½ tsp Sea salt; ½–¾ tsp Garam masala; 1 Tbsp Cashews; 1 Tbsp Raisins; 1 tsp Ginger; 1–2 Green chiles; 1 Tbsp Coriander leaves |
 | Frying & Service | 2 cups or as needed Neutral frying oil; As desired Cream and toasted cashew slivers; As desired Coriander leaves |
 
@@ -89,13 +89,14 @@ Make the gravy first; prepare koftas while it simmers. Hold gravy gently warm, f
 
 | Amount | Ingredient | Prep / Notes |
 |---|---|---|
-| 1½ cups | Regular chicken broth | Divided into two ¾-cup portions |
+| 1¼ cups | Regular chicken broth | ¾ cup for blending; ½ cup for cooking |
 | Up to ½ cup | Water | Only to thin as needed |
-| ½ cup | Heavy cream |  |
+| ½ cup | Full-fat unsweetened canned coconut milk | Stir well before measuring; add during simmer |
+| ¼ cup | Heavy cream | Finish gently |
 | 2 Tbsp | Unsalted butter | Divided into 1 Tbsp + 1 Tbsp |
 | ½ tsp | Garam masala |  |
 | ½ tsp | Kasuri methi | Crushed |
-| 1 tsp | Sugar | Adjust to taste |
+| 1–2 tsp | Sugar | Start with 1 tsp after tasting; add ½ tsp at a time for a slightly sweeter finish |
 | Up to ¼ tsp to start | Fine sea salt | Only after tasting; may not need any |
 | A few drops | Lemon juice | Optional, off heat |
 
@@ -146,11 +147,11 @@ Homemade paneer optional: ½ gallon whole milk, 2–3 Tbsp lemon juice added gra
 
 ### Gravy 5 — Liquids
 
-1½ cups regular chicken broth, divided into two ¾-cup portions; up to ½ cup water for thinning.
+1¼ cups regular chicken broth (¾ cup for blending, ½ cup for cooking); ½ cup full-fat unsweetened canned coconut milk; up to ½ cup water only if needed.
 
 ### Gravy 6 — Finish
 
-½ cup cream; 2 Tbsp unsalted butter (1 Tbsp for bloom, 1 Tbsp finish); ½ tsp garam masala; ½ tsp crushed kasuri methi; 1 tsp sugar; up to ¼ tsp fine sea salt to start after tasting; optional few drops lemon.
+¼ cup heavy cream; 2 Tbsp unsalted butter (1 Tbsp for bloom, 1 Tbsp finish); ½ tsp garam masala; ½ tsp crushed kasuri methi; 1–2 tsp sugar, to taste; up to ¼ tsp fine sea salt to start after tasting; optional few drops lemon.
 
 ### Kofta 1 — Dry Base
 
@@ -185,9 +186,9 @@ Homemade paneer optional: ½ gallon whole milk, 2–3 Tbsp lemon juice added gra
 
 4. **Bloom spices.** Melt 1 Tbsp unsalted butter on medium-low heat. Bloom 4 cracked cardamom pods, 1-inch cinnamon, 3 cloves and 1 bay leaf for 30–45 seconds. Add 5 minced garlic cloves, 1 Tbsp ginger and the slit deseeded serrano; cook 1 minute. Add 1½ tsp coriander, ½ tsp cumin, ¼ tsp white pepper and a tiny pinch nutmeg; stir 20–30 seconds with a splash of the remaining broth.
 
-5. **Simmer gravy.** Add the onion-cashew purée and stir 3–4 minutes. Gradually stir in the rest of the second ¾ cup broth (1½ cups total). Simmer gently 10–12 minutes, stirring often. Thin with water, up to ½ cup, if needed.
+5. **Simmer gravy.** Add the onion-cashew purée and stir 3–4 minutes. Gradually stir in the rest of the second ½ cup broth (1¼ cups total) and simmer gently 10–12 minutes, stirring often. Stir in ½ cup full-fat unsweetened canned coconut milk and simmer gently another 3–5 minutes. Thin with water, up to ½ cup, only if needed.
 
-6. **Silky finish.** Remove cardamom, cinnamon, cloves, bay and serrano. Strain for a silky texture if desired. On low heat or off heat stir in ½ cup heavy cream, remaining 1 Tbsp butter, ½ tsp garam masala, ½ tsp crushed kasuri methi and 1 tsp sugar. Taste first; add up to ¼ tsp fine sea salt to start only if needed. Adjust sweetness or heat to taste; a few drops of lemon off heat can lift the richness. Keep warm without boiling.
+6. **Silky finish.** Remove cardamom, cinnamon, cloves, bay and serrano. Strain for a silky texture if desired. On low heat or off heat stir in ¼ cup heavy cream, remaining 1 Tbsp butter, ½ tsp garam masala and ½ tsp crushed kasuri methi. Taste, then stir in 1 tsp sugar; add another ½ tsp at a time, up to 2 tsp total as a starting target for Don’s slightly sweeter preference. Taste first; add up to ¼ tsp fine sea salt to start only if needed. Adjust sweetness or heat to taste; a few drops of lemon off heat can lift the richness. Keep warm without boiling.
 
 7. **Mix koftas.** Combine 1½ cups grated paneer, ½ cup cooled grated potato, 2½ Tbsp cornstarch, ½ tsp salt, ½–¾ tsp garam masala or ¼ tsp cardamom, optional 1 Tbsp each chopped cashews and raisins, 1 tsp ginger, 1–2 chopped deseeded green chiles or ½ tsp black pepper, and 1 Tbsp coriander leaves. Mix 2–3 minutes into a smooth nonsticky dough.
 
@@ -199,7 +200,7 @@ Homemade paneer optional: ½ gallon whole milk, 2–3 Tbsp lemon juice added gra
 
 ## Final Taste Target
 
-Savory first, then rich cashew cream, gentle onion sweetness, cardamom and a clean lingering spice. Pale beige gravy should coat a spoon, while crisp golden koftas stay tender inside.
+Savory first, then rich cashew-coconut cream, gently enhanced onion sweetness, cardamom and a clean lingering spice. Pale beige gravy should coat a spoon, while crisp golden koftas stay tender inside.
 
 ## Troubleshooting / Rescue Notes
 
@@ -226,12 +227,12 @@ The gravy can be made ahead and reheated gently; fry koftas just before serving.
 
 ## Final Verdict
 
-Awaiting the live test of the new gravy. Existing kofta recipe remains unchanged.
+November 13, 2026 live test: dinner was great. Amy used the coconut-milk variation; Don said a tad more sweetness would make it the best ever. Keep the tested coconut-cashew foundation and calibrate sugar to taste on the next cook. No numeric rating or Hall of Fame lock yet. Existing kofta recipe remains unchanged.
 
 <details>
 <summary>Flavor Architecture</summary>
 
-Pale golden onion and cashew body; regular chicken broth for savor and umami; cream and butter for silk; serrano and white pepper for heat; sugar and onion for sweetness; optional lemon for brightness; cardamom and whole spices for aroma.
+Pale golden onion and cashew body; regular chicken broth for savor and umami; coconut milk, cream and butter for silk; serrano and white pepper for heat; sugar and onion for sweetness; optional lemon for brightness; cardamom and whole spices for aroma.
 
 </details>
 
@@ -245,7 +246,7 @@ Compared the existing [Restaurant-Style Malai Kofta](restaurant-style-malai-koft
 <details>
 <summary>Testing Notes</summary>
 
-First live test planned for November 13, 2026. Rating pending; assess savory sweetness, pale color, heat and sauce volume.
+Live-cooked November 13, 2026. Coconut milk variation successful. Don requested a slightly sweeter gravy. The 1–2 tsp sugar target is the next refinement, not a measured amount confirmed from the first cook. Retest sweetness before canon lock.
 
 </details>
 
@@ -255,5 +256,6 @@ First live test planned for November 13, 2026. Rating pending; assess savory swe
 | Date | Change |
 |---|---|
 | 2026-11-13 | New test recipe; preserve original koftas and create Shahi Korma gravy. |
+| 2026-11-13 | Live test successful; adopt coconut milk and cream, reduce second broth addition, add sweetness calibration for Don. |
 
 </details>

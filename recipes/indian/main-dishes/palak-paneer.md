@@ -5,12 +5,12 @@ category: Main Dish
 status: Working Recipe
 difficulty: Project Meal
 prep_time: 45m
-cook_time: 25m
-total_time: 1h 10m, plus paneer if making homemade
+cook_time: 30–35m
+total_time: 1h 15–20m, plus paneer if making homemade
 servings: 6 servings
 measurement_status: documented
 
-rating_note: Flavorweaver format
+rating_note: Fabulous after live-cooked flavor upgrade on 2026-11-13; numeric rating pending
 repeat_worthy: true
 hall_of_fame_candidate: false
 hall_of_fame: false
@@ -36,24 +36,24 @@ pairs_well_with:
 
 required_components: []
 
-last_updated: 2026-06-19
+last_updated: 2026-11-13
 ---
 
 <!-- recipe-card:start -->
 
 # Palak Paneer
 
-> Fresh spinach curry with homemade whole-milk lemon paneer, pan-fried paneer cubes, soft onion-tomato spice base, curry powder to taste, cream, lemon, and a partial puree method that keeps the curry lush without turning it into a flat green sauce.
+> Fresh spinach curry with homemade whole-milk lemon paneer, pan-fried paneer cubes, soft onion-tomato spice base, curry powder to taste, garlic-ghee tadka, garam masala, kasuri methi, buttery cream, lemon, and a partial puree method that keeps the curry lush without turning it into a flat green sauce.
 
 ## Recipe Dashboard
 
 | Status | Total Time | Servings | Difficulty |
 |---|---:|---:|---|
-| Working Recipe | 1 hr 10 min, plus paneer if making homemade | 6 servings | Project Meal |
+| Working Recipe | 1 hr 15–20 min, plus paneer if making homemade | 6 servings | Project Meal |
 
 | Prep Time | Cook Time | Rating Note | Repeat Worthy |
 |---:|---:|---|---|
-| 45 min | 25 min | Flavorweaver format | Yes |
+| 45 min | 30–35 min | Fabulous after flavor upgrade; numeric rating pending | Yes |
 
 ## Ingredient List
 
@@ -64,7 +64,8 @@ last_updated: 2026-06-19
 | Curry Spice Base | Butter or ghee, onion, fenugreek seeds, cumin, coriander, curry powder, salt, black pepper |
 | Aromatics | Garlic, ginger, green chili |
 | Tomato Spinach Base | Tomatoes, fresh spinach, water |
-| Finish | Cream, lemon juice, pan-fried paneer |
+| Garlic-Ghee Tadka | Ghee, whole cumin seeds, garlic, black pepper, optional Kashmiri chili powder |
+| Finish | Cream, unsalted butter, garam masala, kasuri methi, lemon juice, pan-fried paneer |
 | Serve With | Basmati rice, naan, jeera rice |
 
 ## Measured Ingredients
@@ -113,8 +114,22 @@ last_updated: 2026-06-19
 |---:|---|---|
 | 1.4 lb | Fresh spinach leaves | About 9 cups tightly packed; washed well and roughly chopped |
 | 1/4 cup | Water | Helps spinach wilt and cook evenly |
-| 1/3 cup + 1 Tbsp | Cream | Pure, heavy, or thickened cream |
-| 1 Tbsp | Lemon juice | Add near the end |
+| 1/3 cup + 3 Tbsp | Cream | Original cream plus 2 Tbsp for the richer finish |
+| 1 Tbsp | Unsalted butter | Finish |
+| 1/2 tsp | Garam masala | Finish |
+| 1 tsp | Kasuri methi | Crush between palms |
+| Up to 1/4 tsp more | Kosher salt | Only after tasting |
+| 1 Tbsp, plus up to 1/2 tsp | Lemon juice | Finish off heat; extra only if needed |
+
+### Garlic-Ghee Tadka
+
+| Amount | Ingredient | Notes |
+|---:|---|---|
+| 1 Tbsp | Ghee | Heat separately |
+| 1/2 tsp | Whole cumin seeds | Bloom until fragrant |
+| 3 cloves | Garlic | Finely minced; cook lightly golden |
+| 1/4 tsp | Black pepper | Freshly ground; add off heat |
+| 1/2 tsp | Kashmiri chili powder | Optional; add off heat |
 
 ## Stage-Based Prep Bowls
 
@@ -144,7 +159,8 @@ last_updated: 2026-06-19
 | Bowl 3 — Garlic Ginger | 2 finely chopped garlic cloves; 2 tsp grated ginger | Add after onion softens. |
 | Bowl 4 — Tomato Chili | 2 peeled seeded diced tomatoes; 1 sliced green chili | Cook briefly before spinach. |
 | Bowl 5 — Spinach | 1.4 lb fresh spinach leaves, washed and roughly chopped | Add in batches so it fits the pot. |
-| Bowl 6 — Liquid Finish | 1/4 cup water; 1/3 cup + 1 Tbsp cream; 1 Tbsp lemon juice | Water helps wilt; cream and lemon finish the curry. |
+| Bowl 6 — Liquid Finish | 1/4 cup water only as needed; 1/3 cup + 3 Tbsp cream; 1 Tbsp butter; 1/2 tsp garam masala; 1 tsp crushed kasuri methi; up to 1/4 tsp additional kosher salt; 1 Tbsp lemon juice plus up to 1/2 tsp | Taste and adjust; add lemon off heat. |
+| Bowl 7 — Garlic-Ghee Tadka | 1 Tbsp ghee; 1/2 tsp whole cumin seeds; 3 minced garlic cloves; 1/4 tsp black pepper; optional 1/2 tsp Kashmiri chili powder | Bloom cumin, lightly golden garlic, then pepper and chili off heat. |
 
 ## Do Not Forget
 
@@ -154,8 +170,8 @@ last_updated: 2026-06-19
 - Add **curry powder to taste** with the dry spices so it blooms in the butter or ghee.
 - Cook onion until softened, not deeply browned.
 - Add spinach in batches and stir until wilted.
-- Cook the spinach curry for 10 minutes before adding cream and lemon.
-- Puree only about half the spinach mixture, then return it to the pot for texture.
+- Cook the spinach curry for 10 minutes; reduce uncovered another 5–8 minutes as needed before adding tadka and cream. Add lemon off heat.
+- Puree about three-quarters of the spinach mixture (or less for more texture), then return it to the pot.
 - Add pan-fried paneer gently at the end so it stays intact.
 - No nutrition panel is needed for this recipe card.
 
@@ -171,10 +187,10 @@ last_updated: 2026-06-19
 | 6 | **Add garlic and ginger.** Add **2 finely chopped garlic cloves** and **2 tsp grated ginger**. Cook **2 minutes**. |
 | 7 | **Add tomato and chili.** Add **2 peeled seeded diced tomatoes** and **1 sliced green chili**. Cook about **3 minutes** over medium heat. |
 | 8 | **Wilt spinach in batches.** Add about one-third of the **1.4 lb fresh spinach leaves** and stir until wilted. Repeat with remaining spinach. Add **1/4 cup water** if needed to help the spinach cook evenly. |
-| 9 | **Cook spinach curry.** Cook, stirring now and then, for **10 minutes** over medium heat. |
-| 10 | **Add cream and lemon.** Add **1/3 cup + 1 Tbsp cream** and **1 Tbsp lemon juice**. Cook gently for **3 minutes**. Taste and add a small pinch more curry powder only if the curry needs more warmth. |
-| 11 | **Puree half.** Remove about half of the spinach curry to a tall container and puree with a stick blender. Return the puree to the pot and stir to combine. |
-| 12 | **Add paneer.** Gently fold in the pan-fried paneer. Stir carefully so the paneer does not crumble. |
+| 9 | **Cook and concentrate spinach curry.** Cook, stirring now and then, for **10 minutes** over medium heat. Simmer uncovered another **5–8 minutes** as needed until excess liquid evaporates and tomatoes soften; taste for salt. |
+| 10 | **Tadka and restaurant finish.** In a small skillet heat **1 Tbsp ghee**, bloom **1/2 tsp whole cumin seeds**, then add **3 minced garlic cloves** and cook lightly golden. Turn off heat; stir in **1/4 tsp black pepper** and optional **1/2 tsp Kashmiri chili powder**. Pour into spinach. Add **1/2 tsp garam masala**, **1 tsp crushed kasuri methi**, **1 Tbsp butter** and **1/3 cup + 3 Tbsp cream**. Cook gently for 3 minutes; taste and add up to **1/4 tsp additional kosher salt** only if needed. |
+| 11 | **Partial puree.** Remove about three-quarters of the spinach curry to a tall container and puree with a stick blender. Return to the pot; retain some texture. |
+| 12 | **Add paneer and brighten.** Gently fold in pan-fried paneer and simmer 3–5 minutes. Turn off heat and stir in **1 Tbsp lemon juice**, then taste and add up to another **1/2 tsp** only if needed. |
 | 13 | **Serve.** Serve hot over basmati rice with Fluffy Skillet Naan on the side. |
 
 ## Building the Final Bowl or Plate
@@ -188,7 +204,7 @@ last_updated: 2026-06-19
 
 ## Final Taste Target
 
-The finished palak paneer should be creamy, spinach-forward, gently spiced, savory, lightly tangy, and fresh rather than heavy.
+The finished palak paneer should be creamy, spinach-forward, bold and garlicky, warmly spiced, savory, lightly tangy, and fresh rather than heavy.
 
 The paneer should be soft inside, lightly golden outside, and sturdy enough to stay intact when folded through the curry.
 
@@ -206,7 +222,7 @@ The paneer should be soft inside, lightly golden outside, and sturdy enough to s
 
 For the best texture, pan-fry the paneer and add it at the end rather than simmering it aggressively in the curry.
 
-The partial puree method gives the sauce body while keeping enough spinach texture to avoid a flat puree.
+The partial puree method gives the sauce body while keeping enough spinach texture to avoid a flat puree. The garlic-ghee tadka and final garam masala, kasuri methi, butter and cream make the spinach bold enough for the Amy & Don palate. November 13 live test: Amy reported it was fabulous with the changes discussed in chat. The amounts here preserve the recommended adjustment; optional chili and final salt/lemon remain to taste.
 
 <details>
 <summary>Change Log</summary>
@@ -215,5 +231,6 @@ The partial puree method gives the sauce body while keeping enough spinach textu
 |---|---|
 | 2026-06-19 | Added as a Flavorweaver Indian-inspired main dish using homemade whole-milk lemon paneer and Flavorweaver prep-bowl structure. |
 | 2026-06-19 | Added curry powder to taste in the spice base. |
+| 2026-11-13 | Live-cooked flavor upgrade: reduce, garlic-ghee tadka, kasuri methi, garam masala, buttery cream, lemon finish. Amy reported fabulous results. |
 
 </details>
